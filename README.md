@@ -1,17 +1,22 @@
 ### Hey 👋
 
-#### 👷 Check out what I'm currently working on
+#### 👷 My recent pull requests
 
-- [Kocal/blog](https://github.com/Kocal/blog) - My personal blog (today)
-- [Yproximite/WannaSpeakBundle](https://github.com/Yproximite/WannaSpeakBundle) - Communicate with Wannaspeak API (http://fr.wannaspeak.com/) (1 day ago)
-- [Yproximite/renovate-config](https://github.com/Yproximite/renovate-config) - Configuration Renovate globale pour nos projets. (4 days ago)
-- [Yproximite/auto-approve-and-merge-dependabot-action](https://github.com/Yproximite/auto-approve-and-merge-dependabot-action) - GitHub Actions for auto-approving and auto-merging Dependabot pull requests. (4 days ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - Symfony extension for PHPStan (6 days ago)
-- [symfony/ux](https://github.com/symfony/ux) - Symfony UX initiative: a new JavaScript ecosystem for Symfony (1 week ago)
-- [Yproximite/manala-recipes](https://github.com/Yproximite/manala-recipes) - Manala recipes for yProximite. (1 week ago)
-- [Kocal/eslint-config-generator](https://github.com/Kocal/eslint-config-generator) - An opinionated ESLint config generator for my projects. Comes with AirBnB, Vue, TypeScript and Prettier support.  (2 weeks ago)
-- [symfony/webpack-encore](https://github.com/symfony/webpack-encore) - A simple but powerful API for processing &amp; compiling assets built around Webpack (3 weeks ago)
-- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (3 weeks ago)
+- ![](./assets/pr-open.svg) [feat: add recent pull requests](https://github.com/muesli/markscribe/pull/28) on [muesli/markscribe](https://github.com/muesli/markscribe) (today)
+- ![](./assets/pr-open.svg) [Migrate codebase to TypeScript, close #323](https://github.com/FriendsOfSymfony/FOSJsRoutingBundle/pull/406) on [FriendsOfSymfony/FOSJsRoutingBundle](https://github.com/FriendsOfSymfony/FOSJsRoutingBundle) (2 days ago)
+- ![](./assets/pr-merged.svg) [fix(test:turbo): install doctrine/orm:~2.8.0 to prevent issue](https://github.com/symfony/ux/pull/92) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
+- ![](./assets/pr-merged.svg) [Migrate to GitHub-native Dependabot, re-introduce auto-merge](https://github.com/Yproximite/WannaSpeakBundle/pull/37) on [Yproximite/WannaSpeakBundle](https://github.com/Yproximite/WannaSpeakBundle) (2 days ago)
+- ![](./assets/pr-merged.svg) [Close #118](https://github.com/Kocal/blog/pull/120) on [Kocal/blog](https://github.com/Kocal/blog) (3 days ago)
+- ![](./assets/pr-merged.svg) [Localize posts and dates](https://github.com/Kocal/blog/pull/119) on [Kocal/blog](https://github.com/Kocal/blog) (3 days ago)
+- ![](./assets/pr-open.svg) [feat($plugin-last-updated): add &#34;$page.lastUpdatedTimestamp&#34;](https://github.com/vuejs/vuepress/pull/2843) on [vuejs/vuepress](https://github.com/vuejs/vuepress) (3 days ago)
+- ![](./assets/pr-merged.svg) [post: Migration to GitHub-native Dependabot, solutions for auto-merge and Action secrets](https://github.com/Kocal/blog/pull/116) on [Kocal/blog](https://github.com/Kocal/blog) (4 days ago)
+- ![](./assets/pr-merged.svg) [Dynamically type getters and hassers for parameters](https://github.com/phpstan/phpstan-symfony/pull/152) on [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (1 week ago)
+- ![](./assets/pr-merged.svg) [Lighthouse improvments](https://github.com/Kocal/blog/pull/115) on [Kocal/blog](https://github.com/Kocal/blog) (1 week ago)
+- ![](./assets/pr-merged.svg) [Add `link` utility to link Symfony UX packages to existing Symfony project](https://github.com/symfony/ux/pull/89) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
+- ![](./assets/pr-merged.svg) [post retours/migration stack dev](https://github.com/Kocal/blog/pull/112) on [Kocal/blog](https://github.com/Kocal/blog) (1 week ago)
+- ![](./assets/pr-merged.svg) [Post: &#34;Migration de notre stack de devéloppement&#34;](https://github.com/Kocal/blog/pull/111) on [Kocal/blog](https://github.com/Kocal/blog) (1 week ago)
+- ![](./assets/pr-merged.svg) [fix(yprox.app-docker): run the symfony proxy when running `make up`](https://github.com/Yproximite/manala-recipes/pull/22) on [Yproximite/manala-recipes](https://github.com/Yproximite/manala-recipes) (1 week ago)
+- ![](./assets/pr-open.svg) [feat(twig): implements stimulus_action() and stimulus_target() Twig functions, close #119](https://github.com/symfony/webpack-encore-bundle/pull/124) on [symfony/webpack-encore-bundle](https://github.com/symfony/webpack-encore-bundle) (1 week ago)
 
 #### 📜 My recent blog posts
 
