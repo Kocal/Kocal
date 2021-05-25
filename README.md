@@ -2,10 +2,10 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [Move from eslint-loader to eslint-webpack-plugin, close #847](https://github.com/symfony/webpack-encore/pull/985) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 day ago)
-- ![](./assets/pr-open.svg) [doc: stimulus_action() and stimulus_target()](https://github.com/symfony/webpack-encore-bundle/pull/125) on [symfony/webpack-encore-bundle](https://github.com/symfony/webpack-encore-bundle) (5 days ago)
-- ![](./assets/pr-open.svg) [feat: drop fos-ts-router js deps for using typescript types from FoSJSRoutingBundle](https://github.com/Kocal/symfony-app-template/pull/486) on [Kocal/symfony-app-template](https://github.com/Kocal/symfony-app-template) (5 days ago)
-- ![](./assets/pr-merged.svg) [Maintenance](https://github.com/Kocal/symfony-app-template/pull/477) on [Kocal/symfony-app-template](https://github.com/Kocal/symfony-app-template) (6 days ago)
+- ![](./assets/pr-open.svg) [Move from eslint-loader to eslint-webpack-plugin, close #847](https://github.com/symfony/webpack-encore/pull/985) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (2 days ago)
+- ![](./assets/pr-open.svg) [doc: stimulus_action() and stimulus_target()](https://github.com/symfony/webpack-encore-bundle/pull/125) on [symfony/webpack-encore-bundle](https://github.com/symfony/webpack-encore-bundle) (6 days ago)
+- ![](./assets/pr-open.svg) [feat: drop fos-ts-router js deps for using typescript types from FoSJSRoutingBundle](https://github.com/Kocal/symfony-app-template/pull/486) on [Kocal/symfony-app-template](https://github.com/Kocal/symfony-app-template) (6 days ago)
+- ![](./assets/pr-merged.svg) [Maintenance](https://github.com/Kocal/symfony-app-template/pull/477) on [Kocal/symfony-app-template](https://github.com/Kocal/symfony-app-template) (1 week ago)
 - ![](./assets/pr-merged.svg) [chore: Use the latest PHPUnit wherever possible](https://github.com/phpstan/phpdoc-parser/pull/76) on [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 week ago)
 - ![](./assets/pr-merged.svg) [chore: Use the latest PHPUnit wherever possible, use PHP 8.0 for PHPCS](https://github.com/phpstan/phpstan-phpunit/pull/97) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
 - ![](./assets/pr-merged.svg) [chore: Use the latest PHPUnit wherever possible, use PHP 8.0 for PHPCS](https://github.com/phpstan/phpstan-deprecation-rules/pull/39) on [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (1 week ago)
@@ -30,7 +30,7 @@
 
 #### 📜 My recent blog posts
 
-- [Migration to GitHub-native Dependabot: solutions for auto-merge and Action secrets](https://hugo.alliau.me/2021/05/04/migration-to-github-native-dependabot-solutions-for-auto-merge-and-action-secrets/) (2 weeks ago)
+- [Migration to GitHub-native Dependabot: solutions for auto-merge and Action secrets](https://hugo.alliau.me/2021/05/04/migration-to-github-native-dependabot-solutions-for-auto-merge-and-action-secrets/) (3 weeks ago)
 - [Migration de notre stack de développement vers Docker](https://hugo.alliau.me/2021/04/26/migration-stack-developpement/) (4 weeks ago)
 - [Generate PDFs on Amazon AWS with PHP and Puppeteer: The Best Way](https://hugo.alliau.me/2020/04/21/generate-pdfs-on-amazon-aws-with-php-and-puppeteer-the-best-way/) (1 year ago)
 - [Generate PDFs on Amazon AWS with PHP and Puppeteer](https://hugo.alliau.me/2020/01/02/generate-pdfs-on-amazon-aws-with-php-and-puppeteer/) (1 year ago)
