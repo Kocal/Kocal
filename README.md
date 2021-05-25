@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [Migrate to Vue 3](https://github.com/Kocal/symfony-app-template/pull/487) on [Kocal/symfony-app-template](https://github.com/Kocal/symfony-app-template) (today)
 - ![](./assets/pr-open.svg) [Move from eslint-loader to eslint-webpack-plugin, close #847](https://github.com/symfony/webpack-encore/pull/985) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (2 days ago)
 - ![](./assets/pr-open.svg) [doc: stimulus_action() and stimulus_target()](https://github.com/symfony/webpack-encore-bundle/pull/125) on [symfony/webpack-encore-bundle](https://github.com/symfony/webpack-encore-bundle) (6 days ago)
 - ![](./assets/pr-open.svg) [feat: drop fos-ts-router js deps for using typescript types from FoSJSRoutingBundle](https://github.com/Kocal/symfony-app-template/pull/486) on [Kocal/symfony-app-template](https://github.com/Kocal/symfony-app-template) (6 days ago)
@@ -26,7 +27,6 @@
 - ![](./assets/pr-merged.svg) [Drop Phing for Makefile](https://github.com/phpstan/phpstan-dibi/pull/11) on [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (1 week ago)
 - ![](./assets/pr-merged.svg) [Drop Phing for Makefile](https://github.com/phpstan/phpstan-mockery/pull/30) on [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (1 week ago)
 - ![](./assets/pr-merged.svg) [Drop Phing for Makefile](https://github.com/phpstan/extension-installer/pull/32) on [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (1 week ago)
-- ![](./assets/pr-merged.svg) [Drop Phing for Makefile](https://github.com/phpstan/phpstan-php-parser/pull/9) on [phpstan/phpstan-php-parser](https://github.com/phpstan/phpstan-php-parser) (1 week ago)
 
 #### 📜 My recent blog posts
 
