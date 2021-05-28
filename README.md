@@ -2,9 +2,9 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [Add Rector](https://github.com/Kocal/symfony-app-template/pull/498) on [Kocal/symfony-app-template](https://github.com/Kocal/symfony-app-template) (1 day ago)
-- ![](./assets/pr-merged.svg) [Migrate to Vue 3](https://github.com/Kocal/symfony-app-template/pull/487) on [Kocal/symfony-app-template](https://github.com/Kocal/symfony-app-template) (2 days ago)
-- ![](./assets/pr-open.svg) [Move from eslint-loader to eslint-webpack-plugin, close #847](https://github.com/symfony/webpack-encore/pull/985) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (4 days ago)
+- ![](./assets/pr-merged.svg) [Add Rector](https://github.com/Kocal/symfony-app-template/pull/498) on [Kocal/symfony-app-template](https://github.com/Kocal/symfony-app-template) (2 days ago)
+- ![](./assets/pr-merged.svg) [Migrate to Vue 3](https://github.com/Kocal/symfony-app-template/pull/487) on [Kocal/symfony-app-template](https://github.com/Kocal/symfony-app-template) (3 days ago)
+- ![](./assets/pr-open.svg) [Move from eslint-loader to eslint-webpack-plugin, close #847](https://github.com/symfony/webpack-encore/pull/985) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (5 days ago)
 - ![](./assets/pr-open.svg) [doc: stimulus_action() and stimulus_target()](https://github.com/symfony/webpack-encore-bundle/pull/125) on [symfony/webpack-encore-bundle](https://github.com/symfony/webpack-encore-bundle) (1 week ago)
 - ![](./assets/pr-open.svg) [feat: drop fos-ts-router js deps for using typescript types from FoSJSRoutingBundle](https://github.com/Kocal/symfony-app-template/pull/486) on [Kocal/symfony-app-template](https://github.com/Kocal/symfony-app-template) (1 week ago)
 - ![](./assets/pr-merged.svg) [Maintenance](https://github.com/Kocal/symfony-app-template/pull/477) on [Kocal/symfony-app-template](https://github.com/Kocal/symfony-app-template) (1 week ago)
@@ -21,12 +21,12 @@
 - ![](./assets/pr-merged.svg) [chore: Use the latest PHPUnit wherever possible, use PHP 8.0 for PHPCS](https://github.com/phpstan/phpstan-beberlei-assert/pull/23) on [phpstan/phpstan-beberlei-assert](https://github.com/phpstan/phpstan-beberlei-assert) (1 week ago)
 - ![](./assets/pr-merged.svg) [chore: Use the latest PHPUnit wherever possible, use PHP 8.0 for PHPCS](https://github.com/phpstan/phpstan-doctrine/pull/186) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 week ago)
 - ![](./assets/pr-merged.svg) [chore: Use the latest PHPUnit wherever possible](https://github.com/phpstan/phpstan-symfony/pull/162) on [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (1 week ago)
-- ![](./assets/pr-merged.svg) [Drop Phing for Makefile](https://github.com/phpstan/phpdoc-parser/pull/75) on [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 week ago)
-- ![](./assets/pr-merged.svg) [Drop Phing for Makefile](https://github.com/phpstan/phpstan-deprecation-rules/pull/38) on [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (1 week ago)
-- ![](./assets/pr-merged.svg) [Drop Phing for Makefile](https://github.com/phpstan/phpstan-phpunit/pull/96) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
-- ![](./assets/pr-merged.svg) [Drop Phing for Makefile](https://github.com/phpstan/phpstan-nette/pull/67) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 week ago)
-- ![](./assets/pr-merged.svg) [Drop Phing for Makefile](https://github.com/phpstan/phpstan-dibi/pull/11) on [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (1 week ago)
-- ![](./assets/pr-merged.svg) [Drop Phing for Makefile](https://github.com/phpstan/phpstan-mockery/pull/30) on [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (1 week ago)
+- ![](./assets/pr-merged.svg) [Drop Phing for Makefile](https://github.com/phpstan/phpdoc-parser/pull/75) on [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 weeks ago)
+- ![](./assets/pr-merged.svg) [Drop Phing for Makefile](https://github.com/phpstan/phpstan-deprecation-rules/pull/38) on [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (2 weeks ago)
+- ![](./assets/pr-merged.svg) [Drop Phing for Makefile](https://github.com/phpstan/phpstan-phpunit/pull/96) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 weeks ago)
+- ![](./assets/pr-merged.svg) [Drop Phing for Makefile](https://github.com/phpstan/phpstan-nette/pull/67) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (2 weeks ago)
+- ![](./assets/pr-merged.svg) [Drop Phing for Makefile](https://github.com/phpstan/phpstan-dibi/pull/11) on [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (2 weeks ago)
+- ![](./assets/pr-merged.svg) [Drop Phing for Makefile](https://github.com/phpstan/phpstan-mockery/pull/30) on [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
