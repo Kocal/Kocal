@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [refactor: remove SymfonyMailerAssertionsTrait for the Symfony&#39;s MailerAssertionsTrait](https://github.com/Kocal/SymfonyMailerTesting/pull/24) on [Kocal/SymfonyMailerTesting](https://github.com/Kocal/SymfonyMailerTesting) (today)
 - ![](./assets/pr-merged.svg) [Add Rector](https://github.com/Kocal/symfony-app-template/pull/498) on [Kocal/symfony-app-template](https://github.com/Kocal/symfony-app-template) (3 days ago)
 - ![](./assets/pr-merged.svg) [Migrate to Vue 3](https://github.com/Kocal/symfony-app-template/pull/487) on [Kocal/symfony-app-template](https://github.com/Kocal/symfony-app-template) (4 days ago)
 - ![](./assets/pr-open.svg) [Move from eslint-loader to eslint-webpack-plugin, close #847](https://github.com/symfony/webpack-encore/pull/985) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (6 days ago)
@@ -26,7 +27,6 @@
 - ![](./assets/pr-merged.svg) [Drop Phing for Makefile](https://github.com/phpstan/phpstan-phpunit/pull/96) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Drop Phing for Makefile](https://github.com/phpstan/phpstan-nette/pull/67) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Drop Phing for Makefile](https://github.com/phpstan/phpstan-dibi/pull/11) on [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [Drop Phing for Makefile](https://github.com/phpstan/phpstan-mockery/pull/30) on [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
