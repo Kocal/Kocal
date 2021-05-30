@@ -1,7 +1,7 @@
 ### Hey 👋
 
 #### 👷 My recent pull requests
-{{range recentPullRequests 25}}
+{{range recentPullRequests 15}}
 - ![](./assets/pr-{{ .State | toLower }}.svg) [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
