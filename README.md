@@ -2,7 +2,7 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [chore: update JS deps](https://github.com/Kocal/SymfonyMailerTesting/pull/26) on [Kocal/SymfonyMailerTesting](https://github.com/Kocal/SymfonyMailerTesting) (today)
+- ![](./assets/pr-merged.svg) [chore: update JS deps](https://github.com/Kocal/SymfonyMailerTesting/pull/26) on [Kocal/SymfonyMailerTesting](https://github.com/Kocal/SymfonyMailerTesting) (today)
 - ![](./assets/pr-merged.svg) [chore(deps): update PHP-CS-Fixer to ^3.0](https://github.com/Kocal/SymfonyMailerTesting/pull/25) on [Kocal/SymfonyMailerTesting](https://github.com/Kocal/SymfonyMailerTesting) (today)
 - ![](./assets/pr-merged.svg) [refactor: remove SymfonyMailerAssertionsTrait for the Symfony&#39;s MailerAssertionsTrait](https://github.com/Kocal/SymfonyMailerTesting/pull/24) on [Kocal/SymfonyMailerTesting](https://github.com/Kocal/SymfonyMailerTesting) (1 day ago)
 - ![](./assets/pr-merged.svg) [Add Rector](https://github.com/Kocal/symfony-app-template/pull/498) on [Kocal/symfony-app-template](https://github.com/Kocal/symfony-app-template) (4 days ago)
