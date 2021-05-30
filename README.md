@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-merged.svg) [feat(behat): add &#34;I debug this email&#34; step, close #10](https://github.com/Kocal/SymfonyMailerTesting/pull/27) on [Kocal/SymfonyMailerTesting](https://github.com/Kocal/SymfonyMailerTesting) (today)
 - ![](./assets/pr-merged.svg) [chore: update JS deps](https://github.com/Kocal/SymfonyMailerTesting/pull/26) on [Kocal/SymfonyMailerTesting](https://github.com/Kocal/SymfonyMailerTesting) (today)
 - ![](./assets/pr-merged.svg) [chore(deps): update PHP-CS-Fixer to ^3.0](https://github.com/Kocal/SymfonyMailerTesting/pull/25) on [Kocal/SymfonyMailerTesting](https://github.com/Kocal/SymfonyMailerTesting) (today)
 - ![](./assets/pr-merged.svg) [refactor: remove SymfonyMailerAssertionsTrait for the Symfony&#39;s MailerAssertionsTrait](https://github.com/Kocal/SymfonyMailerTesting/pull/24) on [Kocal/SymfonyMailerTesting](https://github.com/Kocal/SymfonyMailerTesting) (1 day ago)
@@ -16,17 +17,6 @@
 - ![](./assets/pr-merged.svg) [chore: Use the latest PHPUnit wherever possible, use PHP 8.0 for PHPCS](https://github.com/phpstan/phpstan-deprecation-rules/pull/39) on [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [chore: Use the latest PHPUnit wherever possible, use PHP 8.0 for PHPCS](https://github.com/phpstan/phpstan-nette/pull/68) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [chore: Use the latest PHPUnit wherever possible, use PHP 8.0 for PHPCS](https://github.com/phpstan/phpstan-mockery/pull/31) on [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [chore: Use the latest PHPUnit wherever possible, use PHP 8.0 for PHPCS](https://github.com/phpstan/phpstan-dibi/pull/12) on [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [chore: use PHP 8.0 for PHPCS](https://github.com/phpstan/extension-installer/pull/33) on [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [chore: Use the latest PHPUnit wherever possible, use PHP 8.0 for PHPCS](https://github.com/phpstan/phpstan-php-parser/pull/10) on [phpstan/phpstan-php-parser](https://github.com/phpstan/phpstan-php-parser) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [chore: Use the latest PHPUnit wherever possible, use PHP 8.0 for PHPCS](https://github.com/phpstan/phpstan-webmozart-assert/pull/48) on [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [chore: Use the latest PHPUnit wherever possible, use PHP 8.0 for PHPCS](https://github.com/phpstan/phpstan-strict-rules/pull/126) on [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [chore: Use the latest PHPUnit wherever possible, use PHP 8.0 for PHPCS](https://github.com/phpstan/phpstan-beberlei-assert/pull/23) on [phpstan/phpstan-beberlei-assert](https://github.com/phpstan/phpstan-beberlei-assert) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [chore: Use the latest PHPUnit wherever possible, use PHP 8.0 for PHPCS](https://github.com/phpstan/phpstan-doctrine/pull/186) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [chore: Use the latest PHPUnit wherever possible](https://github.com/phpstan/phpstan-symfony/pull/162) on [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [Drop Phing for Makefile](https://github.com/phpstan/phpdoc-parser/pull/75) on [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [Drop Phing for Makefile](https://github.com/phpstan/phpstan-deprecation-rules/pull/38) on [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [Drop Phing for Makefile](https://github.com/phpstan/phpstan-phpunit/pull/96) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
