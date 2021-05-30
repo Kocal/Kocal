@@ -2,7 +2,8 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [chore(deps): update PHP-CS-Fixer to ^3.0](https://github.com/Kocal/SymfonyMailerTesting/pull/25) on [Kocal/SymfonyMailerTesting](https://github.com/Kocal/SymfonyMailerTesting) (today)
+- ![](./assets/pr-open.svg) [chore: update JS deps](https://github.com/Kocal/SymfonyMailerTesting/pull/26) on [Kocal/SymfonyMailerTesting](https://github.com/Kocal/SymfonyMailerTesting) (today)
+- ![](./assets/pr-merged.svg) [chore(deps): update PHP-CS-Fixer to ^3.0](https://github.com/Kocal/SymfonyMailerTesting/pull/25) on [Kocal/SymfonyMailerTesting](https://github.com/Kocal/SymfonyMailerTesting) (today)
 - ![](./assets/pr-merged.svg) [refactor: remove SymfonyMailerAssertionsTrait for the Symfony&#39;s MailerAssertionsTrait](https://github.com/Kocal/SymfonyMailerTesting/pull/24) on [Kocal/SymfonyMailerTesting](https://github.com/Kocal/SymfonyMailerTesting) (1 day ago)
 - ![](./assets/pr-merged.svg) [Add Rector](https://github.com/Kocal/symfony-app-template/pull/498) on [Kocal/symfony-app-template](https://github.com/Kocal/symfony-app-template) (4 days ago)
 - ![](./assets/pr-merged.svg) [Migrate to Vue 3](https://github.com/Kocal/symfony-app-template/pull/487) on [Kocal/symfony-app-template](https://github.com/Kocal/symfony-app-template) (5 days ago)
@@ -26,7 +27,6 @@
 - ![](./assets/pr-merged.svg) [Drop Phing for Makefile](https://github.com/phpstan/phpdoc-parser/pull/75) on [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Drop Phing for Makefile](https://github.com/phpstan/phpstan-deprecation-rules/pull/38) on [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Drop Phing for Makefile](https://github.com/phpstan/phpstan-phpunit/pull/96) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [Drop Phing for Makefile](https://github.com/phpstan/phpstan-nette/pull/67) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
