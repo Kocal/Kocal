@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-merged.svg) [chore: require symfony/psr7-pack but remove it in CI](https://github.com/Kocal/SymfonyMailerTesting/pull/28) on [Kocal/SymfonyMailerTesting](https://github.com/Kocal/SymfonyMailerTesting) (today)
 - ![](./assets/pr-merged.svg) [feat(behat): add &#34;I debug this email&#34; step, close #10](https://github.com/Kocal/SymfonyMailerTesting/pull/27) on [Kocal/SymfonyMailerTesting](https://github.com/Kocal/SymfonyMailerTesting) (1 day ago)
 - ![](./assets/pr-merged.svg) [chore: update JS deps](https://github.com/Kocal/SymfonyMailerTesting/pull/26) on [Kocal/SymfonyMailerTesting](https://github.com/Kocal/SymfonyMailerTesting) (1 day ago)
 - ![](./assets/pr-merged.svg) [chore(deps): update PHP-CS-Fixer to ^3.0](https://github.com/Kocal/SymfonyMailerTesting/pull/25) on [Kocal/SymfonyMailerTesting](https://github.com/Kocal/SymfonyMailerTesting) (1 day ago)
@@ -16,7 +17,6 @@
 - ![](./assets/pr-merged.svg) [chore: Use the latest PHPUnit wherever possible, use PHP 8.0 for PHPCS](https://github.com/phpstan/phpstan-phpunit/pull/97) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [chore: Use the latest PHPUnit wherever possible, use PHP 8.0 for PHPCS](https://github.com/phpstan/phpstan-deprecation-rules/pull/39) on [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [chore: Use the latest PHPUnit wherever possible, use PHP 8.0 for PHPCS](https://github.com/phpstan/phpstan-nette/pull/68) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [chore: Use the latest PHPUnit wherever possible, use PHP 8.0 for PHPCS](https://github.com/phpstan/phpstan-mockery/pull/31) on [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
