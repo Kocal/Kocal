@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [Upgrade dependencies](https://github.com/Kocal/symfony-app-template/pull/514) on [Kocal/symfony-app-template](https://github.com/Kocal/symfony-app-template) (today)
 - ![](./assets/pr-merged.svg) [chore(dependabot): remove myself from default reviewers](https://github.com/Yproximite/webpack-encore-pack/pull/116) on [Yproximite/webpack-encore-pack](https://github.com/Yproximite/webpack-encore-pack) (1 day ago)
 - ![](./assets/pr-merged.svg) [Upgrade to Symfony 5.3, playing with Rector](https://github.com/Kocal/symfony-app-template/pull/506) on [Kocal/symfony-app-template](https://github.com/Kocal/symfony-app-template) (1 day ago)
 - ![](./assets/pr-merged.svg) [Mise à jour des dépendances](https://github.com/Kocal/symfony-app-template/pull/505) on [Kocal/symfony-app-template](https://github.com/Kocal/symfony-app-template) (1 day ago)
@@ -16,7 +17,6 @@
 - ![](./assets/pr-open.svg) [doc: stimulus_action() and stimulus_target()](https://github.com/symfony/webpack-encore-bundle/pull/125) on [symfony/webpack-encore-bundle](https://github.com/symfony/webpack-encore-bundle) (2 weeks ago)
 - ![](./assets/pr-open.svg) [feat: drop fos-ts-router js deps for using typescript types from FoSJSRoutingBundle](https://github.com/Kocal/symfony-app-template/pull/486) on [Kocal/symfony-app-template](https://github.com/Kocal/symfony-app-template) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Maintenance](https://github.com/Kocal/symfony-app-template/pull/477) on [Kocal/symfony-app-template](https://github.com/Kocal/symfony-app-template) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [chore: Use the latest PHPUnit wherever possible](https://github.com/phpstan/phpdoc-parser/pull/76) on [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
