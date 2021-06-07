@@ -2,7 +2,7 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [doc: change step id to `dependabot-metadata`](https://github.com/dependabot/fetch-metadata/pull/23) on [dependabot/fetch-metadata](https://github.com/dependabot/fetch-metadata) (1 day ago)
+- ![](./assets/pr-merged.svg) [doc: change step id to `dependabot-metadata`](https://github.com/dependabot/fetch-metadata/pull/23) on [dependabot/fetch-metadata](https://github.com/dependabot/fetch-metadata) (1 day ago)
 - ![](./assets/pr-merged.svg) [feat(ci): auto-approve and auto-merge Dependabot PR](https://github.com/Kocal/symfony-app-template/pull/519) on [Kocal/symfony-app-template](https://github.com/Kocal/symfony-app-template) (1 day ago)
 - ![](./assets/pr-open.svg) [Allow ts-loader ^9.0.0, close #993](https://github.com/symfony/webpack-encore/pull/1000) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (4 days ago)
 - ![](./assets/pr-open.svg) [Allow sass-loader ^12.0.0, close #996](https://github.com/symfony/webpack-encore/pull/999) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (4 days ago)
