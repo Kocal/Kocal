@@ -2,6 +2,9 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [feat(symfony-app:docker-hybrid): add RabbitMQ support](https://github.com/wamiz/manala-recipes/pull/2) on [wamiz/manala-recipes](https://github.com/wamiz/manala-recipes) (today)
+- ![](./assets/pr-merged.svg) [feat(symfony-app.docker-hybrid): add MailCatcher](https://github.com/wamiz/manala-recipes/pull/1) on [wamiz/manala-recipes](https://github.com/wamiz/manala-recipes) (today)
+- ![](./assets/pr-open.svg) [[Symfony CLI] Docker integration and MailCatcher prefix](https://github.com/symfony/symfony-docs/pull/15424) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - ![](./assets/pr-open.svg) [feat: Vue 3.1](https://github.com/Kocal/symfony-app-template/pull/531) on [Kocal/symfony-app-template](https://github.com/Kocal/symfony-app-template) (1 day ago)
 - ![](./assets/pr-merged.svg) [doc: change step id to `dependabot-metadata`](https://github.com/dependabot/fetch-metadata/pull/23) on [dependabot/fetch-metadata](https://github.com/dependabot/fetch-metadata) (2 days ago)
 - ![](./assets/pr-merged.svg) [feat(ci): auto-approve and auto-merge Dependabot PR](https://github.com/Kocal/symfony-app-template/pull/519) on [Kocal/symfony-app-template](https://github.com/Kocal/symfony-app-template) (2 days ago)
@@ -14,9 +17,6 @@
 - ![](./assets/pr-merged.svg) [Mise à jour des dépendances](https://github.com/Kocal/symfony-app-template/pull/505) on [Kocal/symfony-app-template](https://github.com/Kocal/symfony-app-template) (1 week ago)
 - ![](./assets/pr-merged.svg) [chore: require symfony/psr7-pack but remove it in CI](https://github.com/Kocal/SymfonyMailerTesting/pull/28) on [Kocal/SymfonyMailerTesting](https://github.com/Kocal/SymfonyMailerTesting) (1 week ago)
 - ![](./assets/pr-merged.svg) [feat(behat): add &#34;I debug this email&#34; step, close #10](https://github.com/Kocal/SymfonyMailerTesting/pull/27) on [Kocal/SymfonyMailerTesting](https://github.com/Kocal/SymfonyMailerTesting) (1 week ago)
-- ![](./assets/pr-merged.svg) [chore: update JS deps](https://github.com/Kocal/SymfonyMailerTesting/pull/26) on [Kocal/SymfonyMailerTesting](https://github.com/Kocal/SymfonyMailerTesting) (1 week ago)
-- ![](./assets/pr-merged.svg) [chore(deps): update PHP-CS-Fixer to ^3.0](https://github.com/Kocal/SymfonyMailerTesting/pull/25) on [Kocal/SymfonyMailerTesting](https://github.com/Kocal/SymfonyMailerTesting) (1 week ago)
-- ![](./assets/pr-merged.svg) [refactor: remove SymfonyMailerAssertionsTrait for the Symfony&#39;s MailerAssertionsTrait](https://github.com/Kocal/SymfonyMailerTesting/pull/24) on [Kocal/SymfonyMailerTesting](https://github.com/Kocal/SymfonyMailerTesting) (1 week ago)
 
 #### 📜 My recent blog posts
 
