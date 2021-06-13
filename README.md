@@ -2,13 +2,13 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [refactor(symfony-app.docker-hybrid:makefile): change setup/halt/destroy tasks to install/stop/down](https://github.com/wamiz/manala-recipes/pull/3) on [wamiz/manala-recipes](https://github.com/wamiz/manala-recipes) (2 days ago)
-- ![](./assets/pr-merged.svg) [feat(symfony-app:docker-hybrid): add RabbitMQ support](https://github.com/wamiz/manala-recipes/pull/2) on [wamiz/manala-recipes](https://github.com/wamiz/manala-recipes) (4 days ago)
-- ![](./assets/pr-merged.svg) [feat(symfony-app.docker-hybrid): add MailCatcher](https://github.com/wamiz/manala-recipes/pull/1) on [wamiz/manala-recipes](https://github.com/wamiz/manala-recipes) (4 days ago)
-- ![](./assets/pr-open.svg) [[Symfony CLI] Docker integration and MailCatcher prefix](https://github.com/symfony/symfony-docs/pull/15424) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 days ago)
-- ![](./assets/pr-open.svg) [feat: Vue 3.1](https://github.com/Kocal/symfony-app-template/pull/531) on [Kocal/symfony-app-template](https://github.com/Kocal/symfony-app-template) (5 days ago)
-- ![](./assets/pr-merged.svg) [doc: change step id to `dependabot-metadata`](https://github.com/dependabot/fetch-metadata/pull/23) on [dependabot/fetch-metadata](https://github.com/dependabot/fetch-metadata) (6 days ago)
-- ![](./assets/pr-merged.svg) [feat(ci): auto-approve and auto-merge Dependabot PR](https://github.com/Kocal/symfony-app-template/pull/519) on [Kocal/symfony-app-template](https://github.com/Kocal/symfony-app-template) (6 days ago)
+- ![](./assets/pr-merged.svg) [refactor(symfony-app.docker-hybrid:makefile): change setup/halt/destroy tasks to install/stop/down](https://github.com/wamiz/manala-recipes/pull/3) on [wamiz/manala-recipes](https://github.com/wamiz/manala-recipes) (3 days ago)
+- ![](./assets/pr-merged.svg) [feat(symfony-app:docker-hybrid): add RabbitMQ support](https://github.com/wamiz/manala-recipes/pull/2) on [wamiz/manala-recipes](https://github.com/wamiz/manala-recipes) (5 days ago)
+- ![](./assets/pr-merged.svg) [feat(symfony-app.docker-hybrid): add MailCatcher](https://github.com/wamiz/manala-recipes/pull/1) on [wamiz/manala-recipes](https://github.com/wamiz/manala-recipes) (5 days ago)
+- ![](./assets/pr-open.svg) [[Symfony CLI] Docker integration and MailCatcher prefix](https://github.com/symfony/symfony-docs/pull/15424) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (5 days ago)
+- ![](./assets/pr-open.svg) [feat: Vue 3.1](https://github.com/Kocal/symfony-app-template/pull/531) on [Kocal/symfony-app-template](https://github.com/Kocal/symfony-app-template) (6 days ago)
+- ![](./assets/pr-merged.svg) [doc: change step id to `dependabot-metadata`](https://github.com/dependabot/fetch-metadata/pull/23) on [dependabot/fetch-metadata](https://github.com/dependabot/fetch-metadata) (1 week ago)
+- ![](./assets/pr-merged.svg) [feat(ci): auto-approve and auto-merge Dependabot PR](https://github.com/Kocal/symfony-app-template/pull/519) on [Kocal/symfony-app-template](https://github.com/Kocal/symfony-app-template) (1 week ago)
 - ![](./assets/pr-merged.svg) [Allow ts-loader ^9.0.0, close #993](https://github.com/symfony/webpack-encore/pull/1000) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 week ago)
 - ![](./assets/pr-merged.svg) [Allow sass-loader ^12.0.0, close #996](https://github.com/symfony/webpack-encore/pull/999) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 week ago)
 - ![](./assets/pr-merged.svg) [chore: update Symfony recipes](https://github.com/Kocal/symfony-app-template/pull/518) on [Kocal/symfony-app-template](https://github.com/Kocal/symfony-app-template) (1 week ago)
