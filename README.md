@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [doc(config): change set&#39;s name](https://github.com/FriendsOfPHP/PHP-CS-Fixer/pull/5771) on [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) (today)
 - ![](./assets/pr-merged.svg) [feat(symfony-app.docker-hybrid): migrate from MySQL to MariaDB](https://github.com/wamiz/manala-recipes/pull/5) on [wamiz/manala-recipes](https://github.com/wamiz/manala-recipes) (1 day ago)
 - ![](./assets/pr-merged.svg) [refactor(symfony-app.docker-hybrid:makefile): change setup/halt/destroy tasks to install/stop/down](https://github.com/wamiz/manala-recipes/pull/3) on [wamiz/manala-recipes](https://github.com/wamiz/manala-recipes) (5 days ago)
 - ![](./assets/pr-merged.svg) [feat(symfony-app:docker-hybrid): add RabbitMQ support](https://github.com/wamiz/manala-recipes/pull/2) on [wamiz/manala-recipes](https://github.com/wamiz/manala-recipes) (1 week ago)
@@ -16,7 +17,6 @@
 - ![](./assets/pr-merged.svg) [Upgrade dependencies](https://github.com/Kocal/symfony-app-template/pull/514) on [Kocal/symfony-app-template](https://github.com/Kocal/symfony-app-template) (1 week ago)
 - ![](./assets/pr-merged.svg) [chore(dependabot): remove myself from default reviewers](https://github.com/Yproximite/webpack-encore-pack/pull/116) on [Yproximite/webpack-encore-pack](https://github.com/Yproximite/webpack-encore-pack) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Upgrade to Symfony 5.3, playing with Rector](https://github.com/Kocal/symfony-app-template/pull/506) on [Kocal/symfony-app-template](https://github.com/Kocal/symfony-app-template) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [Mise à jour des dépendances](https://github.com/Kocal/symfony-app-template/pull/505) on [Kocal/symfony-app-template](https://github.com/Kocal/symfony-app-template) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
