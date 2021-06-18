@@ -2,8 +2,8 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [doc(config): change set&#39;s name](https://github.com/FriendsOfPHP/PHP-CS-Fixer/pull/5771) on [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) (2 days ago)
-- ![](./assets/pr-merged.svg) [feat(symfony-app.docker-hybrid): migrate from MySQL to MariaDB](https://github.com/wamiz/manala-recipes/pull/5) on [wamiz/manala-recipes](https://github.com/wamiz/manala-recipes) (3 days ago)
+- ![](./assets/pr-open.svg) [doc(config): change set&#39;s name](https://github.com/FriendsOfPHP/PHP-CS-Fixer/pull/5771) on [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) (3 days ago)
+- ![](./assets/pr-merged.svg) [feat(symfony-app.docker-hybrid): migrate from MySQL to MariaDB](https://github.com/wamiz/manala-recipes/pull/5) on [wamiz/manala-recipes](https://github.com/wamiz/manala-recipes) (4 days ago)
 - ![](./assets/pr-merged.svg) [refactor(symfony-app.docker-hybrid:makefile): change setup/halt/destroy tasks to install/stop/down](https://github.com/wamiz/manala-recipes/pull/3) on [wamiz/manala-recipes](https://github.com/wamiz/manala-recipes) (1 week ago)
 - ![](./assets/pr-merged.svg) [feat(symfony-app:docker-hybrid): add RabbitMQ support](https://github.com/wamiz/manala-recipes/pull/2) on [wamiz/manala-recipes](https://github.com/wamiz/manala-recipes) (1 week ago)
 - ![](./assets/pr-merged.svg) [feat(symfony-app.docker-hybrid): add MailCatcher](https://github.com/wamiz/manala-recipes/pull/1) on [wamiz/manala-recipes](https://github.com/wamiz/manala-recipes) (1 week ago)
