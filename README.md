@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [Allow Symfony 6](https://github.com/Kocal/Behat/pull/1) on [Kocal/Behat](https://github.com/Kocal/Behat) (today)
 - ![](./assets/pr-open.svg) [Allow Symfony 6](https://github.com/Behat/Behat/pull/1346) on [Behat/Behat](https://github.com/Behat/Behat) (1 day ago)
 - ![](./assets/pr-merged.svg) [Allow Symfony 6, fix issue with Symfony 5.3](https://github.com/Kocal/SymfonyMailerTesting/pull/29) on [Kocal/SymfonyMailerTesting](https://github.com/Kocal/SymfonyMailerTesting) (1 day ago)
 - ![](./assets/pr-merged.svg) [Update Symfony to 5.3.2](https://github.com/Kocal/symfony-app-template/pull/533) on [Kocal/symfony-app-template](https://github.com/Kocal/symfony-app-template) (1 day ago)
@@ -16,7 +17,6 @@
 - ![](./assets/pr-merged.svg) [doc: change step id to `dependabot-metadata`](https://github.com/dependabot/fetch-metadata/pull/23) on [dependabot/fetch-metadata](https://github.com/dependabot/fetch-metadata) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [feat(ci): auto-approve and auto-merge Dependabot PR](https://github.com/Kocal/symfony-app-template/pull/519) on [Kocal/symfony-app-template](https://github.com/Kocal/symfony-app-template) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Allow ts-loader ^9.0.0, close #993](https://github.com/symfony/webpack-encore/pull/1000) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [Allow sass-loader ^12.0.0, close #996](https://github.com/symfony/webpack-encore/pull/999) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
