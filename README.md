@@ -2,11 +2,11 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [Allow Symfony 6](https://github.com/Kocal/Behat/pull/1) on [Kocal/Behat](https://github.com/Kocal/Behat) (1 day ago)
-- ![](./assets/pr-open.svg) [Allow Symfony 6](https://github.com/Behat/Behat/pull/1346) on [Behat/Behat](https://github.com/Behat/Behat) (2 days ago)
-- ![](./assets/pr-merged.svg) [Allow Symfony 6, fix issue with Symfony 5.3](https://github.com/Kocal/SymfonyMailerTesting/pull/29) on [Kocal/SymfonyMailerTesting](https://github.com/Kocal/SymfonyMailerTesting) (2 days ago)
-- ![](./assets/pr-merged.svg) [Update Symfony to 5.3.2](https://github.com/Kocal/symfony-app-template/pull/533) on [Kocal/symfony-app-template](https://github.com/Kocal/symfony-app-template) (2 days ago)
-- ![](./assets/pr-open.svg) [fix(symfony-cli): remove APP_ENV=test behaviour with the database](https://github.com/symfony/symfony-docs/pull/15450) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 days ago)
+- ![](./assets/pr-open.svg) [Allow Symfony 6](https://github.com/Kocal/Behat/pull/1) on [Kocal/Behat](https://github.com/Kocal/Behat) (2 days ago)
+- ![](./assets/pr-open.svg) [Allow Symfony 6](https://github.com/Behat/Behat/pull/1346) on [Behat/Behat](https://github.com/Behat/Behat) (3 days ago)
+- ![](./assets/pr-merged.svg) [Allow Symfony 6, fix issue with Symfony 5.3](https://github.com/Kocal/SymfonyMailerTesting/pull/29) on [Kocal/SymfonyMailerTesting](https://github.com/Kocal/SymfonyMailerTesting) (3 days ago)
+- ![](./assets/pr-merged.svg) [Update Symfony to 5.3.2](https://github.com/Kocal/symfony-app-template/pull/533) on [Kocal/symfony-app-template](https://github.com/Kocal/symfony-app-template) (3 days ago)
+- ![](./assets/pr-open.svg) [fix(symfony-cli): remove APP_ENV=test behaviour with the database](https://github.com/symfony/symfony-docs/pull/15450) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 days ago)
 - ![](./assets/pr-open.svg) [doc(config): change set&#39;s name](https://github.com/FriendsOfPHP/PHP-CS-Fixer/pull/5771) on [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) (1 week ago)
 - ![](./assets/pr-merged.svg) [feat(symfony-app.docker-hybrid): migrate from MySQL to MariaDB](https://github.com/wamiz/manala-recipes/pull/5) on [wamiz/manala-recipes](https://github.com/wamiz/manala-recipes) (1 week ago)
 - ![](./assets/pr-merged.svg) [refactor(symfony-app.docker-hybrid:makefile): change setup/halt/destroy tasks to install/stop/down](https://github.com/wamiz/manala-recipes/pull/3) on [wamiz/manala-recipes](https://github.com/wamiz/manala-recipes) (1 week ago)
