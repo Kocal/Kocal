@@ -2,7 +2,7 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [Allow Symfony 6](https://github.com/Kocal/Behat/pull/1) on [Kocal/Behat](https://github.com/Kocal/Behat) (2 days ago)
+- ![](./assets/pr-closed.svg) [Allow Symfony 6](https://github.com/Kocal/Behat/pull/1) on [Kocal/Behat](https://github.com/Kocal/Behat) (2 days ago)
 - ![](./assets/pr-open.svg) [Allow Symfony 6](https://github.com/Behat/Behat/pull/1346) on [Behat/Behat](https://github.com/Behat/Behat) (3 days ago)
 - ![](./assets/pr-merged.svg) [Allow Symfony 6, fix issue with Symfony 5.3](https://github.com/Kocal/SymfonyMailerTesting/pull/29) on [Kocal/SymfonyMailerTesting](https://github.com/Kocal/SymfonyMailerTesting) (3 days ago)
 - ![](./assets/pr-merged.svg) [Update Symfony to 5.3.2](https://github.com/Kocal/symfony-app-template/pull/533) on [Kocal/symfony-app-template](https://github.com/Kocal/symfony-app-template) (3 days ago)
