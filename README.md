@@ -2,10 +2,10 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-closed.svg) [Allow Symfony 6](https://github.com/Kocal/Behat/pull/1) on [Kocal/Behat](https://github.com/Kocal/Behat) (5 days ago)
-- ![](./assets/pr-open.svg) [Allow Symfony 6](https://github.com/Behat/Behat/pull/1346) on [Behat/Behat](https://github.com/Behat/Behat) (6 days ago)
-- ![](./assets/pr-merged.svg) [Allow Symfony 6, fix issue with Symfony 5.3](https://github.com/Kocal/SymfonyMailerTesting/pull/29) on [Kocal/SymfonyMailerTesting](https://github.com/Kocal/SymfonyMailerTesting) (6 days ago)
-- ![](./assets/pr-merged.svg) [Update Symfony to 5.3.2](https://github.com/Kocal/symfony-app-template/pull/533) on [Kocal/symfony-app-template](https://github.com/Kocal/symfony-app-template) (6 days ago)
+- ![](./assets/pr-closed.svg) [Allow Symfony 6](https://github.com/Kocal/Behat/pull/1) on [Kocal/Behat](https://github.com/Kocal/Behat) (6 days ago)
+- ![](./assets/pr-open.svg) [Allow Symfony 6](https://github.com/Behat/Behat/pull/1346) on [Behat/Behat](https://github.com/Behat/Behat) (1 week ago)
+- ![](./assets/pr-merged.svg) [Allow Symfony 6, fix issue with Symfony 5.3](https://github.com/Kocal/SymfonyMailerTesting/pull/29) on [Kocal/SymfonyMailerTesting](https://github.com/Kocal/SymfonyMailerTesting) (1 week ago)
+- ![](./assets/pr-merged.svg) [Update Symfony to 5.3.2](https://github.com/Kocal/symfony-app-template/pull/533) on [Kocal/symfony-app-template](https://github.com/Kocal/symfony-app-template) (1 week ago)
 - ![](./assets/pr-open.svg) [fix(symfony-cli): remove APP_ENV=test behaviour with the database](https://github.com/symfony/symfony-docs/pull/15450) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
 - ![](./assets/pr-open.svg) [doc(config): change set&#39;s name](https://github.com/FriendsOfPHP/PHP-CS-Fixer/pull/5771) on [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) (1 week ago)
 - ![](./assets/pr-merged.svg) [feat(symfony-app.docker-hybrid): migrate from MySQL to MariaDB](https://github.com/wamiz/manala-recipes/pull/5) on [wamiz/manala-recipes](https://github.com/wamiz/manala-recipes) (1 week ago)
@@ -14,8 +14,8 @@
 - ![](./assets/pr-merged.svg) [feat(symfony-app.docker-hybrid): add MailCatcher](https://github.com/wamiz/manala-recipes/pull/1) on [wamiz/manala-recipes](https://github.com/wamiz/manala-recipes) (2 weeks ago)
 - ![](./assets/pr-open.svg) [[Symfony CLI] Docker integration and MailCatcher prefix](https://github.com/symfony/symfony-docs/pull/15424) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
 - ![](./assets/pr-open.svg) [feat: Vue 3.1](https://github.com/Kocal/symfony-app-template/pull/531) on [Kocal/symfony-app-template](https://github.com/Kocal/symfony-app-template) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [doc: change step id to `dependabot-metadata`](https://github.com/dependabot/fetch-metadata/pull/23) on [dependabot/fetch-metadata](https://github.com/dependabot/fetch-metadata) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [feat(ci): auto-approve and auto-merge Dependabot PR](https://github.com/Kocal/symfony-app-template/pull/519) on [Kocal/symfony-app-template](https://github.com/Kocal/symfony-app-template) (2 weeks ago)
+- ![](./assets/pr-merged.svg) [doc: change step id to `dependabot-metadata`](https://github.com/dependabot/fetch-metadata/pull/23) on [dependabot/fetch-metadata](https://github.com/dependabot/fetch-metadata) (3 weeks ago)
+- ![](./assets/pr-merged.svg) [feat(ci): auto-approve and auto-merge Dependabot PR](https://github.com/Kocal/symfony-app-template/pull/519) on [Kocal/symfony-app-template](https://github.com/Kocal/symfony-app-template) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [Allow ts-loader ^9.0.0, close #993](https://github.com/symfony/webpack-encore/pull/1000) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (3 weeks ago)
 
 #### 📜 My recent blog posts
