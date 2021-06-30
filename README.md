@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-merged.svg) [fix(plugin:vue): configure parserOptions.parser, close #4](https://github.com/Kocal/eslint-config-generator/pull/6) on [Kocal/eslint-config-generator](https://github.com/Kocal/eslint-config-generator) (1 day ago)
 - ![](./assets/pr-closed.svg) [Allow Symfony 6](https://github.com/Kocal/Behat/pull/1) on [Kocal/Behat](https://github.com/Kocal/Behat) (1 week ago)
 - ![](./assets/pr-open.svg) [Allow Symfony 6](https://github.com/Behat/Behat/pull/1346) on [Behat/Behat](https://github.com/Behat/Behat) (1 week ago)
 - ![](./assets/pr-merged.svg) [Allow Symfony 6, fix issue with Symfony 5.3](https://github.com/Kocal/SymfonyMailerTesting/pull/29) on [Kocal/SymfonyMailerTesting](https://github.com/Kocal/SymfonyMailerTesting) (1 week ago)
@@ -16,7 +17,6 @@
 - ![](./assets/pr-open.svg) [feat: Vue 3.1](https://github.com/Kocal/symfony-app-template/pull/531) on [Kocal/symfony-app-template](https://github.com/Kocal/symfony-app-template) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [doc: change step id to `dependabot-metadata`](https://github.com/dependabot/fetch-metadata/pull/23) on [dependabot/fetch-metadata](https://github.com/dependabot/fetch-metadata) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [feat(ci): auto-approve and auto-merge Dependabot PR](https://github.com/Kocal/symfony-app-template/pull/519) on [Kocal/symfony-app-template](https://github.com/Kocal/symfony-app-template) (3 weeks ago)
-- ![](./assets/pr-merged.svg) [Allow ts-loader ^9.0.0, close #993](https://github.com/symfony/webpack-encore/pull/1000) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
