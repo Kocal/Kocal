@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [fix(readme): typo](https://github.com/yyx990803/vue-svelte-size-analysis/pull/3) on [yyx990803/vue-svelte-size-analysis](https://github.com/yyx990803/vue-svelte-size-analysis) (today)
 - ![](./assets/pr-merged.svg) [imp(ci): use cache from actions/setup-node](https://github.com/Kocal/symfony-app-template/pull/549) on [Kocal/symfony-app-template](https://github.com/Kocal/symfony-app-template) (2 days ago)
 - ![](./assets/pr-merged.svg) [fix(plugin:vue): configure parserOptions.parser, close #4](https://github.com/Kocal/eslint-config-generator/pull/6) on [Kocal/eslint-config-generator](https://github.com/Kocal/eslint-config-generator) (6 days ago)
 - ![](./assets/pr-closed.svg) [Allow Symfony 6](https://github.com/Kocal/Behat/pull/1) on [Kocal/Behat](https://github.com/Kocal/Behat) (2 weeks ago)
@@ -16,7 +17,6 @@
 - ![](./assets/pr-merged.svg) [feat(symfony-app.docker-hybrid): add MailCatcher](https://github.com/wamiz/manala-recipes/pull/1) on [wamiz/manala-recipes](https://github.com/wamiz/manala-recipes) (3 weeks ago)
 - ![](./assets/pr-open.svg) [[Symfony CLI] Docker integration and MailCatcher prefix](https://github.com/symfony/symfony-docs/pull/15424) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [feat: Vue 3.1](https://github.com/Kocal/symfony-app-template/pull/531) on [Kocal/symfony-app-template](https://github.com/Kocal/symfony-app-template) (4 weeks ago)
-- ![](./assets/pr-merged.svg) [doc: change step id to `dependabot-metadata`](https://github.com/dependabot/fetch-metadata/pull/23) on [dependabot/fetch-metadata](https://github.com/dependabot/fetch-metadata) (4 weeks ago)
 
 #### 📜 My recent blog posts
 
