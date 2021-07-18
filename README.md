@@ -2,6 +2,12 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [Allow Symfony 6](https://github.com/SymfonyTest/symfony-bundle-test/pull/38) on [SymfonyTest/symfony-bundle-test](https://github.com/SymfonyTest/symfony-bundle-test) (today)
+- ![](./assets/pr-open.svg) [Allow Symfony 6](https://github.com/nelmio/NelmioCorsBundle/pull/166) on [nelmio/NelmioCorsBundle](https://github.com/nelmio/NelmioCorsBundle) (today)
+- ![](./assets/pr-open.svg) [Allow Symfony 6](https://github.com/KnpLabs/KnpTimeBundle/pull/161) on [KnpLabs/KnpTimeBundle](https://github.com/KnpLabs/KnpTimeBundle) (today)
+- ![](./assets/pr-open.svg) [Allow Symfony 6](https://github.com/FriendsOfSymfony/FOSJsRoutingBundle/pull/408) on [FriendsOfSymfony/FOSJsRoutingBundle](https://github.com/FriendsOfSymfony/FOSJsRoutingBundle) (today)
+- ![](./assets/pr-open.svg) [Allow Symfony 6](https://github.com/doctrine/DoctrineMigrationsBundle/pull/434) on [doctrine/DoctrineMigrationsBundle](https://github.com/doctrine/DoctrineMigrationsBundle) (today)
+- ![](./assets/pr-open.svg) [Allow Symfony 6](https://github.com/symfony/webpack-encore-bundle/pull/136) on [symfony/webpack-encore-bundle](https://github.com/symfony/webpack-encore-bundle) (today)
 - ![](./assets/pr-merged.svg) [fix(readme): typo](https://github.com/yyx990803/vue-svelte-size-analysis/pull/3) on [yyx990803/vue-svelte-size-analysis](https://github.com/yyx990803/vue-svelte-size-analysis) (1 week ago)
 - ![](./assets/pr-merged.svg) [imp(ci): use cache from actions/setup-node](https://github.com/Kocal/symfony-app-template/pull/549) on [Kocal/symfony-app-template](https://github.com/Kocal/symfony-app-template) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [fix(plugin:vue): configure parserOptions.parser, close #4](https://github.com/Kocal/eslint-config-generator/pull/6) on [Kocal/eslint-config-generator](https://github.com/Kocal/eslint-config-generator) (2 weeks ago)
@@ -11,12 +17,6 @@
 - ![](./assets/pr-merged.svg) [Update Symfony to 5.3.2](https://github.com/Kocal/symfony-app-template/pull/533) on [Kocal/symfony-app-template](https://github.com/Kocal/symfony-app-template) (4 weeks ago)
 - ![](./assets/pr-open.svg) [fix(symfony-cli): remove APP_ENV=test behaviour with the database](https://github.com/symfony/symfony-docs/pull/15450) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 weeks ago)
 - ![](./assets/pr-merged.svg) [doc(config): change set&#39;s name](https://github.com/FriendsOfPHP/PHP-CS-Fixer/pull/5771) on [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) (1 month ago)
-- ![](./assets/pr-merged.svg) [feat(symfony-app.docker-hybrid): migrate from MySQL to MariaDB](https://github.com/wamiz/manala-recipes/pull/5) on [wamiz/manala-recipes](https://github.com/wamiz/manala-recipes) (1 month ago)
-- ![](./assets/pr-merged.svg) [refactor(symfony-app.docker-hybrid:makefile): change setup/halt/destroy tasks to install/stop/down](https://github.com/wamiz/manala-recipes/pull/3) on [wamiz/manala-recipes](https://github.com/wamiz/manala-recipes) (1 month ago)
-- ![](./assets/pr-merged.svg) [feat(symfony-app:docker-hybrid): add RabbitMQ support](https://github.com/wamiz/manala-recipes/pull/2) on [wamiz/manala-recipes](https://github.com/wamiz/manala-recipes) (1 month ago)
-- ![](./assets/pr-merged.svg) [feat(symfony-app.docker-hybrid): add MailCatcher](https://github.com/wamiz/manala-recipes/pull/1) on [wamiz/manala-recipes](https://github.com/wamiz/manala-recipes) (1 month ago)
-- ![](./assets/pr-open.svg) [[Symfony CLI] Docker integration and MailCatcher prefix](https://github.com/symfony/symfony-docs/pull/15424) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
-- ![](./assets/pr-merged.svg) [feat: Vue 3.1](https://github.com/Kocal/symfony-app-template/pull/531) on [Kocal/symfony-app-template](https://github.com/Kocal/symfony-app-template) (1 month ago)
 
 #### 📜 My recent blog posts
 
