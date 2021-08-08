@@ -2,14 +2,14 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [Allow Symfony 6](https://github.com/willdurand/BazingaJsTranslationBundle/pull/323) on [willdurand/BazingaJsTranslationBundle](https://github.com/willdurand/BazingaJsTranslationBundle) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [Allow Symfony 6](https://github.com/sensiolabs/SensioFrameworkExtraBundle/pull/742) on [sensiolabs/SensioFrameworkExtraBundle](https://github.com/sensiolabs/SensioFrameworkExtraBundle) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [Allow Symfony 6](https://github.com/SymfonyTest/symfony-bundle-test/pull/38) on [SymfonyTest/symfony-bundle-test](https://github.com/SymfonyTest/symfony-bundle-test) (2 weeks ago)
-- ![](./assets/pr-open.svg) [Allow Symfony 6](https://github.com/nelmio/NelmioCorsBundle/pull/166) on [nelmio/NelmioCorsBundle](https://github.com/nelmio/NelmioCorsBundle) (2 weeks ago)
-- ![](./assets/pr-closed.svg) [Allow Symfony 6](https://github.com/KnpLabs/KnpTimeBundle/pull/161) on [KnpLabs/KnpTimeBundle](https://github.com/KnpLabs/KnpTimeBundle) (2 weeks ago)
-- ![](./assets/pr-open.svg) [Allow Symfony 6](https://github.com/FriendsOfSymfony/FOSJsRoutingBundle/pull/408) on [FriendsOfSymfony/FOSJsRoutingBundle](https://github.com/FriendsOfSymfony/FOSJsRoutingBundle) (2 weeks ago)
-- ![](./assets/pr-open.svg) [Allow Symfony 6](https://github.com/doctrine/DoctrineMigrationsBundle/pull/434) on [doctrine/DoctrineMigrationsBundle](https://github.com/doctrine/DoctrineMigrationsBundle) (2 weeks ago)
-- ![](./assets/pr-closed.svg) [Allow Symfony 6](https://github.com/symfony/webpack-encore-bundle/pull/136) on [symfony/webpack-encore-bundle](https://github.com/symfony/webpack-encore-bundle) (2 weeks ago)
+- ![](./assets/pr-open.svg) [Allow Symfony 6](https://github.com/willdurand/BazingaJsTranslationBundle/pull/323) on [willdurand/BazingaJsTranslationBundle](https://github.com/willdurand/BazingaJsTranslationBundle) (3 weeks ago)
+- ![](./assets/pr-merged.svg) [Allow Symfony 6](https://github.com/sensiolabs/SensioFrameworkExtraBundle/pull/742) on [sensiolabs/SensioFrameworkExtraBundle](https://github.com/sensiolabs/SensioFrameworkExtraBundle) (3 weeks ago)
+- ![](./assets/pr-merged.svg) [Allow Symfony 6](https://github.com/SymfonyTest/symfony-bundle-test/pull/38) on [SymfonyTest/symfony-bundle-test](https://github.com/SymfonyTest/symfony-bundle-test) (3 weeks ago)
+- ![](./assets/pr-open.svg) [Allow Symfony 6](https://github.com/nelmio/NelmioCorsBundle/pull/166) on [nelmio/NelmioCorsBundle](https://github.com/nelmio/NelmioCorsBundle) (3 weeks ago)
+- ![](./assets/pr-closed.svg) [Allow Symfony 6](https://github.com/KnpLabs/KnpTimeBundle/pull/161) on [KnpLabs/KnpTimeBundle](https://github.com/KnpLabs/KnpTimeBundle) (3 weeks ago)
+- ![](./assets/pr-open.svg) [Allow Symfony 6](https://github.com/FriendsOfSymfony/FOSJsRoutingBundle/pull/408) on [FriendsOfSymfony/FOSJsRoutingBundle](https://github.com/FriendsOfSymfony/FOSJsRoutingBundle) (3 weeks ago)
+- ![](./assets/pr-open.svg) [Allow Symfony 6](https://github.com/doctrine/DoctrineMigrationsBundle/pull/434) on [doctrine/DoctrineMigrationsBundle](https://github.com/doctrine/DoctrineMigrationsBundle) (3 weeks ago)
+- ![](./assets/pr-closed.svg) [Allow Symfony 6](https://github.com/symfony/webpack-encore-bundle/pull/136) on [symfony/webpack-encore-bundle](https://github.com/symfony/webpack-encore-bundle) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [fix(readme): typo](https://github.com/yyx990803/vue-svelte-size-analysis/pull/3) on [yyx990803/vue-svelte-size-analysis](https://github.com/yyx990803/vue-svelte-size-analysis) (1 month ago)
 - ![](./assets/pr-merged.svg) [imp(ci): use cache from actions/setup-node](https://github.com/Kocal/symfony-app-template/pull/549) on [Kocal/symfony-app-template](https://github.com/Kocal/symfony-app-template) (1 month ago)
 - ![](./assets/pr-merged.svg) [fix(plugin:vue): configure parserOptions.parser, close #4](https://github.com/Kocal/eslint-config-generator/pull/6) on [Kocal/eslint-config-generator](https://github.com/Kocal/eslint-config-generator) (1 month ago)
