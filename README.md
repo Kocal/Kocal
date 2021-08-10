@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [fix(deps): remove unnecessary PHP 8 polyfill, close #652](https://github.com/KnpLabs/DoctrineBehaviors/pull/653) on [KnpLabs/DoctrineBehaviors](https://github.com/KnpLabs/DoctrineBehaviors) (1 day ago)
 - ![](./assets/pr-open.svg) [Allow Symfony 6](https://github.com/willdurand/BazingaJsTranslationBundle/pull/323) on [willdurand/BazingaJsTranslationBundle](https://github.com/willdurand/BazingaJsTranslationBundle) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [Allow Symfony 6](https://github.com/sensiolabs/SensioFrameworkExtraBundle/pull/742) on [sensiolabs/SensioFrameworkExtraBundle](https://github.com/sensiolabs/SensioFrameworkExtraBundle) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [Allow Symfony 6](https://github.com/SymfonyTest/symfony-bundle-test/pull/38) on [SymfonyTest/symfony-bundle-test](https://github.com/SymfonyTest/symfony-bundle-test) (3 weeks ago)
@@ -16,7 +17,6 @@
 - ![](./assets/pr-closed.svg) [Allow Symfony 6](https://github.com/Kocal/Behat/pull/1) on [Kocal/Behat](https://github.com/Kocal/Behat) (1 month ago)
 - ![](./assets/pr-open.svg) [Allow Symfony 6](https://github.com/Behat/Behat/pull/1346) on [Behat/Behat](https://github.com/Behat/Behat) (1 month ago)
 - ![](./assets/pr-merged.svg) [Allow Symfony 6, fix issue with Symfony 5.3](https://github.com/Kocal/SymfonyMailerTesting/pull/29) on [Kocal/SymfonyMailerTesting](https://github.com/Kocal/SymfonyMailerTesting) (1 month ago)
-- ![](./assets/pr-merged.svg) [Update Symfony to 5.3.2](https://github.com/Kocal/symfony-app-template/pull/533) on [Kocal/symfony-app-template](https://github.com/Kocal/symfony-app-template) (1 month ago)
 
 #### 📜 My recent blog posts
 
