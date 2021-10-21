@@ -2,7 +2,7 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [feat(symfony-app.docker-hybrid): add support for Docker Compose v2&#34;](https://github.com/wamiz/manala-recipes/pull/7) on [wamiz/manala-recipes](https://github.com/wamiz/manala-recipes) (1 day ago)
+- ![](./assets/pr-merged.svg) [feat(symfony-app.docker-hybrid): add support for Docker Compose v2](https://github.com/wamiz/manala-recipes/pull/7) on [wamiz/manala-recipes](https://github.com/wamiz/manala-recipes) (1 day ago)
 - ![](./assets/pr-merged.svg) [fix(scoper): prefix vendor classes from PHPDoc, close #6614](https://github.com/rectorphp/rector-src/pull/739) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 months ago)
 - ![](./assets/pr-merged.svg) [fix(deps): remove unnecessary PHP 8 polyfill, close #652](https://github.com/KnpLabs/DoctrineBehaviors/pull/653) on [KnpLabs/DoctrineBehaviors](https://github.com/KnpLabs/DoctrineBehaviors) (2 months ago)
 - ![](./assets/pr-open.svg) [Allow Symfony 6](https://github.com/willdurand/BazingaJsTranslationBundle/pull/323) on [willdurand/BazingaJsTranslationBundle](https://github.com/willdurand/BazingaJsTranslationBundle) (3 months ago)
