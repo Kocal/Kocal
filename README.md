@@ -2,7 +2,9 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [feat(symfony-app.docker-hybrid): add support for Docker Compose v2](https://github.com/wamiz/manala-recipes/pull/7) on [wamiz/manala-recipes](https://github.com/wamiz/manala-recipes) (1 day ago)
+- ![](./assets/pr-open.svg) [feat: add Symfony 6 support](https://github.com/sonata-project/SonataIntlBundle/pull/475) on [sonata-project/SonataIntlBundle](https://github.com/sonata-project/SonataIntlBundle) (1 day ago)
+- ![](./assets/pr-open.svg) [feat: add Symfony 6 to IntlBundle](https://github.com/sonata-project/dev-kit/pull/1733) on [sonata-project/dev-kit](https://github.com/sonata-project/dev-kit) (1 day ago)
+- ![](./assets/pr-merged.svg) [feat(symfony-app.docker-hybrid): add support for Docker Compose v2](https://github.com/wamiz/manala-recipes/pull/7) on [wamiz/manala-recipes](https://github.com/wamiz/manala-recipes) (2 days ago)
 - ![](./assets/pr-merged.svg) [fix(scoper): prefix vendor classes from PHPDoc, close #6614](https://github.com/rectorphp/rector-src/pull/739) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 months ago)
 - ![](./assets/pr-merged.svg) [fix(deps): remove unnecessary PHP 8 polyfill, close #652](https://github.com/KnpLabs/DoctrineBehaviors/pull/653) on [KnpLabs/DoctrineBehaviors](https://github.com/KnpLabs/DoctrineBehaviors) (2 months ago)
 - ![](./assets/pr-open.svg) [Allow Symfony 6](https://github.com/willdurand/BazingaJsTranslationBundle/pull/323) on [willdurand/BazingaJsTranslationBundle](https://github.com/willdurand/BazingaJsTranslationBundle) (3 months ago)
@@ -15,8 +17,6 @@
 - ![](./assets/pr-open.svg) [Allow Symfony 6](https://github.com/symfony/webpack-encore-bundle/pull/136) on [symfony/webpack-encore-bundle](https://github.com/symfony/webpack-encore-bundle) (3 months ago)
 - ![](./assets/pr-merged.svg) [fix(readme): typo](https://github.com/yyx990803/vue-svelte-size-analysis/pull/3) on [yyx990803/vue-svelte-size-analysis](https://github.com/yyx990803/vue-svelte-size-analysis) (3 months ago)
 - ![](./assets/pr-merged.svg) [imp(ci): use cache from actions/setup-node](https://github.com/Kocal/symfony-app-template/pull/549) on [Kocal/symfony-app-template](https://github.com/Kocal/symfony-app-template) (3 months ago)
-- ![](./assets/pr-merged.svg) [fix(plugin:vue): configure parserOptions.parser, close #4](https://github.com/Kocal/eslint-config-generator/pull/6) on [Kocal/eslint-config-generator](https://github.com/Kocal/eslint-config-generator) (3 months ago)
-- ![](./assets/pr-closed.svg) [Allow Symfony 6](https://github.com/Kocal/Behat/pull/1) on [Kocal/Behat](https://github.com/Kocal/Behat) (4 months ago)
 
 #### 📜 My recent blog posts
 
