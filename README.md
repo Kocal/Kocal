@@ -13,7 +13,7 @@
 - ![](./assets/pr-merged.svg) [Allow Symfony 6](https://github.com/sensiolabs/SensioFrameworkExtraBundle/pull/742) on [sensiolabs/SensioFrameworkExtraBundle](https://github.com/sensiolabs/SensioFrameworkExtraBundle) (3 months ago)
 - ![](./assets/pr-merged.svg) [Allow Symfony 6](https://github.com/SymfonyTest/symfony-bundle-test/pull/38) on [SymfonyTest/symfony-bundle-test](https://github.com/SymfonyTest/symfony-bundle-test) (3 months ago)
 - ![](./assets/pr-merged.svg) [Allow Symfony 6](https://github.com/nelmio/NelmioCorsBundle/pull/166) on [nelmio/NelmioCorsBundle](https://github.com/nelmio/NelmioCorsBundle) (3 months ago)
-- ![](./assets/pr-closed.svg) [Allow Symfony 6](https://github.com/KnpLabs/KnpTimeBundle/pull/161) on [KnpLabs/KnpTimeBundle](https://github.com/KnpLabs/KnpTimeBundle) (3 months ago)
+- ![](./assets/pr-merged.svg) [Allow Symfony 6](https://github.com/KnpLabs/KnpTimeBundle/pull/161) on [KnpLabs/KnpTimeBundle](https://github.com/KnpLabs/KnpTimeBundle) (3 months ago)
 - ![](./assets/pr-open.svg) [Allow Symfony 6](https://github.com/FriendsOfSymfony/FOSJsRoutingBundle/pull/408) on [FriendsOfSymfony/FOSJsRoutingBundle](https://github.com/FriendsOfSymfony/FOSJsRoutingBundle) (3 months ago)
 - ![](./assets/pr-open.svg) [Allow Symfony 6](https://github.com/doctrine/DoctrineMigrationsBundle/pull/434) on [doctrine/DoctrineMigrationsBundle](https://github.com/doctrine/DoctrineMigrationsBundle) (3 months ago)
 - ![](./assets/pr-open.svg) [Allow Symfony 6](https://github.com/symfony/webpack-encore-bundle/pull/136) on [symfony/webpack-encore-bundle](https://github.com/symfony/webpack-encore-bundle) (3 months ago)
