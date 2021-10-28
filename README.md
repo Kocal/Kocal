@@ -2,8 +2,10 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [feat: add Symfony 6 support](https://github.com/sonata-project/SonataIntlBundle/pull/475) on [sonata-project/SonataIntlBundle](https://github.com/sonata-project/SonataIntlBundle) (6 days ago)
-- ![](./assets/pr-merged.svg) [feat: add Symfony 6 to IntlBundle](https://github.com/sonata-project/dev-kit/pull/1733) on [sonata-project/dev-kit](https://github.com/sonata-project/dev-kit) (6 days ago)
+- ![](./assets/pr-open.svg) [feat: add Symfony 6 to SeoBundle](https://github.com/sonata-project/dev-kit/pull/1739) on [sonata-project/dev-kit](https://github.com/sonata-project/dev-kit) (1 day ago)
+- ![](./assets/pr-open.svg) [feat: add Symfony 6 to SeoBundle](https://github.com/sonata-project/SonataSeoBundle/pull/614) on [sonata-project/SonataSeoBundle](https://github.com/sonata-project/SonataSeoBundle) (1 day ago)
+- ![](./assets/pr-merged.svg) [feat: add Symfony 6 support](https://github.com/sonata-project/SonataIntlBundle/pull/475) on [sonata-project/SonataIntlBundle](https://github.com/sonata-project/SonataIntlBundle) (1 week ago)
+- ![](./assets/pr-merged.svg) [feat: add Symfony 6 to IntlBundle](https://github.com/sonata-project/dev-kit/pull/1733) on [sonata-project/dev-kit](https://github.com/sonata-project/dev-kit) (1 week ago)
 - ![](./assets/pr-merged.svg) [feat(symfony-app.docker-hybrid): add support for Docker Compose v2](https://github.com/wamiz/manala-recipes/pull/7) on [wamiz/manala-recipes](https://github.com/wamiz/manala-recipes) (1 week ago)
 - ![](./assets/pr-merged.svg) [fix(scoper): prefix vendor classes from PHPDoc, close #6614](https://github.com/rectorphp/rector-src/pull/739) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 months ago)
 - ![](./assets/pr-merged.svg) [fix(deps): remove unnecessary PHP 8 polyfill, close #652](https://github.com/KnpLabs/DoctrineBehaviors/pull/653) on [KnpLabs/DoctrineBehaviors](https://github.com/KnpLabs/DoctrineBehaviors) (2 months ago)
@@ -15,8 +17,6 @@
 - ![](./assets/pr-open.svg) [Allow Symfony 6](https://github.com/FriendsOfSymfony/FOSJsRoutingBundle/pull/408) on [FriendsOfSymfony/FOSJsRoutingBundle](https://github.com/FriendsOfSymfony/FOSJsRoutingBundle) (3 months ago)
 - ![](./assets/pr-open.svg) [Allow Symfony 6](https://github.com/doctrine/DoctrineMigrationsBundle/pull/434) on [doctrine/DoctrineMigrationsBundle](https://github.com/doctrine/DoctrineMigrationsBundle) (3 months ago)
 - ![](./assets/pr-open.svg) [Allow Symfony 6](https://github.com/symfony/webpack-encore-bundle/pull/136) on [symfony/webpack-encore-bundle](https://github.com/symfony/webpack-encore-bundle) (3 months ago)
-- ![](./assets/pr-merged.svg) [fix(readme): typo](https://github.com/yyx990803/vue-svelte-size-analysis/pull/3) on [yyx990803/vue-svelte-size-analysis](https://github.com/yyx990803/vue-svelte-size-analysis) (3 months ago)
-- ![](./assets/pr-merged.svg) [imp(ci): use cache from actions/setup-node](https://github.com/Kocal/symfony-app-template/pull/549) on [Kocal/symfony-app-template](https://github.com/Kocal/symfony-app-template) (3 months ago)
 
 #### 📜 My recent blog posts
 
