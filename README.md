@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-merged.svg) [fix: update caniuse-lite](https://github.com/Kocal/eslint-config-generator/pull/8) on [Kocal/eslint-config-generator](https://github.com/Kocal/eslint-config-generator) (today)
 - ![](./assets/pr-merged.svg) [feat: add Symfony 6 to SeoBundle](https://github.com/sonata-project/dev-kit/pull/1739) on [sonata-project/dev-kit](https://github.com/sonata-project/dev-kit) (2 days ago)
 - ![](./assets/pr-merged.svg) [feat: add Symfony 6 to SeoBundle](https://github.com/sonata-project/SonataSeoBundle/pull/614) on [sonata-project/SonataSeoBundle](https://github.com/sonata-project/SonataSeoBundle) (2 days ago)
 - ![](./assets/pr-merged.svg) [feat: add Symfony 6 support](https://github.com/sonata-project/SonataIntlBundle/pull/475) on [sonata-project/SonataIntlBundle](https://github.com/sonata-project/SonataIntlBundle) (1 week ago)
@@ -16,7 +17,6 @@
 - ![](./assets/pr-merged.svg) [Allow Symfony 6](https://github.com/KnpLabs/KnpTimeBundle/pull/161) on [KnpLabs/KnpTimeBundle](https://github.com/KnpLabs/KnpTimeBundle) (3 months ago)
 - ![](./assets/pr-open.svg) [Allow Symfony 6](https://github.com/FriendsOfSymfony/FOSJsRoutingBundle/pull/408) on [FriendsOfSymfony/FOSJsRoutingBundle](https://github.com/FriendsOfSymfony/FOSJsRoutingBundle) (3 months ago)
 - ![](./assets/pr-open.svg) [Allow Symfony 6](https://github.com/doctrine/DoctrineMigrationsBundle/pull/434) on [doctrine/DoctrineMigrationsBundle](https://github.com/doctrine/DoctrineMigrationsBundle) (3 months ago)
-- ![](./assets/pr-open.svg) [Allow Symfony 6](https://github.com/symfony/webpack-encore-bundle/pull/136) on [symfony/webpack-encore-bundle](https://github.com/symfony/webpack-encore-bundle) (3 months ago)
 
 #### 📜 My recent blog posts
 
