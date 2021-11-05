@@ -2,7 +2,7 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [fix: update caniuse-lite](https://github.com/Kocal/eslint-config-generator/pull/8) on [Kocal/eslint-config-generator](https://github.com/Kocal/eslint-config-generator) (6 days ago)
+- ![](./assets/pr-merged.svg) [fix: update caniuse-lite](https://github.com/Kocal/eslint-config-generator/pull/8) on [Kocal/eslint-config-generator](https://github.com/Kocal/eslint-config-generator) (1 week ago)
 - ![](./assets/pr-merged.svg) [feat: add Symfony 6 to SeoBundle](https://github.com/sonata-project/dev-kit/pull/1739) on [sonata-project/dev-kit](https://github.com/sonata-project/dev-kit) (1 week ago)
 - ![](./assets/pr-merged.svg) [feat: add Symfony 6 to SeoBundle](https://github.com/sonata-project/SonataSeoBundle/pull/614) on [sonata-project/SonataSeoBundle](https://github.com/sonata-project/SonataSeoBundle) (1 week ago)
 - ![](./assets/pr-merged.svg) [feat: add Symfony 6 support](https://github.com/sonata-project/SonataIntlBundle/pull/475) on [sonata-project/SonataIntlBundle](https://github.com/sonata-project/SonataIntlBundle) (2 weeks ago)
