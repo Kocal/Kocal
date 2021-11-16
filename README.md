@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [[Translation] Fix TranslationPullCommand with ICU translations](https://github.com/symfony/symfony/pull/44085) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - ![](./assets/pr-merged.svg) [fix: update caniuse-lite](https://github.com/Kocal/eslint-config-generator/pull/8) on [Kocal/eslint-config-generator](https://github.com/Kocal/eslint-config-generator) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [feat: add Symfony 6 to SeoBundle](https://github.com/sonata-project/dev-kit/pull/1739) on [sonata-project/dev-kit](https://github.com/sonata-project/dev-kit) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [feat: add Symfony 6 to SeoBundle](https://github.com/sonata-project/SonataSeoBundle/pull/614) on [sonata-project/SonataSeoBundle](https://github.com/sonata-project/SonataSeoBundle) (2 weeks ago)
@@ -16,7 +17,6 @@
 - ![](./assets/pr-merged.svg) [Allow Symfony 6](https://github.com/nelmio/NelmioCorsBundle/pull/166) on [nelmio/NelmioCorsBundle](https://github.com/nelmio/NelmioCorsBundle) (4 months ago)
 - ![](./assets/pr-merged.svg) [Allow Symfony 6](https://github.com/KnpLabs/KnpTimeBundle/pull/161) on [KnpLabs/KnpTimeBundle](https://github.com/KnpLabs/KnpTimeBundle) (4 months ago)
 - ![](./assets/pr-open.svg) [Allow Symfony 6](https://github.com/FriendsOfSymfony/FOSJsRoutingBundle/pull/408) on [FriendsOfSymfony/FOSJsRoutingBundle](https://github.com/FriendsOfSymfony/FOSJsRoutingBundle) (4 months ago)
-- ![](./assets/pr-merged.svg) [Allow Symfony 6](https://github.com/doctrine/DoctrineMigrationsBundle/pull/434) on [doctrine/DoctrineMigrationsBundle](https://github.com/doctrine/DoctrineMigrationsBundle) (4 months ago)
 
 #### 📜 My recent blog posts
 
