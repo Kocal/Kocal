@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [[Translation] Make http requests synchronous when reading the Loco API](https://github.com/symfony/symfony/pull/44416) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - ![](./assets/pr-merged.svg) [feat(no-extraneous-dependencies): allow more TypeScript files](https://github.com/Kocal/eslint-config-generator/pull/9) on [Kocal/eslint-config-generator](https://github.com/Kocal/eslint-config-generator) (5 days ago)
 - ![](./assets/pr-merged.svg) [fix(readme): close &lt;strong&gt; tag properly](https://github.com/egoist/dum/pull/8) on [egoist/dum](https://github.com/egoist/dum) (1 week ago)
 - ![](./assets/pr-open.svg) [[Translation] Fix TranslationPullCommand with ICU translations](https://github.com/symfony/symfony/pull/44085) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
@@ -16,7 +17,6 @@
 - ![](./assets/pr-merged.svg) [Allow Symfony 6](https://github.com/willdurand/BazingaJsTranslationBundle/pull/323) on [willdurand/BazingaJsTranslationBundle](https://github.com/willdurand/BazingaJsTranslationBundle) (4 months ago)
 - ![](./assets/pr-merged.svg) [Allow Symfony 6](https://github.com/sensiolabs/SensioFrameworkExtraBundle/pull/742) on [sensiolabs/SensioFrameworkExtraBundle](https://github.com/sensiolabs/SensioFrameworkExtraBundle) (4 months ago)
 - ![](./assets/pr-merged.svg) [Allow Symfony 6](https://github.com/SymfonyTest/symfony-bundle-test/pull/38) on [SymfonyTest/symfony-bundle-test](https://github.com/SymfonyTest/symfony-bundle-test) (4 months ago)
-- ![](./assets/pr-merged.svg) [Allow Symfony 6](https://github.com/nelmio/NelmioCorsBundle/pull/166) on [nelmio/NelmioCorsBundle](https://github.com/nelmio/NelmioCorsBundle) (4 months ago)
 
 #### 📜 My recent blog posts
 
