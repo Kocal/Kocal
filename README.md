@@ -2,7 +2,7 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [[Translation][Loco] Send `If-Modified-Since` header when possible](https://github.com/symfony/symfony/pull/44484) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
+- ![](./assets/pr-open.svg) [[Translation] [Loco] Send `If-Modified-Since` header when possible](https://github.com/symfony/symfony/pull/44484) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Translation] Make http requests synchronous when reading the Loco API](https://github.com/symfony/symfony/pull/44416) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - ![](./assets/pr-merged.svg) [feat(no-extraneous-dependencies): allow more TypeScript files](https://github.com/Kocal/eslint-config-generator/pull/9) on [Kocal/eslint-config-generator](https://github.com/Kocal/eslint-config-generator) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [fix(readme): close &lt;strong&gt; tag properly](https://github.com/egoist/dum/pull/8) on [egoist/dum](https://github.com/egoist/dum) (3 weeks ago)
@@ -15,8 +15,8 @@
 - ![](./assets/pr-merged.svg) [feat(symfony-app.docker-hybrid): add support for Docker Compose v2](https://github.com/wamiz/manala-recipes/pull/7) on [wamiz/manala-recipes](https://github.com/wamiz/manala-recipes) (1 month ago)
 - ![](./assets/pr-merged.svg) [fix(scoper): prefix vendor classes from PHPDoc, close #6614](https://github.com/rectorphp/rector-src/pull/739) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 months ago)
 - ![](./assets/pr-merged.svg) [fix(deps): remove unnecessary PHP 8 polyfill, close #652](https://github.com/KnpLabs/DoctrineBehaviors/pull/653) on [KnpLabs/DoctrineBehaviors](https://github.com/KnpLabs/DoctrineBehaviors) (4 months ago)
-- ![](./assets/pr-merged.svg) [Allow Symfony 6](https://github.com/willdurand/BazingaJsTranslationBundle/pull/323) on [willdurand/BazingaJsTranslationBundle](https://github.com/willdurand/BazingaJsTranslationBundle) (4 months ago)
-- ![](./assets/pr-merged.svg) [Allow Symfony 6](https://github.com/sensiolabs/SensioFrameworkExtraBundle/pull/742) on [sensiolabs/SensioFrameworkExtraBundle](https://github.com/sensiolabs/SensioFrameworkExtraBundle) (4 months ago)
+- ![](./assets/pr-merged.svg) [Allow Symfony 6](https://github.com/willdurand/BazingaJsTranslationBundle/pull/323) on [willdurand/BazingaJsTranslationBundle](https://github.com/willdurand/BazingaJsTranslationBundle) (5 months ago)
+- ![](./assets/pr-merged.svg) [Allow Symfony 6](https://github.com/sensiolabs/SensioFrameworkExtraBundle/pull/742) on [sensiolabs/SensioFrameworkExtraBundle](https://github.com/sensiolabs/SensioFrameworkExtraBundle) (5 months ago)
 
 #### 📜 My recent blog posts
 
