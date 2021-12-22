@@ -2,7 +2,8 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [docs: split Cypress and Behat docs](https://github.com/Kocal/SymfonyMailerTesting/pull/30) on [Kocal/SymfonyMailerTesting](https://github.com/Kocal/SymfonyMailerTesting) (1 day ago)
+- ![](./assets/pr-open.svg) [chore: make CI working again](https://github.com/Kocal/SymfonyMailerTesting/pull/31) on [Kocal/SymfonyMailerTesting](https://github.com/Kocal/SymfonyMailerTesting) (today)
+- ![](./assets/pr-merged.svg) [docs: split Cypress and Behat docs](https://github.com/Kocal/SymfonyMailerTesting/pull/30) on [Kocal/SymfonyMailerTesting](https://github.com/Kocal/SymfonyMailerTesting) (2 days ago)
 - ![](./assets/pr-open.svg) [[Translation] [Loco] Send `If-Modified-Since` header when possible](https://github.com/symfony/symfony/pull/44484) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[Translation] Make http requests synchronous when reading the Loco API](https://github.com/symfony/symfony/pull/44416) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [feat(no-extraneous-dependencies): allow more TypeScript files](https://github.com/Kocal/eslint-config-generator/pull/9) on [Kocal/eslint-config-generator](https://github.com/Kocal/eslint-config-generator) (3 weeks ago)
@@ -16,12 +17,11 @@
 - ![](./assets/pr-merged.svg) [feat(symfony-app.docker-hybrid): add support for Docker Compose v2](https://github.com/wamiz/manala-recipes/pull/7) on [wamiz/manala-recipes](https://github.com/wamiz/manala-recipes) (2 months ago)
 - ![](./assets/pr-merged.svg) [fix(scoper): prefix vendor classes from PHPDoc, close #6614](https://github.com/rectorphp/rector-src/pull/739) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 months ago)
 - ![](./assets/pr-merged.svg) [fix(deps): remove unnecessary PHP 8 polyfill, close #652](https://github.com/KnpLabs/DoctrineBehaviors/pull/653) on [KnpLabs/DoctrineBehaviors](https://github.com/KnpLabs/DoctrineBehaviors) (4 months ago)
-- ![](./assets/pr-merged.svg) [Allow Symfony 6](https://github.com/willdurand/BazingaJsTranslationBundle/pull/323) on [willdurand/BazingaJsTranslationBundle](https://github.com/willdurand/BazingaJsTranslationBundle) (5 months ago)
 
 #### 📜 My recent blog posts
 
 - [Migration to GitHub-native Dependabot: solutions for auto-merge and Action secrets](https://hugo.alliau.me/2021/05/04/migration-to-github-native-dependabot-solutions-for-auto-merge-and-action-secrets/) (7 months ago)
-- [Migration de notre stack de développement vers Docker](https://hugo.alliau.me/2021/04/26/migration-stack-developpement/) (7 months ago)
+- [Migration de notre stack de développement vers Docker](https://hugo.alliau.me/2021/04/26/migration-stack-developpement/) (8 months ago)
 - [Generate PDFs on Amazon AWS with PHP and Puppeteer: The Best Way](https://hugo.alliau.me/2020/04/21/generate-pdfs-on-amazon-aws-with-php-and-puppeteer-the-best-way/) (2 years ago)
 - [Generate PDFs on Amazon AWS with PHP and Puppeteer](https://hugo.alliau.me/2020/01/02/generate-pdfs-on-amazon-aws-with-php-and-puppeteer/) (2 years ago)
 
