@@ -2,8 +2,8 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [fix: PHP 8 at composer install &#43; PHPUnit tests](https://github.com/ckfinder/ckfinder-symfony-bundle/pull/37) on [ckfinder/ckfinder-symfony-bundle](https://github.com/ckfinder/ckfinder-symfony-bundle) (1 day ago)
-- ![](./assets/pr-merged.svg) [chore: make CI working again](https://github.com/Kocal/SymfonyMailerTesting/pull/31) on [Kocal/SymfonyMailerTesting](https://github.com/Kocal/SymfonyMailerTesting) (6 days ago)
+- ![](./assets/pr-open.svg) [fix: PHP 8 at composer install &#43; PHPUnit tests](https://github.com/ckfinder/ckfinder-symfony-bundle/pull/37) on [ckfinder/ckfinder-symfony-bundle](https://github.com/ckfinder/ckfinder-symfony-bundle) (2 days ago)
+- ![](./assets/pr-merged.svg) [chore: make CI working again](https://github.com/Kocal/SymfonyMailerTesting/pull/31) on [Kocal/SymfonyMailerTesting](https://github.com/Kocal/SymfonyMailerTesting) (1 week ago)
 - ![](./assets/pr-merged.svg) [docs: split Cypress and Behat docs](https://github.com/Kocal/SymfonyMailerTesting/pull/30) on [Kocal/SymfonyMailerTesting](https://github.com/Kocal/SymfonyMailerTesting) (1 week ago)
 - ![](./assets/pr-open.svg) [[Translation] [Loco] Send `If-Modified-Since` header when possible](https://github.com/symfony/symfony/pull/44484) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[Translation] Make http requests synchronous when reading the Loco API](https://github.com/symfony/symfony/pull/44416) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
