@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-merged.svg) [chore: reword error message in CI](https://github.com/symfony-cli/symfony-cli/pull/23) on [symfony-cli/symfony-cli](https://github.com/symfony-cli/symfony-cli) (today)
 - ![](./assets/pr-open.svg) [fix: PHP 8 at composer install &#43; PHPUnit tests](https://github.com/ckfinder/ckfinder-symfony-bundle/pull/37) on [ckfinder/ckfinder-symfony-bundle](https://github.com/ckfinder/ckfinder-symfony-bundle) (1 week ago)
 - ![](./assets/pr-merged.svg) [chore: make CI working again](https://github.com/Kocal/SymfonyMailerTesting/pull/31) on [Kocal/SymfonyMailerTesting](https://github.com/Kocal/SymfonyMailerTesting) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [docs: split Cypress and Behat docs](https://github.com/Kocal/SymfonyMailerTesting/pull/30) on [Kocal/SymfonyMailerTesting](https://github.com/Kocal/SymfonyMailerTesting) (2 weeks ago)
@@ -16,7 +17,6 @@
 - ![](./assets/pr-merged.svg) [feat: add Symfony 6 support](https://github.com/sonata-project/SonataIntlBundle/pull/475) on [sonata-project/SonataIntlBundle](https://github.com/sonata-project/SonataIntlBundle) (2 months ago)
 - ![](./assets/pr-merged.svg) [feat: add Symfony 6 to IntlBundle](https://github.com/sonata-project/dev-kit/pull/1733) on [sonata-project/dev-kit](https://github.com/sonata-project/dev-kit) (2 months ago)
 - ![](./assets/pr-merged.svg) [feat(symfony-app.docker-hybrid): add support for Docker Compose v2](https://github.com/wamiz/manala-recipes/pull/7) on [wamiz/manala-recipes](https://github.com/wamiz/manala-recipes) (2 months ago)
-- ![](./assets/pr-merged.svg) [fix(scoper): prefix vendor classes from PHPDoc, close #6614](https://github.com/rectorphp/rector-src/pull/739) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 months ago)
 
 #### 📜 My recent blog posts
 
