@@ -2,7 +2,7 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [Doctrine, &#34;QueryBuilder::setMaxResults()&#34; and collections associations are on a boat](https://github.com/Kocal/blog/pull/130) on [Kocal/blog](https://github.com/Kocal/blog) (5 days ago)
+- ![](./assets/pr-merged.svg) [Doctrine, &#34;QueryBuilder::setMaxResults()&#34; and collections associations are on a boat](https://github.com/Kocal/blog/pull/130) on [Kocal/blog](https://github.com/Kocal/blog) (6 days ago)
 - ![](./assets/pr-merged.svg) [chore: reword error message in CI](https://github.com/symfony-cli/symfony-cli/pull/23) on [symfony-cli/symfony-cli](https://github.com/symfony-cli/symfony-cli) (1 week ago)
 - ![](./assets/pr-open.svg) [fix: PHP 8 at composer install &#43; PHPUnit tests](https://github.com/ckfinder/ckfinder-symfony-bundle/pull/37) on [ckfinder/ckfinder-symfony-bundle](https://github.com/ckfinder/ckfinder-symfony-bundle) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [chore: make CI working again](https://github.com/Kocal/SymfonyMailerTesting/pull/31) on [Kocal/SymfonyMailerTesting](https://github.com/Kocal/SymfonyMailerTesting) (3 weeks ago)
@@ -20,7 +20,7 @@
 
 #### 📜 My recent blog posts
 
-- [Doctrine, QueryBuilder::setMaxResults() and collections associations are on a boat](https://hugo.alliau.me/2022/01/07/doctrine-setmaxresults-and-collections-associations-are-on-a-boat/) (6 days ago)
+- [Doctrine, QueryBuilder::setMaxResults() and collections associations are on a boat](https://hugo.alliau.me/2022/01/07/doctrine-setmaxresults-and-collections-associations-are-on-a-boat/) (1 week ago)
 - [Migration to GitHub-native Dependabot: solutions for auto-merge and Action secrets](https://hugo.alliau.me/2021/05/04/migration-to-github-native-dependabot-solutions-for-auto-merge-and-action-secrets/) (8 months ago)
 - [Migration de notre stack de développement vers Docker](https://hugo.alliau.me/2021/04/26/migration-stack-developpement/) (8 months ago)
 - [Generate PDFs on Amazon AWS with PHP and Puppeteer: The Best Way](https://hugo.alliau.me/2020/04/21/generate-pdfs-on-amazon-aws-with-php-and-puppeteer-the-best-way/) (2 years ago)
