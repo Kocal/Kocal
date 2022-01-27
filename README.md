@@ -2,9 +2,9 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [fix: lazy-load ESLint plugin dependency, fix #1075](https://github.com/symfony/webpack-encore/pull/1076) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (5 days ago)
+- ![](./assets/pr-merged.svg) [fix: lazy-load ESLint plugin dependency, fix #1075](https://github.com/symfony/webpack-encore/pull/1076) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (6 days ago)
 - ![](./assets/pr-merged.svg) [Doctrine, &#34;QueryBuilder::setMaxResults()&#34; and collections associations are on a boat](https://github.com/Kocal/blog/pull/130) on [Kocal/blog](https://github.com/Kocal/blog) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [chore: reword error message in CI](https://github.com/symfony-cli/symfony-cli/pull/23) on [symfony-cli/symfony-cli](https://github.com/symfony-cli/symfony-cli) (2 weeks ago)
+- ![](./assets/pr-merged.svg) [chore: reword error message in CI](https://github.com/symfony-cli/symfony-cli/pull/23) on [symfony-cli/symfony-cli](https://github.com/symfony-cli/symfony-cli) (3 weeks ago)
 - ![](./assets/pr-open.svg) [fix: PHP 8 at composer install &#43; PHPUnit tests](https://github.com/ckfinder/ckfinder-symfony-bundle/pull/37) on [ckfinder/ckfinder-symfony-bundle](https://github.com/ckfinder/ckfinder-symfony-bundle) (1 month ago)
 - ![](./assets/pr-merged.svg) [chore: make CI working again](https://github.com/Kocal/SymfonyMailerTesting/pull/31) on [Kocal/SymfonyMailerTesting](https://github.com/Kocal/SymfonyMailerTesting) (1 month ago)
 - ![](./assets/pr-merged.svg) [docs: split Cypress and Behat docs](https://github.com/Kocal/SymfonyMailerTesting/pull/30) on [Kocal/SymfonyMailerTesting](https://github.com/Kocal/SymfonyMailerTesting) (1 month ago)
@@ -13,7 +13,7 @@
 - ![](./assets/pr-merged.svg) [feat(no-extraneous-dependencies): allow more TypeScript files](https://github.com/Kocal/eslint-config-generator/pull/9) on [Kocal/eslint-config-generator](https://github.com/Kocal/eslint-config-generator) (2 months ago)
 - ![](./assets/pr-merged.svg) [fix(readme): close &lt;strong&gt; tag properly](https://github.com/egoist/dum/pull/8) on [egoist/dum](https://github.com/egoist/dum) (2 months ago)
 - ![](./assets/pr-merged.svg) [[Translation] Fix TranslationPullCommand with ICU translations](https://github.com/symfony/symfony/pull/44085) on [symfony/symfony](https://github.com/symfony/symfony) (2 months ago)
-- ![](./assets/pr-merged.svg) [fix: update caniuse-lite](https://github.com/Kocal/eslint-config-generator/pull/8) on [Kocal/eslint-config-generator](https://github.com/Kocal/eslint-config-generator) (2 months ago)
+- ![](./assets/pr-merged.svg) [fix: update caniuse-lite](https://github.com/Kocal/eslint-config-generator/pull/8) on [Kocal/eslint-config-generator](https://github.com/Kocal/eslint-config-generator) (3 months ago)
 - ![](./assets/pr-merged.svg) [feat: add Symfony 6 to SeoBundle](https://github.com/sonata-project/dev-kit/pull/1739) on [sonata-project/dev-kit](https://github.com/sonata-project/dev-kit) (3 months ago)
 - ![](./assets/pr-merged.svg) [feat: add Symfony 6 to SeoBundle](https://github.com/sonata-project/SonataSeoBundle/pull/614) on [sonata-project/SonataSeoBundle](https://github.com/sonata-project/SonataSeoBundle) (3 months ago)
 - ![](./assets/pr-merged.svg) [feat: add Symfony 6 support](https://github.com/sonata-project/SonataIntlBundle/pull/475) on [sonata-project/SonataIntlBundle](https://github.com/sonata-project/SonataIntlBundle) (3 months ago)
