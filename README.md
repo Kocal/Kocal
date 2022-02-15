@@ -2,7 +2,7 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [fix(bridge:JavaScript): fix &#34;isMessageEvent()&#34; checks](https://github.com/Kocal/SymfonyMailerTesting/pull/32) on [Kocal/SymfonyMailerTesting](https://github.com/Kocal/SymfonyMailerTesting) (today)
+- ![](./assets/pr-merged.svg) [fix(bridge:JavaScript): fix &#34;isMessageEvent()&#34; checks](https://github.com/Kocal/SymfonyMailerTesting/pull/32) on [Kocal/SymfonyMailerTesting](https://github.com/Kocal/SymfonyMailerTesting) (1 day ago)
 - ![](./assets/pr-merged.svg) [fix: lazy-load ESLint plugin dependency, fix #1075](https://github.com/symfony/webpack-encore/pull/1076) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [Doctrine, &#34;QueryBuilder::setMaxResults()&#34; and collections associations are on a boat](https://github.com/Kocal/blog/pull/130) on [Kocal/blog](https://github.com/Kocal/blog) (1 month ago)
 - ![](./assets/pr-merged.svg) [chore: reword error message in CI](https://github.com/symfony-cli/symfony-cli/pull/23) on [symfony-cli/symfony-cli](https://github.com/symfony-cli/symfony-cli) (1 month ago)
