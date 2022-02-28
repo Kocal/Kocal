@@ -3,7 +3,7 @@
 #### 👷 My recent pull requests
 
 - ![](./assets/pr-merged.svg) [feat(nodejs): drop Node.js 10, add Node.js 16](https://github.com/Kocal/eslint-config-generator/pull/11) on [Kocal/eslint-config-generator](https://github.com/Kocal/eslint-config-generator) (1 week ago)
-- ![](./assets/pr-merged.svg) [fix(bridge:JavaScript): fix &#34;isMessageEvent()&#34; checks](https://github.com/Kocal/SymfonyMailerTesting/pull/32) on [Kocal/SymfonyMailerTesting](https://github.com/Kocal/SymfonyMailerTesting) (1 week ago)
+- ![](./assets/pr-merged.svg) [fix(bridge:JavaScript): fix &#34;isMessageEvent()&#34; checks](https://github.com/Kocal/SymfonyMailerTesting/pull/32) on [Kocal/SymfonyMailerTesting](https://github.com/Kocal/SymfonyMailerTesting) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [fix: lazy-load ESLint plugin dependency, fix #1075](https://github.com/symfony/webpack-encore/pull/1076) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 month ago)
 - ![](./assets/pr-merged.svg) [Doctrine, &#34;QueryBuilder::setMaxResults()&#34; and collections associations are on a boat](https://github.com/Kocal/blog/pull/130) on [Kocal/blog](https://github.com/Kocal/blog) (1 month ago)
 - ![](./assets/pr-merged.svg) [chore: reword error message in CI](https://github.com/symfony-cli/symfony-cli/pull/23) on [symfony-cli/symfony-cli](https://github.com/symfony-cli/symfony-cli) (1 month ago)
@@ -21,7 +21,7 @@
 #### 📜 My recent blog posts
 
 - [Doctrine, QueryBuilder::setMaxResults() and collections associations are on a boat](https://hugo.alliau.me/2022/01/07/doctrine-setmaxresults-and-collections-associations-are-on-a-boat/) (1 month ago)
-- [Migration to GitHub-native Dependabot: solutions for auto-merge and Action secrets](https://hugo.alliau.me/2021/05/04/migration-to-github-native-dependabot-solutions-for-auto-merge-and-action-secrets/) (9 months ago)
+- [Migration to GitHub-native Dependabot: solutions for auto-merge and Action secrets](https://hugo.alliau.me/2021/05/04/migration-to-github-native-dependabot-solutions-for-auto-merge-and-action-secrets/) (10 months ago)
 - [Migration de notre stack de développement vers Docker](https://hugo.alliau.me/2021/04/26/migration-stack-developpement/) (10 months ago)
 - [Generate PDFs on Amazon AWS with PHP and Puppeteer: The Best Way](https://hugo.alliau.me/2020/04/21/generate-pdfs-on-amazon-aws-with-php-and-puppeteer-the-best-way/) (2 years ago)
 - [Generate PDFs on Amazon AWS with PHP and Puppeteer](https://hugo.alliau.me/2020/01/02/generate-pdfs-on-amazon-aws-with-php-and-puppeteer/) (2 years ago)
