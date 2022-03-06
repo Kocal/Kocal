@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-merged.svg) [Clarify configurable rules definition documentation](https://github.com/phpstan/phpstan/pull/6741) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
 - ![](./assets/pr-merged.svg) [feat(nodejs): drop Node.js 10, add Node.js 16](https://github.com/Kocal/eslint-config-generator/pull/11) on [Kocal/eslint-config-generator](https://github.com/Kocal/eslint-config-generator) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [fix(bridge:JavaScript): fix &#34;isMessageEvent()&#34; checks](https://github.com/Kocal/SymfonyMailerTesting/pull/32) on [Kocal/SymfonyMailerTesting](https://github.com/Kocal/SymfonyMailerTesting) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [fix: lazy-load ESLint plugin dependency, fix #1075](https://github.com/symfony/webpack-encore/pull/1076) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 month ago)
@@ -10,13 +11,12 @@
 - ![](./assets/pr-open.svg) [fix: PHP 8 at composer install &#43; PHPUnit tests](https://github.com/ckfinder/ckfinder-symfony-bundle/pull/37) on [ckfinder/ckfinder-symfony-bundle](https://github.com/ckfinder/ckfinder-symfony-bundle) (2 months ago)
 - ![](./assets/pr-merged.svg) [chore: make CI working again](https://github.com/Kocal/SymfonyMailerTesting/pull/31) on [Kocal/SymfonyMailerTesting](https://github.com/Kocal/SymfonyMailerTesting) (2 months ago)
 - ![](./assets/pr-merged.svg) [docs: split Cypress and Behat docs](https://github.com/Kocal/SymfonyMailerTesting/pull/30) on [Kocal/SymfonyMailerTesting](https://github.com/Kocal/SymfonyMailerTesting) (2 months ago)
-- ![](./assets/pr-merged.svg) [[Translation] [Loco] Send `If-Modified-Since` header when possible](https://github.com/symfony/symfony/pull/44484) on [symfony/symfony](https://github.com/symfony/symfony) (2 months ago)
+- ![](./assets/pr-merged.svg) [[Translation] [Loco] Send `If-Modified-Since` header when possible](https://github.com/symfony/symfony/pull/44484) on [symfony/symfony](https://github.com/symfony/symfony) (3 months ago)
 - ![](./assets/pr-merged.svg) [[Translation] Make http requests synchronous when reading the Loco API](https://github.com/symfony/symfony/pull/44416) on [symfony/symfony](https://github.com/symfony/symfony) (3 months ago)
 - ![](./assets/pr-merged.svg) [feat(no-extraneous-dependencies): allow more TypeScript files](https://github.com/Kocal/eslint-config-generator/pull/9) on [Kocal/eslint-config-generator](https://github.com/Kocal/eslint-config-generator) (3 months ago)
 - ![](./assets/pr-merged.svg) [fix(readme): close &lt;strong&gt; tag properly](https://github.com/egoist/dum/pull/8) on [egoist/dum](https://github.com/egoist/dum) (3 months ago)
 - ![](./assets/pr-merged.svg) [[Translation] Fix TranslationPullCommand with ICU translations](https://github.com/symfony/symfony/pull/44085) on [symfony/symfony](https://github.com/symfony/symfony) (3 months ago)
 - ![](./assets/pr-merged.svg) [fix: update caniuse-lite](https://github.com/Kocal/eslint-config-generator/pull/8) on [Kocal/eslint-config-generator](https://github.com/Kocal/eslint-config-generator) (4 months ago)
-- ![](./assets/pr-merged.svg) [feat: add Symfony 6 to SeoBundle](https://github.com/sonata-project/dev-kit/pull/1739) on [sonata-project/dev-kit](https://github.com/sonata-project/dev-kit) (4 months ago)
 
 #### 📜 My recent blog posts
 
