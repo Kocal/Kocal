@@ -2,9 +2,9 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [[Runtime] Fix passing $debug parameter to `ErrorHandler`](https://github.com/symfony/symfony/pull/45675) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
-- ![](./assets/pr-merged.svg) [Clarify dependency injection configuration documentation](https://github.com/phpstan/phpstan/pull/6749) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
-- ![](./assets/pr-merged.svg) [Clarify configurable rules definition documentation](https://github.com/phpstan/phpstan/pull/6741) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (5 days ago)
+- ![](./assets/pr-merged.svg) [[Runtime] Fix passing $debug parameter to `ErrorHandler`](https://github.com/symfony/symfony/pull/45675) on [symfony/symfony](https://github.com/symfony/symfony) (3 days ago)
+- ![](./assets/pr-merged.svg) [Clarify dependency injection configuration documentation](https://github.com/phpstan/phpstan/pull/6749) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (5 days ago)
+- ![](./assets/pr-merged.svg) [Clarify configurable rules definition documentation](https://github.com/phpstan/phpstan/pull/6741) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (6 days ago)
 - ![](./assets/pr-merged.svg) [feat(nodejs): drop Node.js 10, add Node.js 16](https://github.com/Kocal/eslint-config-generator/pull/11) on [Kocal/eslint-config-generator](https://github.com/Kocal/eslint-config-generator) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [fix(bridge:JavaScript): fix &#34;isMessageEvent()&#34; checks](https://github.com/Kocal/SymfonyMailerTesting/pull/32) on [Kocal/SymfonyMailerTesting](https://github.com/Kocal/SymfonyMailerTesting) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [fix: lazy-load ESLint plugin dependency, fix #1075](https://github.com/symfony/webpack-encore/pull/1076) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 month ago)
