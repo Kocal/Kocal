@@ -2,7 +2,8 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [feat(symfony-app.docker-hybrid): remove RabbitMQ/AMQP integration](https://github.com/wamiz/manala-recipes/pull/9) on [wamiz/manala-recipes](https://github.com/wamiz/manala-recipes) (2 days ago)
+- ![](./assets/pr-closed.svg) [feat: support Symfony 5 and 6&#43;](https://github.com/ckfinder/ckfinder-symfony-bundle/pull/43) on [ckfinder/ckfinder-symfony-bundle](https://github.com/ckfinder/ckfinder-symfony-bundle) (1 day ago)
+- ![](./assets/pr-merged.svg) [feat(symfony-app.docker-hybrid): remove RabbitMQ/AMQP integration](https://github.com/wamiz/manala-recipes/pull/9) on [wamiz/manala-recipes](https://github.com/wamiz/manala-recipes) (3 days ago)
 - ![](./assets/pr-merged.svg) [[Runtime] Fix passing $debug parameter to `ErrorHandler`](https://github.com/symfony/symfony/pull/45675) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - ![](./assets/pr-merged.svg) [Clarify dependency injection configuration documentation](https://github.com/phpstan/phpstan/pull/6749) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 - ![](./assets/pr-merged.svg) [Clarify configurable rules definition documentation](https://github.com/phpstan/phpstan/pull/6741) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
@@ -16,7 +17,6 @@
 - ![](./assets/pr-merged.svg) [docs: split Cypress and Behat docs](https://github.com/Kocal/SymfonyMailerTesting/pull/30) on [Kocal/SymfonyMailerTesting](https://github.com/Kocal/SymfonyMailerTesting) (2 months ago)
 - ![](./assets/pr-merged.svg) [[Translation] [Loco] Send `If-Modified-Since` header when possible](https://github.com/symfony/symfony/pull/44484) on [symfony/symfony](https://github.com/symfony/symfony) (3 months ago)
 - ![](./assets/pr-merged.svg) [[Translation] Make http requests synchronous when reading the Loco API](https://github.com/symfony/symfony/pull/44416) on [symfony/symfony](https://github.com/symfony/symfony) (3 months ago)
-- ![](./assets/pr-merged.svg) [feat(no-extraneous-dependencies): allow more TypeScript files](https://github.com/Kocal/eslint-config-generator/pull/9) on [Kocal/eslint-config-generator](https://github.com/Kocal/eslint-config-generator) (3 months ago)
 
 #### 📜 My recent blog posts
 
