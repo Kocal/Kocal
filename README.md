@@ -2,12 +2,12 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-closed.svg) [feat: support Symfony 5 and 6&#43;](https://github.com/ckfinder/ckfinder-symfony-bundle/pull/43) on [ckfinder/ckfinder-symfony-bundle](https://github.com/ckfinder/ckfinder-symfony-bundle) (2 days ago)
-- ![](./assets/pr-merged.svg) [feat(symfony-app.docker-hybrid): remove RabbitMQ/AMQP integration](https://github.com/wamiz/manala-recipes/pull/9) on [wamiz/manala-recipes](https://github.com/wamiz/manala-recipes) (4 days ago)
+- ![](./assets/pr-closed.svg) [feat: support Symfony 5 and 6&#43;](https://github.com/ckfinder/ckfinder-symfony-bundle/pull/43) on [ckfinder/ckfinder-symfony-bundle](https://github.com/ckfinder/ckfinder-symfony-bundle) (3 days ago)
+- ![](./assets/pr-merged.svg) [feat(symfony-app.docker-hybrid): remove RabbitMQ/AMQP integration](https://github.com/wamiz/manala-recipes/pull/9) on [wamiz/manala-recipes](https://github.com/wamiz/manala-recipes) (5 days ago)
 - ![](./assets/pr-merged.svg) [[Runtime] Fix passing $debug parameter to `ErrorHandler`](https://github.com/symfony/symfony/pull/45675) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - ![](./assets/pr-merged.svg) [Clarify dependency injection configuration documentation](https://github.com/phpstan/phpstan/pull/6749) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
-- ![](./assets/pr-merged.svg) [Clarify configurable rules definition documentation](https://github.com/phpstan/phpstan/pull/6741) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
-- ![](./assets/pr-merged.svg) [feat(nodejs): drop Node.js 10, add Node.js 16](https://github.com/Kocal/eslint-config-generator/pull/11) on [Kocal/eslint-config-generator](https://github.com/Kocal/eslint-config-generator) (3 weeks ago)
+- ![](./assets/pr-merged.svg) [Clarify configurable rules definition documentation](https://github.com/phpstan/phpstan/pull/6741) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 weeks ago)
+- ![](./assets/pr-merged.svg) [feat(nodejs): drop Node.js 10, add Node.js 16](https://github.com/Kocal/eslint-config-generator/pull/11) on [Kocal/eslint-config-generator](https://github.com/Kocal/eslint-config-generator) (4 weeks ago)
 - ![](./assets/pr-merged.svg) [fix(bridge:JavaScript): fix &#34;isMessageEvent()&#34; checks](https://github.com/Kocal/SymfonyMailerTesting/pull/32) on [Kocal/SymfonyMailerTesting](https://github.com/Kocal/SymfonyMailerTesting) (1 month ago)
 - ![](./assets/pr-merged.svg) [fix: lazy-load ESLint plugin dependency, fix #1075](https://github.com/symfony/webpack-encore/pull/1076) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 month ago)
 - ![](./assets/pr-merged.svg) [Doctrine, &#34;QueryBuilder::setMaxResults()&#34; and collections associations are on a boat](https://github.com/Kocal/blog/pull/130) on [Kocal/blog](https://github.com/Kocal/blog) (2 months ago)
