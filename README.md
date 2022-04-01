@@ -2,7 +2,8 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [Scope Flysystem 1.x dependencies](https://github.com/Kocal/ckfinder-symfony-bundle/pull/13) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (4 days ago)
+- ![](./assets/pr-merged.svg) [docs(changelog): fix raw glob imports syntax](https://github.com/vitejs/vite/pull/7540) on [vitejs/vite](https://github.com/vitejs/vite) (1 day ago)
+- ![](./assets/pr-merged.svg) [Scope Flysystem 1.x dependencies](https://github.com/Kocal/ckfinder-symfony-bundle/pull/13) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (5 days ago)
 - ![](./assets/pr-open.svg) [Fix typo in option description](https://github.com/humbug/php-scoper/pull/669) on [humbug/php-scoper](https://github.com/humbug/php-scoper) (1 week ago)
 - ![](./assets/pr-merged.svg) [Setup CI](https://github.com/Kocal/ckfinder-symfony-bundle/pull/12) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (1 week ago)
 - ![](./assets/pr-merged.svg) [chore: setup PHPStan](https://github.com/Kocal/ckfinder-symfony-bundle/pull/11) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (1 week ago)
@@ -16,7 +17,6 @@
 - ![](./assets/pr-merged.svg) [[Runtime] Fix passing $debug parameter to `ErrorHandler`](https://github.com/symfony/symfony/pull/45675) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [Clarify dependency injection configuration documentation](https://github.com/phpstan/phpstan/pull/6749) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [Clarify configurable rules definition documentation](https://github.com/phpstan/phpstan/pull/6741) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 weeks ago)
-- ![](./assets/pr-merged.svg) [feat(nodejs): drop Node.js 10, add Node.js 16](https://github.com/Kocal/eslint-config-generator/pull/11) on [Kocal/eslint-config-generator](https://github.com/Kocal/eslint-config-generator) (1 month ago)
 
 #### 📜 My recent blog posts
 
