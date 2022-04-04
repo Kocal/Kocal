@@ -2,21 +2,21 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [docs(changelog): fix raw glob imports syntax](https://github.com/vitejs/vite/pull/7540) on [vitejs/vite](https://github.com/vitejs/vite) (3 days ago)
+- ![](./assets/pr-merged.svg) [docs(changelog): fix raw glob imports syntax](https://github.com/vitejs/vite/pull/7540) on [vitejs/vite](https://github.com/vitejs/vite) (4 days ago)
 - ![](./assets/pr-merged.svg) [Scope Flysystem 1.x dependencies](https://github.com/Kocal/ckfinder-symfony-bundle/pull/13) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (1 week ago)
 - ![](./assets/pr-open.svg) [Fix typo in option description](https://github.com/humbug/php-scoper/pull/669) on [humbug/php-scoper](https://github.com/humbug/php-scoper) (1 week ago)
-- ![](./assets/pr-merged.svg) [Setup CI](https://github.com/Kocal/ckfinder-symfony-bundle/pull/12) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (1 week ago)
-- ![](./assets/pr-merged.svg) [chore: setup PHPStan](https://github.com/Kocal/ckfinder-symfony-bundle/pull/11) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (1 week ago)
+- ![](./assets/pr-merged.svg) [Setup CI](https://github.com/Kocal/ckfinder-symfony-bundle/pull/12) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (2 weeks ago)
+- ![](./assets/pr-merged.svg) [chore: setup PHPStan](https://github.com/Kocal/ckfinder-symfony-bundle/pull/11) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [chore: modernize codebase, thanks to Rector](https://github.com/Kocal/ckfinder-symfony-bundle/pull/10) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [fix(tests): make tests passing again, close #3](https://github.com/Kocal/ckfinder-symfony-bundle/pull/9) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [chore: setup ECS](https://github.com/Kocal/ckfinder-symfony-bundle/pull/8) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [feat: drop Symfony 3 and 4 support, support only Symfony 5 and 6&#43;, close #1](https://github.com/Kocal/ckfinder-symfony-bundle/pull/7) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (2 weeks ago)
 - ![](./assets/pr-closed.svg) [Drop Symfony 3 and 4 support, support only Symfony 5 and 6&#43;](https://github.com/ckfinder/ckfinder-symfony-bundle/pull/44) on [ckfinder/ckfinder-symfony-bundle](https://github.com/ckfinder/ckfinder-symfony-bundle) (2 weeks ago)
 - ![](./assets/pr-closed.svg) [feat: support Symfony 5 and 6&#43;](https://github.com/ckfinder/ckfinder-symfony-bundle/pull/43) on [ckfinder/ckfinder-symfony-bundle](https://github.com/ckfinder/ckfinder-symfony-bundle) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [feat(symfony-app.docker-hybrid): remove RabbitMQ/AMQP integration](https://github.com/wamiz/manala-recipes/pull/9) on [wamiz/manala-recipes](https://github.com/wamiz/manala-recipes) (2 weeks ago)
+- ![](./assets/pr-merged.svg) [feat(symfony-app.docker-hybrid): remove RabbitMQ/AMQP integration](https://github.com/wamiz/manala-recipes/pull/9) on [wamiz/manala-recipes](https://github.com/wamiz/manala-recipes) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[Runtime] Fix passing $debug parameter to `ErrorHandler`](https://github.com/symfony/symfony/pull/45675) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [Clarify dependency injection configuration documentation](https://github.com/phpstan/phpstan/pull/6749) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 weeks ago)
-- ![](./assets/pr-merged.svg) [Clarify configurable rules definition documentation](https://github.com/phpstan/phpstan/pull/6741) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 weeks ago)
+- ![](./assets/pr-merged.svg) [Clarify configurable rules definition documentation](https://github.com/phpstan/phpstan/pull/6741) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 month ago)
 
 #### 📜 My recent blog posts
 
