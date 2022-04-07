@@ -2,10 +2,10 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-closed.svg) [Remove unecessary double-quotes escaping](https://github.com/YisusOnDev/esplace-war/pull/43) on [YisusOnDev/esplace-war](https://github.com/YisusOnDev/esplace-war) (2 days ago)
-- ![](./assets/pr-closed.svg) [imp: use regex for @match](https://github.com/YisusOnDev/esplace-war/pull/8) on [YisusOnDev/esplace-war](https://github.com/YisusOnDev/esplace-war) (2 days ago)
-- ![](./assets/pr-closed.svg) [fix graphql endpoint](https://github.com/YisusOnDev/esplace-war/pull/2) on [YisusOnDev/esplace-war](https://github.com/YisusOnDev/esplace-war) (2 days ago)
-- ![](./assets/pr-merged.svg) [docs(changelog): fix raw glob imports syntax](https://github.com/vitejs/vite/pull/7540) on [vitejs/vite](https://github.com/vitejs/vite) (6 days ago)
+- ![](./assets/pr-closed.svg) [Remove unecessary double-quotes escaping](https://github.com/YisusOnDev/esplace-war/pull/43) on [YisusOnDev/esplace-war](https://github.com/YisusOnDev/esplace-war) (3 days ago)
+- ![](./assets/pr-closed.svg) [imp: use regex for @match](https://github.com/YisusOnDev/esplace-war/pull/8) on [YisusOnDev/esplace-war](https://github.com/YisusOnDev/esplace-war) (3 days ago)
+- ![](./assets/pr-closed.svg) [fix graphql endpoint](https://github.com/YisusOnDev/esplace-war/pull/2) on [YisusOnDev/esplace-war](https://github.com/YisusOnDev/esplace-war) (3 days ago)
+- ![](./assets/pr-merged.svg) [docs(changelog): fix raw glob imports syntax](https://github.com/vitejs/vite/pull/7540) on [vitejs/vite](https://github.com/vitejs/vite) (1 week ago)
 - ![](./assets/pr-merged.svg) [Scope Flysystem 1.x dependencies](https://github.com/Kocal/ckfinder-symfony-bundle/pull/13) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (1 week ago)
 - ![](./assets/pr-open.svg) [Fix typo in option description](https://github.com/humbug/php-scoper/pull/669) on [humbug/php-scoper](https://github.com/humbug/php-scoper) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Setup CI](https://github.com/Kocal/ckfinder-symfony-bundle/pull/12) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (2 weeks ago)
@@ -20,7 +20,7 @@
 
 #### 📜 My recent blog posts
 
-- [Doctrine, QueryBuilder::setMaxResults() and collections associations are on a boat](https://hugo.alliau.me/2022/01/07/doctrine-setmaxresults-and-collections-associations-are-on-a-boat/) (2 months ago)
+- [Doctrine, QueryBuilder::setMaxResults() and collections associations are on a boat](https://hugo.alliau.me/2022/01/07/doctrine-setmaxresults-and-collections-associations-are-on-a-boat/) (3 months ago)
 - [Migration to GitHub-native Dependabot: solutions for auto-merge and Action secrets](https://hugo.alliau.me/2021/05/04/migration-to-github-native-dependabot-solutions-for-auto-merge-and-action-secrets/) (11 months ago)
 - [Migration de notre stack de développement vers Docker](https://hugo.alliau.me/2021/04/26/migration-stack-developpement/) (11 months ago)
 - [Generate PDFs on Amazon AWS with PHP and Puppeteer: The Best Way](https://hugo.alliau.me/2020/04/21/generate-pdfs-on-amazon-aws-with-php-and-puppeteer-the-best-way/) (2 years ago)
