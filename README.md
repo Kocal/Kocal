@@ -2,7 +2,7 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [[Security] Add an easier way to get the current firewall configuration](https://github.com/symfony/symfony/pull/46066) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
+- ![](./assets/pr-open.svg) [[Security] Add an easier way to get the current firewall configuration](https://github.com/symfony/symfony/pull/46066) on [symfony/symfony](https://github.com/symfony/symfony) (3 days ago)
 - ![](./assets/pr-closed.svg) [Remove unecessary double-quotes escaping](https://github.com/YisusOnDev/esplace-war/pull/43) on [YisusOnDev/esplace-war](https://github.com/YisusOnDev/esplace-war) (2 weeks ago)
 - ![](./assets/pr-closed.svg) [imp: use regex for @match](https://github.com/YisusOnDev/esplace-war/pull/8) on [YisusOnDev/esplace-war](https://github.com/YisusOnDev/esplace-war) (2 weeks ago)
 - ![](./assets/pr-closed.svg) [fix graphql endpoint](https://github.com/YisusOnDev/esplace-war/pull/2) on [YisusOnDev/esplace-war](https://github.com/YisusOnDev/esplace-war) (2 weeks ago)
@@ -11,11 +11,11 @@
 - ![](./assets/pr-open.svg) [Fix typo in option description](https://github.com/humbug/php-scoper/pull/669) on [humbug/php-scoper](https://github.com/humbug/php-scoper) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [Setup CI](https://github.com/Kocal/ckfinder-symfony-bundle/pull/12) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (4 weeks ago)
 - ![](./assets/pr-merged.svg) [chore: setup PHPStan](https://github.com/Kocal/ckfinder-symfony-bundle/pull/11) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (4 weeks ago)
-- ![](./assets/pr-merged.svg) [chore: modernize codebase, thanks to Rector](https://github.com/Kocal/ckfinder-symfony-bundle/pull/10) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (4 weeks ago)
-- ![](./assets/pr-merged.svg) [fix(tests): make tests passing again, close #3](https://github.com/Kocal/ckfinder-symfony-bundle/pull/9) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (4 weeks ago)
-- ![](./assets/pr-merged.svg) [chore: setup ECS](https://github.com/Kocal/ckfinder-symfony-bundle/pull/8) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (4 weeks ago)
-- ![](./assets/pr-merged.svg) [feat: drop Symfony 3 and 4 support, support only Symfony 5 and 6&#43;, close #1](https://github.com/Kocal/ckfinder-symfony-bundle/pull/7) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (4 weeks ago)
-- ![](./assets/pr-closed.svg) [Drop Symfony 3 and 4 support, support only Symfony 5 and 6&#43;](https://github.com/ckfinder/ckfinder-symfony-bundle/pull/44) on [ckfinder/ckfinder-symfony-bundle](https://github.com/ckfinder/ckfinder-symfony-bundle) (4 weeks ago)
+- ![](./assets/pr-merged.svg) [chore: modernize codebase, thanks to Rector](https://github.com/Kocal/ckfinder-symfony-bundle/pull/10) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (1 month ago)
+- ![](./assets/pr-merged.svg) [fix(tests): make tests passing again, close #3](https://github.com/Kocal/ckfinder-symfony-bundle/pull/9) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (1 month ago)
+- ![](./assets/pr-merged.svg) [chore: setup ECS](https://github.com/Kocal/ckfinder-symfony-bundle/pull/8) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (1 month ago)
+- ![](./assets/pr-merged.svg) [feat: drop Symfony 3 and 4 support, support only Symfony 5 and 6&#43;, close #1](https://github.com/Kocal/ckfinder-symfony-bundle/pull/7) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (1 month ago)
+- ![](./assets/pr-closed.svg) [Drop Symfony 3 and 4 support, support only Symfony 5 and 6&#43;](https://github.com/ckfinder/ckfinder-symfony-bundle/pull/44) on [ckfinder/ckfinder-symfony-bundle](https://github.com/ckfinder/ckfinder-symfony-bundle) (1 month ago)
 - ![](./assets/pr-closed.svg) [feat: support Symfony 5 and 6&#43;](https://github.com/ckfinder/ckfinder-symfony-bundle/pull/43) on [ckfinder/ckfinder-symfony-bundle](https://github.com/ckfinder/ckfinder-symfony-bundle) (1 month ago)
 
 #### 📜 My recent blog posts
