@@ -2,7 +2,7 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [[Security] Add an easier way to get the current firewall configuration](https://github.com/symfony/symfony/pull/46066) on [symfony/symfony](https://github.com/symfony/symfony) (6 days ago)
+- ![](./assets/pr-open.svg) [[Security] Add an easier way to get the current firewall configuration](https://github.com/symfony/symfony/pull/46066) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - ![](./assets/pr-closed.svg) [Remove unecessary double-quotes escaping](https://github.com/YisusOnDev/esplace-war/pull/43) on [YisusOnDev/esplace-war](https://github.com/YisusOnDev/esplace-war) (2 weeks ago)
 - ![](./assets/pr-closed.svg) [imp: use regex for @match](https://github.com/YisusOnDev/esplace-war/pull/8) on [YisusOnDev/esplace-war](https://github.com/YisusOnDev/esplace-war) (2 weeks ago)
 - ![](./assets/pr-closed.svg) [fix graphql endpoint](https://github.com/YisusOnDev/esplace-war/pull/2) on [YisusOnDev/esplace-war](https://github.com/YisusOnDev/esplace-war) (2 weeks ago)
