@@ -7,7 +7,7 @@
 - ![](./assets/pr-closed.svg) [imp: use regex for @match](https://github.com/YisusOnDev/esplace-war/pull/8) on [YisusOnDev/esplace-war](https://github.com/YisusOnDev/esplace-war) (3 weeks ago)
 - ![](./assets/pr-closed.svg) [fix graphql endpoint](https://github.com/YisusOnDev/esplace-war/pull/2) on [YisusOnDev/esplace-war](https://github.com/YisusOnDev/esplace-war) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [docs(changelog): fix raw glob imports syntax](https://github.com/vitejs/vite/pull/7540) on [vitejs/vite](https://github.com/vitejs/vite) (3 weeks ago)
-- ![](./assets/pr-merged.svg) [Scope Flysystem 1.x dependencies](https://github.com/Kocal/ckfinder-symfony-bundle/pull/13) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (4 weeks ago)
+- ![](./assets/pr-merged.svg) [Scope Flysystem 1.x dependencies](https://github.com/Kocal/ckfinder-symfony-bundle/pull/13) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (1 month ago)
 - ![](./assets/pr-open.svg) [Fix typo in option description](https://github.com/humbug/php-scoper/pull/669) on [humbug/php-scoper](https://github.com/humbug/php-scoper) (1 month ago)
 - ![](./assets/pr-merged.svg) [Setup CI](https://github.com/Kocal/ckfinder-symfony-bundle/pull/12) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (1 month ago)
 - ![](./assets/pr-merged.svg) [chore: setup PHPStan](https://github.com/Kocal/ckfinder-symfony-bundle/pull/11) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (1 month ago)
