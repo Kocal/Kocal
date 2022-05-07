@@ -2,8 +2,11 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [feat(symfony-app.docker-hybrid): add dynamoDB support](https://github.com/wamiz/manala-recipes/pull/10) on [wamiz/manala-recipes](https://github.com/wamiz/manala-recipes) (3 days ago)
-- ![](./assets/pr-open.svg) [[Security] Add an easier way to get the current firewall configuration](https://github.com/symfony/symfony/pull/46066) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
+- ![](./assets/pr-merged.svg) [Revert &#34;feat(symfony-app.docker-hybrid): add dynamoDB support&#34;](https://github.com/wamiz/manala-recipes/pull/11) on [wamiz/manala-recipes](https://github.com/wamiz/manala-recipes) (1 day ago)
+- ![](./assets/pr-merged.svg) [feat(backend): Add a way to inject a custom S3 client instead](https://github.com/Kocal/ckfinder-symfony-bundle/pull/17) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (1 day ago)
+- ![](./assets/pr-merged.svg) [fix(scoper): don&#39;t scope AWS dependency, close #15](https://github.com/Kocal/ckfinder-symfony-bundle/pull/16) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (1 day ago)
+- ![](./assets/pr-merged.svg) [feat(symfony-app.docker-hybrid): add dynamoDB support](https://github.com/wamiz/manala-recipes/pull/10) on [wamiz/manala-recipes](https://github.com/wamiz/manala-recipes) (4 days ago)
+- ![](./assets/pr-open.svg) [[Security] Add an easier way to get the current firewall configuration](https://github.com/symfony/symfony/pull/46066) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
 - ![](./assets/pr-closed.svg) [Remove unecessary double-quotes escaping](https://github.com/YisusOnDev/esplace-war/pull/43) on [YisusOnDev/esplace-war](https://github.com/YisusOnDev/esplace-war) (1 month ago)
 - ![](./assets/pr-closed.svg) [imp: use regex for @match](https://github.com/YisusOnDev/esplace-war/pull/8) on [YisusOnDev/esplace-war](https://github.com/YisusOnDev/esplace-war) (1 month ago)
 - ![](./assets/pr-closed.svg) [fix graphql endpoint](https://github.com/YisusOnDev/esplace-war/pull/2) on [YisusOnDev/esplace-war](https://github.com/YisusOnDev/esplace-war) (1 month ago)
@@ -14,13 +17,10 @@
 - ![](./assets/pr-merged.svg) [chore: setup PHPStan](https://github.com/Kocal/ckfinder-symfony-bundle/pull/11) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (1 month ago)
 - ![](./assets/pr-merged.svg) [chore: modernize codebase, thanks to Rector](https://github.com/Kocal/ckfinder-symfony-bundle/pull/10) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (1 month ago)
 - ![](./assets/pr-merged.svg) [fix(tests): make tests passing again, close #3](https://github.com/Kocal/ckfinder-symfony-bundle/pull/9) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (1 month ago)
-- ![](./assets/pr-merged.svg) [chore: setup ECS](https://github.com/Kocal/ckfinder-symfony-bundle/pull/8) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (1 month ago)
-- ![](./assets/pr-merged.svg) [feat: drop Symfony 3 and 4 support, support only Symfony 5 and 6&#43;, close #1](https://github.com/Kocal/ckfinder-symfony-bundle/pull/7) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (1 month ago)
-- ![](./assets/pr-closed.svg) [Drop Symfony 3 and 4 support, support only Symfony 5 and 6&#43;](https://github.com/ckfinder/ckfinder-symfony-bundle/pull/44) on [ckfinder/ckfinder-symfony-bundle](https://github.com/ckfinder/ckfinder-symfony-bundle) (1 month ago)
 
 #### 📜 My recent blog posts
 
-- [Doctrine, QueryBuilder::setMaxResults() and collections associations are on a boat](https://hugo.alliau.me/2022/01/07/doctrine-setmaxresults-and-collections-associations-are-on-a-boat/) (3 months ago)
+- [Doctrine, QueryBuilder::setMaxResults() and collections associations are on a boat](https://hugo.alliau.me/2022/01/07/doctrine-setmaxresults-and-collections-associations-are-on-a-boat/) (4 months ago)
 - [Migration to GitHub-native Dependabot: solutions for auto-merge and Action secrets](https://hugo.alliau.me/2021/05/04/migration-to-github-native-dependabot-solutions-for-auto-merge-and-action-secrets/) (1 year ago)
 - [Migration de notre stack de développement vers Docker](https://hugo.alliau.me/2021/04/26/migration-stack-developpement/) (1 year ago)
 - [Generate PDFs on Amazon AWS with PHP and Puppeteer: The Best Way](https://hugo.alliau.me/2020/04/21/generate-pdfs-on-amazon-aws-with-php-and-puppeteer-the-best-way/) (2 years ago)
