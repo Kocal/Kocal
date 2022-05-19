@@ -15,8 +15,8 @@
 - ![](./assets/pr-open.svg) [Fix typo in option description](https://github.com/humbug/php-scoper/pull/669) on [humbug/php-scoper](https://github.com/humbug/php-scoper) (1 month ago)
 - ![](./assets/pr-merged.svg) [Setup CI](https://github.com/Kocal/ckfinder-symfony-bundle/pull/12) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (1 month ago)
 - ![](./assets/pr-merged.svg) [chore: setup PHPStan](https://github.com/Kocal/ckfinder-symfony-bundle/pull/11) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (1 month ago)
-- ![](./assets/pr-merged.svg) [chore: modernize codebase, thanks to Rector](https://github.com/Kocal/ckfinder-symfony-bundle/pull/10) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (1 month ago)
-- ![](./assets/pr-merged.svg) [fix(tests): make tests passing again, close #3](https://github.com/Kocal/ckfinder-symfony-bundle/pull/9) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (1 month ago)
+- ![](./assets/pr-merged.svg) [chore: modernize codebase, thanks to Rector](https://github.com/Kocal/ckfinder-symfony-bundle/pull/10) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (2 months ago)
+- ![](./assets/pr-merged.svg) [fix(tests): make tests passing again, close #3](https://github.com/Kocal/ckfinder-symfony-bundle/pull/9) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (2 months ago)
 
 #### 📜 My recent blog posts
 
