@@ -2,9 +2,9 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [Revert &#34;feat(symfony-app.docker-hybrid): add dynamoDB support&#34;](https://github.com/wamiz/manala-recipes/pull/11) on [wamiz/manala-recipes](https://github.com/wamiz/manala-recipes) (1 week ago)
-- ![](./assets/pr-merged.svg) [feat(backend): Add a way to inject a custom S3 client instead](https://github.com/Kocal/ckfinder-symfony-bundle/pull/17) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (1 week ago)
-- ![](./assets/pr-merged.svg) [fix(scoper): don&#39;t scope AWS dependency, close #15](https://github.com/Kocal/ckfinder-symfony-bundle/pull/16) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (1 week ago)
+- ![](./assets/pr-merged.svg) [Revert &#34;feat(symfony-app.docker-hybrid): add dynamoDB support&#34;](https://github.com/wamiz/manala-recipes/pull/11) on [wamiz/manala-recipes](https://github.com/wamiz/manala-recipes) (2 weeks ago)
+- ![](./assets/pr-merged.svg) [feat(backend): Add a way to inject a custom S3 client instead](https://github.com/Kocal/ckfinder-symfony-bundle/pull/17) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (2 weeks ago)
+- ![](./assets/pr-merged.svg) [fix(scoper): don&#39;t scope AWS dependency, close #15](https://github.com/Kocal/ckfinder-symfony-bundle/pull/16) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [feat(symfony-app.docker-hybrid): add dynamoDB support](https://github.com/wamiz/manala-recipes/pull/10) on [wamiz/manala-recipes](https://github.com/wamiz/manala-recipes) (2 weeks ago)
 - ![](./assets/pr-open.svg) [[Security] Add an easier way to get the current firewall configuration](https://github.com/symfony/symfony/pull/46066) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
 - ![](./assets/pr-closed.svg) [Remove unecessary double-quotes escaping](https://github.com/YisusOnDev/esplace-war/pull/43) on [YisusOnDev/esplace-war](https://github.com/YisusOnDev/esplace-war) (1 month ago)
@@ -13,8 +13,8 @@
 - ![](./assets/pr-merged.svg) [docs(changelog): fix raw glob imports syntax](https://github.com/vitejs/vite/pull/7540) on [vitejs/vite](https://github.com/vitejs/vite) (1 month ago)
 - ![](./assets/pr-merged.svg) [Scope Flysystem 1.x dependencies](https://github.com/Kocal/ckfinder-symfony-bundle/pull/13) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (1 month ago)
 - ![](./assets/pr-open.svg) [Fix typo in option description](https://github.com/humbug/php-scoper/pull/669) on [humbug/php-scoper](https://github.com/humbug/php-scoper) (1 month ago)
-- ![](./assets/pr-merged.svg) [Setup CI](https://github.com/Kocal/ckfinder-symfony-bundle/pull/12) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (1 month ago)
-- ![](./assets/pr-merged.svg) [chore: setup PHPStan](https://github.com/Kocal/ckfinder-symfony-bundle/pull/11) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (1 month ago)
+- ![](./assets/pr-merged.svg) [Setup CI](https://github.com/Kocal/ckfinder-symfony-bundle/pull/12) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (2 months ago)
+- ![](./assets/pr-merged.svg) [chore: setup PHPStan](https://github.com/Kocal/ckfinder-symfony-bundle/pull/11) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (2 months ago)
 - ![](./assets/pr-merged.svg) [chore: modernize codebase, thanks to Rector](https://github.com/Kocal/ckfinder-symfony-bundle/pull/10) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (2 months ago)
 - ![](./assets/pr-merged.svg) [fix(tests): make tests passing again, close #3](https://github.com/Kocal/ckfinder-symfony-bundle/pull/9) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (2 months ago)
 
