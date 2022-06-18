@@ -2,9 +2,11 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [refacto: remove Guzzle, use HTTPlug instead](https://github.com/wamiz/splio-sdk/pull/1) on [wamiz/splio-sdk](https://github.com/wamiz/splio-sdk) (5 days ago)
-- ![](./assets/pr-merged.svg) [refacto: remove Guzzle, use HTTPlug instead](https://github.com/wamiz/amp-library/pull/1) on [wamiz/amp-library](https://github.com/wamiz/amp-library) (6 days ago)
-- ![](./assets/pr-open.svg) [refacto: remove Guzzle, use HTTPlug instead](https://github.com/Lullabot/amp-library/pull/303) on [Lullabot/amp-library](https://github.com/Lullabot/amp-library) (6 days ago)
+- ![](./assets/pr-merged.svg) [Drop ESLint 7, move to ESLint 8](https://github.com/Kocal/eslint-config-generator/pull/13) on [Kocal/eslint-config-generator](https://github.com/Kocal/eslint-config-generator) (1 day ago)
+- ![](./assets/pr-merged.svg) [fix(makefile): stop setting APP_ENV](https://github.com/wamiz/manala-recipes/pull/12) on [wamiz/manala-recipes](https://github.com/wamiz/manala-recipes) (1 day ago)
+- ![](./assets/pr-merged.svg) [refacto: remove Guzzle, use HTTPlug instead](https://github.com/wamiz/splio-sdk/pull/1) on [wamiz/splio-sdk](https://github.com/wamiz/splio-sdk) (6 days ago)
+- ![](./assets/pr-merged.svg) [refacto: remove Guzzle, use HTTPlug instead](https://github.com/wamiz/amp-library/pull/1) on [wamiz/amp-library](https://github.com/wamiz/amp-library) (1 week ago)
+- ![](./assets/pr-open.svg) [refacto: remove Guzzle, use HTTPlug instead](https://github.com/Lullabot/amp-library/pull/303) on [Lullabot/amp-library](https://github.com/Lullabot/amp-library) (1 week ago)
 - ![](./assets/pr-merged.svg) [Revert &#34;feat(symfony-app.docker-hybrid): add dynamoDB support&#34;](https://github.com/wamiz/manala-recipes/pull/11) on [wamiz/manala-recipes](https://github.com/wamiz/manala-recipes) (1 month ago)
 - ![](./assets/pr-merged.svg) [feat(backend): Add a way to inject a custom S3 client instead](https://github.com/Kocal/ckfinder-symfony-bundle/pull/17) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (1 month ago)
 - ![](./assets/pr-merged.svg) [fix(scoper): don&#39;t scope AWS dependency, close #15](https://github.com/Kocal/ckfinder-symfony-bundle/pull/16) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (1 month ago)
@@ -15,8 +17,6 @@
 - ![](./assets/pr-closed.svg) [fix graphql endpoint](https://github.com/YisusOnDev/esplace-war/pull/2) on [YisusOnDev/esplace-war](https://github.com/YisusOnDev/esplace-war) (2 months ago)
 - ![](./assets/pr-merged.svg) [docs(changelog): fix raw glob imports syntax](https://github.com/vitejs/vite/pull/7540) on [vitejs/vite](https://github.com/vitejs/vite) (2 months ago)
 - ![](./assets/pr-merged.svg) [Scope Flysystem 1.x dependencies](https://github.com/Kocal/ckfinder-symfony-bundle/pull/13) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (2 months ago)
-- ![](./assets/pr-open.svg) [Fix typo in option description](https://github.com/humbug/php-scoper/pull/669) on [humbug/php-scoper](https://github.com/humbug/php-scoper) (2 months ago)
-- ![](./assets/pr-merged.svg) [Setup CI](https://github.com/Kocal/ckfinder-symfony-bundle/pull/12) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (2 months ago)
 
 #### 📜 My recent blog posts
 
