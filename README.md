@@ -3,7 +3,7 @@
 #### 👷 My recent pull requests
 
 - ![](./assets/pr-merged.svg) [fix(backend:s3): fix passing a client reference, close #18](https://github.com/Kocal/ckfinder-symfony-bundle/pull/19) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (1 week ago)
-- ![](./assets/pr-merged.svg) [fix(abstract-service): fix request body ...](https://github.com/wamiz/splio-sdk/pull/2) on [wamiz/splio-sdk](https://github.com/wamiz/splio-sdk) (1 week ago)
+- ![](./assets/pr-merged.svg) [fix(abstract-service): fix request body ...](https://github.com/wamiz/splio-sdk/pull/2) on [wamiz/splio-sdk](https://github.com/wamiz/splio-sdk) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Drop ESLint 7, move to ESLint 8](https://github.com/Kocal/eslint-config-generator/pull/13) on [Kocal/eslint-config-generator](https://github.com/Kocal/eslint-config-generator) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [fix(makefile): stop setting APP_ENV](https://github.com/wamiz/manala-recipes/pull/12) on [wamiz/manala-recipes](https://github.com/wamiz/manala-recipes) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [refacto: remove Guzzle, use HTTPlug instead](https://github.com/wamiz/splio-sdk/pull/1) on [wamiz/splio-sdk](https://github.com/wamiz/splio-sdk) (3 weeks ago)
