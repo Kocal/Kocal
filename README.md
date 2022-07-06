@@ -2,7 +2,7 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [feat: drop HttpClientAwarePass, implement PSR Container support](https://github.com/wamiz/amp-library/pull/2) on [wamiz/amp-library](https://github.com/wamiz/amp-library) (1 day ago)
+- ![](./assets/pr-merged.svg) [feat: drop HttpClientAwarePass, implement PSR Container support](https://github.com/wamiz/amp-library/pull/2) on [wamiz/amp-library](https://github.com/wamiz/amp-library) (2 days ago)
 - ![](./assets/pr-merged.svg) [fix(backend:s3): fix passing a client reference, close #18](https://github.com/Kocal/ckfinder-symfony-bundle/pull/19) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (1 week ago)
 - ![](./assets/pr-merged.svg) [fix(abstract-service): fix request body ...](https://github.com/wamiz/splio-sdk/pull/2) on [wamiz/splio-sdk](https://github.com/wamiz/splio-sdk) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Drop ESLint 7, move to ESLint 8](https://github.com/Kocal/eslint-config-generator/pull/13) on [Kocal/eslint-config-generator](https://github.com/Kocal/eslint-config-generator) (2 weeks ago)
@@ -20,7 +20,7 @@
 
 #### 📜 My recent blog posts
 
-- [Doctrine, QueryBuilder::setMaxResults() and collections associations are on a boat](https://hugo.alliau.me/2022/01/07/doctrine-setmaxresults-and-collections-associations-are-on-a-boat/) (5 months ago)
+- [Doctrine, QueryBuilder::setMaxResults() and collections associations are on a boat](https://hugo.alliau.me/2022/01/07/doctrine-setmaxresults-and-collections-associations-are-on-a-boat/) (6 months ago)
 - [Migration to GitHub-native Dependabot: solutions for auto-merge and Action secrets](https://hugo.alliau.me/2021/05/04/migration-to-github-native-dependabot-solutions-for-auto-merge-and-action-secrets/) (1 year ago)
 - [Migration de notre stack de développement vers Docker](https://hugo.alliau.me/2021/04/26/migration-stack-developpement/) (1 year ago)
 - [Generate PDFs on Amazon AWS with PHP and Puppeteer: The Best Way](https://hugo.alliau.me/2020/04/21/generate-pdfs-on-amazon-aws-with-php-and-puppeteer-the-best-way/) (2 years ago)
