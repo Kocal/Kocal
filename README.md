@@ -7,7 +7,7 @@
 - ![](./assets/pr-merged.svg) [fix(abstract-service): fix request body ...](https://github.com/wamiz/splio-sdk/pull/2) on [wamiz/splio-sdk](https://github.com/wamiz/splio-sdk) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [Drop ESLint 7, move to ESLint 8](https://github.com/Kocal/eslint-config-generator/pull/13) on [Kocal/eslint-config-generator](https://github.com/Kocal/eslint-config-generator) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [fix(makefile): stop setting APP_ENV](https://github.com/wamiz/manala-recipes/pull/12) on [wamiz/manala-recipes](https://github.com/wamiz/manala-recipes) (3 weeks ago)
-- ![](./assets/pr-merged.svg) [refacto: remove Guzzle, use HTTPlug instead](https://github.com/wamiz/splio-sdk/pull/1) on [wamiz/splio-sdk](https://github.com/wamiz/splio-sdk) (4 weeks ago)
+- ![](./assets/pr-merged.svg) [refacto: remove Guzzle, use HTTPlug instead](https://github.com/wamiz/splio-sdk/pull/1) on [wamiz/splio-sdk](https://github.com/wamiz/splio-sdk) (1 month ago)
 - ![](./assets/pr-merged.svg) [refacto: remove Guzzle, use HTTPlug instead](https://github.com/wamiz/amp-library/pull/1) on [wamiz/amp-library](https://github.com/wamiz/amp-library) (1 month ago)
 - ![](./assets/pr-open.svg) [refacto: remove Guzzle, use HTTPlug instead](https://github.com/Lullabot/amp-library/pull/303) on [Lullabot/amp-library](https://github.com/Lullabot/amp-library) (1 month ago)
 - ![](./assets/pr-merged.svg) [Revert &#34;feat(symfony-app.docker-hybrid): add dynamoDB support&#34;](https://github.com/wamiz/manala-recipes/pull/11) on [wamiz/manala-recipes](https://github.com/wamiz/manala-recipes) (2 months ago)
