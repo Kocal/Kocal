@@ -2,8 +2,8 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [fix(config): allow &#34;additionalIgnorePattern&#34; to be an array of string), close #22551](https://github.com/cypress-io/cypress/pull/22826) on [cypress-io/cypress](https://github.com/cypress-io/cypress) (1 day ago)
-- ![](./assets/pr-merged.svg) [feat(import/no-extraneous-dependencies): add Playwright config files](https://github.com/Kocal/eslint-config-generator/pull/14) on [Kocal/eslint-config-generator](https://github.com/Kocal/eslint-config-generator) (2 days ago)
+- ![](./assets/pr-open.svg) [fix(config): allow &#34;additionalIgnorePattern&#34; to be an array of string), close #22551](https://github.com/cypress-io/cypress/pull/22826) on [cypress-io/cypress](https://github.com/cypress-io/cypress) (2 days ago)
+- ![](./assets/pr-merged.svg) [feat(import/no-extraneous-dependencies): add Playwright config files](https://github.com/Kocal/eslint-config-generator/pull/14) on [Kocal/eslint-config-generator](https://github.com/Kocal/eslint-config-generator) (3 days ago)
 - ![](./assets/pr-merged.svg) [feat: drop HttpClientAwarePass, implement PSR Container support](https://github.com/wamiz/amp-library/pull/2) on [wamiz/amp-library](https://github.com/wamiz/amp-library) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [fix(backend:s3): fix passing a client reference, close #18](https://github.com/Kocal/ckfinder-symfony-bundle/pull/19) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [fix(abstract-service): fix request body ...](https://github.com/wamiz/splio-sdk/pull/2) on [wamiz/splio-sdk](https://github.com/wamiz/splio-sdk) (4 weeks ago)
