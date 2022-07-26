@@ -2,6 +2,8 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [chore: add examples for pnpm](https://github.com/Kocal/github-action/pull/1) on [Kocal/github-action](https://github.com/Kocal/github-action) (1 day ago)
+- ![](./assets/pr-open.svg) [feat: add support for pnpm (install and cache deps)](https://github.com/cypress-io/github-action/pull/586) on [cypress-io/github-action](https://github.com/cypress-io/github-action) (1 day ago)
 - ![](./assets/pr-merged.svg) [fix(config): allow &#34;additionalIgnorePattern&#34; to be an array of strings](https://github.com/cypress-io/cypress/pull/22826) on [cypress-io/cypress](https://github.com/cypress-io/cypress) (1 week ago)
 - ![](./assets/pr-merged.svg) [feat(import/no-extraneous-dependencies): add Playwright config files](https://github.com/Kocal/eslint-config-generator/pull/14) on [Kocal/eslint-config-generator](https://github.com/Kocal/eslint-config-generator) (1 week ago)
 - ![](./assets/pr-merged.svg) [feat: drop HttpClientAwarePass, implement PSR Container support](https://github.com/wamiz/amp-library/pull/2) on [wamiz/amp-library](https://github.com/wamiz/amp-library) (3 weeks ago)
@@ -15,8 +17,6 @@
 - ![](./assets/pr-merged.svg) [Revert &#34;feat(symfony-app.docker-hybrid): add dynamoDB support&#34;](https://github.com/wamiz/manala-recipes/pull/11) on [wamiz/manala-recipes](https://github.com/wamiz/manala-recipes) (2 months ago)
 - ![](./assets/pr-merged.svg) [feat(backend): Add a way to inject a custom S3 client instead](https://github.com/Kocal/ckfinder-symfony-bundle/pull/17) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (2 months ago)
 - ![](./assets/pr-merged.svg) [fix(scoper): don&#39;t scope AWS dependency, close #15](https://github.com/Kocal/ckfinder-symfony-bundle/pull/16) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (2 months ago)
-- ![](./assets/pr-merged.svg) [feat(symfony-app.docker-hybrid): add dynamoDB support](https://github.com/wamiz/manala-recipes/pull/10) on [wamiz/manala-recipes](https://github.com/wamiz/manala-recipes) (2 months ago)
-- ![](./assets/pr-merged.svg) [[Security] Add an easier way to get the current firewall configuration](https://github.com/symfony/symfony/pull/46066) on [symfony/symfony](https://github.com/symfony/symfony) (3 months ago)
 
 #### 📜 My recent blog posts
 
