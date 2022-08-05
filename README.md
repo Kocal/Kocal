@@ -2,8 +2,8 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [feat!: configure peerDependenciesMeta, close #655](https://github.com/symfony/webpack-encore/pull/1142) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (2 days ago)
-- ![](./assets/pr-open.svg) [feat: add PostCSS 8 support](https://github.com/postcss/postcss-use/pull/45) on [postcss/postcss-use](https://github.com/postcss/postcss-use) (5 days ago)
+- ![](./assets/pr-open.svg) [feat!: configure peerDependenciesMeta, close #655](https://github.com/symfony/webpack-encore/pull/1142) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (3 days ago)
+- ![](./assets/pr-open.svg) [feat: add PostCSS 8 support](https://github.com/postcss/postcss-use/pull/45) on [postcss/postcss-use](https://github.com/postcss/postcss-use) (6 days ago)
 - ![](./assets/pr-merged.svg) [feat: add support for pnpm (install and cache deps)](https://github.com/cypress-io/github-action/pull/586) on [cypress-io/github-action](https://github.com/cypress-io/github-action) (1 week ago)
 - ![](./assets/pr-merged.svg) [fix(config): allow &#34;additionalIgnorePattern&#34; to be an array of strings](https://github.com/cypress-io/cypress/pull/22826) on [cypress-io/cypress](https://github.com/cypress-io/cypress) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [feat(import/no-extraneous-dependencies): add Playwright config files](https://github.com/Kocal/eslint-config-generator/pull/14) on [Kocal/eslint-config-generator](https://github.com/Kocal/eslint-config-generator) (2 weeks ago)
@@ -20,7 +20,7 @@
 
 #### 📜 My recent blog posts
 
-- [Doctrine, QueryBuilder::setMaxResults() and collections associations are on a boat](https://hugo.alliau.me/2022/01/07/doctrine-setmaxresults-and-collections-associations-are-on-a-boat/) (6 months ago)
+- [Doctrine, QueryBuilder::setMaxResults() and collections associations are on a boat](https://hugo.alliau.me/2022/01/07/doctrine-setmaxresults-and-collections-associations-are-on-a-boat/) (7 months ago)
 - [Migration to GitHub-native Dependabot: solutions for auto-merge and Action secrets](https://hugo.alliau.me/2021/05/04/migration-to-github-native-dependabot-solutions-for-auto-merge-and-action-secrets/) (1 year ago)
 - [Migration de notre stack de développement vers Docker](https://hugo.alliau.me/2021/04/26/migration-stack-developpement/) (1 year ago)
 - [Generate PDFs on Amazon AWS with PHP and Puppeteer: The Best Way](https://hugo.alliau.me/2020/04/21/generate-pdfs-on-amazon-aws-with-php-and-puppeteer-the-best-way/) (2 years ago)
