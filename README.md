@@ -2,10 +2,10 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [feat!: configure peerDependenciesMeta, close #655](https://github.com/symfony/webpack-encore/pull/1142) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (4 days ago)
+- ![](./assets/pr-open.svg) [feat!: configure peerDependenciesMeta, close #655](https://github.com/symfony/webpack-encore/pull/1142) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (5 days ago)
 - ![](./assets/pr-open.svg) [feat: add PostCSS 8 support](https://github.com/postcss/postcss-use/pull/45) on [postcss/postcss-use](https://github.com/postcss/postcss-use) (1 week ago)
 - ![](./assets/pr-merged.svg) [feat: add support for pnpm (install and cache deps)](https://github.com/cypress-io/github-action/pull/586) on [cypress-io/github-action](https://github.com/cypress-io/github-action) (1 week ago)
-- ![](./assets/pr-merged.svg) [fix(config): allow &#34;additionalIgnorePattern&#34; to be an array of strings](https://github.com/cypress-io/cypress/pull/22826) on [cypress-io/cypress](https://github.com/cypress-io/cypress) (2 weeks ago)
+- ![](./assets/pr-merged.svg) [fix(config): allow &#34;additionalIgnorePattern&#34; to be an array of strings](https://github.com/cypress-io/cypress/pull/22826) on [cypress-io/cypress](https://github.com/cypress-io/cypress) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [feat(import/no-extraneous-dependencies): add Playwright config files](https://github.com/Kocal/eslint-config-generator/pull/14) on [Kocal/eslint-config-generator](https://github.com/Kocal/eslint-config-generator) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [feat: drop HttpClientAwarePass, implement PSR Container support](https://github.com/wamiz/amp-library/pull/2) on [wamiz/amp-library](https://github.com/wamiz/amp-library) (1 month ago)
 - ![](./assets/pr-merged.svg) [fix(backend:s3): fix passing a client reference, close #18](https://github.com/Kocal/ckfinder-symfony-bundle/pull/19) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (1 month ago)
