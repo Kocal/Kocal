@@ -2,7 +2,7 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [fix(symfony-app.docker-hybrid:docker): pass /dev/null as env-file](https://github.com/wamiz/manala-recipes/pull/13) on [wamiz/manala-recipes](https://github.com/wamiz/manala-recipes) (5 days ago)
+- ![](./assets/pr-merged.svg) [fix(symfony-app.docker-hybrid:docker): pass /dev/null as env-file](https://github.com/wamiz/manala-recipes/pull/13) on [wamiz/manala-recipes](https://github.com/wamiz/manala-recipes) (6 days ago)
 - ![](./assets/pr-open.svg) [Add support for pnpm and Yarn PnP](https://github.com/symfony/webpack-encore/pull/1142) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (2 weeks ago)
 - ![](./assets/pr-open.svg) [feat: add PostCSS 8 support](https://github.com/postcss/postcss-use/pull/45) on [postcss/postcss-use](https://github.com/postcss/postcss-use) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [feat: add support for pnpm (install and cache deps)](https://github.com/cypress-io/github-action/pull/586) on [cypress-io/github-action](https://github.com/cypress-io/github-action) (3 weeks ago)
