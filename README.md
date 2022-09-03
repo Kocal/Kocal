@@ -2,11 +2,11 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [fix(babel): move Babel dependencies to (optional) peerDependencies](https://github.com/symfony/webpack-encore/pull/1150) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (2 days ago)
-- ![](./assets/pr-open.svg) [symfony/webpack-encore: bump to ^4.0.0, add peer dependencies webpack and webpack-cli](https://github.com/symfony/recipes/pull/1123) on [symfony/recipes](https://github.com/symfony/recipes) (2 days ago)
-- ![](./assets/pr-closed.svg) [feat: add utility `Exclude`, to exclude values from union](https://github.com/phpstan/phpstan-src/pull/1654) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- ![](./assets/pr-merged.svg) [fix(ci): allow global Composer plugin Symfony Flex](https://github.com/Kocal/ckfinder-symfony-bundle/pull/22) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (6 days ago)
-- ![](./assets/pr-closed.svg) [chore: update Rector and ECS configuration format](https://github.com/Kocal/ckfinder-symfony-bundle/pull/21) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (6 days ago)
+- ![](./assets/pr-open.svg) [fix(babel): move Babel dependencies to (optional) peerDependencies](https://github.com/symfony/webpack-encore/pull/1150) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (3 days ago)
+- ![](./assets/pr-open.svg) [symfony/webpack-encore: bump to ^4.0.0, add peer dependencies webpack and webpack-cli](https://github.com/symfony/recipes/pull/1123) on [symfony/recipes](https://github.com/symfony/recipes) (3 days ago)
+- ![](./assets/pr-closed.svg) [feat: add utility `Exclude`, to exclude values from union](https://github.com/phpstan/phpstan-src/pull/1654) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- ![](./assets/pr-merged.svg) [fix(ci): allow global Composer plugin Symfony Flex](https://github.com/Kocal/ckfinder-symfony-bundle/pull/22) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (1 week ago)
+- ![](./assets/pr-closed.svg) [chore: update Rector and ECS configuration format](https://github.com/Kocal/ckfinder-symfony-bundle/pull/21) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (1 week ago)
 - ![](./assets/pr-merged.svg) [fix(symfony-app.docker-hybrid:docker): pass /dev/null as env-file](https://github.com/wamiz/manala-recipes/pull/13) on [wamiz/manala-recipes](https://github.com/wamiz/manala-recipes) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [Add support for pnpm and Yarn PnP](https://github.com/symfony/webpack-encore/pull/1142) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 month ago)
 - ![](./assets/pr-open.svg) [feat: add PostCSS 8 support](https://github.com/postcss/postcss-use/pull/45) on [postcss/postcss-use](https://github.com/postcss/postcss-use) (1 month ago)
