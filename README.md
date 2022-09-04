@@ -2,9 +2,9 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [fix(babel): move Babel dependencies to (optional) peerDependencies](https://github.com/symfony/webpack-encore/pull/1150) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (3 days ago)
-- ![](./assets/pr-open.svg) [symfony/webpack-encore: bump to ^4.0.0, add peer dependencies webpack and webpack-cli](https://github.com/symfony/recipes/pull/1123) on [symfony/recipes](https://github.com/symfony/recipes) (3 days ago)
-- ![](./assets/pr-closed.svg) [feat: add utility `Exclude`, to exclude values from union](https://github.com/phpstan/phpstan-src/pull/1654) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- ![](./assets/pr-open.svg) [fix(babel): move Babel dependencies to (optional) peerDependencies](https://github.com/symfony/webpack-encore/pull/1150) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (4 days ago)
+- ![](./assets/pr-open.svg) [symfony/webpack-encore: bump to ^4.0.0, add peer dependencies webpack and webpack-cli](https://github.com/symfony/recipes/pull/1123) on [symfony/recipes](https://github.com/symfony/recipes) (4 days ago)
+- ![](./assets/pr-closed.svg) [feat: add utility `Exclude`, to exclude values from union](https://github.com/phpstan/phpstan-src/pull/1654) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - ![](./assets/pr-merged.svg) [fix(ci): allow global Composer plugin Symfony Flex](https://github.com/Kocal/ckfinder-symfony-bundle/pull/22) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (1 week ago)
 - ![](./assets/pr-closed.svg) [chore: update Rector and ECS configuration format](https://github.com/Kocal/ckfinder-symfony-bundle/pull/21) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (1 week ago)
 - ![](./assets/pr-merged.svg) [fix(symfony-app.docker-hybrid:docker): pass /dev/null as env-file](https://github.com/wamiz/manala-recipes/pull/13) on [wamiz/manala-recipes](https://github.com/wamiz/manala-recipes) (3 weeks ago)
@@ -20,7 +20,7 @@
 
 #### 📜 My recent blog posts
 
-- [Doctrine, QueryBuilder::setMaxResults() and collections associations are on a boat](https://hugo.alliau.me/2022/01/07/doctrine-setmaxresults-and-collections-associations-are-on-a-boat/) (7 months ago)
+- [Doctrine, QueryBuilder::setMaxResults() and collections associations are on a boat](https://hugo.alliau.me/2022/01/07/doctrine-setmaxresults-and-collections-associations-are-on-a-boat/) (8 months ago)
 - [Migration to GitHub-native Dependabot: solutions for auto-merge and Action secrets](https://hugo.alliau.me/2021/05/04/migration-to-github-native-dependabot-solutions-for-auto-merge-and-action-secrets/) (1 year ago)
 - [Migration de notre stack de développement vers Docker](https://hugo.alliau.me/2021/04/26/migration-stack-developpement/) (1 year ago)
 - [Generate PDFs on Amazon AWS with PHP and Puppeteer: The Best Way](https://hugo.alliau.me/2020/04/21/generate-pdfs-on-amazon-aws-with-php-and-puppeteer-the-best-way/) (2 years ago)
