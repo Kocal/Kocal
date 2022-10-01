@@ -2,7 +2,7 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [[Vue] Add support for lazy-loading with Async Components](https://github.com/symfony/ux/pull/482) on [symfony/ux](https://github.com/symfony/ux) (5 days ago)
+- ![](./assets/pr-open.svg) [[Vue] Add support for lazy-loading with Async Components](https://github.com/symfony/ux/pull/482) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
 - ![](./assets/pr-merged.svg) [fix(scoped-dependencies): try to prevent double-declaration of ComposerStaticInit[...]&#34;](https://github.com/Kocal/ckfinder-symfony-bundle/pull/24) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [chore: add changelog for 4.0.0](https://github.com/symfony/webpack-encore/pull/1152) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [feat: introduce PSR-6 cache support](https://github.com/Kocal/ckfinder-symfony-bundle/pull/23) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (3 weeks ago)
@@ -12,7 +12,7 @@
 - ![](./assets/pr-merged.svg) [fix(ci): allow global Composer plugin Symfony Flex](https://github.com/Kocal/ckfinder-symfony-bundle/pull/22) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (1 month ago)
 - ![](./assets/pr-closed.svg) [chore: update Rector and ECS configuration format](https://github.com/Kocal/ckfinder-symfony-bundle/pull/21) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (1 month ago)
 - ![](./assets/pr-merged.svg) [fix(symfony-app.docker-hybrid:docker): pass /dev/null as env-file](https://github.com/wamiz/manala-recipes/pull/13) on [wamiz/manala-recipes](https://github.com/wamiz/manala-recipes) (1 month ago)
-- ![](./assets/pr-merged.svg) [Add support for pnpm and Yarn PnP](https://github.com/symfony/webpack-encore/pull/1142) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 month ago)
+- ![](./assets/pr-merged.svg) [Add support for pnpm and Yarn PnP](https://github.com/symfony/webpack-encore/pull/1142) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (2 months ago)
 - ![](./assets/pr-open.svg) [feat: add PostCSS 8 support](https://github.com/postcss/postcss-use/pull/45) on [postcss/postcss-use](https://github.com/postcss/postcss-use) (2 months ago)
 - ![](./assets/pr-merged.svg) [feat: add support for pnpm (install and cache deps)](https://github.com/cypress-io/github-action/pull/586) on [cypress-io/github-action](https://github.com/cypress-io/github-action) (2 months ago)
 - ![](./assets/pr-merged.svg) [fix(config): allow &#34;additionalIgnorePattern&#34; to be an array of strings](https://github.com/cypress-io/cypress/pull/22826) on [cypress-io/cypress](https://github.com/cypress-io/cypress) (2 months ago)
