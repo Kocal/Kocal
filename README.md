@@ -4,7 +4,7 @@
 
 - ![](./assets/pr-merged.svg) [[Vue] Add support for lazy-loading with Async Components](https://github.com/symfony/ux/pull/482) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [fix(scoped-dependencies): try to prevent double-declaration of ComposerStaticInit[...]&#34;](https://github.com/Kocal/ckfinder-symfony-bundle/pull/24) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (3 weeks ago)
-- ![](./assets/pr-merged.svg) [chore: add changelog for 4.0.0](https://github.com/symfony/webpack-encore/pull/1152) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (3 weeks ago)
+- ![](./assets/pr-merged.svg) [chore: add changelog for 4.0.0](https://github.com/symfony/webpack-encore/pull/1152) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (4 weeks ago)
 - ![](./assets/pr-merged.svg) [feat: introduce PSR-6 cache support](https://github.com/Kocal/ckfinder-symfony-bundle/pull/23) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (4 weeks ago)
 - ![](./assets/pr-merged.svg) [fix(babel): move Babel dependencies to (optional) peerDependencies](https://github.com/symfony/webpack-encore/pull/1150) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 month ago)
 - ![](./assets/pr-merged.svg) [symfony/webpack-encore: bump to ^4.0.0, add peer dependencies webpack, webpack-cli, @babel/core and @babel/preset-env](https://github.com/symfony/recipes/pull/1123) on [symfony/recipes](https://github.com/symfony/recipes) (1 month ago)
