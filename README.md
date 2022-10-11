@@ -2,7 +2,8 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [[Vue.js] Document events](https://github.com/symfony/ux/pull/499) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
+- ![](./assets/pr-merged.svg) [doc: remove ContainerAwareCommand reference](https://github.com/webmozarts/console-parallelization/pull/111) on [webmozarts/console-parallelization](https://github.com/webmozarts/console-parallelization) (1 day ago)
+- ![](./assets/pr-merged.svg) [[Vue.js] Document events](https://github.com/symfony/ux/pull/499) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
 - ![](./assets/pr-merged.svg) [[Vue] Add support for lazy-loading with Async Components](https://github.com/symfony/ux/pull/482) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [fix(scoped-dependencies): try to prevent double-declaration of ComposerStaticInit[...]&#34;](https://github.com/Kocal/ckfinder-symfony-bundle/pull/24) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (4 weeks ago)
 - ![](./assets/pr-merged.svg) [chore: add changelog for 4.0.0](https://github.com/symfony/webpack-encore/pull/1152) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 month ago)
@@ -16,7 +17,6 @@
 - ![](./assets/pr-merged.svg) [Add support for pnpm and Yarn PnP](https://github.com/symfony/webpack-encore/pull/1142) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (2 months ago)
 - ![](./assets/pr-open.svg) [feat: add PostCSS 8 support](https://github.com/postcss/postcss-use/pull/45) on [postcss/postcss-use](https://github.com/postcss/postcss-use) (2 months ago)
 - ![](./assets/pr-merged.svg) [feat: add support for pnpm (install and cache deps)](https://github.com/cypress-io/github-action/pull/586) on [cypress-io/github-action](https://github.com/cypress-io/github-action) (2 months ago)
-- ![](./assets/pr-merged.svg) [fix(config): allow &#34;additionalIgnorePattern&#34; to be an array of strings](https://github.com/cypress-io/cypress/pull/22826) on [cypress-io/cypress](https://github.com/cypress-io/cypress) (2 months ago)
 
 #### 📜 My recent blog posts
 
