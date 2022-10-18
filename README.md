@@ -2,7 +2,8 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [fix(peer-dependencies): re-allow Vue ^2.6 with Vue-loader ^15.0.11, close #1156](https://github.com/symfony/webpack-encore/pull/1157) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (3 days ago)
+- ![](./assets/pr-open.svg) [fix(pkg): fix peerDependency constraints for vue and vue-loader](https://github.com/symfony/webpack-encore/pull/1160) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 day ago)
+- ![](./assets/pr-merged.svg) [fix(peer-dependencies): re-allow Vue ^2.6 with Vue-loader ^15.0.11, close #1156](https://github.com/symfony/webpack-encore/pull/1157) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (4 days ago)
 - ![](./assets/pr-merged.svg) [doc: remove ContainerAwareCommand reference](https://github.com/webmozarts/console-parallelization/pull/111) on [webmozarts/console-parallelization](https://github.com/webmozarts/console-parallelization) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Vue.js] Document events](https://github.com/symfony/ux/pull/499) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Vue] Add support for lazy-loading with Async Components](https://github.com/symfony/ux/pull/482) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
@@ -16,13 +17,12 @@
 - ![](./assets/pr-closed.svg) [chore: update Rector and ECS configuration format](https://github.com/Kocal/ckfinder-symfony-bundle/pull/21) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (1 month ago)
 - ![](./assets/pr-merged.svg) [fix(symfony-app.docker-hybrid:docker): pass /dev/null as env-file](https://github.com/wamiz/manala-recipes/pull/13) on [wamiz/manala-recipes](https://github.com/wamiz/manala-recipes) (2 months ago)
 - ![](./assets/pr-merged.svg) [Add support for pnpm and Yarn PnP](https://github.com/symfony/webpack-encore/pull/1142) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (2 months ago)
-- ![](./assets/pr-open.svg) [feat: add PostCSS 8 support](https://github.com/postcss/postcss-use/pull/45) on [postcss/postcss-use](https://github.com/postcss/postcss-use) (2 months ago)
 
 #### 📜 My recent blog posts
 
 - [Doctrine, QueryBuilder::setMaxResults() and collections associations are on a boat](https://hugo.alliau.me/2022/01/07/doctrine-setmaxresults-and-collections-associations-are-on-a-boat/) (9 months ago)
 - [Migration to GitHub-native Dependabot: solutions for auto-merge and Action secrets](https://hugo.alliau.me/2021/05/04/migration-to-github-native-dependabot-solutions-for-auto-merge-and-action-secrets/) (1 year ago)
-- [Migration de notre stack de développement vers Docker](https://hugo.alliau.me/2021/04/26/migration-stack-developpement/) (1 year ago)
+- [Migration de notre stack de développement vers Docker](https://hugo.alliau.me/2021/04/26/migration-stack-developpement/) (2 years ago)
 - [Generate PDFs on Amazon AWS with PHP and Puppeteer: The Best Way](https://hugo.alliau.me/2020/04/21/generate-pdfs-on-amazon-aws-with-php-and-puppeteer-the-best-way/) (2 years ago)
 - [Generate PDFs on Amazon AWS with PHP and Puppeteer](https://hugo.alliau.me/2020/01/02/generate-pdfs-on-amazon-aws-with-php-and-puppeteer/) (2 years ago)
 
