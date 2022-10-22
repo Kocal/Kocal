@@ -2,7 +2,7 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [fix(pkg): fix peerDependency constraints for vue and vue-loader](https://github.com/symfony/webpack-encore/pull/1160) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (4 days ago)
+- ![](./assets/pr-merged.svg) [fix(pkg): fix peerDependency constraints for vue and vue-loader](https://github.com/symfony/webpack-encore/pull/1160) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (5 days ago)
 - ![](./assets/pr-merged.svg) [fix(peer-dependencies): re-allow Vue ^2.6 with Vue-loader ^15.0.11, close #1156](https://github.com/symfony/webpack-encore/pull/1157) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 week ago)
 - ![](./assets/pr-merged.svg) [doc: remove ContainerAwareCommand reference](https://github.com/webmozarts/console-parallelization/pull/111) on [webmozarts/console-parallelization](https://github.com/webmozarts/console-parallelization) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Vue.js] Document events](https://github.com/symfony/ux/pull/499) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
