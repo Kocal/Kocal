@@ -2,9 +2,9 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [fix(pkg): fix peerDependency constraints for vue and vue-loader](https://github.com/symfony/webpack-encore/pull/1160) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 week ago)
+- ![](./assets/pr-merged.svg) [fix(pkg): fix peerDependency constraints for vue and vue-loader](https://github.com/symfony/webpack-encore/pull/1160) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [fix(peer-dependencies): re-allow Vue ^2.6 with Vue-loader ^15.0.11, close #1156](https://github.com/symfony/webpack-encore/pull/1157) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [doc: remove ContainerAwareCommand reference](https://github.com/webmozarts/console-parallelization/pull/111) on [webmozarts/console-parallelization](https://github.com/webmozarts/console-parallelization) (2 weeks ago)
+- ![](./assets/pr-merged.svg) [doc: remove ContainerAwareCommand reference](https://github.com/webmozarts/console-parallelization/pull/111) on [webmozarts/console-parallelization](https://github.com/webmozarts/console-parallelization) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[Vue.js] Document events](https://github.com/symfony/ux/pull/499) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[Vue] Add support for lazy-loading with Async Components](https://github.com/symfony/ux/pull/482) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
 - ![](./assets/pr-merged.svg) [fix(scoped-dependencies): try to prevent double-declaration of ComposerStaticInit[...]&#34;](https://github.com/Kocal/ckfinder-symfony-bundle/pull/24) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (1 month ago)
@@ -16,7 +16,7 @@
 - ![](./assets/pr-merged.svg) [fix(ci): allow global Composer plugin Symfony Flex](https://github.com/Kocal/ckfinder-symfony-bundle/pull/22) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (2 months ago)
 - ![](./assets/pr-closed.svg) [chore: update Rector and ECS configuration format](https://github.com/Kocal/ckfinder-symfony-bundle/pull/21) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (2 months ago)
 - ![](./assets/pr-merged.svg) [fix(symfony-app.docker-hybrid:docker): pass /dev/null as env-file](https://github.com/wamiz/manala-recipes/pull/13) on [wamiz/manala-recipes](https://github.com/wamiz/manala-recipes) (2 months ago)
-- ![](./assets/pr-merged.svg) [Add support for pnpm and Yarn PnP](https://github.com/symfony/webpack-encore/pull/1142) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (2 months ago)
+- ![](./assets/pr-merged.svg) [Add support for pnpm and Yarn PnP](https://github.com/symfony/webpack-encore/pull/1142) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (3 months ago)
 
 #### 📜 My recent blog posts
 
