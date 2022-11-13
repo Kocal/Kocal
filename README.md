@@ -4,7 +4,7 @@
 
 - ![](./assets/pr-closed.svg) [[Translation] [Crowdin] Use synchronous HTTP requests when reading the Crowdin API](https://github.com/symfony/symfony/pull/48109) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - ![](./assets/pr-merged.svg) [fix(pkg): fix peerDependency constraints for vue and vue-loader](https://github.com/symfony/webpack-encore/pull/1160) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (3 weeks ago)
-- ![](./assets/pr-merged.svg) [fix(peer-dependencies): re-allow Vue ^2.6 with Vue-loader ^15.0.11, close #1156](https://github.com/symfony/webpack-encore/pull/1157) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (4 weeks ago)
+- ![](./assets/pr-merged.svg) [fix(peer-dependencies): re-allow Vue ^2.6 with Vue-loader ^15.0.11, close #1156](https://github.com/symfony/webpack-encore/pull/1157) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 month ago)
 - ![](./assets/pr-merged.svg) [doc: remove ContainerAwareCommand reference](https://github.com/webmozarts/console-parallelization/pull/111) on [webmozarts/console-parallelization](https://github.com/webmozarts/console-parallelization) (1 month ago)
 - ![](./assets/pr-merged.svg) [[Vue.js] Document events](https://github.com/symfony/ux/pull/499) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
 - ![](./assets/pr-merged.svg) [[Vue] Add support for lazy-loading with Async Components](https://github.com/symfony/ux/pull/482) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
