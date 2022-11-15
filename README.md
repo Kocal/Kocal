@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [Some modifications for AWS Runners (no Docker)](https://github.com/wamiz/manala-recipes/pull/15) on [wamiz/manala-recipes](https://github.com/wamiz/manala-recipes) (1 day ago)
 - ![](./assets/pr-closed.svg) [[Translation] [Crowdin] Use synchronous HTTP requests when reading the Crowdin API](https://github.com/symfony/symfony/pull/48109) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - ![](./assets/pr-merged.svg) [fix(pkg): fix peerDependency constraints for vue and vue-loader](https://github.com/symfony/webpack-encore/pull/1160) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (4 weeks ago)
 - ![](./assets/pr-merged.svg) [fix(peer-dependencies): re-allow Vue ^2.6 with Vue-loader ^15.0.11, close #1156](https://github.com/symfony/webpack-encore/pull/1157) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 month ago)
@@ -16,7 +17,6 @@
 - ![](./assets/pr-closed.svg) [feat: add utility `Exclude`, to exclude values from union](https://github.com/phpstan/phpstan-src/pull/1654) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 months ago)
 - ![](./assets/pr-merged.svg) [fix(ci): allow global Composer plugin Symfony Flex](https://github.com/Kocal/ckfinder-symfony-bundle/pull/22) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (2 months ago)
 - ![](./assets/pr-closed.svg) [chore: update Rector and ECS configuration format](https://github.com/Kocal/ckfinder-symfony-bundle/pull/21) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (2 months ago)
-- ![](./assets/pr-merged.svg) [fix(symfony-app.docker-hybrid:docker): pass /dev/null as env-file](https://github.com/wamiz/manala-recipes/pull/13) on [wamiz/manala-recipes](https://github.com/wamiz/manala-recipes) (3 months ago)
 
 #### 📜 My recent blog posts
 
