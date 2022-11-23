@@ -2,7 +2,7 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [[Translation] [Lokalize] Configure `replace_breaks` to prevent issues with multilines translations](https://github.com/symfony/symfony/pull/48222) on [symfony/symfony](https://github.com/symfony/symfony) (6 days ago)
+- ![](./assets/pr-merged.svg) [[Translation] [Lokalize] Configure `replace_breaks` to prevent issues with multilines translations](https://github.com/symfony/symfony/pull/48222) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - ![](./assets/pr-merged.svg) [Some modifications for AWS Runners (no Docker)](https://github.com/wamiz/manala-recipes/pull/15) on [wamiz/manala-recipes](https://github.com/wamiz/manala-recipes) (1 week ago)
 - ![](./assets/pr-closed.svg) [[Translation] [Crowdin] Use synchronous HTTP requests when reading the Crowdin API](https://github.com/symfony/symfony/pull/48109) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [fix(pkg): fix peerDependency constraints for vue and vue-loader](https://github.com/symfony/webpack-encore/pull/1160) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 month ago)
