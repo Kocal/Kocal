@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [feat: add `local:proxy:get-url` command](https://github.com/symfony-cli/symfony-cli/pull/233) on [symfony-cli/symfony-cli](https://github.com/symfony-cli/symfony-cli) (1 day ago)
 - ![](./assets/pr-merged.svg) [[Translation] [Lokalize] Configure `replace_breaks` to prevent issues with multilines translations](https://github.com/symfony/symfony/pull/48222) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - ![](./assets/pr-merged.svg) [Some modifications for AWS Runners (no Docker)](https://github.com/wamiz/manala-recipes/pull/15) on [wamiz/manala-recipes](https://github.com/wamiz/manala-recipes) (1 week ago)
 - ![](./assets/pr-closed.svg) [[Translation] [Crowdin] Use synchronous HTTP requests when reading the Crowdin API](https://github.com/symfony/symfony/pull/48109) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
@@ -15,8 +16,7 @@
 - ![](./assets/pr-merged.svg) [feat: introduce PSR-6 cache support](https://github.com/Kocal/ckfinder-symfony-bundle/pull/23) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (2 months ago)
 - ![](./assets/pr-merged.svg) [fix(babel): move Babel dependencies to (optional) peerDependencies](https://github.com/symfony/webpack-encore/pull/1150) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (2 months ago)
 - ![](./assets/pr-merged.svg) [symfony/webpack-encore: bump to ^4.0.0, add peer dependencies webpack, webpack-cli, @babel/core and @babel/preset-env](https://github.com/symfony/recipes/pull/1123) on [symfony/recipes](https://github.com/symfony/recipes) (2 months ago)
-- ![](./assets/pr-closed.svg) [feat: add utility `Exclude`, to exclude values from union](https://github.com/phpstan/phpstan-src/pull/1654) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 months ago)
-- ![](./assets/pr-merged.svg) [fix(ci): allow global Composer plugin Symfony Flex](https://github.com/Kocal/ckfinder-symfony-bundle/pull/22) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (3 months ago)
+- ![](./assets/pr-closed.svg) [feat: add utility `Exclude`, to exclude values from union](https://github.com/phpstan/phpstan-src/pull/1654) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 months ago)
 
 #### 📜 My recent blog posts
 
