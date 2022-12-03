@@ -2,9 +2,9 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [[TwigBridge] Fix casing of getCurrentRoute/getCurrentRouteParameters methods](https://github.com/symfony/symfony/pull/48434) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
-- ![](./assets/pr-merged.svg) [[Symfony CLI] Show usage of new command `symfony proxy:url`](https://github.com/symfony/symfony-docs/pull/17479) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 days ago)
-- ![](./assets/pr-merged.svg) [doc: fix typo](https://github.com/async-aws/aws/pull/1339) on [async-aws/aws](https://github.com/async-aws/aws) (3 days ago)
+- ![](./assets/pr-merged.svg) [[TwigBridge] Fix casing of getCurrentRoute/getCurrentRouteParameters methods](https://github.com/symfony/symfony/pull/48434) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
+- ![](./assets/pr-merged.svg) [[Symfony CLI] Show usage of new command `symfony proxy:url`](https://github.com/symfony/symfony-docs/pull/17479) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 days ago)
+- ![](./assets/pr-merged.svg) [doc: fix typo](https://github.com/async-aws/aws/pull/1339) on [async-aws/aws](https://github.com/async-aws/aws) (4 days ago)
 - ![](./assets/pr-merged.svg) [feat: add `local:proxy:url` command](https://github.com/symfony-cli/symfony-cli/pull/233) on [symfony-cli/symfony-cli](https://github.com/symfony-cli/symfony-cli) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Translation] [Lokalize] Configure `replace_breaks` to prevent issues with multilines translations](https://github.com/symfony/symfony/pull/48222) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Some modifications for AWS Runners (no Docker)](https://github.com/wamiz/manala-recipes/pull/15) on [wamiz/manala-recipes](https://github.com/wamiz/manala-recipes) (2 weeks ago)
@@ -20,7 +20,7 @@
 
 #### 📜 My recent blog posts
 
-- [Doctrine, QueryBuilder::setMaxResults() and collections associations are on a boat](https://hugo.alliau.me/2022/01/07/doctrine-setmaxresults-and-collections-associations-are-on-a-boat/) (10 months ago)
+- [Doctrine, QueryBuilder::setMaxResults() and collections associations are on a boat](https://hugo.alliau.me/2022/01/07/doctrine-setmaxresults-and-collections-associations-are-on-a-boat/) (11 months ago)
 - [Migration to GitHub-native Dependabot: solutions for auto-merge and Action secrets](https://hugo.alliau.me/2021/05/04/migration-to-github-native-dependabot-solutions-for-auto-merge-and-action-secrets/) (2 years ago)
 - [Migration de notre stack de développement vers Docker](https://hugo.alliau.me/2021/04/26/migration-stack-developpement/) (2 years ago)
 - [Generate PDFs on Amazon AWS with PHP and Puppeteer: The Best Way](https://hugo.alliau.me/2020/04/21/generate-pdfs-on-amazon-aws-with-php-and-puppeteer-the-best-way/) (2 years ago)
