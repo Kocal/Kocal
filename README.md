@@ -2,10 +2,10 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [feat(symfony-app.docker-hybrid): better make help](https://github.com/wamiz/manala-recipes/pull/16) on [wamiz/manala-recipes](https://github.com/wamiz/manala-recipes) (4 days ago)
-- ![](./assets/pr-closed.svg) [feat(mismatch-branch-description): be more tolerant about version format](https://github.com/symfony-tools/carsonbot/pull/209) on [symfony-tools/carsonbot](https://github.com/symfony-tools/carsonbot) (4 days ago)
-- ![](./assets/pr-open.svg) [[Translation] Fix extraction when dealing with VariadicPlaceholder parameters](https://github.com/symfony/symfony/pull/48451) on [symfony/symfony](https://github.com/symfony/symfony) (4 days ago)
-- ![](./assets/pr-merged.svg) [[TwigBridge] Fix casing of getCurrentRoute/getCurrentRouteParameters methods](https://github.com/symfony/symfony/pull/48434) on [symfony/symfony](https://github.com/symfony/symfony) (6 days ago)
+- ![](./assets/pr-merged.svg) [feat(symfony-app.docker-hybrid): better make help](https://github.com/wamiz/manala-recipes/pull/16) on [wamiz/manala-recipes](https://github.com/wamiz/manala-recipes) (5 days ago)
+- ![](./assets/pr-closed.svg) [feat(mismatch-branch-description): be more tolerant about version format](https://github.com/symfony-tools/carsonbot/pull/209) on [symfony-tools/carsonbot](https://github.com/symfony-tools/carsonbot) (5 days ago)
+- ![](./assets/pr-open.svg) [[Translation] Fix extraction when dealing with VariadicPlaceholder parameters](https://github.com/symfony/symfony/pull/48451) on [symfony/symfony](https://github.com/symfony/symfony) (5 days ago)
+- ![](./assets/pr-merged.svg) [[TwigBridge] Fix casing of getCurrentRoute/getCurrentRouteParameters methods](https://github.com/symfony/symfony/pull/48434) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Symfony CLI] Show usage of new command `symfony proxy:url`](https://github.com/symfony/symfony-docs/pull/17479) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
 - ![](./assets/pr-merged.svg) [doc: fix typo](https://github.com/async-aws/aws/pull/1339) on [async-aws/aws](https://github.com/async-aws/aws) (1 week ago)
 - ![](./assets/pr-merged.svg) [feat: add `local:proxy:url` command](https://github.com/symfony-cli/symfony-cli/pull/233) on [symfony-cli/symfony-cli](https://github.com/symfony-cli/symfony-cli) (1 week ago)
@@ -15,7 +15,7 @@
 - ![](./assets/pr-merged.svg) [fix(pkg): fix peerDependency constraints for vue and vue-loader](https://github.com/symfony/webpack-encore/pull/1160) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 month ago)
 - ![](./assets/pr-merged.svg) [fix(peer-dependencies): re-allow Vue ^2.6 with Vue-loader ^15.0.11, close #1156](https://github.com/symfony/webpack-encore/pull/1157) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 month ago)
 - ![](./assets/pr-merged.svg) [doc: remove ContainerAwareCommand reference](https://github.com/webmozarts/console-parallelization/pull/111) on [webmozarts/console-parallelization](https://github.com/webmozarts/console-parallelization) (1 month ago)
-- ![](./assets/pr-merged.svg) [[Vue.js] Document events](https://github.com/symfony/ux/pull/499) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
+- ![](./assets/pr-merged.svg) [[Vue.js] Document events](https://github.com/symfony/ux/pull/499) on [symfony/ux](https://github.com/symfony/ux) (2 months ago)
 - ![](./assets/pr-merged.svg) [[Vue] Add support for lazy-loading with Async Components](https://github.com/symfony/ux/pull/482) on [symfony/ux](https://github.com/symfony/ux) (2 months ago)
 
 #### 📜 My recent blog posts
