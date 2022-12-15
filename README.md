@@ -2,11 +2,11 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [[Contracts] Fix typo &#34;internal&#34; / &#34;interval&#34;](https://github.com/symfony/symfony/pull/48597) on [symfony/symfony](https://github.com/symfony/symfony) (3 days ago)
+- ![](./assets/pr-merged.svg) [[Contracts] Fix typo &#34;internal&#34; / &#34;interval&#34;](https://github.com/symfony/symfony/pull/48597) on [symfony/symfony](https://github.com/symfony/symfony) (4 days ago)
 - ![](./assets/pr-merged.svg) [feat(symfony-app.docker-hybrid): better make help](https://github.com/wamiz/manala-recipes/pull/16) on [wamiz/manala-recipes](https://github.com/wamiz/manala-recipes) (1 week ago)
 - ![](./assets/pr-closed.svg) [feat(mismatch-branch-description): be more tolerant about version format](https://github.com/symfony-tools/carsonbot/pull/209) on [symfony-tools/carsonbot](https://github.com/symfony-tools/carsonbot) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Translation] Fix extraction when dealing with VariadicPlaceholder parameters](https://github.com/symfony/symfony/pull/48451) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
-- ![](./assets/pr-merged.svg) [[TwigBridge] Fix casing of getCurrentRoute/getCurrentRouteParameters methods](https://github.com/symfony/symfony/pull/48434) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
+- ![](./assets/pr-merged.svg) [[TwigBridge] Fix casing of getCurrentRoute/getCurrentRouteParameters methods](https://github.com/symfony/symfony/pull/48434) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[Symfony CLI] Show usage of new command `symfony proxy:url`](https://github.com/symfony/symfony-docs/pull/17479) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [doc: fix typo](https://github.com/async-aws/aws/pull/1339) on [async-aws/aws](https://github.com/async-aws/aws) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [feat: add `local:proxy:url` command](https://github.com/symfony-cli/symfony-cli/pull/233) on [symfony-cli/symfony-cli](https://github.com/symfony-cli/symfony-cli) (2 weeks ago)
