@@ -4,7 +4,7 @@
 
 - ![](./assets/pr-merged.svg) [imp: install PHP-CS-Fixer locally, allowing us to run in locally](https://github.com/symfony/ux/pull/617) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
 - ![](./assets/pr-open.svg) [[Translator] Add Symfony UX Translator package](https://github.com/symfony/ux/pull/616) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
-- ![](./assets/pr-merged.svg) [[Contracts] Fix typo &#34;internal&#34; / &#34;interval&#34;](https://github.com/symfony/symfony/pull/48597) on [symfony/symfony](https://github.com/symfony/symfony) (4 weeks ago)
+- ![](./assets/pr-merged.svg) [[Contracts] Fix typo &#34;internal&#34; / &#34;interval&#34;](https://github.com/symfony/symfony/pull/48597) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
 - ![](./assets/pr-merged.svg) [feat(symfony-app.docker-hybrid): better make help](https://github.com/wamiz/manala-recipes/pull/16) on [wamiz/manala-recipes](https://github.com/wamiz/manala-recipes) (1 month ago)
 - ![](./assets/pr-closed.svg) [feat(mismatch-branch-description): be more tolerant about version format](https://github.com/symfony-tools/carsonbot/pull/209) on [symfony-tools/carsonbot](https://github.com/symfony-tools/carsonbot) (1 month ago)
 - ![](./assets/pr-merged.svg) [[Translation] Fix extraction when dealing with VariadicPlaceholder parameters](https://github.com/symfony/symfony/pull/48451) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
