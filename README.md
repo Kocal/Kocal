@@ -2,7 +2,7 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [fix(expression-language): fix description of `merge` function](https://github.com/blackfireio/player/pull/74) on [blackfireio/player](https://github.com/blackfireio/player) (1 week ago)
+- ![](./assets/pr-open.svg) [fix(expression-language): fix description of `merge` function](https://github.com/blackfireio/player/pull/74) on [blackfireio/player](https://github.com/blackfireio/player) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [imp: install PHP-CS-Fixer locally, allowing us to run in locally](https://github.com/symfony/ux/pull/617) on [symfony/ux](https://github.com/symfony/ux) (2 months ago)
 - ![](./assets/pr-open.svg) [[Translator] Add Symfony UX Translator package](https://github.com/symfony/ux/pull/616) on [symfony/ux](https://github.com/symfony/ux) (2 months ago)
 - ![](./assets/pr-merged.svg) [[Contracts] Fix typo &#34;internal&#34; / &#34;interval&#34;](https://github.com/symfony/symfony/pull/48597) on [symfony/symfony](https://github.com/symfony/symfony) (2 months ago)
