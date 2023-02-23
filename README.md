@@ -12,7 +12,7 @@
 - ![](./assets/pr-merged.svg) [[TwigBridge] Fix casing of getCurrentRoute/getCurrentRouteParameters methods](https://github.com/symfony/symfony/pull/48434) on [symfony/symfony](https://github.com/symfony/symfony) (2 months ago)
 - ![](./assets/pr-merged.svg) [[Symfony CLI] Show usage of new command `symfony proxy:url`](https://github.com/symfony/symfony-docs/pull/17479) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 months ago)
 - ![](./assets/pr-merged.svg) [doc: fix typo](https://github.com/async-aws/aws/pull/1339) on [async-aws/aws](https://github.com/async-aws/aws) (2 months ago)
-- ![](./assets/pr-merged.svg) [feat: add `local:proxy:url` command](https://github.com/symfony-cli/symfony-cli/pull/233) on [symfony-cli/symfony-cli](https://github.com/symfony-cli/symfony-cli) (2 months ago)
+- ![](./assets/pr-merged.svg) [feat: add `local:proxy:url` command](https://github.com/symfony-cli/symfony-cli/pull/233) on [symfony-cli/symfony-cli](https://github.com/symfony-cli/symfony-cli) (3 months ago)
 - ![](./assets/pr-merged.svg) [[Translation] [Lokalize] Configure `replace_breaks` to prevent issues with multilines translations](https://github.com/symfony/symfony/pull/48222) on [symfony/symfony](https://github.com/symfony/symfony) (3 months ago)
 - ![](./assets/pr-merged.svg) [Some modifications for AWS Runners (no Docker)](https://github.com/wamiz/manala-recipes/pull/15) on [wamiz/manala-recipes](https://github.com/wamiz/manala-recipes) (3 months ago)
 - ![](./assets/pr-closed.svg) [[Translation] [Crowdin] Use synchronous HTTP requests when reading the Crowdin API](https://github.com/symfony/symfony/pull/48109) on [symfony/symfony](https://github.com/symfony/symfony) (3 months ago)
