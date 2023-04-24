@@ -2,11 +2,11 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [fix(splio-sdk): fix usage with new Lazy Ghost Object in Symfony 6.2](https://github.com/wamiz/splio-sdk/pull/4) on [wamiz/splio-sdk](https://github.com/wamiz/splio-sdk) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [[HttpClient] Add hint about `timeout` and `max_duration` options](https://github.com/symfony/symfony/pull/49791) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
-- ![](./assets/pr-merged.svg) [chore: commit yarn.lock](https://github.com/symfony/ux/pull/755) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
-- ![](./assets/pr-closed.svg) [[HttpClient] Add hint about `timeout` and `max_duration` options](https://github.com/symfony/symfony/pull/49756) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
-- ![](./assets/pr-open.svg) [[symfony/ux-translator] Add recipe](https://github.com/symfony/recipes/pull/1185) on [symfony/recipes](https://github.com/symfony/recipes) (4 weeks ago)
+- ![](./assets/pr-merged.svg) [fix(splio-sdk): fix usage with new Lazy Ghost Object in Symfony 6.2](https://github.com/wamiz/splio-sdk/pull/4) on [wamiz/splio-sdk](https://github.com/wamiz/splio-sdk) (3 weeks ago)
+- ![](./assets/pr-merged.svg) [[HttpClient] Add hint about `timeout` and `max_duration` options](https://github.com/symfony/symfony/pull/49791) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
+- ![](./assets/pr-merged.svg) [chore: commit yarn.lock](https://github.com/symfony/ux/pull/755) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
+- ![](./assets/pr-closed.svg) [[HttpClient] Add hint about `timeout` and `max_duration` options](https://github.com/symfony/symfony/pull/49756) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
+- ![](./assets/pr-open.svg) [[symfony/ux-translator] Add recipe](https://github.com/symfony/recipes/pull/1185) on [symfony/recipes](https://github.com/symfony/recipes) (1 month ago)
 - ![](./assets/pr-open.svg) [feat(http): add flag/config to allow CORS requests, close #229](https://github.com/symfony-cli/symfony-cli/pull/293) on [symfony-cli/symfony-cli](https://github.com/symfony-cli/symfony-cli) (1 month ago)
 - ![](./assets/pr-merged.svg) [fix(php-8.2): update symbolic link command for pcre2.h](https://github.com/wamiz/manala-recipes/pull/21) on [wamiz/manala-recipes](https://github.com/wamiz/manala-recipes) (1 month ago)
 - ![](./assets/pr-merged.svg) [fix(command:getFiles): sort by date DESC](https://github.com/Kocal/ckfinder-symfony-bundle/pull/28) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (1 month ago)
