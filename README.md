@@ -2,9 +2,9 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [fix: specify base to parseInt()](https://github.com/beerose/tsc-diagnostics-diff-action/pull/18) on [beerose/tsc-diagnostics-diff-action](https://github.com/beerose/tsc-diagnostics-diff-action) (1 week ago)
-- ![](./assets/pr-merged.svg) [Use `league/flysystem` v3, drop Scoped Dependencies pipeline](https://github.com/Kocal/ckfinder-symfony-bundle/pull/29) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [[ux.symfony.com] Add demo page for Translator](https://github.com/symfony/ux/pull/826) on [symfony/ux](https://github.com/symfony/ux) (4 weeks ago)
+- ![](./assets/pr-merged.svg) [fix: specify base to parseInt()](https://github.com/beerose/tsc-diagnostics-diff-action/pull/18) on [beerose/tsc-diagnostics-diff-action](https://github.com/beerose/tsc-diagnostics-diff-action) (2 weeks ago)
+- ![](./assets/pr-merged.svg) [Use `league/flysystem` v3, drop Scoped Dependencies pipeline](https://github.com/Kocal/ckfinder-symfony-bundle/pull/29) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (3 weeks ago)
+- ![](./assets/pr-merged.svg) [[ux.symfony.com] Add demo page for Translator](https://github.com/symfony/ux/pull/826) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
 - ![](./assets/pr-merged.svg) [[Translator] Type and documentation fixes](https://github.com/symfony/ux/pull/822) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
 - ![](./assets/pr-merged.svg) [[Translator] Prefix bundle and extension classes with &#34;Ux&#34;](https://github.com/symfony/ux/pull/819) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
 - ![](./assets/pr-merged.svg) [fix(splio-sdk): fix usage with new Lazy Ghost Object in Symfony 6.2](https://github.com/wamiz/splio-sdk/pull/4) on [wamiz/splio-sdk](https://github.com/wamiz/splio-sdk) (2 months ago)
