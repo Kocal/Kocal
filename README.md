@@ -20,11 +20,11 @@
 
 #### 📜 My recent blog posts
 
-- [Generate PDFs on Amazon AWS with PHP and Puppeteer](posts/2020-01-02-generate-pdfs-on-amazon-aws-with-php-and-puppeteer) (3 years ago)
-- [Generate PDFs on Amazon AWS with PHP and Puppeteer: The Best Way](posts/2020-04-21-generate-pdfs-on-amazon-aws-with-php-and-puppeteer-the-best-way) (3 years ago)
-- [Migration de notre stack de développement vers Docker](posts/2021-04-26-migration-stack-developpement) (2 years ago)
-- [Migration to GitHub-native Dependabot: solutions for auto-merge and Action secrets](posts/2021-05-04-migration-to-github-native-dependabot-solutions-for-auto-merge-and-action-secrets) (2 years ago)
+- [How to use PHP CS Fixer ruleset with Easy Coding Standard](posts/2023-07-19-how-to-use-php-cs-fixer-ruleset-with-easy-coding-standard) (1 month ago)
 - [Doctrine, QueryBuilder::setMaxResults() and collections associations are on a boat](posts/2022-01-07-doctrine-setmaxresults-and-collections-associations-are-on-a-boat) (2 years ago)
+- [Migration to GitHub-native Dependabot: solutions for auto-merge and Action secrets](posts/2021-05-04-migration-to-github-native-dependabot-solutions-for-auto-merge-and-action-secrets) (2 years ago)
+- [Migration de notre stack de développement vers Docker](posts/2021-04-26-migration-stack-developpement) (2 years ago)
+- [Generate PDFs on Amazon AWS with PHP and Puppeteer: The Best Way](posts/2020-04-21-generate-pdfs-on-amazon-aws-with-php-and-puppeteer-the-best-way) (3 years ago)
 
 #### 📫 How to reach me
 
