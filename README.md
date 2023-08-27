@@ -2,29 +2,29 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [Migrate from VuePress to VitePress](https://github.com/Kocal/blog/pull/132) on [Kocal/blog](https://github.com/Kocal/blog) (4 days ago)
-- ![](./assets/pr-closed.svg) [fix(readme): fix link to UnoCSS](https://github.com/chakra-ui/panda/pull/706) on [chakra-ui/panda](https://github.com/chakra-ui/panda) (1 week ago)
-- ![](./assets/pr-merged.svg) [fix(translator): generate unique constants name (fix #938)](https://github.com/symfony/ux/pull/945) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
-- ![](./assets/pr-merged.svg) [fix: specify base to parseInt()](https://github.com/beerose/tsc-diagnostics-diff-action/pull/18) on [beerose/tsc-diagnostics-diff-action](https://github.com/beerose/tsc-diagnostics-diff-action) (1 month ago)
-- ![](./assets/pr-merged.svg) [Use `league/flysystem` v3, drop Scoped Dependencies pipeline](https://github.com/Kocal/ckfinder-symfony-bundle/pull/29) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (1 month ago)
-- ![](./assets/pr-merged.svg) [[ux.symfony.com] Add demo page for Translator](https://github.com/symfony/ux/pull/826) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
-- ![](./assets/pr-merged.svg) [[Translator] Type and documentation fixes](https://github.com/symfony/ux/pull/822) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
-- ![](./assets/pr-merged.svg) [[Translator] Prefix bundle and extension classes with &#34;Ux&#34;](https://github.com/symfony/ux/pull/819) on [symfony/ux](https://github.com/symfony/ux) (2 months ago)
-- ![](./assets/pr-merged.svg) [fix(splio-sdk): fix usage with new Lazy Ghost Object in Symfony 6.2](https://github.com/wamiz/splio-sdk/pull/4) on [wamiz/splio-sdk](https://github.com/wamiz/splio-sdk) (3 months ago)
-- ![](./assets/pr-merged.svg) [[HttpClient] Add hint about `timeout` and `max_duration` options](https://github.com/symfony/symfony/pull/49791) on [symfony/symfony](https://github.com/symfony/symfony) (3 months ago)
-- ![](./assets/pr-merged.svg) [chore: commit yarn.lock](https://github.com/symfony/ux/pull/755) on [symfony/ux](https://github.com/symfony/ux) (3 months ago)
-- ![](./assets/pr-closed.svg) [[HttpClient] Add hint about `timeout` and `max_duration` options](https://github.com/symfony/symfony/pull/49756) on [symfony/symfony](https://github.com/symfony/symfony) (3 months ago)
-- ![](./assets/pr-merged.svg) [[symfony/ux-translator] Add recipe](https://github.com/symfony/recipes/pull/1185) on [symfony/recipes](https://github.com/symfony/recipes) (3 months ago)
-- ![](./assets/pr-open.svg) [feat(http): add flag/config to allow CORS requests, close #229](https://github.com/symfony-cli/symfony-cli/pull/293) on [symfony-cli/symfony-cli](https://github.com/symfony-cli/symfony-cli) (3 months ago)
-- ![](./assets/pr-merged.svg) [fix(php-8.2): update symbolic link command for pcre2.h](https://github.com/wamiz/manala-recipes/pull/21) on [wamiz/manala-recipes](https://github.com/wamiz/manala-recipes) (3 months ago)
+- ![](./assets/pr-merged.svg) [feat: re-add RSS feed](https://github.com/Kocal/blog/pull/149) on [Kocal/blog](https://github.com/Kocal/blog) (today)
+- ![](./assets/pr-merged.svg) [refactor: migrate from Vue to Qwik, use SSG aswell](https://github.com/Kocal/links/pull/5) on [Kocal/links](https://github.com/Kocal/links) (1 day ago)
+- ![](./assets/pr-merged.svg) [refactor(styles): migrate from Tailwind to PandaCSS](https://github.com/Kocal/start.kocal.fr/pull/409) on [Kocal/start.kocal.fr](https://github.com/Kocal/start.kocal.fr) (1 week ago)
+- ![](./assets/pr-merged.svg) [imp(backgrounds): random background at runtime](https://github.com/Kocal/start.kocal.fr/pull/408) on [Kocal/start.kocal.fr](https://github.com/Kocal/start.kocal.fr) (1 week ago)
+- ![](./assets/pr-merged.svg) [feat: create a Vite plugin to pre-eval backgrounds public paths and their dimensions](https://github.com/Kocal/start.kocal.fr/pull/407) on [Kocal/start.kocal.fr](https://github.com/Kocal/start.kocal.fr) (1 week ago)
+- ![](./assets/pr-merged.svg) [feat: use img for backgrounds](https://github.com/Kocal/start.kocal.fr/pull/406) on [Kocal/start.kocal.fr](https://github.com/Kocal/start.kocal.fr) (2 weeks ago)
+- ![](./assets/pr-merged.svg) [Migrate to Qwik](https://github.com/Kocal/start.kocal.fr/pull/405) on [Kocal/start.kocal.fr](https://github.com/Kocal/start.kocal.fr) (2 weeks ago)
+- ![](./assets/pr-merged.svg) [chore: update backgrounds](https://github.com/Kocal/start.kocal.fr/pull/404) on [Kocal/start.kocal.fr](https://github.com/Kocal/start.kocal.fr) (2 weeks ago)
+- ![](./assets/pr-merged.svg) [chore: upgrade to VitePress 1.0.0-RC.4](https://github.com/Kocal/blog/pull/148) on [Kocal/blog](https://github.com/Kocal/blog) (2 weeks ago)
+- ![](./assets/pr-merged.svg) [feat(qwik-city): add a way to get server-side env vars from `onStaticGenerate`](https://github.com/BuilderIO/qwik/pull/4912) on [BuilderIO/qwik](https://github.com/BuilderIO/qwik) (2 weeks ago)
+- ![](./assets/pr-merged.svg) [feat: add giscus](https://github.com/Kocal/blog/pull/142) on [Kocal/blog](https://github.com/Kocal/blog) (1 month ago)
+- ![](./assets/pr-merged.svg) [post: How tu use PHP CS Fixer ruleset with Easy Coding Standard](https://github.com/Kocal/blog/pull/139) on [Kocal/blog](https://github.com/Kocal/blog) (1 month ago)
+- ![](./assets/pr-merged.svg) [chore(deps): update PHP-CS-Fixer to ^3.22.0](https://github.com/easy-coding-standard/easy-coding-standard/pull/100) on [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (1 month ago)
+- ![](./assets/pr-open.svg) [chore(rush): update config files](https://github.com/Kocal/eslint-config-generator/pull/20) on [Kocal/eslint-config-generator](https://github.com/Kocal/eslint-config-generator) (1 month ago)
+- ![](./assets/pr-merged.svg) [fix(twig-component): fix &lt;twig&gt; syntax with empty attribute, close #925](https://github.com/symfony/ux/pull/1004) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
 
 #### 📜 My recent blog posts
 
-- [Doctrine, QueryBuilder::setMaxResults() and collections associations are on a boat](https://hugo.alliau.me/2022/01/07/doctrine-setmaxresults-and-collections-associations-are-on-a-boat/) (1 year ago)
-- [Migration to GitHub-native Dependabot: solutions for auto-merge and Action secrets](https://hugo.alliau.me/2021/05/04/migration-to-github-native-dependabot-solutions-for-auto-merge-and-action-secrets/) (2 years ago)
-- [Migration de notre stack de développement vers Docker](https://hugo.alliau.me/2021/04/26/migration-stack-developpement/) (2 years ago)
-- [Generate PDFs on Amazon AWS with PHP and Puppeteer: The Best Way](https://hugo.alliau.me/2020/04/21/generate-pdfs-on-amazon-aws-with-php-and-puppeteer-the-best-way/) (3 years ago)
-- [Generate PDFs on Amazon AWS with PHP and Puppeteer](https://hugo.alliau.me/2020/01/02/generate-pdfs-on-amazon-aws-with-php-and-puppeteer/) (3 years ago)
+- [Generate PDFs on Amazon AWS with PHP and Puppeteer](posts/2020-01-02-generate-pdfs-on-amazon-aws-with-php-and-puppeteer) (3 years ago)
+- [Generate PDFs on Amazon AWS with PHP and Puppeteer: The Best Way](posts/2020-04-21-generate-pdfs-on-amazon-aws-with-php-and-puppeteer-the-best-way) (3 years ago)
+- [Migration de notre stack de développement vers Docker](posts/2021-04-26-migration-stack-developpement) (2 years ago)
+- [Migration to GitHub-native Dependabot: solutions for auto-merge and Action secrets](posts/2021-05-04-migration-to-github-native-dependabot-solutions-for-auto-merge-and-action-secrets) (2 years ago)
+- [Doctrine, QueryBuilder::setMaxResults() and collections associations are on a boat](posts/2022-01-07-doctrine-setmaxresults-and-collections-associations-are-on-a-boat) (2 years ago)
 
 #### 📫 How to reach me
 
