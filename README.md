@@ -2,8 +2,8 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [[AssetMapper] Exclude _*.scss files](https://github.com/symfony/recipes/pull/1241) on [symfony/recipes](https://github.com/symfony/recipes) (1 week ago)
-- ![](./assets/pr-merged.svg) [[LiveComponent] Fix morphing issues with an Alpine.js component, close #984](https://github.com/symfony/ux/pull/1126) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
+- ![](./assets/pr-open.svg) [[AssetMapper] Exclude _*.scss files](https://github.com/symfony/recipes/pull/1241) on [symfony/recipes](https://github.com/symfony/recipes) (2 weeks ago)
+- ![](./assets/pr-merged.svg) [[LiveComponent] Fix morphing issues with an Alpine.js component, close #984](https://github.com/symfony/ux/pull/1126) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [feat: add --minify option](https://github.com/SymfonyCasts/tailwind-bundle/pull/21) on [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) (1 month ago)
 - ![](./assets/pr-closed.svg) [feat: add --minify option](https://github.com/Kocal/tailwind-bundle/pull/1) on [Kocal/tailwind-bundle](https://github.com/Kocal/tailwind-bundle) (1 month ago)
 - ![](./assets/pr-merged.svg) [refactor(node): Webpack, node deps etc, use AssetMapper instead](https://github.com/Kocal/photos/pull/7) on [Kocal/photos](https://github.com/Kocal/photos) (1 month ago)
@@ -16,7 +16,7 @@
 - ![](./assets/pr-merged.svg) [feat: use img for backgrounds](https://github.com/Kocal/start.kocal.fr/pull/406) on [Kocal/start.kocal.fr](https://github.com/Kocal/start.kocal.fr) (1 month ago)
 - ![](./assets/pr-merged.svg) [Migrate to Qwik](https://github.com/Kocal/start.kocal.fr/pull/405) on [Kocal/start.kocal.fr](https://github.com/Kocal/start.kocal.fr) (1 month ago)
 - ![](./assets/pr-merged.svg) [chore: update backgrounds](https://github.com/Kocal/start.kocal.fr/pull/404) on [Kocal/start.kocal.fr](https://github.com/Kocal/start.kocal.fr) (1 month ago)
-- ![](./assets/pr-merged.svg) [chore: upgrade to VitePress 1.0.0-RC.4](https://github.com/Kocal/blog/pull/148) on [Kocal/blog](https://github.com/Kocal/blog) (1 month ago)
+- ![](./assets/pr-merged.svg) [chore: upgrade to VitePress 1.0.0-RC.4](https://github.com/Kocal/blog/pull/148) on [Kocal/blog](https://github.com/Kocal/blog) (2 months ago)
 
 #### 📜 My recent blog posts
 
