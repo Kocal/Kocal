@@ -2,21 +2,21 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [[AssetMapper] Exclude _*.scss files](https://github.com/symfony/recipes/pull/1241) on [symfony/recipes](https://github.com/symfony/recipes) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [[LiveComponent] Fix morphing issues with an Alpine.js component, close #984](https://github.com/symfony/ux/pull/1126) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
+- ![](./assets/pr-merged.svg) [Abandon this repository](https://github.com/Kocal/eslint-config-generator/pull/22) on [Kocal/eslint-config-generator](https://github.com/Kocal/eslint-config-generator) (1 day ago)
+- ![](./assets/pr-merged.svg) [Better wait for Docker Compose containers (close #23), add Meilisearch support (close WI-6971)](https://github.com/wamiz/manala-recipes/pull/24) on [wamiz/manala-recipes](https://github.com/wamiz/manala-recipes) (4 days ago)
+- ![](./assets/pr-merged.svg) [feat: remove Prettier](https://github.com/Kocal/eslint-config-generator/pull/21) on [Kocal/eslint-config-generator](https://github.com/Kocal/eslint-config-generator) (5 days ago)
+- ![](./assets/pr-open.svg) [[UX Vue] Add lines for components lazy-loading](https://github.com/symfony/recipes/pull/1246) on [symfony/recipes](https://github.com/symfony/recipes) (5 days ago)
+- ![](./assets/pr-open.svg) [[AssetMapper] Exclude _*.scss files](https://github.com/symfony/recipes/pull/1241) on [symfony/recipes](https://github.com/symfony/recipes) (3 weeks ago)
+- ![](./assets/pr-merged.svg) [[LiveComponent] Fix morphing issues with an Alpine.js component, close #984](https://github.com/symfony/ux/pull/1126) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [feat: add --minify option](https://github.com/SymfonyCasts/tailwind-bundle/pull/21) on [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) (1 month ago)
 - ![](./assets/pr-closed.svg) [feat: add --minify option](https://github.com/Kocal/tailwind-bundle/pull/1) on [Kocal/tailwind-bundle](https://github.com/Kocal/tailwind-bundle) (1 month ago)
 - ![](./assets/pr-merged.svg) [refactor(node): Webpack, node deps etc, use AssetMapper instead](https://github.com/Kocal/photos/pull/7) on [Kocal/photos](https://github.com/Kocal/photos) (1 month ago)
 - ![](./assets/pr-merged.svg) [doc: fix path to base Twig template](https://github.com/SymfonyCasts/tailwind-bundle/pull/19) on [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) (1 month ago)
 - ![](./assets/pr-merged.svg) [feat: re-add RSS feed](https://github.com/Kocal/blog/pull/149) on [Kocal/blog](https://github.com/Kocal/blog) (1 month ago)
 - ![](./assets/pr-merged.svg) [refactor: migrate from Vue to Qwik, use SSG aswell](https://github.com/Kocal/links/pull/5) on [Kocal/links](https://github.com/Kocal/links) (1 month ago)
-- ![](./assets/pr-merged.svg) [refactor(styles): migrate from Tailwind to PandaCSS](https://github.com/Kocal/start.kocal.fr/pull/409) on [Kocal/start.kocal.fr](https://github.com/Kocal/start.kocal.fr) (1 month ago)
-- ![](./assets/pr-merged.svg) [imp(backgrounds): random background at runtime](https://github.com/Kocal/start.kocal.fr/pull/408) on [Kocal/start.kocal.fr](https://github.com/Kocal/start.kocal.fr) (1 month ago)
-- ![](./assets/pr-merged.svg) [feat: create a Vite plugin to pre-eval backgrounds public paths and their dimensions](https://github.com/Kocal/start.kocal.fr/pull/407) on [Kocal/start.kocal.fr](https://github.com/Kocal/start.kocal.fr) (1 month ago)
-- ![](./assets/pr-merged.svg) [feat: use img for backgrounds](https://github.com/Kocal/start.kocal.fr/pull/406) on [Kocal/start.kocal.fr](https://github.com/Kocal/start.kocal.fr) (1 month ago)
-- ![](./assets/pr-merged.svg) [Migrate to Qwik](https://github.com/Kocal/start.kocal.fr/pull/405) on [Kocal/start.kocal.fr](https://github.com/Kocal/start.kocal.fr) (1 month ago)
-- ![](./assets/pr-merged.svg) [chore: update backgrounds](https://github.com/Kocal/start.kocal.fr/pull/404) on [Kocal/start.kocal.fr](https://github.com/Kocal/start.kocal.fr) (1 month ago)
-- ![](./assets/pr-merged.svg) [chore: upgrade to VitePress 1.0.0-RC.4](https://github.com/Kocal/blog/pull/148) on [Kocal/blog](https://github.com/Kocal/blog) (2 months ago)
+- ![](./assets/pr-merged.svg) [refactor(styles): migrate from Tailwind to PandaCSS](https://github.com/Kocal/start.kocal.fr/pull/409) on [Kocal/start.kocal.fr](https://github.com/Kocal/start.kocal.fr) (2 months ago)
+- ![](./assets/pr-merged.svg) [imp(backgrounds): random background at runtime](https://github.com/Kocal/start.kocal.fr/pull/408) on [Kocal/start.kocal.fr](https://github.com/Kocal/start.kocal.fr) (2 months ago)
+- ![](./assets/pr-merged.svg) [feat: create a Vite plugin to pre-eval backgrounds public paths and their dimensions](https://github.com/Kocal/start.kocal.fr/pull/407) on [Kocal/start.kocal.fr](https://github.com/Kocal/start.kocal.fr) (2 months ago)
 
 #### 📜 My recent blog posts
 
