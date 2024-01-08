@@ -2,10 +2,10 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [Add test for #501](https://github.com/phpstan/phpstan-doctrine/pull/507) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [Re-migrate to Chrome, use Selenium and dedicated Docker Compose containers for this](https://github.com/Kocal/open-graph-image-generator/pull/7) on [Kocal/open-graph-image-generator](https://github.com/Kocal/open-graph-image-generator) (4 weeks ago)
-- ![](./assets/pr-merged.svg) [refactor: split image generation and rendering, use better typed DTO for query parameters](https://github.com/Kocal/open-graph-image-generator/pull/6) on [Kocal/open-graph-image-generator](https://github.com/Kocal/open-graph-image-generator) (4 weeks ago)
-- ![](./assets/pr-merged.svg) [chore: update deps](https://github.com/Kocal/open-graph-image-generator/pull/5) on [Kocal/open-graph-image-generator](https://github.com/Kocal/open-graph-image-generator) (4 weeks ago)
+- ![](./assets/pr-merged.svg) [Add test for #501](https://github.com/phpstan/phpstan-doctrine/pull/507) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (3 weeks ago)
+- ![](./assets/pr-merged.svg) [Re-migrate to Chrome, use Selenium and dedicated Docker Compose containers for this](https://github.com/Kocal/open-graph-image-generator/pull/7) on [Kocal/open-graph-image-generator](https://github.com/Kocal/open-graph-image-generator) (1 month ago)
+- ![](./assets/pr-merged.svg) [refactor: split image generation and rendering, use better typed DTO for query parameters](https://github.com/Kocal/open-graph-image-generator/pull/6) on [Kocal/open-graph-image-generator](https://github.com/Kocal/open-graph-image-generator) (1 month ago)
+- ![](./assets/pr-merged.svg) [chore: update deps](https://github.com/Kocal/open-graph-image-generator/pull/5) on [Kocal/open-graph-image-generator](https://github.com/Kocal/open-graph-image-generator) (1 month ago)
 - ![](./assets/pr-merged.svg) [feat: update PHP to 8.3](https://github.com/Kocal/open-graph-image-generator/pull/4) on [Kocal/open-graph-image-generator](https://github.com/Kocal/open-graph-image-generator) (1 month ago)
 - ![](./assets/pr-merged.svg) [feat: Update to Symfony 7](https://github.com/Kocal/open-graph-image-generator/pull/3) on [Kocal/open-graph-image-generator](https://github.com/Kocal/open-graph-image-generator) (1 month ago)
 - ![](./assets/pr-merged.svg) [feat: setup CI with DDEV](https://github.com/Kocal/open-graph-image-generator/pull/2) on [Kocal/open-graph-image-generator](https://github.com/Kocal/open-graph-image-generator) (1 month ago)
@@ -15,7 +15,7 @@
 - ![](./assets/pr-merged.svg) [feat: setup automatic opengraph image generation](https://github.com/Kocal/blog/pull/158) on [Kocal/blog](https://github.com/Kocal/blog) (1 month ago)
 - ![](./assets/pr-merged.svg) [Listen to Doctrine events on entities, given a PHP attribute, close #150](https://github.com/Kocal/blog/pull/157) on [Kocal/blog](https://github.com/Kocal/blog) (1 month ago)
 - ![](./assets/pr-merged.svg) [Minor corrections as seen on GSC](https://github.com/Kocal/blog/pull/156) on [Kocal/blog](https://github.com/Kocal/blog) (1 month ago)
-- ![](./assets/pr-open.svg) [Return `undefined` to `Schema#addChildCheck()` calls](https://github.com/ckeditor/ckeditor5/pull/15290) on [ckeditor/ckeditor5](https://github.com/ckeditor/ckeditor5) (2 months ago)
+- ![](./assets/pr-closed.svg) [Return `undefined` to `Schema#addChildCheck()` calls](https://github.com/ckeditor/ckeditor5/pull/15290) on [ckeditor/ckeditor5](https://github.com/ckeditor/ckeditor5) (2 months ago)
 - ![](./assets/pr-closed.svg) [Return `undefined` to `Schema#addChildCheck()` calls](https://github.com/Kocal/ckeditor5/pull/1) on [Kocal/ckeditor5](https://github.com/Kocal/ckeditor5) (2 months ago)
 
 #### 📜 My recent blog posts
