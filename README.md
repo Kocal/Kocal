@@ -2,21 +2,21 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [chore: modernize JS stack](https://github.com/Kocal/SymfonyMailerTesting/pull/37) on [Kocal/SymfonyMailerTesting](https://github.com/Kocal/SymfonyMailerTesting) (2 days ago)
-- ![](./assets/pr-merged.svg) [chore: drop support for Symfony 4.4 and PHP 7.4, as they are not maintained since a long time](https://github.com/Kocal/SymfonyMailerTesting/pull/36) on [Kocal/SymfonyMailerTesting](https://github.com/Kocal/SymfonyMailerTesting) (3 days ago)
-- ![](./assets/pr-merged.svg) [ci: add matrix entries for Symfony 7 &amp; PHP 8.2](https://github.com/Kocal/SymfonyMailerTesting/pull/35) on [Kocal/SymfonyMailerTesting](https://github.com/Kocal/SymfonyMailerTesting) (3 days ago)
-- ![](./assets/pr-merged.svg) [Drop Panther/Selenium/Chrome for OG Image generation through intervention/image](https://github.com/Kocal/open-graph-image-generator/pull/8) on [Kocal/open-graph-image-generator](https://github.com/Kocal/open-graph-image-generator) (4 days ago)
-- ![](./assets/pr-open.svg) [[TwigComponent] Fix usage of {% embed %} with {% block %} in &lt;twig:&gt; components, close #952](https://github.com/symfony/ux/pull/1397) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
-- ![](./assets/pr-open.svg) [feat(deps): update pkce-challenge to v4](https://github.com/yasudacloud/strapi-plugin-sso/pull/42) on [yasudacloud/strapi-plugin-sso](https://github.com/yasudacloud/strapi-plugin-sso) (3 weeks ago)
+- ![](./assets/pr-open.svg) [[Translator] Update intl-messageformat range version to ^10.5.11, close #1437](https://github.com/symfony/ux/pull/1443) on [symfony/ux](https://github.com/symfony/ux) (4 days ago)
+- ![](./assets/pr-merged.svg) [chore: modernize JS stack](https://github.com/Kocal/SymfonyMailerTesting/pull/37) on [Kocal/SymfonyMailerTesting](https://github.com/Kocal/SymfonyMailerTesting) (1 week ago)
+- ![](./assets/pr-merged.svg) [chore: drop support for Symfony 4.4 and PHP 7.4, as they are not maintained since a long time](https://github.com/Kocal/SymfonyMailerTesting/pull/36) on [Kocal/SymfonyMailerTesting](https://github.com/Kocal/SymfonyMailerTesting) (1 week ago)
+- ![](./assets/pr-merged.svg) [ci: add matrix entries for Symfony 7 &amp; PHP 8.2](https://github.com/Kocal/SymfonyMailerTesting/pull/35) on [Kocal/SymfonyMailerTesting](https://github.com/Kocal/SymfonyMailerTesting) (1 week ago)
+- ![](./assets/pr-merged.svg) [Drop Panther/Selenium/Chrome for OG Image generation through intervention/image](https://github.com/Kocal/open-graph-image-generator/pull/8) on [Kocal/open-graph-image-generator](https://github.com/Kocal/open-graph-image-generator) (1 week ago)
+- ![](./assets/pr-merged.svg) [[TwigComponent] Fix usage of {% embed %} with {% block %} in &lt;twig:&gt; components, close #952](https://github.com/symfony/ux/pull/1397) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
+- ![](./assets/pr-open.svg) [feat(deps): update pkce-challenge to v4](https://github.com/yasudacloud/strapi-plugin-sso/pull/42) on [yasudacloud/strapi-plugin-sso](https://github.com/yasudacloud/strapi-plugin-sso) (4 weeks ago)
 - ![](./assets/pr-merged.svg) [Add test for #501](https://github.com/phpstan/phpstan-doctrine/pull/507) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 month ago)
-- ![](./assets/pr-merged.svg) [Re-migrate to Chrome, use Selenium and dedicated Docker Compose containers for this](https://github.com/Kocal/open-graph-image-generator/pull/7) on [Kocal/open-graph-image-generator](https://github.com/Kocal/open-graph-image-generator) (1 month ago)
-- ![](./assets/pr-merged.svg) [refactor: split image generation and rendering, use better typed DTO for query parameters](https://github.com/Kocal/open-graph-image-generator/pull/6) on [Kocal/open-graph-image-generator](https://github.com/Kocal/open-graph-image-generator) (1 month ago)
-- ![](./assets/pr-merged.svg) [chore: update deps](https://github.com/Kocal/open-graph-image-generator/pull/5) on [Kocal/open-graph-image-generator](https://github.com/Kocal/open-graph-image-generator) (1 month ago)
-- ![](./assets/pr-merged.svg) [feat: update PHP to 8.3](https://github.com/Kocal/open-graph-image-generator/pull/4) on [Kocal/open-graph-image-generator](https://github.com/Kocal/open-graph-image-generator) (1 month ago)
-- ![](./assets/pr-merged.svg) [feat: Update to Symfony 7](https://github.com/Kocal/open-graph-image-generator/pull/3) on [Kocal/open-graph-image-generator](https://github.com/Kocal/open-graph-image-generator) (1 month ago)
-- ![](./assets/pr-merged.svg) [feat: setup CI with DDEV](https://github.com/Kocal/open-graph-image-generator/pull/2) on [Kocal/open-graph-image-generator](https://github.com/Kocal/open-graph-image-generator) (1 month ago)
+- ![](./assets/pr-merged.svg) [Re-migrate to Chrome, use Selenium and dedicated Docker Compose containers for this](https://github.com/Kocal/open-graph-image-generator/pull/7) on [Kocal/open-graph-image-generator](https://github.com/Kocal/open-graph-image-generator) (2 months ago)
+- ![](./assets/pr-merged.svg) [refactor: split image generation and rendering, use better typed DTO for query parameters](https://github.com/Kocal/open-graph-image-generator/pull/6) on [Kocal/open-graph-image-generator](https://github.com/Kocal/open-graph-image-generator) (2 months ago)
+- ![](./assets/pr-merged.svg) [chore: update deps](https://github.com/Kocal/open-graph-image-generator/pull/5) on [Kocal/open-graph-image-generator](https://github.com/Kocal/open-graph-image-generator) (2 months ago)
+- ![](./assets/pr-merged.svg) [feat: update PHP to 8.3](https://github.com/Kocal/open-graph-image-generator/pull/4) on [Kocal/open-graph-image-generator](https://github.com/Kocal/open-graph-image-generator) (2 months ago)
+- ![](./assets/pr-merged.svg) [feat: Update to Symfony 7](https://github.com/Kocal/open-graph-image-generator/pull/3) on [Kocal/open-graph-image-generator](https://github.com/Kocal/open-graph-image-generator) (2 months ago)
+- ![](./assets/pr-merged.svg) [feat: setup CI with DDEV](https://github.com/Kocal/open-graph-image-generator/pull/2) on [Kocal/open-graph-image-generator](https://github.com/Kocal/open-graph-image-generator) (2 months ago)
 - ![](./assets/pr-merged.svg) [Migrate stack to DDEV](https://github.com/Kocal/open-graph-image-generator/pull/1) on [Kocal/open-graph-image-generator](https://github.com/Kocal/open-graph-image-generator) (2 months ago)
-- ![](./assets/pr-merged.svg) [Update README.md](https://github.com/soyuka/secret-santa/pull/1) on [soyuka/secret-santa](https://github.com/soyuka/secret-santa) (2 months ago)
 
 #### 📜 My recent blog posts
 
