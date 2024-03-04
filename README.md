@@ -2,11 +2,11 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [Bun](https://github.com/Kocal/links/pull/6) on [Kocal/links](https://github.com/Kocal/links) (2 days ago)
-- ![](./assets/pr-merged.svg) [feat: migrate to bun](https://github.com/Kocal/cv/pull/2) on [Kocal/cv](https://github.com/Kocal/cv) (2 days ago)
-- ![](./assets/pr-merged.svg) [feat: setup Partytown and Google Analytics](https://github.com/Kocal/cv/pull/1) on [Kocal/cv](https://github.com/Kocal/cv) (2 days ago)
-- ![](./assets/pr-merged.svg) [feat: switch to Bun](https://github.com/Kocal/blog/pull/162) on [Kocal/blog](https://github.com/Kocal/blog) (2 days ago)
-- ![](./assets/pr-merged.svg) [[Translator] Update intl-messageformat range version to ^10.5.11, close #1437](https://github.com/symfony/ux/pull/1443) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
+- ![](./assets/pr-open.svg) [Bun](https://github.com/Kocal/links/pull/6) on [Kocal/links](https://github.com/Kocal/links) (1 week ago)
+- ![](./assets/pr-merged.svg) [feat: migrate to bun](https://github.com/Kocal/cv/pull/2) on [Kocal/cv](https://github.com/Kocal/cv) (1 week ago)
+- ![](./assets/pr-merged.svg) [feat: setup Partytown and Google Analytics](https://github.com/Kocal/cv/pull/1) on [Kocal/cv](https://github.com/Kocal/cv) (1 week ago)
+- ![](./assets/pr-merged.svg) [feat: switch to Bun](https://github.com/Kocal/blog/pull/162) on [Kocal/blog](https://github.com/Kocal/blog) (1 week ago)
+- ![](./assets/pr-merged.svg) [[Translator] Update intl-messageformat range version to ^10.5.11, close #1437](https://github.com/symfony/ux/pull/1443) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
 - ![](./assets/pr-merged.svg) [chore: modernize JS stack](https://github.com/Kocal/SymfonyMailerTesting/pull/37) on [Kocal/SymfonyMailerTesting](https://github.com/Kocal/SymfonyMailerTesting) (1 month ago)
 - ![](./assets/pr-merged.svg) [chore: drop support for Symfony 4.4 and PHP 7.4, as they are not maintained since a long time](https://github.com/Kocal/SymfonyMailerTesting/pull/36) on [Kocal/SymfonyMailerTesting](https://github.com/Kocal/SymfonyMailerTesting) (1 month ago)
 - ![](./assets/pr-merged.svg) [ci: add matrix entries for Symfony 7 &amp; PHP 8.2](https://github.com/Kocal/SymfonyMailerTesting/pull/35) on [Kocal/SymfonyMailerTesting](https://github.com/Kocal/SymfonyMailerTesting) (1 month ago)
@@ -14,9 +14,9 @@
 - ![](./assets/pr-merged.svg) [[TwigComponent] Fix usage of {% embed %} with {% block %} in &lt;twig:&gt; components, close #952](https://github.com/symfony/ux/pull/1397) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
 - ![](./assets/pr-open.svg) [feat(deps): update pkce-challenge to v4](https://github.com/yasudacloud/strapi-plugin-sso/pull/42) on [yasudacloud/strapi-plugin-sso](https://github.com/yasudacloud/strapi-plugin-sso) (1 month ago)
 - ![](./assets/pr-merged.svg) [Add test for #501](https://github.com/phpstan/phpstan-doctrine/pull/507) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (2 months ago)
-- ![](./assets/pr-merged.svg) [Re-migrate to Chrome, use Selenium and dedicated Docker Compose containers for this](https://github.com/Kocal/open-graph-image-generator/pull/7) on [Kocal/open-graph-image-generator](https://github.com/Kocal/open-graph-image-generator) (2 months ago)
-- ![](./assets/pr-merged.svg) [refactor: split image generation and rendering, use better typed DTO for query parameters](https://github.com/Kocal/open-graph-image-generator/pull/6) on [Kocal/open-graph-image-generator](https://github.com/Kocal/open-graph-image-generator) (2 months ago)
-- ![](./assets/pr-merged.svg) [chore: update deps](https://github.com/Kocal/open-graph-image-generator/pull/5) on [Kocal/open-graph-image-generator](https://github.com/Kocal/open-graph-image-generator) (2 months ago)
+- ![](./assets/pr-merged.svg) [Re-migrate to Chrome, use Selenium and dedicated Docker Compose containers for this](https://github.com/Kocal/open-graph-image-generator/pull/7) on [Kocal/open-graph-image-generator](https://github.com/Kocal/open-graph-image-generator) (3 months ago)
+- ![](./assets/pr-merged.svg) [refactor: split image generation and rendering, use better typed DTO for query parameters](https://github.com/Kocal/open-graph-image-generator/pull/6) on [Kocal/open-graph-image-generator](https://github.com/Kocal/open-graph-image-generator) (3 months ago)
+- ![](./assets/pr-merged.svg) [chore: update deps](https://github.com/Kocal/open-graph-image-generator/pull/5) on [Kocal/open-graph-image-generator](https://github.com/Kocal/open-graph-image-generator) (3 months ago)
 
 #### 📜 My recent blog posts
 
