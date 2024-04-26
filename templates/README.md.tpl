@@ -5,15 +5,15 @@
 - ![](./assets/pr-{{ .State | toLower }}.svg) [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
-#### 📜 My recent blog posts
-{{range rss "https://hugo.alliau.me/rss.xml" 5}}
+#### 📜 My recent blog posts (https://hugo.alliau.me/blog)
+{{range rss "https://hugo.alliau.me/blog/rss.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
 #### 📫 How to reach me
 
-- Twitter: https://twitter.com/HugoAlliaume
-- Blog: https://hugo.alliau.me
+- Twitter/X: https://twitter.com/HugoAlliaume
+- Website: https://hugo.alliau.me
 
 ---
 
