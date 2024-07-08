@@ -2,21 +2,21 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [refactor: refactor DDD for CV](https://github.com/Kocal/hugo.alliau.me/pull/37) on [Kocal/hugo.alliau.me](https://github.com/Kocal/hugo.alliau.me) (1 day ago)
-- ![](./assets/pr-merged.svg) [fix(services): don&#39;t rely on Process::isTtySupported() on services definition](https://github.com/Kocal/BiomeJsBundle/pull/8) on [Kocal/BiomeJsBundle](https://github.com/Kocal/BiomeJsBundle) (1 day ago)
-- ![](./assets/pr-merged.svg) [Better DDD, Places module](https://github.com/Kocal/hugo.alliau.me/pull/36) on [Kocal/hugo.alliau.me](https://github.com/Kocal/hugo.alliau.me) (2 days ago)
-- ![](./assets/pr-merged.svg) [fix(binary): fix latest CLI release fetch](https://github.com/Kocal/BiomeJsBundle/pull/7) on [Kocal/BiomeJsBundle](https://github.com/Kocal/BiomeJsBundle) (2 days ago)
-- ![](./assets/pr-open.svg) [[Map] Create Map component](https://github.com/symfony/ux/pull/1937) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
-- ![](./assets/pr-merged.svg) [feat: upgrade Symfony to 7.1](https://github.com/Kocal/hugo.alliau.me/pull/35) on [Kocal/hugo.alliau.me](https://github.com/Kocal/hugo.alliau.me) (3 weeks ago)
-- ![](./assets/pr-merged.svg) [feat: ensure support for Symfony 7.1](https://github.com/Kocal/SymfonyMailerTesting/pull/39) on [Kocal/SymfonyMailerTesting](https://github.com/Kocal/SymfonyMailerTesting) (3 weeks ago)
+- ![](./assets/pr-open.svg) [Clean and homogenize `src/*/.gitignore`](https://github.com/symfony/ux/pull/1969) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
+- ![](./assets/pr-open.svg) [[LazyImage] Webperfs and LCP considerations](https://github.com/symfony/ux/pull/1967) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
+- ![](./assets/pr-merged.svg) [[KocalBiomeJsBundle] Configure the bundle only for dev](https://github.com/symfony/recipes-contrib/pull/1630) on [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) (4 days ago)
+- ![](./assets/pr-merged.svg) [refactor: refactor DDD for HttpCache](https://github.com/Kocal/hugo.alliau.me/pull/38) on [Kocal/hugo.alliau.me](https://github.com/Kocal/hugo.alliau.me) (1 week ago)
+- ![](./assets/pr-merged.svg) [refactor: refactor DDD for CV](https://github.com/Kocal/hugo.alliau.me/pull/37) on [Kocal/hugo.alliau.me](https://github.com/Kocal/hugo.alliau.me) (1 week ago)
+- ![](./assets/pr-merged.svg) [fix(services): don&#39;t rely on Process::isTtySupported() on services definition](https://github.com/Kocal/BiomeJsBundle/pull/8) on [Kocal/BiomeJsBundle](https://github.com/Kocal/BiomeJsBundle) (1 week ago)
+- ![](./assets/pr-merged.svg) [Better DDD, Places module](https://github.com/Kocal/hugo.alliau.me/pull/36) on [Kocal/hugo.alliau.me](https://github.com/Kocal/hugo.alliau.me) (1 week ago)
+- ![](./assets/pr-merged.svg) [fix(binary): fix latest CLI release fetch](https://github.com/Kocal/BiomeJsBundle/pull/7) on [Kocal/BiomeJsBundle](https://github.com/Kocal/BiomeJsBundle) (1 week ago)
+- ![](./assets/pr-open.svg) [[Map] Create Map component](https://github.com/symfony/ux/pull/1937) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
+- ![](./assets/pr-merged.svg) [feat: upgrade Symfony to 7.1](https://github.com/Kocal/hugo.alliau.me/pull/35) on [Kocal/hugo.alliau.me](https://github.com/Kocal/hugo.alliau.me) (1 month ago)
+- ![](./assets/pr-merged.svg) [feat: ensure support for Symfony 7.1](https://github.com/Kocal/SymfonyMailerTesting/pull/39) on [Kocal/SymfonyMailerTesting](https://github.com/Kocal/SymfonyMailerTesting) (1 month ago)
 - ![](./assets/pr-merged.svg) [[UX LazyImage] Add initial recipe](https://github.com/symfony/recipes/pull/1319) on [symfony/recipes](https://github.com/symfony/recipes) (1 month ago)
 - ![](./assets/pr-merged.svg) [fix(biomejs): enable TTY only if supported](https://github.com/Kocal/BiomeJsBundle/pull/4) on [Kocal/BiomeJsBundle](https://github.com/Kocal/BiomeJsBundle) (1 month ago)
 - ![](./assets/pr-merged.svg) [feat(download): drop stream_get_context for Symfony HttpClient](https://github.com/Kocal/ckfinder-symfony-bundle/pull/31) on [Kocal/ckfinder-symfony-bundle](https://github.com/Kocal/ckfinder-symfony-bundle) (1 month ago)
 - ![](./assets/pr-merged.svg) [chore: drop ESLint and Prettier for Biome.js](https://github.com/Kocal/SymfonyMailerTesting/pull/38) on [Kocal/SymfonyMailerTesting](https://github.com/Kocal/SymfonyMailerTesting) (1 month ago)
-- ![](./assets/pr-merged.svg) [[Translation] Add `lint:translations` command](https://github.com/symfony/symfony/pull/57101) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
-- ![](./assets/pr-open.svg) [[AssetMapper] Add FAQ for code lint/format](https://github.com/symfony/symfony-docs/pull/19893) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
-- ![](./assets/pr-merged.svg) [fix(commands): fix passing `&#34;false&#34;` to `formatter-enabled`, `linter-enabled`, and `organize-imports-enabled` options](https://github.com/Kocal/BiomeJsBundle/pull/3) on [Kocal/BiomeJsBundle](https://github.com/Kocal/BiomeJsBundle) (1 month ago)
-- ![](./assets/pr-merged.svg) [Add kocal/biome-js-bundle recipe](https://github.com/symfony/recipes-contrib/pull/1617) on [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) (1 month ago)
 
 #### 📜 My recent blog posts (https://hugo.alliau.me/blog)
 
