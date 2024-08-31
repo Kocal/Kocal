@@ -1,12 +1,12 @@
 ### Hey 👋
 
 #### 👷 My recent pull requests
-{{range recentPullRequests 15}}
+{{range recentPullRequests 25}}
 - ![](./assets/pr-{{ .State | toLower }}.svg) [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
 #### 📜 My recent blog posts (https://hugo.alliau.me/blog)
-{{range rss "https://hugo.alliau.me/blog/rss.xml" 5}}
+{{range rss "https://hugo.alliau.me/blog/rss.xml" 8}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
@@ -14,13 +14,6 @@
 
 - Twitter/X: https://twitter.com/HugoAlliaume
 - Website: https://hugo.alliau.me
-
----
-
-[![Kocal's github stats](https://github-readme-stats.vercel.app/api?username=Kocal&count_private=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kocal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="javascript" width="32" height="32"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" title="typescript" width="32" height="32"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" title="vuejs" width="32" height="32"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" title="nodejs" width="32" height="32"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" title="php" width="32" height="32"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" alt="symfony" title="symfony" width="32" height="32"/> 
 
 ---
 
