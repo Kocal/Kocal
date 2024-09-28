@@ -2,14 +2,16 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [Fix method name](https://github.com/symfony/webpack-encore/pull/1346) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 day ago)
-- ![](./assets/pr-open.svg) [Add support for integrity hashes when asset names contain a query string](https://github.com/symfony/webpack-encore/pull/1345) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 day ago)
-- ![](./assets/pr-merged.svg) [Add options configuration callback to Encore.enableReactPreset()](https://github.com/symfony/webpack-encore/pull/1344) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 day ago)
-- ![](./assets/pr-open.svg) [[WebpackEncoreBundle] Update recipe for Webpack Encore 5](https://github.com/symfony/recipes/pull/1341) on [symfony/recipes](https://github.com/symfony/recipes) (1 day ago)
-- ![](./assets/pr-closed.svg) [[WebpackEncoreBundle] Fix development server command for 2.20](https://github.com/symfony/recipes/pull/1340) on [symfony/recipes](https://github.com/symfony/recipes) (1 day ago)
-- ![](./assets/pr-merged.svg) [[Map] Explicitly require StimulusBundle in Bridges, fix tests](https://github.com/symfony/ux/pull/2207) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
-- ![](./assets/pr-merged.svg) [[Translator] Many performance improvements on the cache warming](https://github.com/symfony/ux/pull/2206) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
-- ![](./assets/pr-merged.svg) [[Map] Fix Google/Leaflet bridges when using Webpack Encore](https://github.com/symfony/ux/pull/2199) on [symfony/ux](https://github.com/symfony/ux) (4 days ago)
+- ![](./assets/pr-open.svg) [Update some dependencies to fix some issues from Dependabot](https://github.com/symfony/ux/pull/2219) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
+- ![](./assets/pr-merged.svg) [feat(places): re-use glyphs icons from google maps, but for Leaflet](https://github.com/Kocal/hugo.alliau.me/pull/49) on [Kocal/hugo.alliau.me](https://github.com/Kocal/hugo.alliau.me) (1 day ago)
+- ![](./assets/pr-merged.svg) [Fix method name](https://github.com/symfony/webpack-encore/pull/1346) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (2 days ago)
+- ![](./assets/pr-open.svg) [Add support for integrity hashes when asset names contain a query string](https://github.com/symfony/webpack-encore/pull/1345) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (2 days ago)
+- ![](./assets/pr-merged.svg) [Add options configuration callback to Encore.enableReactPreset()](https://github.com/symfony/webpack-encore/pull/1344) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (2 days ago)
+- ![](./assets/pr-open.svg) [[WebpackEncoreBundle] Update recipe for Webpack Encore 5](https://github.com/symfony/recipes/pull/1341) on [symfony/recipes](https://github.com/symfony/recipes) (2 days ago)
+- ![](./assets/pr-closed.svg) [[WebpackEncoreBundle] Fix development server command for 2.20](https://github.com/symfony/recipes/pull/1340) on [symfony/recipes](https://github.com/symfony/recipes) (2 days ago)
+- ![](./assets/pr-merged.svg) [[Map] Explicitly require StimulusBundle in Bridges, fix tests](https://github.com/symfony/ux/pull/2207) on [symfony/ux](https://github.com/symfony/ux) (3 days ago)
+- ![](./assets/pr-merged.svg) [[Translator] Many performance improvements on the cache warming](https://github.com/symfony/ux/pull/2206) on [symfony/ux](https://github.com/symfony/ux) (3 days ago)
+- ![](./assets/pr-merged.svg) [[Map] Fix Google/Leaflet bridges when using Webpack Encore](https://github.com/symfony/ux/pull/2199) on [symfony/ux](https://github.com/symfony/ux) (5 days ago)
 - ![](./assets/pr-merged.svg) [Add tests for CSS Modules with React and Preact](https://github.com/symfony/webpack-encore/pull/1343) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Site] Fix tooltips positioning  on FileTree component](https://github.com/symfony/ux/pull/2190) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Doc] Document about `html` and `html_attr` strategies](https://github.com/twigphp/Twig/pull/4324) on [twigphp/Twig](https://github.com/twigphp/Twig) (1 week ago)
@@ -25,8 +27,6 @@
 - ![](./assets/pr-merged.svg) [Upgrade Vitest, use a real browser for Map Bridges tests](https://github.com/symfony/ux/pull/2146) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-open.svg) [fix(types): move types declaration into &#34;real&#34; types declaration file (.d.ts)](https://github.com/alexeyraspopov/picocolors/pull/82) on [alexeyraspopov/picocolors](https://github.com/alexeyraspopov/picocolors) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[Icons] Fix issues found by DOCtor-RST](https://github.com/symfony/ux/pull/2145) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [[TwigComponent] Deprecate `cva` twig function](https://github.com/symfony/ux/pull/2144) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [[Map] Adjust changelogs and fix `render_map` deprecated version](https://github.com/symfony/ux/pull/2138) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 
 #### 📜 My recent blog posts (https://hugo.alliau.me/blog)
 
