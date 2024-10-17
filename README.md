@@ -2,10 +2,11 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [Add CI workflow to compute diff between files dist files](https://github.com/symfony/ux/pull/2269) on [symfony/ux](https://github.com/symfony/ux) (3 days ago)
-- ![](./assets/pr-open.svg) [Add CI workflow to compute diff between files dist files](https://github.com/Kocal/symfony-ux/pull/1) on [Kocal/symfony-ux](https://github.com/Kocal/symfony-ux) (3 days ago)
-- ![](./assets/pr-merged.svg) [Remove yarn commands in documentations](https://github.com/symfony/ux/pull/2263) on [symfony/ux](https://github.com/symfony/ux) (4 days ago)
-- ![](./assets/pr-open.svg) [[AssetMapper] Re-configure &#34;missing_import_mode&#34; in prod/non-prod envs](https://github.com/symfony/recipes/pull/1347) on [symfony/recipes](https://github.com/symfony/recipes) (5 days ago)
+- ![](./assets/pr-merged.svg) [CMS &amp; CodeMirror 6](https://github.com/Kocal/hugo.alliau.me/pull/50) on [Kocal/hugo.alliau.me](https://github.com/Kocal/hugo.alliau.me) (1 day ago)
+- ![](./assets/pr-open.svg) [Add CI workflow to compute diff between files dist files](https://github.com/symfony/ux/pull/2269) on [symfony/ux](https://github.com/symfony/ux) (4 days ago)
+- ![](./assets/pr-open.svg) [Add CI workflow to compute diff between files dist files](https://github.com/Kocal/symfony-ux/pull/1) on [Kocal/symfony-ux](https://github.com/Kocal/symfony-ux) (4 days ago)
+- ![](./assets/pr-merged.svg) [Remove yarn commands in documentations](https://github.com/symfony/ux/pull/2263) on [symfony/ux](https://github.com/symfony/ux) (5 days ago)
+- ![](./assets/pr-open.svg) [[AssetMapper] Re-configure &#34;missing_import_mode&#34; in prod/non-prod envs](https://github.com/symfony/recipes/pull/1347) on [symfony/recipes](https://github.com/symfony/recipes) (6 days ago)
 - ![](./assets/pr-closed.svg) [Refactor the project](https://github.com/Kocal/yousign-backend-review-test/pull/2) on [Kocal/yousign-backend-review-test](https://github.com/Kocal/yousign-backend-review-test) (1 week ago)
 - ![](./assets/pr-closed.svg) [Implement events import functionality](https://github.com/Kocal/yousign-backend-review-test/pull/1) on [Kocal/yousign-backend-review-test](https://github.com/Kocal/yousign-backend-review-test) (1 week ago)
 - ![](./assets/pr-merged.svg) [Fix issue between `Encore.enableIntegrityHashes()` and filenames with a query-string](https://github.com/symfony/webpack-encore/pull/1349) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (2 weeks ago)
@@ -18,15 +19,14 @@
 - ![](./assets/pr-merged.svg) [[Swup] For Swup&#39;s dev dependencies exclusion from our yarn.lock](https://github.com/symfony/ux/pull/2221) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Update some dependencies to fix some issues from Dependabot](https://github.com/symfony/ux/pull/2219) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [feat(places): re-use glyphs icons from google maps, but for Leaflet](https://github.com/Kocal/hugo.alliau.me/pull/49) on [Kocal/hugo.alliau.me](https://github.com/Kocal/hugo.alliau.me) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [Fix method name](https://github.com/symfony/webpack-encore/pull/1346) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [Add support for integrity hashes when asset names contain a query string](https://github.com/symfony/webpack-encore/pull/1345) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [Add options configuration callback to Encore.enableReactPreset()](https://github.com/symfony/webpack-encore/pull/1344) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [[WebpackEncoreBundle] Update recipe for Webpack Encore 5](https://github.com/symfony/recipes/pull/1341) on [symfony/recipes](https://github.com/symfony/recipes) (2 weeks ago)
-- ![](./assets/pr-closed.svg) [[WebpackEncoreBundle] Fix development server command for 2.20](https://github.com/symfony/recipes/pull/1340) on [symfony/recipes](https://github.com/symfony/recipes) (2 weeks ago)
+- ![](./assets/pr-merged.svg) [Fix method name](https://github.com/symfony/webpack-encore/pull/1346) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (3 weeks ago)
+- ![](./assets/pr-merged.svg) [Add support for integrity hashes when asset names contain a query string](https://github.com/symfony/webpack-encore/pull/1345) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (3 weeks ago)
+- ![](./assets/pr-merged.svg) [Add options configuration callback to Encore.enableReactPreset()](https://github.com/symfony/webpack-encore/pull/1344) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (3 weeks ago)
+- ![](./assets/pr-merged.svg) [[WebpackEncoreBundle] Update recipe for Webpack Encore 5](https://github.com/symfony/recipes/pull/1341) on [symfony/recipes](https://github.com/symfony/recipes) (3 weeks ago)
+- ![](./assets/pr-closed.svg) [[WebpackEncoreBundle] Fix development server command for 2.20](https://github.com/symfony/recipes/pull/1340) on [symfony/recipes](https://github.com/symfony/recipes) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[Map] Explicitly require StimulusBundle in Bridges, fix tests](https://github.com/symfony/ux/pull/2207) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[Translator] Many performance improvements on the cache warming](https://github.com/symfony/ux/pull/2206) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[Map] Fix Google/Leaflet bridges when using Webpack Encore](https://github.com/symfony/ux/pull/2199) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
-- ![](./assets/pr-merged.svg) [Add tests for CSS Modules with React and Preact](https://github.com/symfony/webpack-encore/pull/1343) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (3 weeks ago)
 
 #### 📜 My recent blog posts (https://hugo.alliau.me/blog)
 
