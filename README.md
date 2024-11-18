@@ -2,7 +2,8 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [feat(cms): add buttons to translate/spellcheck prompts to GPT](https://github.com/Kocal/hugo.alliau.me/pull/56) on [Kocal/hugo.alliau.me](https://github.com/Kocal/hugo.alliau.me) (6 days ago)
+- ![](./assets/pr-open.svg) [[Map] Make UX Map compatible with Live Components (and some internal things)](https://github.com/symfony/ux/pull/2385) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
+- ![](./assets/pr-merged.svg) [feat(cms): add buttons to translate/spellcheck prompts to GPT](https://github.com/Kocal/hugo.alliau.me/pull/56) on [Kocal/hugo.alliau.me](https://github.com/Kocal/hugo.alliau.me) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Symfony UX Map] Add post-install steps for Leaflet and Google, add &#34;ux_map.google_maps.default_map_id&#34; config recipe](https://github.com/symfony/recipes/pull/1354) on [symfony/recipes](https://github.com/symfony/recipes) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Map][Google] Add documentation about `ux_map.google_maps.default_map_id` ](https://github.com/symfony/ux/pull/2358) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Yousign\ZddMessageBundle] Move configuration file under config/packages/](https://github.com/symfony/recipes-contrib/pull/1703) on [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) (1 week ago)
@@ -14,8 +15,8 @@
 - ![](./assets/pr-merged.svg) [Test diff size (2)](https://github.com/symfony/ux/pull/2330) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Minor adjustments after #2269 ](https://github.com/symfony/ux/pull/2329) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[DX] Add per-package Yarn scripts (build, watch, test, lint, ...)](https://github.com/symfony/ux/pull/2326) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [Add myself to code-owners](https://github.com/symfony/ux/pull/2308) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [Better archi](https://github.com/Kocal/hugo.alliau.me/pull/53) on [Kocal/hugo.alliau.me](https://github.com/Kocal/hugo.alliau.me) (2 weeks ago)
+- ![](./assets/pr-merged.svg) [Add myself to code-owners](https://github.com/symfony/ux/pull/2308) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
+- ![](./assets/pr-merged.svg) [Better archi](https://github.com/Kocal/hugo.alliau.me/pull/53) on [Kocal/hugo.alliau.me](https://github.com/Kocal/hugo.alliau.me) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [Use sensiolabs/minify-bundle](https://github.com/Kocal/hugo.alliau.me/pull/52) on [Kocal/hugo.alliau.me](https://github.com/Kocal/hugo.alliau.me) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [CMS &amp; CodeMirror 6](https://github.com/Kocal/hugo.alliau.me/pull/50) on [Kocal/hugo.alliau.me](https://github.com/Kocal/hugo.alliau.me) (1 month ago)
 - ![](./assets/pr-merged.svg) [Add CI workflow to compute diff between files dist files](https://github.com/symfony/ux/pull/2269) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
@@ -26,7 +27,6 @@
 - ![](./assets/pr-closed.svg) [Implement events import functionality](https://github.com/Kocal/yousign-backend-review-test/pull/1) on [Kocal/yousign-backend-review-test](https://github.com/Kocal/yousign-backend-review-test) (1 month ago)
 - ![](./assets/pr-merged.svg) [Fix issue between `Encore.enableIntegrityHashes()` and filenames with a query-string](https://github.com/symfony/webpack-encore/pull/1349) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 month ago)
 - ![](./assets/pr-merged.svg) [Fix missing integrity hash on preload tags](https://github.com/symfony/webpack-encore-bundle/pull/237) on [symfony/webpack-encore-bundle](https://github.com/symfony/webpack-encore-bundle) (1 month ago)
-- ![](./assets/pr-open.svg) [Add support for `symfony/webpack-encore-bundle`](https://github.com/symfony-tools/carsonbot/pull/248) on [symfony-tools/carsonbot](https://github.com/symfony-tools/carsonbot) (1 month ago)
 
 #### 📜 My recent blog posts (https://hugo.alliau.me/blog)
 
