@@ -2,14 +2,14 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [[Map] Make UX Map compatible with Live Components (and some internal things)](https://github.com/symfony/ux/pull/2385) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
+- ![](./assets/pr-open.svg) [[Map] Make UX Map compatible with Live Components (and some internal things)](https://github.com/symfony/ux/pull/2385) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
 - ![](./assets/pr-merged.svg) [feat(cms): add buttons to translate/spellcheck prompts to GPT](https://github.com/Kocal/hugo.alliau.me/pull/56) on [Kocal/hugo.alliau.me](https://github.com/Kocal/hugo.alliau.me) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Symfony UX Map] Add post-install steps for Leaflet and Google, add &#34;ux_map.google_maps.default_map_id&#34; config recipe](https://github.com/symfony/recipes/pull/1354) on [symfony/recipes](https://github.com/symfony/recipes) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Map][Google] Add documentation about `ux_map.google_maps.default_map_id` ](https://github.com/symfony/ux/pull/2358) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Yousign\ZddMessageBundle] Move configuration file under config/packages/](https://github.com/symfony/recipes-contrib/pull/1703) on [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Map] Introduce `ux_map.google_maps.default_map_id` configuration](https://github.com/symfony/ux/pull/2350) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[DX] Some improvements for dependencies management when testing](https://github.com/symfony/ux/pull/2349) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
-- ![](./assets/pr-merged.svg) [Use EntityId ValueObject classes ](https://github.com/Kocal/hugo.alliau.me/pull/55) on [Kocal/hugo.alliau.me](https://github.com/Kocal/hugo.alliau.me) (1 week ago)
+- ![](./assets/pr-merged.svg) [Use EntityId ValueObject classes ](https://github.com/Kocal/hugo.alliau.me/pull/55) on [Kocal/hugo.alliau.me](https://github.com/Kocal/hugo.alliau.me) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Test diff size (4)](https://github.com/symfony/ux/pull/2332) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Test diff size (3)](https://github.com/symfony/ux/pull/2331) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Test diff size (2)](https://github.com/symfony/ux/pull/2330) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
