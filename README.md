@@ -2,10 +2,15 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [[Docs] Add CONTRIBUTING.md](https://github.com/symfony/ux/pull/2408) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
-- ![](./assets/pr-merged.svg) [[Map] Fix and improve TypeScript types, refactor same logic into dedicated methods (to reduce file size)](https://github.com/symfony/ux/pull/2406) on [symfony/ux](https://github.com/symfony/ux) (3 days ago)
-- ![](./assets/pr-merged.svg) [Add support for Node.js 23](https://github.com/symfony/webpack-encore/pull/1357) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (6 days ago)
-- ![](./assets/pr-merged.svg) [Upgrading some dependencies with vulnerability issues](https://github.com/symfony/webpack-encore/pull/1356) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (6 days ago)
+- ![](./assets/pr-open.svg) [[BiomeJsBundle] Ignore more directories for linting](https://github.com/symfony/recipes-contrib/pull/1716) on [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) (1 day ago)
+- ![](./assets/pr-merged.svg) [Update Symfony 7.2.*](https://github.com/Kocal/hugo.alliau.me/pull/60) on [Kocal/hugo.alliau.me](https://github.com/Kocal/hugo.alliau.me) (1 day ago)
+- ![](./assets/pr-merged.svg) [Upgrade to PHP 8.4](https://github.com/Kocal/hugo.alliau.me/pull/59) on [Kocal/hugo.alliau.me](https://github.com/Kocal/hugo.alliau.me) (1 day ago)
+- ![](./assets/pr-merged.svg) [Ensure Symfony 7.1 and 7.2 are supported, close #17](https://github.com/Kocal/BiomeJsBundle/pull/18) on [Kocal/BiomeJsBundle](https://github.com/Kocal/BiomeJsBundle) (1 day ago)
+- ![](./assets/pr-merged.svg) [Ensure Symfony 7.2 is supported, close #42](https://github.com/Kocal/SymfonyMailerTesting/pull/43) on [Kocal/SymfonyMailerTesting](https://github.com/Kocal/SymfonyMailerTesting) (1 day ago)
+- ![](./assets/pr-merged.svg) [[Docs] Add CONTRIBUTING.md](https://github.com/symfony/ux/pull/2408) on [symfony/ux](https://github.com/symfony/ux) (3 days ago)
+- ![](./assets/pr-merged.svg) [[Map] Fix and improve TypeScript types, refactor same logic into dedicated methods (to reduce file size)](https://github.com/symfony/ux/pull/2406) on [symfony/ux](https://github.com/symfony/ux) (4 days ago)
+- ![](./assets/pr-merged.svg) [Add support for Node.js 23](https://github.com/symfony/webpack-encore/pull/1357) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 week ago)
+- ![](./assets/pr-merged.svg) [Upgrading some dependencies with vulnerability issues](https://github.com/symfony/webpack-encore/pull/1356) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 week ago)
 - ![](./assets/pr-merged.svg) [Add PR template and auto-close PR on subtree split repositories](https://github.com/symfony/ux/pull/2395) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Map] Make UX Map compatible with Live Components (and some internal things)](https://github.com/symfony/ux/pull/2385) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [feat(cms): add buttons to translate/spellcheck prompts to GPT](https://github.com/Kocal/hugo.alliau.me/pull/56) on [Kocal/hugo.alliau.me](https://github.com/Kocal/hugo.alliau.me) (2 weeks ago)
@@ -19,14 +24,9 @@
 - ![](./assets/pr-merged.svg) [Test diff size (3)](https://github.com/symfony/ux/pull/2331) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [Test diff size (2)](https://github.com/symfony/ux/pull/2330) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [Minor adjustments after #2269 ](https://github.com/symfony/ux/pull/2329) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
-- ![](./assets/pr-merged.svg) [[DX] Add per-package Yarn scripts (build, watch, test, lint, ...)](https://github.com/symfony/ux/pull/2326) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
+- ![](./assets/pr-merged.svg) [[DX] Add per-package Yarn scripts (build, watch, test, lint, ...)](https://github.com/symfony/ux/pull/2326) on [symfony/ux](https://github.com/symfony/ux) (4 weeks ago)
 - ![](./assets/pr-merged.svg) [Add myself to code-owners](https://github.com/symfony/ux/pull/2308) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
 - ![](./assets/pr-merged.svg) [Better archi](https://github.com/Kocal/hugo.alliau.me/pull/53) on [Kocal/hugo.alliau.me](https://github.com/Kocal/hugo.alliau.me) (1 month ago)
-- ![](./assets/pr-merged.svg) [Use sensiolabs/minify-bundle](https://github.com/Kocal/hugo.alliau.me/pull/52) on [Kocal/hugo.alliau.me](https://github.com/Kocal/hugo.alliau.me) (1 month ago)
-- ![](./assets/pr-merged.svg) [CMS &amp; CodeMirror 6](https://github.com/Kocal/hugo.alliau.me/pull/50) on [Kocal/hugo.alliau.me](https://github.com/Kocal/hugo.alliau.me) (1 month ago)
-- ![](./assets/pr-merged.svg) [Add CI workflow to compute diff between files dist files](https://github.com/symfony/ux/pull/2269) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
-- ![](./assets/pr-merged.svg) [Add CI workflow to compute diff between files dist files](https://github.com/Kocal/symfony-ux/pull/1) on [Kocal/symfony-ux](https://github.com/Kocal/symfony-ux) (1 month ago)
-- ![](./assets/pr-merged.svg) [Remove yarn commands in documentations](https://github.com/symfony/ux/pull/2263) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
 
 #### 📜 My recent blog posts (https://hugo.alliau.me/blog)
 
