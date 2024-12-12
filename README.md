@@ -2,8 +2,9 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [[Meta] Replace CleanCSS by LightningCSS](https://github.com/symfony/ux/pull/2429) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
-- ![](./assets/pr-merged.svg) [[Meta] Drop format, lint, check-format and check-lint commands, replace them with check and ci commands](https://github.com/symfony/ux/pull/2428) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
+- ![](./assets/pr-open.svg) [[Routing] Validate &#34;namespace&#34; (when using `Psr4DirectoryLoader`)](https://github.com/symfony/symfony/pull/59189) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
+- ![](./assets/pr-merged.svg) [[Meta] Replace CleanCSS by LightningCSS](https://github.com/symfony/ux/pull/2429) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
+- ![](./assets/pr-merged.svg) [[Meta] Drop format, lint, check-format and check-lint commands, replace them with check and ci commands](https://github.com/symfony/ux/pull/2428) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Map] Fix default values of Stimulus Map Controller](https://github.com/symfony/ux/pull/2420) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Maps] Fix documentations codeblocks for the LiveComponent integration](https://github.com/symfony/ux/pull/2412) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[BiomeJsBundle] Ignore more directories for linting](https://github.com/symfony/recipes-contrib/pull/1716) on [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) (1 week ago)
@@ -26,7 +27,6 @@
 - ![](./assets/pr-merged.svg) [Use EntityId ValueObject classes ](https://github.com/Kocal/hugo.alliau.me/pull/55) on [Kocal/hugo.alliau.me](https://github.com/Kocal/hugo.alliau.me) (1 month ago)
 - ![](./assets/pr-merged.svg) [Test diff size (4)](https://github.com/symfony/ux/pull/2332) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
 - ![](./assets/pr-merged.svg) [Test diff size (3)](https://github.com/symfony/ux/pull/2331) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
-- ![](./assets/pr-merged.svg) [Test diff size (2)](https://github.com/symfony/ux/pull/2330) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
 
 #### 📜 My recent blog posts (https://hugo.alliau.me/blog)
 
