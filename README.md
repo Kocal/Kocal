@@ -2,16 +2,16 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [[Routing] Validate &#34;namespace&#34; (when using `Psr4DirectoryLoader`)](https://github.com/symfony/symfony/pull/59189) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
+- ![](./assets/pr-open.svg) [[Routing] Validate &#34;namespace&#34; (when using `Psr4DirectoryLoader`)](https://github.com/symfony/symfony/pull/59189) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
 - ![](./assets/pr-merged.svg) [[Meta] Replace CleanCSS by LightningCSS](https://github.com/symfony/ux/pull/2429) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Meta] Drop format, lint, check-format and check-lint commands, replace them with check and ci commands](https://github.com/symfony/ux/pull/2428) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Map] Fix default values of Stimulus Map Controller](https://github.com/symfony/ux/pull/2420) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Maps] Fix documentations codeblocks for the LiveComponent integration](https://github.com/symfony/ux/pull/2412) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
-- ![](./assets/pr-merged.svg) [[BiomeJsBundle] Ignore more directories for linting](https://github.com/symfony/recipes-contrib/pull/1716) on [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) (1 week ago)
-- ![](./assets/pr-merged.svg) [Update Symfony 7.2.*](https://github.com/Kocal/hugo.alliau.me/pull/60) on [Kocal/hugo.alliau.me](https://github.com/Kocal/hugo.alliau.me) (1 week ago)
-- ![](./assets/pr-merged.svg) [Upgrade to PHP 8.4](https://github.com/Kocal/hugo.alliau.me/pull/59) on [Kocal/hugo.alliau.me](https://github.com/Kocal/hugo.alliau.me) (1 week ago)
-- ![](./assets/pr-merged.svg) [Ensure Symfony 7.1 and 7.2 are supported, close #17](https://github.com/Kocal/BiomeJsBundle/pull/18) on [Kocal/BiomeJsBundle](https://github.com/Kocal/BiomeJsBundle) (1 week ago)
-- ![](./assets/pr-merged.svg) [Ensure Symfony 7.2 is supported, close #42](https://github.com/Kocal/SymfonyMailerTesting/pull/43) on [Kocal/SymfonyMailerTesting](https://github.com/Kocal/SymfonyMailerTesting) (1 week ago)
+- ![](./assets/pr-merged.svg) [[BiomeJsBundle] Ignore more directories for linting](https://github.com/symfony/recipes-contrib/pull/1716) on [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) (2 weeks ago)
+- ![](./assets/pr-merged.svg) [Update Symfony 7.2.*](https://github.com/Kocal/hugo.alliau.me/pull/60) on [Kocal/hugo.alliau.me](https://github.com/Kocal/hugo.alliau.me) (2 weeks ago)
+- ![](./assets/pr-merged.svg) [Upgrade to PHP 8.4](https://github.com/Kocal/hugo.alliau.me/pull/59) on [Kocal/hugo.alliau.me](https://github.com/Kocal/hugo.alliau.me) (2 weeks ago)
+- ![](./assets/pr-merged.svg) [Ensure Symfony 7.1 and 7.2 are supported, close #17](https://github.com/Kocal/BiomeJsBundle/pull/18) on [Kocal/BiomeJsBundle](https://github.com/Kocal/BiomeJsBundle) (2 weeks ago)
+- ![](./assets/pr-merged.svg) [Ensure Symfony 7.2 is supported, close #42](https://github.com/Kocal/SymfonyMailerTesting/pull/43) on [Kocal/SymfonyMailerTesting](https://github.com/Kocal/SymfonyMailerTesting) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[Docs] Add CONTRIBUTING.md](https://github.com/symfony/ux/pull/2408) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[Map] Fix and improve TypeScript types, refactor same logic into dedicated methods (to reduce file size)](https://github.com/symfony/ux/pull/2406) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Add support for Node.js 23](https://github.com/symfony/webpack-encore/pull/1357) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (2 weeks ago)
