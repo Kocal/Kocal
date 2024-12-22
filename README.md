@@ -2,12 +2,12 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [[TwigComponent] Document about unwanted behavior with `ExposeInTemplate` and computed methods](https://github.com/symfony/ux/pull/2456) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
+- ![](./assets/pr-open.svg) [[TwigComponent] Document about unwanted behavior with `ExposeInTemplate` and computed methods](https://github.com/symfony/ux/pull/2456) on [symfony/ux](https://github.com/symfony/ux) (3 days ago)
 - ![](./assets/pr-merged.svg) [[Routing] Validate &#34;namespace&#34; (when using `Psr4DirectoryLoader`)](https://github.com/symfony/symfony/pull/59189) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Meta] Replace CleanCSS by LightningCSS](https://github.com/symfony/ux/pull/2429) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[Meta] Drop format, lint, check-format and check-lint commands, replace them with check and ci commands](https://github.com/symfony/ux/pull/2428) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[Map] Fix default values of Stimulus Map Controller](https://github.com/symfony/ux/pull/2420) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [[Maps] Fix documentations codeblocks for the LiveComponent integration](https://github.com/symfony/ux/pull/2412) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
+- ![](./assets/pr-merged.svg) [[Maps] Fix documentations codeblocks for the LiveComponent integration](https://github.com/symfony/ux/pull/2412) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[BiomeJsBundle] Ignore more directories for linting](https://github.com/symfony/recipes-contrib/pull/1716) on [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [Update Symfony 7.2.*](https://github.com/Kocal/hugo.alliau.me/pull/60) on [Kocal/hugo.alliau.me](https://github.com/Kocal/hugo.alliau.me) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [Upgrade to PHP 8.4](https://github.com/Kocal/hugo.alliau.me/pull/59) on [Kocal/hugo.alliau.me](https://github.com/Kocal/hugo.alliau.me) (3 weeks ago)
@@ -36,7 +36,7 @@
 - [Listen to Doctrine Events on Entities Using a PHP Attribute](https://hugo.alliau.me/blog/posts/2023-11-12-listen-to-doctrine-events-on-entities-using-a-php-attribute) (1 year ago)
 - [Profiling cURL HTTP requests and Symfony Commands with Blackfire, when using the Symfony CLI](https://hugo.alliau.me/blog/posts/2023-10-21-profiling-curl-http-requests-and-symfony-commands-with-blackfire-when-using-the-symfony-cli) (1 year ago)
 - [How to use PHP CS Fixer ruleset with Easy Coding Standard (ECS)](https://hugo.alliau.me/blog/posts/2023-07-19-how-to-use-php-cs-fixer-ruleset-with-easy-coding-standard) (1 year ago)
-- [Doctrine, QueryBuilder::setMaxResults() and collections associations are on a boat](https://hugo.alliau.me/blog/posts/2022-01-07-doctrine-querybuilder-setmaxresults-and-collections-associations-are-on-a-boat) (2 years ago)
+- [Doctrine, QueryBuilder::setMaxResults() and collections associations are on a boat](https://hugo.alliau.me/blog/posts/2022-01-07-doctrine-querybuilder-setmaxresults-and-collections-associations-are-on-a-boat) (3 years ago)
 - [Migration to GitHub-native Dependabot: solutions for auto-merge and Action secrets](https://hugo.alliau.me/blog/posts/2021-05-04-migration-to-github-native-dependabot-solutions-for-auto-merge-and-action-secrets) (3 years ago)
 
 #### 📫 How to reach me
