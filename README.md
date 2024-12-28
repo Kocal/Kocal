@@ -2,8 +2,8 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [[Icons] Fix aliases support when fetching multiples icons with Iconify](https://github.com/symfony/ux/pull/2467) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
-- ![](./assets/pr-merged.svg) [[Site] Visual improvments on IconModal ](https://github.com/symfony/ux/pull/2465) on [symfony/ux](https://github.com/symfony/ux) (4 days ago)
+- ![](./assets/pr-merged.svg) [[Icons] Fix aliases support when fetching multiples icons with Iconify](https://github.com/symfony/ux/pull/2467) on [symfony/ux](https://github.com/symfony/ux) (3 days ago)
+- ![](./assets/pr-merged.svg) [[Site] Visual improvments on IconModal ](https://github.com/symfony/ux/pull/2465) on [symfony/ux](https://github.com/symfony/ux) (5 days ago)
 - ![](./assets/pr-merged.svg) [[TwigComponent] Document about unwanted behavior with `ExposeInTemplate` and computed methods](https://github.com/symfony/ux/pull/2456) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Routing] Validate &#34;namespace&#34; (when using `Psr4DirectoryLoader`)](https://github.com/symfony/symfony/pull/59189) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[Meta] Replace CleanCSS by LightningCSS](https://github.com/symfony/ux/pull/2429) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
@@ -32,7 +32,7 @@
 
 - [A Better Architecture for Your Symfony UX Twig Components](https://hugo.alliau.me/blog/posts/a-better-architecture-for-your-symfony-ux-twig-components) (5 months ago)
 - [Une meilleure architecture pour vos Twig Components de Symfony UX](https://hugo.alliau.me/blog/posts/une-meilleure-architecture-pour-vous-twig-components-de-symfony-ux) (5 months ago)
-- [Empowering Self-Hosting: A Journey from PaaS to Coolify for Symfony Projects](https://hugo.alliau.me/blog/posts/empowering-self-hosting-a-journey-from-paas-to-coolify-for-symfony-projects) (7 months ago)
+- [Empowering Self-Hosting: A Journey from PaaS to Coolify for Symfony Projects](https://hugo.alliau.me/blog/posts/empowering-self-hosting-a-journey-from-paas-to-coolify-for-symfony-projects) (8 months ago)
 - [Listen to Doctrine Events on Entities Using a PHP Attribute](https://hugo.alliau.me/blog/posts/2023-11-12-listen-to-doctrine-events-on-entities-using-a-php-attribute) (1 year ago)
 - [Profiling cURL HTTP requests and Symfony Commands with Blackfire, when using the Symfony CLI](https://hugo.alliau.me/blog/posts/2023-10-21-profiling-curl-http-requests-and-symfony-commands-with-blackfire-when-using-the-symfony-cli) (1 year ago)
 - [How to use PHP CS Fixer ruleset with Easy Coding Standard (ECS)](https://hugo.alliau.me/blog/posts/2023-07-19-how-to-use-php-cs-fixer-ruleset-with-easy-coding-standard) (1 year ago)
