@@ -2,15 +2,15 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [[CI] Run E2E tests on Windows and macOS aswell](https://github.com/Kocal/BiomeJsBundle/pull/20) on [Kocal/BiomeJsBundle](https://github.com/Kocal/BiomeJsBundle) (1 day ago)
-- ![](./assets/pr-merged.svg) [[Icons] Fix aliases support when fetching multiples icons with Iconify](https://github.com/symfony/ux/pull/2467) on [symfony/ux](https://github.com/symfony/ux) (5 days ago)
+- ![](./assets/pr-merged.svg) [[CI] Run E2E tests on Windows and macOS aswell](https://github.com/Kocal/BiomeJsBundle/pull/20) on [Kocal/BiomeJsBundle](https://github.com/Kocal/BiomeJsBundle) (2 days ago)
+- ![](./assets/pr-merged.svg) [[Icons] Fix aliases support when fetching multiples icons with Iconify](https://github.com/symfony/ux/pull/2467) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
 - ![](./assets/pr-merged.svg) [[Site] Visual improvments on IconModal ](https://github.com/symfony/ux/pull/2465) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[TwigComponent] Document about unwanted behavior with `ExposeInTemplate` and computed methods](https://github.com/symfony/ux/pull/2456) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Routing] Validate &#34;namespace&#34; (when using `Psr4DirectoryLoader`)](https://github.com/symfony/symfony/pull/59189) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[Meta] Replace CleanCSS by LightningCSS](https://github.com/symfony/ux/pull/2429) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[Meta] Drop format, lint, check-format and check-lint commands, replace them with check and ci commands](https://github.com/symfony/ux/pull/2428) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[Map] Fix default values of Stimulus Map Controller](https://github.com/symfony/ux/pull/2420) on [symfony/ux](https://github.com/symfony/ux) (4 weeks ago)
-- ![](./assets/pr-merged.svg) [[Maps] Fix documentations codeblocks for the LiveComponent integration](https://github.com/symfony/ux/pull/2412) on [symfony/ux](https://github.com/symfony/ux) (4 weeks ago)
+- ![](./assets/pr-merged.svg) [[Maps] Fix documentations codeblocks for the LiveComponent integration](https://github.com/symfony/ux/pull/2412) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
 - ![](./assets/pr-merged.svg) [[BiomeJsBundle] Ignore more directories for linting](https://github.com/symfony/recipes-contrib/pull/1716) on [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) (1 month ago)
 - ![](./assets/pr-merged.svg) [Update Symfony 7.2.*](https://github.com/Kocal/hugo.alliau.me/pull/60) on [Kocal/hugo.alliau.me](https://github.com/Kocal/hugo.alliau.me) (1 month ago)
 - ![](./assets/pr-merged.svg) [Upgrade to PHP 8.4](https://github.com/Kocal/hugo.alliau.me/pull/59) on [Kocal/hugo.alliau.me](https://github.com/Kocal/hugo.alliau.me) (1 month ago)
