@@ -2,7 +2,7 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [[CI] Run E2E tests on Windows and macOS aswell](https://github.com/Kocal/BiomeJsBundle/pull/20) on [Kocal/BiomeJsBundle](https://github.com/Kocal/BiomeJsBundle) (6 days ago)
+- ![](./assets/pr-merged.svg) [[CI] Run E2E tests on Windows and macOS aswell](https://github.com/Kocal/BiomeJsBundle/pull/20) on [Kocal/BiomeJsBundle](https://github.com/Kocal/BiomeJsBundle) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Icons] Fix aliases support when fetching multiples icons with Iconify](https://github.com/symfony/ux/pull/2467) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Site] Visual improvments on IconModal ](https://github.com/symfony/ux/pull/2465) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[TwigComponent] Document about unwanted behavior with `ExposeInTemplate` and computed methods](https://github.com/symfony/ux/pull/2456) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
