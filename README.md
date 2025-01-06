@@ -2,9 +2,10 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-merged.svg) [Add missing `@babel/plugin-proposal-class-properties` dev dependency](https://github.com/symfony/stimulus-bridge/pull/92) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (1 day ago)
 - ![](./assets/pr-merged.svg) [[CI] Run E2E tests on Windows and macOS aswell](https://github.com/Kocal/BiomeJsBundle/pull/20) on [Kocal/BiomeJsBundle](https://github.com/Kocal/BiomeJsBundle) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Icons] Fix aliases support when fetching multiples icons with Iconify](https://github.com/symfony/ux/pull/2467) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
-- ![](./assets/pr-merged.svg) [[Site] Visual improvments on IconModal ](https://github.com/symfony/ux/pull/2465) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
+- ![](./assets/pr-merged.svg) [[Site] Visual improvments on IconModal ](https://github.com/symfony/ux/pull/2465) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[TwigComponent] Document about unwanted behavior with `ExposeInTemplate` and computed methods](https://github.com/symfony/ux/pull/2456) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[Routing] Validate &#34;namespace&#34; (when using `Psr4DirectoryLoader`)](https://github.com/symfony/symfony/pull/59189) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[Meta] Replace CleanCSS by LightningCSS](https://github.com/symfony/ux/pull/2429) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
@@ -26,7 +27,6 @@
 - ![](./assets/pr-merged.svg) [[Symfony UX Map] Add post-install steps for Leaflet and Google, add &#34;ux_map.google_maps.default_map_id&#34; config recipe](https://github.com/symfony/recipes/pull/1354) on [symfony/recipes](https://github.com/symfony/recipes) (1 month ago)
 - ![](./assets/pr-merged.svg) [[Map][Google] Add documentation about `ux_map.google_maps.default_map_id` ](https://github.com/symfony/ux/pull/2358) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
 - ![](./assets/pr-merged.svg) [[Yousign\ZddMessageBundle] Move configuration file under config/packages/](https://github.com/symfony/recipes-contrib/pull/1703) on [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) (1 month ago)
-- ![](./assets/pr-merged.svg) [[Map] Introduce `ux_map.google_maps.default_map_id` configuration](https://github.com/symfony/ux/pull/2350) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
 
 #### 📜 My recent blog posts (https://hugo.alliau.me/blog)
 
