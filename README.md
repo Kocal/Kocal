@@ -2,12 +2,12 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [[CI] Ensure tests are run under multiple Node.js versions](https://github.com/symfony/stimulus-bridge/pull/94) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (2 days ago)
-- ![](./assets/pr-merged.svg) [Add missing `@babel/plugin-proposal-class-properties` dev dependency](https://github.com/symfony/stimulus-bridge/pull/92) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (3 days ago)
+- ![](./assets/pr-open.svg) [[CI] Ensure tests are run under multiple Node.js versions](https://github.com/symfony/stimulus-bridge/pull/94) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (3 days ago)
+- ![](./assets/pr-merged.svg) [Add missing `@babel/plugin-proposal-class-properties` dev dependency](https://github.com/symfony/stimulus-bridge/pull/92) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (4 days ago)
 - ![](./assets/pr-merged.svg) [[CI] Run E2E tests on Windows and macOS aswell](https://github.com/Kocal/BiomeJsBundle/pull/20) on [Kocal/BiomeJsBundle](https://github.com/Kocal/BiomeJsBundle) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Icons] Fix aliases support when fetching multiples icons with Iconify](https://github.com/symfony/ux/pull/2467) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[Site] Visual improvments on IconModal ](https://github.com/symfony/ux/pull/2465) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [[TwigComponent] Document about unwanted behavior with `ExposeInTemplate` and computed methods](https://github.com/symfony/ux/pull/2456) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
+- ![](./assets/pr-merged.svg) [[TwigComponent] Document about unwanted behavior with `ExposeInTemplate` and computed methods](https://github.com/symfony/ux/pull/2456) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[Routing] Validate &#34;namespace&#34; (when using `Psr4DirectoryLoader`)](https://github.com/symfony/symfony/pull/59189) on [symfony/symfony](https://github.com/symfony/symfony) (4 weeks ago)
 - ![](./assets/pr-merged.svg) [[Meta] Replace CleanCSS by LightningCSS](https://github.com/symfony/ux/pull/2429) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
 - ![](./assets/pr-merged.svg) [[Meta] Drop format, lint, check-format and check-lint commands, replace them with check and ci commands](https://github.com/symfony/ux/pull/2428) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
@@ -25,8 +25,8 @@
 - ![](./assets/pr-merged.svg) [Add PR template and auto-close PR on subtree split repositories](https://github.com/symfony/ux/pull/2395) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
 - ![](./assets/pr-merged.svg) [[Map] Make UX Map compatible with Live Components (and some internal things)](https://github.com/symfony/ux/pull/2385) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
 - ![](./assets/pr-merged.svg) [feat(cms): add buttons to translate/spellcheck prompts to GPT](https://github.com/Kocal/hugo.alliau.me/pull/56) on [Kocal/hugo.alliau.me](https://github.com/Kocal/hugo.alliau.me) (1 month ago)
-- ![](./assets/pr-merged.svg) [[Symfony UX Map] Add post-install steps for Leaflet and Google, add &#34;ux_map.google_maps.default_map_id&#34; config recipe](https://github.com/symfony/recipes/pull/1354) on [symfony/recipes](https://github.com/symfony/recipes) (1 month ago)
-- ![](./assets/pr-merged.svg) [[Map][Google] Add documentation about `ux_map.google_maps.default_map_id` ](https://github.com/symfony/ux/pull/2358) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
+- ![](./assets/pr-merged.svg) [[Symfony UX Map] Add post-install steps for Leaflet and Google, add &#34;ux_map.google_maps.default_map_id&#34; config recipe](https://github.com/symfony/recipes/pull/1354) on [symfony/recipes](https://github.com/symfony/recipes) (2 months ago)
+- ![](./assets/pr-merged.svg) [[Map][Google] Add documentation about `ux_map.google_maps.default_map_id` ](https://github.com/symfony/ux/pull/2358) on [symfony/ux](https://github.com/symfony/ux) (2 months ago)
 
 #### 📜 My recent blog posts (https://hugo.alliau.me/blog)
 
@@ -35,7 +35,7 @@
 - [Empowering Self-Hosting: A Journey from PaaS to Coolify for Symfony Projects](https://hugo.alliau.me/blog/posts/empowering-self-hosting-a-journey-from-paas-to-coolify-for-symfony-projects) (8 months ago)
 - [Listen to Doctrine Events on Entities Using a PHP Attribute](https://hugo.alliau.me/blog/posts/2023-11-12-listen-to-doctrine-events-on-entities-using-a-php-attribute) (1 year ago)
 - [Profiling cURL HTTP requests and Symfony Commands with Blackfire, when using the Symfony CLI](https://hugo.alliau.me/blog/posts/2023-10-21-profiling-curl-http-requests-and-symfony-commands-with-blackfire-when-using-the-symfony-cli) (1 year ago)
-- [How to use PHP CS Fixer ruleset with Easy Coding Standard (ECS)](https://hugo.alliau.me/blog/posts/2023-07-19-how-to-use-php-cs-fixer-ruleset-with-easy-coding-standard) (1 year ago)
+- [How to use PHP CS Fixer ruleset with Easy Coding Standard (ECS)](https://hugo.alliau.me/blog/posts/2023-07-19-how-to-use-php-cs-fixer-ruleset-with-easy-coding-standard) (2 years ago)
 - [Doctrine, QueryBuilder::setMaxResults() and collections associations are on a boat](https://hugo.alliau.me/blog/posts/2022-01-07-doctrine-querybuilder-setmaxresults-and-collections-associations-are-on-a-boat) (3 years ago)
 - [Migration to GitHub-native Dependabot: solutions for auto-merge and Action secrets](https://hugo.alliau.me/blog/posts/2021-05-04-migration-to-github-native-dependabot-solutions-for-auto-merge-and-action-secrets) (3 years ago)
 
