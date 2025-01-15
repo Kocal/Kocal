@@ -2,16 +2,16 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [[CI] Drop explicit Yarn dependencies caching steps for actions/setup-node](https://github.com/symfony/ux/pull/2504) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
-- ![](./assets/pr-open.svg) [[CI] Fix and display changed dist files in the CI](https://github.com/symfony/ux/pull/2503) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
-- ![](./assets/pr-merged.svg) [Generate dist files](https://github.com/symfony/stimulus-bridge/pull/97) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (1 day ago)
-- ![](./assets/pr-merged.svg) [[CI] Check for un-built JS dist files](https://github.com/symfony/stimulus-bridge/pull/96) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (1 day ago)
-- ![](./assets/pr-merged.svg) [Replace ESLint and Prettier by Biome.js](https://github.com/symfony/stimulus-bridge/pull/95) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (3 days ago)
-- ![](./assets/pr-merged.svg) [Use RetryableHttpClient](https://github.com/Kocal/BiomeJsBundle/pull/23) on [Kocal/BiomeJsBundle](https://github.com/Kocal/BiomeJsBundle) (4 days ago)
+- ![](./assets/pr-merged.svg) [[CI] Drop explicit Yarn dependencies caching steps for actions/setup-node](https://github.com/symfony/ux/pull/2504) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
+- ![](./assets/pr-merged.svg) [[CI] Fix and display changed dist files in the CI](https://github.com/symfony/ux/pull/2503) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
+- ![](./assets/pr-merged.svg) [Generate dist files](https://github.com/symfony/stimulus-bridge/pull/97) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (2 days ago)
+- ![](./assets/pr-merged.svg) [[CI] Check for un-built JS dist files](https://github.com/symfony/stimulus-bridge/pull/96) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (2 days ago)
+- ![](./assets/pr-merged.svg) [Replace ESLint and Prettier by Biome.js](https://github.com/symfony/stimulus-bridge/pull/95) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (4 days ago)
+- ![](./assets/pr-merged.svg) [Use RetryableHttpClient](https://github.com/Kocal/BiomeJsBundle/pull/23) on [Kocal/BiomeJsBundle](https://github.com/Kocal/BiomeJsBundle) (5 days ago)
 - ![](./assets/pr-merged.svg) [[BREAKING] Drop support for Node.js 10 and 12, ensure in the CI tests are run under multiple Node.js versions](https://github.com/symfony/stimulus-bridge/pull/94) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (1 week ago)
 - ![](./assets/pr-merged.svg) [Add missing `@babel/plugin-proposal-class-properties` dev dependency](https://github.com/symfony/stimulus-bridge/pull/92) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (1 week ago)
 - ![](./assets/pr-merged.svg) [[CI] Run E2E tests on Windows and macOS aswell](https://github.com/Kocal/BiomeJsBundle/pull/20) on [Kocal/BiomeJsBundle](https://github.com/Kocal/BiomeJsBundle) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [[Icons] Fix aliases support when fetching multiples icons with Iconify](https://github.com/symfony/ux/pull/2467) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
+- ![](./assets/pr-merged.svg) [[Icons] Fix aliases support when fetching multiples icons with Iconify](https://github.com/symfony/ux/pull/2467) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[Site] Visual improvments on IconModal ](https://github.com/symfony/ux/pull/2465) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[TwigComponent] Document about unwanted behavior with `ExposeInTemplate` and computed methods](https://github.com/symfony/ux/pull/2456) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[Routing] Validate &#34;namespace&#34; (when using `Psr4DirectoryLoader`)](https://github.com/symfony/symfony/pull/59189) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
