@@ -2,12 +2,12 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [[CI] Drop explicit Yarn dependencies caching steps for actions/setup-node](https://github.com/symfony/ux/pull/2504) on [symfony/ux](https://github.com/symfony/ux) (3 days ago)
-- ![](./assets/pr-merged.svg) [[CI] Fix and display changed dist files in the CI](https://github.com/symfony/ux/pull/2503) on [symfony/ux](https://github.com/symfony/ux) (3 days ago)
-- ![](./assets/pr-merged.svg) [Generate dist files](https://github.com/symfony/stimulus-bridge/pull/97) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (3 days ago)
-- ![](./assets/pr-merged.svg) [[CI] Check for un-built JS dist files](https://github.com/symfony/stimulus-bridge/pull/96) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (3 days ago)
-- ![](./assets/pr-merged.svg) [Replace ESLint and Prettier by Biome.js](https://github.com/symfony/stimulus-bridge/pull/95) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (5 days ago)
-- ![](./assets/pr-merged.svg) [Use RetryableHttpClient](https://github.com/Kocal/BiomeJsBundle/pull/23) on [Kocal/BiomeJsBundle](https://github.com/Kocal/BiomeJsBundle) (6 days ago)
+- ![](./assets/pr-merged.svg) [[CI] Drop explicit Yarn dependencies caching steps for actions/setup-node](https://github.com/symfony/ux/pull/2504) on [symfony/ux](https://github.com/symfony/ux) (4 days ago)
+- ![](./assets/pr-merged.svg) [[CI] Fix and display changed dist files in the CI](https://github.com/symfony/ux/pull/2503) on [symfony/ux](https://github.com/symfony/ux) (4 days ago)
+- ![](./assets/pr-merged.svg) [Generate dist files](https://github.com/symfony/stimulus-bridge/pull/97) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (4 days ago)
+- ![](./assets/pr-merged.svg) [[CI] Check for un-built JS dist files](https://github.com/symfony/stimulus-bridge/pull/96) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (4 days ago)
+- ![](./assets/pr-merged.svg) [Replace ESLint and Prettier by Biome.js](https://github.com/symfony/stimulus-bridge/pull/95) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (6 days ago)
+- ![](./assets/pr-merged.svg) [Use RetryableHttpClient](https://github.com/Kocal/BiomeJsBundle/pull/23) on [Kocal/BiomeJsBundle](https://github.com/Kocal/BiomeJsBundle) (1 week ago)
 - ![](./assets/pr-merged.svg) [[BREAKING] Drop support for Node.js 10 and 12, ensure in the CI tests are run under multiple Node.js versions](https://github.com/symfony/stimulus-bridge/pull/94) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (1 week ago)
 - ![](./assets/pr-merged.svg) [Add missing `@babel/plugin-proposal-class-properties` dev dependency](https://github.com/symfony/stimulus-bridge/pull/92) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (1 week ago)
 - ![](./assets/pr-merged.svg) [[CI] Run E2E tests on Windows and macOS aswell](https://github.com/Kocal/BiomeJsBundle/pull/20) on [Kocal/BiomeJsBundle](https://github.com/Kocal/BiomeJsBundle) (2 weeks ago)
