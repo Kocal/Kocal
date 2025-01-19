@@ -2,15 +2,16 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [[CI] Drop explicit Yarn dependencies caching steps for actions/setup-node](https://github.com/symfony/ux/pull/2504) on [symfony/ux](https://github.com/symfony/ux) (5 days ago)
-- ![](./assets/pr-merged.svg) [[CI] Fix and display changed dist files in the CI](https://github.com/symfony/ux/pull/2503) on [symfony/ux](https://github.com/symfony/ux) (5 days ago)
-- ![](./assets/pr-merged.svg) [Generate dist files](https://github.com/symfony/stimulus-bridge/pull/97) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (5 days ago)
-- ![](./assets/pr-merged.svg) [[CI] Check for un-built JS dist files](https://github.com/symfony/stimulus-bridge/pull/96) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (5 days ago)
+- ![](./assets/pr-merged.svg) [[BREAKING] Drop Node.js 14 and 16 support](https://github.com/symfony/stimulus-bridge/pull/98) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (1 day ago)
+- ![](./assets/pr-merged.svg) [[CI] Drop explicit Yarn dependencies caching steps for actions/setup-node](https://github.com/symfony/ux/pull/2504) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
+- ![](./assets/pr-merged.svg) [[CI] Fix and display changed dist files in the CI](https://github.com/symfony/ux/pull/2503) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
+- ![](./assets/pr-merged.svg) [Generate dist files](https://github.com/symfony/stimulus-bridge/pull/97) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (6 days ago)
+- ![](./assets/pr-merged.svg) [[CI] Check for un-built JS dist files](https://github.com/symfony/stimulus-bridge/pull/96) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (6 days ago)
 - ![](./assets/pr-merged.svg) [Replace ESLint and Prettier by Biome.js](https://github.com/symfony/stimulus-bridge/pull/95) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (1 week ago)
 - ![](./assets/pr-merged.svg) [Use RetryableHttpClient](https://github.com/Kocal/BiomeJsBundle/pull/23) on [Kocal/BiomeJsBundle](https://github.com/Kocal/BiomeJsBundle) (1 week ago)
 - ![](./assets/pr-merged.svg) [[BREAKING] Drop support for Node.js 10 and 12, ensure in the CI tests are run under multiple Node.js versions](https://github.com/symfony/stimulus-bridge/pull/94) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (1 week ago)
-- ![](./assets/pr-merged.svg) [Add missing `@babel/plugin-proposal-class-properties` dev dependency](https://github.com/symfony/stimulus-bridge/pull/92) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (1 week ago)
-- ![](./assets/pr-merged.svg) [[CI] Run E2E tests on Windows and macOS aswell](https://github.com/Kocal/BiomeJsBundle/pull/20) on [Kocal/BiomeJsBundle](https://github.com/Kocal/BiomeJsBundle) (2 weeks ago)
+- ![](./assets/pr-merged.svg) [Add missing `@babel/plugin-proposal-class-properties` dev dependency](https://github.com/symfony/stimulus-bridge/pull/92) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (2 weeks ago)
+- ![](./assets/pr-merged.svg) [[CI] Run E2E tests on Windows and macOS aswell](https://github.com/Kocal/BiomeJsBundle/pull/20) on [Kocal/BiomeJsBundle](https://github.com/Kocal/BiomeJsBundle) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[Icons] Fix aliases support when fetching multiples icons with Iconify](https://github.com/symfony/ux/pull/2467) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[Site] Visual improvments on IconModal ](https://github.com/symfony/ux/pull/2465) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[TwigComponent] Document about unwanted behavior with `ExposeInTemplate` and computed methods](https://github.com/symfony/ux/pull/2456) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
@@ -26,7 +27,6 @@
 - ![](./assets/pr-merged.svg) [Ensure Symfony 7.2 is supported, close #42](https://github.com/Kocal/SymfonyMailerTesting/pull/43) on [Kocal/SymfonyMailerTesting](https://github.com/Kocal/SymfonyMailerTesting) (1 month ago)
 - ![](./assets/pr-merged.svg) [[Docs] Add CONTRIBUTING.md](https://github.com/symfony/ux/pull/2408) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
 - ![](./assets/pr-merged.svg) [[Map] Fix and improve TypeScript types, refactor same logic into dedicated methods (to reduce file size)](https://github.com/symfony/ux/pull/2406) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
-- ![](./assets/pr-merged.svg) [Add support for Node.js 23](https://github.com/symfony/webpack-encore/pull/1357) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 month ago)
 
 #### 📜 My recent blog posts (https://hugo.alliau.me/blog)
 
