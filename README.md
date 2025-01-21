@@ -2,7 +2,7 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [[BREAKING] Drop Node.js 14 and 16 support](https://github.com/symfony/stimulus-bridge/pull/98) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (2 days ago)
+- ![](./assets/pr-merged.svg) [[BREAKING] Drop Node.js 14 and 16 support](https://github.com/symfony/stimulus-bridge/pull/98) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (3 days ago)
 - ![](./assets/pr-merged.svg) [[CI] Drop explicit Yarn dependencies caching steps for actions/setup-node](https://github.com/symfony/ux/pull/2504) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[CI] Fix and display changed dist files in the CI](https://github.com/symfony/ux/pull/2503) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [Generate dist files](https://github.com/symfony/stimulus-bridge/pull/97) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (1 week ago)
