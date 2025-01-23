@@ -2,8 +2,8 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [Remove usage of `dd()`](https://github.com/coollabsio/coolify/pull/4904) on [coollabsio/coolify](https://github.com/coollabsio/coolify) (1 day ago)
-- ![](./assets/pr-merged.svg) [[BREAKING] Drop Node.js 14 and 16 support](https://github.com/symfony/stimulus-bridge/pull/98) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (4 days ago)
+- ![](./assets/pr-closed.svg) [Remove usage of `dd()`](https://github.com/coollabsio/coolify/pull/4904) on [coollabsio/coolify](https://github.com/coollabsio/coolify) (2 days ago)
+- ![](./assets/pr-merged.svg) [[BREAKING] Drop Node.js 14 and 16 support](https://github.com/symfony/stimulus-bridge/pull/98) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (5 days ago)
 - ![](./assets/pr-merged.svg) [[CI] Drop explicit Yarn dependencies caching steps for actions/setup-node](https://github.com/symfony/ux/pull/2504) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[CI] Fix and display changed dist files in the CI](https://github.com/symfony/ux/pull/2503) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [Generate dist files](https://github.com/symfony/stimulus-bridge/pull/97) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (1 week ago)
