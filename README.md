@@ -2,13 +2,13 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-closed.svg) [Remove usage of `dd()`](https://github.com/coollabsio/coolify/pull/4904) on [coollabsio/coolify](https://github.com/coollabsio/coolify) (3 days ago)
-- ![](./assets/pr-merged.svg) [[BREAKING] Drop Node.js 14 and 16 support](https://github.com/symfony/stimulus-bridge/pull/98) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (6 days ago)
+- ![](./assets/pr-closed.svg) [Remove usage of `dd()`](https://github.com/coollabsio/coolify/pull/4904) on [coollabsio/coolify](https://github.com/coollabsio/coolify) (4 days ago)
+- ![](./assets/pr-merged.svg) [[BREAKING] Drop Node.js 14 and 16 support](https://github.com/symfony/stimulus-bridge/pull/98) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (1 week ago)
 - ![](./assets/pr-merged.svg) [[CI] Drop explicit Yarn dependencies caching steps for actions/setup-node](https://github.com/symfony/ux/pull/2504) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[CI] Fix and display changed dist files in the CI](https://github.com/symfony/ux/pull/2503) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [Generate dist files](https://github.com/symfony/stimulus-bridge/pull/97) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (1 week ago)
 - ![](./assets/pr-merged.svg) [[CI] Check for un-built JS dist files](https://github.com/symfony/stimulus-bridge/pull/96) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (1 week ago)
-- ![](./assets/pr-merged.svg) [Replace ESLint and Prettier by Biome.js](https://github.com/symfony/stimulus-bridge/pull/95) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (1 week ago)
+- ![](./assets/pr-merged.svg) [Replace ESLint and Prettier by Biome.js](https://github.com/symfony/stimulus-bridge/pull/95) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Use RetryableHttpClient](https://github.com/Kocal/BiomeJsBundle/pull/23) on [Kocal/BiomeJsBundle](https://github.com/Kocal/BiomeJsBundle) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[BREAKING] Drop support for Node.js 10 and 12, ensure in the CI tests are run under multiple Node.js versions](https://github.com/symfony/stimulus-bridge/pull/94) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Add missing `@babel/plugin-proposal-class-properties` dev dependency](https://github.com/symfony/stimulus-bridge/pull/92) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (2 weeks ago)
@@ -30,8 +30,8 @@
 
 #### 📜 My recent blog posts (https://hugo.alliau.me/blog)
 
-- [A Better Architecture for Your Symfony UX Twig Components](https://hugo.alliau.me/blog/posts/a-better-architecture-for-your-symfony-ux-twig-components) (5 months ago)
-- [Une meilleure architecture pour vos Twig Components de Symfony UX](https://hugo.alliau.me/blog/posts/une-meilleure-architecture-pour-vous-twig-components-de-symfony-ux) (5 months ago)
+- [A Better Architecture for Your Symfony UX Twig Components](https://hugo.alliau.me/blog/posts/a-better-architecture-for-your-symfony-ux-twig-components) (6 months ago)
+- [Une meilleure architecture pour vos Twig Components de Symfony UX](https://hugo.alliau.me/blog/posts/une-meilleure-architecture-pour-vous-twig-components-de-symfony-ux) (6 months ago)
 - [Empowering Self-Hosting: A Journey from PaaS to Coolify for Symfony Projects](https://hugo.alliau.me/blog/posts/empowering-self-hosting-a-journey-from-paas-to-coolify-for-symfony-projects) (8 months ago)
 - [Listen to Doctrine Events on Entities Using a PHP Attribute](https://hugo.alliau.me/blog/posts/2023-11-12-listen-to-doctrine-events-on-entities-using-a-php-attribute) (1 year ago)
 - [Profiling cURL HTTP requests and Symfony Commands with Blackfire, when using the Symfony CLI](https://hugo.alliau.me/blog/posts/2023-10-21-profiling-curl-http-requests-and-symfony-commands-with-blackfire-when-using-the-symfony-cli) (1 year ago)
