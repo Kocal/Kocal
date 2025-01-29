@@ -2,10 +2,12 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [Add support for `loader-utils@^3.0.0` and `schema-utils@^4.0.0`, close #102](https://github.com/symfony/stimulus-bridge/pull/111) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (2 days ago)
-- ![](./assets/pr-merged.svg) [[CI] Test for lowest and highest dependencies, close #109](https://github.com/symfony/stimulus-bridge/pull/110) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (3 days ago)
-- ![](./assets/pr-merged.svg) [Switch from Yarn to PNPM, close #101](https://github.com/symfony/stimulus-bridge/pull/108) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (3 days ago)
-- ![](./assets/pr-merged.svg) [Migrate from Rollup to Rolldown, configure TypeScript `module`, `moduleResolution` and `target` options](https://github.com/symfony/stimulus-bridge/pull/99) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (3 days ago)
+- ![](./assets/pr-merged.svg) [Move `acorn` dependency to devDependency, as it is already bundled in dist files, close #112](https://github.com/symfony/stimulus-bridge/pull/114) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (1 day ago)
+- ![](./assets/pr-closed.svg) [Add ESM build of lazy-controller-loader and loader, close #106, #107](https://github.com/symfony/stimulus-bridge/pull/113) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (1 day ago)
+- ![](./assets/pr-merged.svg) [Add support for `loader-utils@^3.0.0` and `schema-utils@^4.0.0`, close #102](https://github.com/symfony/stimulus-bridge/pull/111) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (3 days ago)
+- ![](./assets/pr-merged.svg) [[CI] Test for lowest and highest dependencies, close #109](https://github.com/symfony/stimulus-bridge/pull/110) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (4 days ago)
+- ![](./assets/pr-merged.svg) [Switch from Yarn to PNPM, close #101](https://github.com/symfony/stimulus-bridge/pull/108) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (4 days ago)
+- ![](./assets/pr-merged.svg) [Migrate from Rollup to Rolldown, configure TypeScript `module`, `moduleResolution` and `target` options](https://github.com/symfony/stimulus-bridge/pull/99) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (4 days ago)
 - ![](./assets/pr-closed.svg) [Remove usage of `dd()`](https://github.com/coollabsio/coolify/pull/4904) on [coollabsio/coolify](https://github.com/coollabsio/coolify) (1 week ago)
 - ![](./assets/pr-merged.svg) [[BREAKING] Drop Node.js 14 and 16 support](https://github.com/symfony/stimulus-bridge/pull/98) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (1 week ago)
 - ![](./assets/pr-merged.svg) [[CI] Drop explicit Yarn dependencies caching steps for actions/setup-node](https://github.com/symfony/ux/pull/2504) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
@@ -25,8 +27,6 @@
 - ![](./assets/pr-merged.svg) [[Meta] Drop format, lint, check-format and check-lint commands, replace them with check and ci commands](https://github.com/symfony/ux/pull/2428) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
 - ![](./assets/pr-merged.svg) [[Map] Fix default values of Stimulus Map Controller](https://github.com/symfony/ux/pull/2420) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
 - ![](./assets/pr-merged.svg) [[Maps] Fix documentations codeblocks for the LiveComponent integration](https://github.com/symfony/ux/pull/2412) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
-- ![](./assets/pr-merged.svg) [[BiomeJsBundle] Ignore more directories for linting](https://github.com/symfony/recipes-contrib/pull/1716) on [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) (2 months ago)
-- ![](./assets/pr-merged.svg) [Update Symfony 7.2.*](https://github.com/Kocal/hugo.alliau.me/pull/60) on [Kocal/hugo.alliau.me](https://github.com/Kocal/hugo.alliau.me) (2 months ago)
 
 #### 📜 My recent blog posts (https://hugo.alliau.me/blog)
 
