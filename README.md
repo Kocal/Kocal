@@ -2,12 +2,16 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [Move `acorn` dependency to devDependency, as it is already bundled in dist files, close #112](https://github.com/symfony/stimulus-bridge/pull/114) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (1 day ago)
-- ![](./assets/pr-closed.svg) [Add ESM build of lazy-controller-loader and loader, close #106, #107](https://github.com/symfony/stimulus-bridge/pull/113) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (1 day ago)
-- ![](./assets/pr-merged.svg) [Add support for `loader-utils@^3.0.0` and `schema-utils@^4.0.0`, close #102](https://github.com/symfony/stimulus-bridge/pull/111) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (3 days ago)
-- ![](./assets/pr-merged.svg) [[CI] Test for lowest and highest dependencies, close #109](https://github.com/symfony/stimulus-bridge/pull/110) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (4 days ago)
-- ![](./assets/pr-merged.svg) [Switch from Yarn to PNPM, close #101](https://github.com/symfony/stimulus-bridge/pull/108) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (4 days ago)
-- ![](./assets/pr-merged.svg) [Migrate from Rollup to Rolldown, configure TypeScript `module`, `moduleResolution` and `target` options](https://github.com/symfony/stimulus-bridge/pull/99) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (4 days ago)
+- ![](./assets/pr-open.svg) [[WebpackEncoreBundle] Bump @symfony/stimulus-bridge to ^4.0.0](https://github.com/symfony/recipes/pull/1378) on [symfony/recipes](https://github.com/symfony/recipes) (1 day ago)
+- ![](./assets/pr-merged.svg) [Add contributing guide](https://github.com/symfony/stimulus-bridge/pull/117) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (1 day ago)
+- ![](./assets/pr-merged.svg) [Remove Babel (which was not really necessary), replace it by acorn if needed, close #105](https://github.com/symfony/stimulus-bridge/pull/116) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (1 day ago)
+- ![](./assets/pr-merged.svg) [Migrate from Jest to to Vitest, close #104](https://github.com/symfony/stimulus-bridge/pull/115) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (1 day ago)
+- ![](./assets/pr-merged.svg) [Move `acorn` dependency to devDependency, as it is already bundled in dist files, close #112](https://github.com/symfony/stimulus-bridge/pull/114) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (2 days ago)
+- ![](./assets/pr-closed.svg) [Add ESM build of lazy-controller-loader and loader, close #106, #107](https://github.com/symfony/stimulus-bridge/pull/113) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (2 days ago)
+- ![](./assets/pr-merged.svg) [Add support for `loader-utils@^3.0.0` and `schema-utils@^4.0.0`, close #102](https://github.com/symfony/stimulus-bridge/pull/111) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (4 days ago)
+- ![](./assets/pr-merged.svg) [[CI] Test for lowest and highest dependencies, close #109](https://github.com/symfony/stimulus-bridge/pull/110) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (5 days ago)
+- ![](./assets/pr-merged.svg) [Switch from Yarn to PNPM, close #101](https://github.com/symfony/stimulus-bridge/pull/108) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (5 days ago)
+- ![](./assets/pr-merged.svg) [Migrate from Rollup to Rolldown, configure TypeScript `module`, `moduleResolution` and `target` options](https://github.com/symfony/stimulus-bridge/pull/99) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (5 days ago)
 - ![](./assets/pr-closed.svg) [Remove usage of `dd()`](https://github.com/coollabsio/coolify/pull/4904) on [coollabsio/coolify](https://github.com/coollabsio/coolify) (1 week ago)
 - ![](./assets/pr-merged.svg) [[BREAKING] Drop Node.js 14 and 16 support](https://github.com/symfony/stimulus-bridge/pull/98) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (1 week ago)
 - ![](./assets/pr-merged.svg) [[CI] Drop explicit Yarn dependencies caching steps for actions/setup-node](https://github.com/symfony/ux/pull/2504) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
@@ -23,10 +27,6 @@
 - ![](./assets/pr-merged.svg) [[Site] Visual improvments on IconModal ](https://github.com/symfony/ux/pull/2465) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
 - ![](./assets/pr-merged.svg) [[TwigComponent] Document about unwanted behavior with `ExposeInTemplate` and computed methods](https://github.com/symfony/ux/pull/2456) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
 - ![](./assets/pr-merged.svg) [[Routing] Validate &#34;namespace&#34; (when using `Psr4DirectoryLoader`)](https://github.com/symfony/symfony/pull/59189) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
-- ![](./assets/pr-merged.svg) [[Meta] Replace CleanCSS by LightningCSS](https://github.com/symfony/ux/pull/2429) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
-- ![](./assets/pr-merged.svg) [[Meta] Drop format, lint, check-format and check-lint commands, replace them with check and ci commands](https://github.com/symfony/ux/pull/2428) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
-- ![](./assets/pr-merged.svg) [[Map] Fix default values of Stimulus Map Controller](https://github.com/symfony/ux/pull/2420) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
-- ![](./assets/pr-merged.svg) [[Maps] Fix documentations codeblocks for the LiveComponent integration](https://github.com/symfony/ux/pull/2412) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
 
 #### 📜 My recent blog posts (https://hugo.alliau.me/blog)
 
