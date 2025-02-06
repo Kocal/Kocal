@@ -2,9 +2,10 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-closed.svg) [Trigger CI](https://github.com/symfony/webpack-encore/pull/1362) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (5 days ago)
-- ![](./assets/pr-merged.svg) [Add support for @symfony/stimulus-bridge@^4.0.0](https://github.com/symfony/webpack-encore/pull/1361) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (5 days ago)
-- ![](./assets/pr-merged.svg) [[LiveComponent] Prevent `__component` property to be serialized when called `JSON.stringify()`](https://github.com/symfony/ux/pull/2537) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
+- ![](./assets/pr-open.svg) [[Frontend] Correct &#34;Removes comments from CSS&#34; comparison](https://github.com/symfony/symfony-docs/pull/20620) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
+- ![](./assets/pr-closed.svg) [Trigger CI](https://github.com/symfony/webpack-encore/pull/1362) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (6 days ago)
+- ![](./assets/pr-merged.svg) [Add support for @symfony/stimulus-bridge@^4.0.0](https://github.com/symfony/webpack-encore/pull/1361) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (6 days ago)
+- ![](./assets/pr-merged.svg) [[LiveComponent] Prevent `__component` property to be serialized when called `JSON.stringify()`](https://github.com/symfony/ux/pull/2537) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-open.svg) [[WebpackEncoreBundle] Bump @symfony/stimulus-bridge to ^4.0.0](https://github.com/symfony/recipes/pull/1378) on [symfony/recipes](https://github.com/symfony/recipes) (1 week ago)
 - ![](./assets/pr-merged.svg) [Add contributing guide](https://github.com/symfony/stimulus-bridge/pull/117) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (1 week ago)
 - ![](./assets/pr-merged.svg) [Remove Babel (which was not really necessary), replace it by acorn if needed, close #105](https://github.com/symfony/stimulus-bridge/pull/116) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (1 week ago)
@@ -26,7 +27,6 @@
 - ![](./assets/pr-merged.svg) [[BREAKING] Drop support for Node.js 10 and 12, ensure in the CI tests are run under multiple Node.js versions](https://github.com/symfony/stimulus-bridge/pull/94) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (1 month ago)
 - ![](./assets/pr-merged.svg) [Add missing `@babel/plugin-proposal-class-properties` dev dependency](https://github.com/symfony/stimulus-bridge/pull/92) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (1 month ago)
 - ![](./assets/pr-merged.svg) [[CI] Run E2E tests on Windows and macOS aswell](https://github.com/Kocal/BiomeJsBundle/pull/20) on [Kocal/BiomeJsBundle](https://github.com/Kocal/BiomeJsBundle) (1 month ago)
-- ![](./assets/pr-merged.svg) [[Icons] Fix aliases support when fetching multiples icons with Iconify](https://github.com/symfony/ux/pull/2467) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
 
 #### 📜 My recent blog posts (https://hugo.alliau.me/blog)
 
