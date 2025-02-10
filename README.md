@@ -2,8 +2,8 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [Update documentation and tests to change `twig:ux:component` to `twig:UX:Component`](https://github.com/symfony/ux/pull/2555) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
-- ![](./assets/pr-merged.svg) [[Encore] [Frontend] Correct &#34;Removes comments from CSS&#34; comparison](https://github.com/symfony/symfony-docs/pull/20620) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 days ago)
+- ![](./assets/pr-open.svg) [Update documentation and tests to change `twig:ux:component` to `twig:UX:Component`](https://github.com/symfony/ux/pull/2555) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
+- ![](./assets/pr-merged.svg) [[Encore] [Frontend] Correct &#34;Removes comments from CSS&#34; comparison](https://github.com/symfony/symfony-docs/pull/20620) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (5 days ago)
 - ![](./assets/pr-closed.svg) [Trigger CI](https://github.com/symfony/webpack-encore/pull/1362) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 week ago)
 - ![](./assets/pr-merged.svg) [Add support for @symfony/stimulus-bridge@^4.0.0](https://github.com/symfony/webpack-encore/pull/1361) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 week ago)
 - ![](./assets/pr-merged.svg) [[LiveComponent] Prevent `__component` property to be serialized when called `JSON.stringify()`](https://github.com/symfony/ux/pull/2537) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
@@ -19,11 +19,11 @@
 - ![](./assets/pr-merged.svg) [Migrate from Rollup to Rolldown, configure TypeScript `module`, `moduleResolution` and `target` options](https://github.com/symfony/stimulus-bridge/pull/99) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (2 weeks ago)
 - ![](./assets/pr-closed.svg) [Remove usage of `dd()`](https://github.com/coollabsio/coolify/pull/4904) on [coollabsio/coolify](https://github.com/coollabsio/coolify) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[BREAKING] Drop Node.js 14 and 16 support](https://github.com/symfony/stimulus-bridge/pull/98) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (3 weeks ago)
-- ![](./assets/pr-merged.svg) [[CI] Drop explicit Yarn dependencies caching steps for actions/setup-node](https://github.com/symfony/ux/pull/2504) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
-- ![](./assets/pr-merged.svg) [[CI] Fix and display changed dist files in the CI](https://github.com/symfony/ux/pull/2503) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
-- ![](./assets/pr-merged.svg) [Generate dist files](https://github.com/symfony/stimulus-bridge/pull/97) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (3 weeks ago)
-- ![](./assets/pr-merged.svg) [[CI] Check for un-built JS dist files](https://github.com/symfony/stimulus-bridge/pull/96) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (3 weeks ago)
-- ![](./assets/pr-merged.svg) [Replace ESLint and Prettier by Biome.js](https://github.com/symfony/stimulus-bridge/pull/95) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (4 weeks ago)
+- ![](./assets/pr-merged.svg) [[CI] Drop explicit Yarn dependencies caching steps for actions/setup-node](https://github.com/symfony/ux/pull/2504) on [symfony/ux](https://github.com/symfony/ux) (4 weeks ago)
+- ![](./assets/pr-merged.svg) [[CI] Fix and display changed dist files in the CI](https://github.com/symfony/ux/pull/2503) on [symfony/ux](https://github.com/symfony/ux) (4 weeks ago)
+- ![](./assets/pr-merged.svg) [Generate dist files](https://github.com/symfony/stimulus-bridge/pull/97) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (4 weeks ago)
+- ![](./assets/pr-merged.svg) [[CI] Check for un-built JS dist files](https://github.com/symfony/stimulus-bridge/pull/96) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (4 weeks ago)
+- ![](./assets/pr-merged.svg) [Replace ESLint and Prettier by Biome.js](https://github.com/symfony/stimulus-bridge/pull/95) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (1 month ago)
 - ![](./assets/pr-merged.svg) [Use RetryableHttpClient](https://github.com/Kocal/BiomeJsBundle/pull/23) on [Kocal/BiomeJsBundle](https://github.com/Kocal/BiomeJsBundle) (1 month ago)
 - ![](./assets/pr-merged.svg) [[BREAKING] Drop support for Node.js 10 and 12, ensure in the CI tests are run under multiple Node.js versions](https://github.com/symfony/stimulus-bridge/pull/94) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (1 month ago)
 - ![](./assets/pr-merged.svg) [Add missing `@babel/plugin-proposal-class-properties` dev dependency](https://github.com/symfony/stimulus-bridge/pull/92) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (1 month ago)
