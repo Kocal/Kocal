@@ -2,14 +2,15 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [[Cache] Fix &#34;Marshalling (Serializing) Data&#34; code rendering issue](https://github.com/symfony/symfony-docs/pull/20649) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
-- ![](./assets/pr-merged.svg) [[CI] Fix dist files base/head informations](https://github.com/symfony/ux/pull/2564) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
-- ![](./assets/pr-merged.svg) [[CI] Fix links to changed dist files](https://github.com/symfony/ux/pull/2563) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
-- ![](./assets/pr-merged.svg) [[Map][Translator][Turbo] Ensure TypeScript code is valid](https://github.com/symfony/ux/pull/2562) on [symfony/ux](https://github.com/symfony/ux) (3 days ago)
-- ![](./assets/pr-open.svg) [Update documentation and tests to change `twig:ux:component` to `twig:UX:Component`](https://github.com/symfony/ux/pull/2555) on [symfony/ux](https://github.com/symfony/ux) (5 days ago)
+- ![](./assets/pr-open.svg) [Implement Static Site Generation (SSG) feature](https://github.com/mtarld/symfony/pull/10) on [mtarld/symfony](https://github.com/mtarld/symfony) (1 day ago)
+- ![](./assets/pr-merged.svg) [[Cache] Fix &#34;Marshalling (Serializing) Data&#34; code rendering issue](https://github.com/symfony/symfony-docs/pull/20649) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 days ago)
+- ![](./assets/pr-merged.svg) [[CI] Fix dist files base/head informations](https://github.com/symfony/ux/pull/2564) on [symfony/ux](https://github.com/symfony/ux) (3 days ago)
+- ![](./assets/pr-merged.svg) [[CI] Fix links to changed dist files](https://github.com/symfony/ux/pull/2563) on [symfony/ux](https://github.com/symfony/ux) (3 days ago)
+- ![](./assets/pr-merged.svg) [[Map][Translator][Turbo] Ensure TypeScript code is valid](https://github.com/symfony/ux/pull/2562) on [symfony/ux](https://github.com/symfony/ux) (4 days ago)
+- ![](./assets/pr-open.svg) [Update documentation and tests to change `twig:ux:component` to `twig:UX:Component`](https://github.com/symfony/ux/pull/2555) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
 - ![](./assets/pr-merged.svg) [[Encore] [Frontend] Correct &#34;Removes comments from CSS&#34; comparison](https://github.com/symfony/symfony-docs/pull/20620) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
-- ![](./assets/pr-closed.svg) [Trigger CI](https://github.com/symfony/webpack-encore/pull/1362) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 week ago)
-- ![](./assets/pr-merged.svg) [Add support for @symfony/stimulus-bridge@^4.0.0](https://github.com/symfony/webpack-encore/pull/1361) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 week ago)
+- ![](./assets/pr-closed.svg) [Trigger CI](https://github.com/symfony/webpack-encore/pull/1362) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (2 weeks ago)
+- ![](./assets/pr-merged.svg) [Add support for @symfony/stimulus-bridge@^4.0.0](https://github.com/symfony/webpack-encore/pull/1361) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[LiveComponent] Prevent `__component` property to be serialized when called `JSON.stringify()`](https://github.com/symfony/ux/pull/2537) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-open.svg) [[WebpackEncoreBundle] Bump @symfony/stimulus-bridge to ^4.0.0](https://github.com/symfony/recipes/pull/1378) on [symfony/recipes](https://github.com/symfony/recipes) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Add contributing guide](https://github.com/symfony/stimulus-bridge/pull/117) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (2 weeks ago)
@@ -26,7 +27,6 @@
 - ![](./assets/pr-merged.svg) [[CI] Drop explicit Yarn dependencies caching steps for actions/setup-node](https://github.com/symfony/ux/pull/2504) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
 - ![](./assets/pr-merged.svg) [[CI] Fix and display changed dist files in the CI](https://github.com/symfony/ux/pull/2503) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
 - ![](./assets/pr-merged.svg) [Generate dist files](https://github.com/symfony/stimulus-bridge/pull/97) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (1 month ago)
-- ![](./assets/pr-merged.svg) [[CI] Check for un-built JS dist files](https://github.com/symfony/stimulus-bridge/pull/96) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (1 month ago)
 
 #### 📜 My recent blog posts (https://hugo.alliau.me/blog)
 
