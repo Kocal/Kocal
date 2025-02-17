@@ -2,11 +2,11 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [Implement Static Site Generation (SSG) feature](https://github.com/mtarld/symfony/pull/10) on [mtarld/symfony](https://github.com/mtarld/symfony) (3 days ago)
-- ![](./assets/pr-merged.svg) [[Cache] Fix &#34;Marshalling (Serializing) Data&#34; code rendering issue](https://github.com/symfony/symfony-docs/pull/20649) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (5 days ago)
-- ![](./assets/pr-merged.svg) [[CI] Fix dist files base/head informations](https://github.com/symfony/ux/pull/2564) on [symfony/ux](https://github.com/symfony/ux) (5 days ago)
-- ![](./assets/pr-merged.svg) [[CI] Fix links to changed dist files](https://github.com/symfony/ux/pull/2563) on [symfony/ux](https://github.com/symfony/ux) (5 days ago)
-- ![](./assets/pr-merged.svg) [[Map][Translator][Turbo] Ensure TypeScript code is valid](https://github.com/symfony/ux/pull/2562) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
+- ![](./assets/pr-open.svg) [Implement Static Site Generation (SSG) feature](https://github.com/mtarld/symfony/pull/10) on [mtarld/symfony](https://github.com/mtarld/symfony) (4 days ago)
+- ![](./assets/pr-merged.svg) [[Cache] Fix &#34;Marshalling (Serializing) Data&#34; code rendering issue](https://github.com/symfony/symfony-docs/pull/20649) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (6 days ago)
+- ![](./assets/pr-merged.svg) [[CI] Fix dist files base/head informations](https://github.com/symfony/ux/pull/2564) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
+- ![](./assets/pr-merged.svg) [[CI] Fix links to changed dist files](https://github.com/symfony/ux/pull/2563) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
+- ![](./assets/pr-merged.svg) [[Map][Translator][Turbo] Ensure TypeScript code is valid](https://github.com/symfony/ux/pull/2562) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-open.svg) [Update documentation and tests to change `twig:ux:component` to `twig:UX:Component`](https://github.com/symfony/ux/pull/2555) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Encore] [Frontend] Correct &#34;Removes comments from CSS&#34; comparison](https://github.com/symfony/symfony-docs/pull/20620) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
 - ![](./assets/pr-closed.svg) [Trigger CI](https://github.com/symfony/webpack-encore/pull/1362) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (2 weeks ago)
@@ -23,7 +23,7 @@
 - ![](./assets/pr-merged.svg) [Switch from Yarn to PNPM, close #101](https://github.com/symfony/stimulus-bridge/pull/108) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [Migrate from Rollup to Rolldown, configure TypeScript `module`, `moduleResolution` and `target` options](https://github.com/symfony/stimulus-bridge/pull/99) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (3 weeks ago)
 - ![](./assets/pr-closed.svg) [Remove usage of `dd()`](https://github.com/coollabsio/coolify/pull/4904) on [coollabsio/coolify](https://github.com/coollabsio/coolify) (3 weeks ago)
-- ![](./assets/pr-merged.svg) [[BREAKING] Drop Node.js 14 and 16 support](https://github.com/symfony/stimulus-bridge/pull/98) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (4 weeks ago)
+- ![](./assets/pr-merged.svg) [[BREAKING] Drop Node.js 14 and 16 support](https://github.com/symfony/stimulus-bridge/pull/98) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (1 month ago)
 - ![](./assets/pr-merged.svg) [[CI] Drop explicit Yarn dependencies caching steps for actions/setup-node](https://github.com/symfony/ux/pull/2504) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
 - ![](./assets/pr-merged.svg) [[CI] Fix and display changed dist files in the CI](https://github.com/symfony/ux/pull/2503) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
 - ![](./assets/pr-merged.svg) [Generate dist files](https://github.com/symfony/stimulus-bridge/pull/97) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (1 month ago)
