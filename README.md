@@ -2,16 +2,17 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [[Blog] Automatically generate OpenGraph image](https://github.com/bakslashHQ/baksla.sh/pull/66) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (3 days ago)
-- ![](./assets/pr-merged.svg) [Use absolute_url for og:image !](https://github.com/bakslashHQ/baksla.sh/pull/65) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (4 days ago)
-- ![](./assets/pr-merged.svg) [Use absolute_url for og:image](https://github.com/bakslashHQ/baksla.sh/pull/64) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (4 days ago)
-- ![](./assets/pr-open.svg) [Migrate from CommonJS to ESM](https://github.com/symfony/webpack-encore/pull/1363) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (4 days ago)
+- ![](./assets/pr-open.svg) [[CI] Run tests on minimum-stability=dev too](https://github.com/symfony/ux/pull/2594) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
+- ![](./assets/pr-merged.svg) [[Blog] Automatically generate OpenGraph image](https://github.com/bakslashHQ/baksla.sh/pull/66) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (4 days ago)
+- ![](./assets/pr-merged.svg) [Use absolute_url for og:image !](https://github.com/bakslashHQ/baksla.sh/pull/65) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (5 days ago)
+- ![](./assets/pr-merged.svg) [Use absolute_url for og:image](https://github.com/bakslashHQ/baksla.sh/pull/64) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (5 days ago)
+- ![](./assets/pr-open.svg) [Migrate from CommonJS to ESM](https://github.com/symfony/webpack-encore/pull/1363) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (5 days ago)
 - ![](./assets/pr-open.svg) [Implement Static Site Generation (SSG) feature](https://github.com/mtarld/symfony/pull/10) on [mtarld/symfony](https://github.com/mtarld/symfony) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Cache] Fix &#34;Marshalling (Serializing) Data&#34; code rendering issue](https://github.com/symfony/symfony-docs/pull/20649) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
 - ![](./assets/pr-merged.svg) [[CI] Fix dist files base/head informations](https://github.com/symfony/ux/pull/2564) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[CI] Fix links to changed dist files](https://github.com/symfony/ux/pull/2563) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Map][Translator][Turbo] Ensure TypeScript code is valid](https://github.com/symfony/ux/pull/2562) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
-- ![](./assets/pr-open.svg) [Update documentation and tests to change `twig:ux:component` to `twig:UX:Component`](https://github.com/symfony/ux/pull/2555) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
+- ![](./assets/pr-closed.svg) [Update documentation and tests to change `twig:ux:component` to `twig:UX:Component`](https://github.com/symfony/ux/pull/2555) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[Encore] [Frontend] Correct &#34;Removes comments from CSS&#34; comparison](https://github.com/symfony/symfony-docs/pull/20620) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
 - ![](./assets/pr-closed.svg) [Trigger CI](https://github.com/symfony/webpack-encore/pull/1362) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [Add support for @symfony/stimulus-bridge@^4.0.0](https://github.com/symfony/webpack-encore/pull/1361) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (3 weeks ago)
@@ -22,11 +23,10 @@
 - ![](./assets/pr-merged.svg) [Migrate from Jest to to Vitest, close #104](https://github.com/symfony/stimulus-bridge/pull/115) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [Move `acorn` dependency to devDependency, as it is already bundled in dist files, close #112](https://github.com/symfony/stimulus-bridge/pull/114) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (3 weeks ago)
 - ![](./assets/pr-closed.svg) [Add ESM build of lazy-controller-loader and loader, close #106, #107](https://github.com/symfony/stimulus-bridge/pull/113) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (3 weeks ago)
-- ![](./assets/pr-merged.svg) [Add support for `loader-utils@^3.0.0` and `schema-utils@^4.0.0`, close #102](https://github.com/symfony/stimulus-bridge/pull/111) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (3 weeks ago)
+- ![](./assets/pr-merged.svg) [Add support for `loader-utils@^3.0.0` and `schema-utils@^4.0.0`, close #102](https://github.com/symfony/stimulus-bridge/pull/111) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (4 weeks ago)
 - ![](./assets/pr-merged.svg) [[CI] Test for lowest and highest dependencies, close #109](https://github.com/symfony/stimulus-bridge/pull/110) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (4 weeks ago)
 - ![](./assets/pr-merged.svg) [Switch from Yarn to PNPM, close #101](https://github.com/symfony/stimulus-bridge/pull/108) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (4 weeks ago)
 - ![](./assets/pr-merged.svg) [Migrate from Rollup to Rolldown, configure TypeScript `module`, `moduleResolution` and `target` options](https://github.com/symfony/stimulus-bridge/pull/99) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (4 weeks ago)
-- ![](./assets/pr-closed.svg) [Remove usage of `dd()`](https://github.com/coollabsio/coolify/pull/4904) on [coollabsio/coolify](https://github.com/coollabsio/coolify) (1 month ago)
 
 #### 📜 My recent blog posts (https://hugo.alliau.me/blog)
 
