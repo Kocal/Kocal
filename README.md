@@ -11,7 +11,7 @@
 - ![](./assets/pr-merged.svg) [[CI] Refactor some steps in test-app-encore-app job](https://github.com/symfony/ux/pull/2614) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[CI] Ensure JS packages (either from `vendor/` or npm versions) can be installed/used inside an Encore App](https://github.com/symfony/ux/pull/2613) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [Document `src/**/assets/README.md` files about direct installation and recommended alternatives.](https://github.com/symfony/ux/pull/2612) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
-- ![](./assets/pr-merged.svg) [[Map] JavaScript package should not be added in user&#39;s package.json](https://github.com/symfony/ux/pull/2611) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
+- ![](./assets/pr-merged.svg) [[Map] JavaScript package should not be added in user&#39;s package.json](https://github.com/symfony/ux/pull/2611) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Fix PHPUnit tests failing in CI](https://github.com/bakslashHQ/baksla.sh/pull/74) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Define `lazyLoadImage` property on `ArticlePreview` component](https://github.com/bakslashHQ/baksla.sh/pull/73) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [First iteration for Bakslash members](https://github.com/bakslashHQ/baksla.sh/pull/72) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (2 weeks ago)
