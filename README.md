@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [[Map][Docs] Improve &#34;Interact with the map&#34; section](https://github.com/symfony/ux/pull/2638) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
 - ![](./assets/pr-merged.svg) [Fix Symfony UX Icon](https://github.com/bakslashHQ/baksla.sh/pull/75) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (1 week ago)
 - ![](./assets/pr-open.svg) [Add support for webpack-cli ^6](https://github.com/symfony/webpack-encore/pull/1367) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Site] Fix favicon.svg and mention &#34;UX&#34;](https://github.com/symfony/ux/pull/2626) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
@@ -26,7 +27,6 @@
 - ![](./assets/pr-open.svg) [Migrate from CommonJS to ESM](https://github.com/symfony/webpack-encore/pull/1363) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (3 weeks ago)
 - ![](./assets/pr-open.svg) [Implement Static Site Generation (SSG) feature](https://github.com/mtarld/symfony/pull/10) on [mtarld/symfony](https://github.com/mtarld/symfony) (1 month ago)
 - ![](./assets/pr-merged.svg) [[Cache] Fix &#34;Marshalling (Serializing) Data&#34; code rendering issue](https://github.com/symfony/symfony-docs/pull/20649) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
-- ![](./assets/pr-merged.svg) [[CI] Fix dist files base/head informations](https://github.com/symfony/ux/pull/2564) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
 
 #### 📜 My recent blog posts (https://hugo.alliau.me/blog)
 
