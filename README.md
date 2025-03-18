@@ -2,10 +2,10 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [[Map][Docs] Improve &#34;Interact with the map&#34; section](https://github.com/symfony/ux/pull/2638) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
+- ![](./assets/pr-open.svg) [[Map][Docs] Improve &#34;Interact with the map&#34; section](https://github.com/symfony/ux/pull/2638) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
 - ![](./assets/pr-merged.svg) [Fix Symfony UX Icon](https://github.com/bakslashHQ/baksla.sh/pull/75) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (1 week ago)
 - ![](./assets/pr-open.svg) [Add support for webpack-cli ^6](https://github.com/symfony/webpack-encore/pull/1367) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 week ago)
-- ![](./assets/pr-merged.svg) [[Site] Fix favicon.svg and mention &#34;UX&#34;](https://github.com/symfony/ux/pull/2626) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
+- ![](./assets/pr-merged.svg) [[Site] Fix favicon.svg and mention &#34;UX&#34;](https://github.com/symfony/ux/pull/2626) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Document about alternative JS assets installation with npm packages](https://github.com/symfony/ux/pull/2617) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[Map] Add missing README/LICENSE files for Map Bridges JS packages](https://github.com/symfony/ux/pull/2616) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[CI] Add workflow to automatically publish JS packages on npm](https://github.com/symfony/ux/pull/2615) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
@@ -22,9 +22,9 @@
 - ![](./assets/pr-merged.svg) [Normalize package.json files, to prepare publication on NPM](https://github.com/symfony/ux/pull/2595) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[CI] Run tests on minimum-stability=dev too](https://github.com/symfony/ux/pull/2594) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[Blog] Automatically generate OpenGraph image](https://github.com/bakslashHQ/baksla.sh/pull/66) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (3 weeks ago)
-- ![](./assets/pr-merged.svg) [Use absolute_url for og:image !](https://github.com/bakslashHQ/baksla.sh/pull/65) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (3 weeks ago)
-- ![](./assets/pr-merged.svg) [Use absolute_url for og:image](https://github.com/bakslashHQ/baksla.sh/pull/64) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (3 weeks ago)
-- ![](./assets/pr-open.svg) [Migrate from CommonJS to ESM](https://github.com/symfony/webpack-encore/pull/1363) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (3 weeks ago)
+- ![](./assets/pr-merged.svg) [Use absolute_url for og:image !](https://github.com/bakslashHQ/baksla.sh/pull/65) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (4 weeks ago)
+- ![](./assets/pr-merged.svg) [Use absolute_url for og:image](https://github.com/bakslashHQ/baksla.sh/pull/64) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (4 weeks ago)
+- ![](./assets/pr-open.svg) [Migrate from CommonJS to ESM](https://github.com/symfony/webpack-encore/pull/1363) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (4 weeks ago)
 - ![](./assets/pr-open.svg) [Implement Static Site Generation (SSG) feature](https://github.com/mtarld/symfony/pull/10) on [mtarld/symfony](https://github.com/mtarld/symfony) (1 month ago)
 - ![](./assets/pr-merged.svg) [[Cache] Fix &#34;Marshalling (Serializing) Data&#34; code rendering issue](https://github.com/symfony/symfony-docs/pull/20649) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 
