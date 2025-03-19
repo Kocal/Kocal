@@ -2,9 +2,9 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [[Map][Docs] Improve &#34;Interact with the map&#34; section](https://github.com/symfony/ux/pull/2638) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
+- ![](./assets/pr-merged.svg) [[Map][Docs] Improve &#34;Interact with the map&#34; section](https://github.com/symfony/ux/pull/2638) on [symfony/ux](https://github.com/symfony/ux) (3 days ago)
 - ![](./assets/pr-merged.svg) [Fix Symfony UX Icon](https://github.com/bakslashHQ/baksla.sh/pull/75) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (1 week ago)
-- ![](./assets/pr-open.svg) [Add support for webpack-cli ^6](https://github.com/symfony/webpack-encore/pull/1367) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 week ago)
+- ![](./assets/pr-open.svg) [Add support for webpack-cli ^6](https://github.com/symfony/webpack-encore/pull/1367) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[Site] Fix favicon.svg and mention &#34;UX&#34;](https://github.com/symfony/ux/pull/2626) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Document about alternative JS assets installation with npm packages](https://github.com/symfony/ux/pull/2617) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[Map] Add missing README/LICENSE files for Map Bridges JS packages](https://github.com/symfony/ux/pull/2616) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
@@ -17,11 +17,11 @@
 - ![](./assets/pr-merged.svg) [Define `lazyLoadImage` property on `ArticlePreview` component](https://github.com/bakslashHQ/baksla.sh/pull/73) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [First iteration for Bakslash members](https://github.com/bakslashHQ/baksla.sh/pull/72) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Make the bakslash-small.svg a real SVG icon](https://github.com/bakslashHQ/baksla.sh/pull/71) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [Re-ogranize &lt;head&gt; and put scripts tags before metadata and icons](https://github.com/bakslashHQ/baksla.sh/pull/70) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (2 weeks ago)
+- ![](./assets/pr-merged.svg) [Re-ogranize &lt;head&gt; and put scripts tags before metadata and icons](https://github.com/bakslashHQ/baksla.sh/pull/70) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (3 weeks ago)
 - ![](./assets/pr-closed.svg) [Migrate from Mocha/Sinon/Chai to Vitest](https://github.com/symfony/webpack-encore/pull/1366) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [Normalize package.json files, to prepare publication on NPM](https://github.com/symfony/ux/pull/2595) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[CI] Run tests on minimum-stability=dev too](https://github.com/symfony/ux/pull/2594) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
-- ![](./assets/pr-merged.svg) [[Blog] Automatically generate OpenGraph image](https://github.com/bakslashHQ/baksla.sh/pull/66) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (3 weeks ago)
+- ![](./assets/pr-merged.svg) [[Blog] Automatically generate OpenGraph image](https://github.com/bakslashHQ/baksla.sh/pull/66) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (4 weeks ago)
 - ![](./assets/pr-merged.svg) [Use absolute_url for og:image !](https://github.com/bakslashHQ/baksla.sh/pull/65) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (4 weeks ago)
 - ![](./assets/pr-merged.svg) [Use absolute_url for og:image](https://github.com/bakslashHQ/baksla.sh/pull/64) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (4 weeks ago)
 - ![](./assets/pr-open.svg) [Migrate from CommonJS to ESM](https://github.com/symfony/webpack-encore/pull/1363) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (4 weeks ago)
