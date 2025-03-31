@@ -2,10 +2,10 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [Add PullRequest template](https://github.com/symfony/webpack-encore-bundle/pull/242) on [symfony/webpack-encore-bundle](https://github.com/symfony/webpack-encore-bundle) (4 days ago)
-- ![](./assets/pr-closed.svg) [Testing Carson](https://github.com/symfony/webpack-encore-bundle/pull/241) on [symfony/webpack-encore-bundle](https://github.com/symfony/webpack-encore-bundle) (4 days ago)
-- ![](./assets/pr-closed.svg) [Drop Symfony PHPUnit bridge for PHPUnit on UX packages PHP &gt;= 8.3](https://github.com/symfony/ux/pull/2659) on [symfony/ux](https://github.com/symfony/ux) (5 days ago)
-- ![](./assets/pr-merged.svg) [[Map] Make renderer tests way easier to maintain, use snapshots](https://github.com/symfony/ux/pull/2658) on [symfony/ux](https://github.com/symfony/ux) (5 days ago)
+- ![](./assets/pr-merged.svg) [Add PullRequest template](https://github.com/symfony/webpack-encore-bundle/pull/242) on [symfony/webpack-encore-bundle](https://github.com/symfony/webpack-encore-bundle) (5 days ago)
+- ![](./assets/pr-closed.svg) [Testing Carson](https://github.com/symfony/webpack-encore-bundle/pull/241) on [symfony/webpack-encore-bundle](https://github.com/symfony/webpack-encore-bundle) (5 days ago)
+- ![](./assets/pr-closed.svg) [Drop Symfony PHPUnit bridge for PHPUnit on UX packages PHP &gt;= 8.3](https://github.com/symfony/ux/pull/2659) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
+- ![](./assets/pr-merged.svg) [[Map] Make renderer tests way easier to maintain, use snapshots](https://github.com/symfony/ux/pull/2658) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
 - ![](./assets/pr-merged.svg) [[KocalBiomeJsBundle] Pin explicit version](https://github.com/symfony/recipes-contrib/pull/1765) on [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) (1 week ago)
 - ![](./assets/pr-merged.svg) [config: pin Biome.js version to 1.9.4](https://github.com/bakslashHQ/baksla.sh/pull/85) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (1 week ago)
 - ![](./assets/pr-merged.svg) [New UI](https://github.com/Kocal/hugo.alliau.me/pull/62) on [Kocal/hugo.alliau.me](https://github.com/Kocal/hugo.alliau.me) (1 week ago)
@@ -20,8 +20,8 @@
 - ![](./assets/pr-merged.svg) [[Map] Add missing README/LICENSE files for Map Bridges JS packages](https://github.com/symfony/ux/pull/2616) on [symfony/ux](https://github.com/symfony/ux) (4 weeks ago)
 - ![](./assets/pr-merged.svg) [[CI] Add workflow to automatically publish JS packages on npm](https://github.com/symfony/ux/pull/2615) on [symfony/ux](https://github.com/symfony/ux) (4 weeks ago)
 - ![](./assets/pr-merged.svg) [[CI] Refactor some steps in test-app-encore-app job](https://github.com/symfony/ux/pull/2614) on [symfony/ux](https://github.com/symfony/ux) (4 weeks ago)
-- ![](./assets/pr-merged.svg) [[CI] Ensure JS packages (either from `vendor/` or npm versions) can be installed/used inside an Encore App](https://github.com/symfony/ux/pull/2613) on [symfony/ux](https://github.com/symfony/ux) (4 weeks ago)
-- ![](./assets/pr-merged.svg) [Document `src/**/assets/README.md` files about direct installation and recommended alternatives.](https://github.com/symfony/ux/pull/2612) on [symfony/ux](https://github.com/symfony/ux) (4 weeks ago)
+- ![](./assets/pr-merged.svg) [[CI] Ensure JS packages (either from `vendor/` or npm versions) can be installed/used inside an Encore App](https://github.com/symfony/ux/pull/2613) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
+- ![](./assets/pr-merged.svg) [Document `src/**/assets/README.md` files about direct installation and recommended alternatives.](https://github.com/symfony/ux/pull/2612) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
 - ![](./assets/pr-merged.svg) [[Map] JavaScript package should not be added in user&#39;s package.json](https://github.com/symfony/ux/pull/2611) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
 - ![](./assets/pr-merged.svg) [Fix PHPUnit tests failing in CI](https://github.com/bakslashHQ/baksla.sh/pull/74) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (1 month ago)
 - ![](./assets/pr-merged.svg) [Define `lazyLoadImage` property on `ArticlePreview` component](https://github.com/bakslashHQ/baksla.sh/pull/73) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (1 month ago)
