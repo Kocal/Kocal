@@ -2,8 +2,8 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [[CI] Fix version bump for npm packages](https://github.com/symfony/ux/pull/2679) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
-- ![](./assets/pr-merged.svg) [[Team] Rework the team member modal, use native &lt;dialog&gt; instead](https://github.com/bakslashHQ/baksla.sh/pull/89) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (5 days ago)
+- ![](./assets/pr-merged.svg) [[CI] Fix version bump for npm packages](https://github.com/symfony/ux/pull/2679) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
+- ![](./assets/pr-merged.svg) [[Team] Rework the team member modal, use native &lt;dialog&gt; instead](https://github.com/bakslashHQ/baksla.sh/pull/89) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (6 days ago)
 - ![](./assets/pr-merged.svg) [Add PullRequest template](https://github.com/symfony/webpack-encore-bundle/pull/242) on [symfony/webpack-encore-bundle](https://github.com/symfony/webpack-encore-bundle) (1 week ago)
 - ![](./assets/pr-closed.svg) [Testing Carson](https://github.com/symfony/webpack-encore-bundle/pull/241) on [symfony/webpack-encore-bundle](https://github.com/symfony/webpack-encore-bundle) (1 week ago)
 - ![](./assets/pr-closed.svg) [Drop Symfony PHPUnit bridge for PHPUnit on UX packages PHP &gt;= 8.3](https://github.com/symfony/ux/pull/2659) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
