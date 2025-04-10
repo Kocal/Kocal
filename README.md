@@ -2,8 +2,9 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [[CI] Adjust tags to &#34;v2.*.*&#34; for NPM auto-releases](https://github.com/symfony/ux/pull/2685) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
-- ![](./assets/pr-merged.svg) [[CI] Fix version bump for npm packages](https://github.com/symfony/ux/pull/2679) on [symfony/ux](https://github.com/symfony/ux) (4 days ago)
+- ![](./assets/pr-merged.svg) [[CI][Puppeteer] Add timeout, use new headless mode, and disable sandbox](https://github.com/symfony/webpack-encore/pull/1369) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 day ago)
+- ![](./assets/pr-open.svg) [[CI] Adjust tags to &#34;v2.*.*&#34; for NPM auto-releases](https://github.com/symfony/ux/pull/2685) on [symfony/ux](https://github.com/symfony/ux) (3 days ago)
+- ![](./assets/pr-merged.svg) [[CI] Fix version bump for npm packages](https://github.com/symfony/ux/pull/2679) on [symfony/ux](https://github.com/symfony/ux) (5 days ago)
 - ![](./assets/pr-merged.svg) [[Team] Rework the team member modal, use native &lt;dialog&gt; instead](https://github.com/bakslashHQ/baksla.sh/pull/89) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (1 week ago)
 - ![](./assets/pr-merged.svg) [Add PullRequest template](https://github.com/symfony/webpack-encore-bundle/pull/242) on [symfony/webpack-encore-bundle](https://github.com/symfony/webpack-encore-bundle) (2 weeks ago)
 - ![](./assets/pr-closed.svg) [Testing Carson](https://github.com/symfony/webpack-encore-bundle/pull/241) on [symfony/webpack-encore-bundle](https://github.com/symfony/webpack-encore-bundle) (2 weeks ago)
@@ -26,7 +27,6 @@
 - ![](./assets/pr-merged.svg) [[CI] Ensure JS packages (either from `vendor/` or npm versions) can be installed/used inside an Encore App](https://github.com/symfony/ux/pull/2613) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
 - ![](./assets/pr-merged.svg) [Document `src/**/assets/README.md` files about direct installation and recommended alternatives.](https://github.com/symfony/ux/pull/2612) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
 - ![](./assets/pr-merged.svg) [[Map] JavaScript package should not be added in user&#39;s package.json](https://github.com/symfony/ux/pull/2611) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
-- ![](./assets/pr-merged.svg) [Fix PHPUnit tests failing in CI](https://github.com/bakslashHQ/baksla.sh/pull/74) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (1 month ago)
 
 #### 📜 My recent blog posts (https://hugo.alliau.me/blog)
 
