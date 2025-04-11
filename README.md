@@ -2,9 +2,9 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [[CI][Puppeteer] Add timeout, use new headless mode, and disable sandbox](https://github.com/symfony/webpack-encore/pull/1369) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 day ago)
-- ![](./assets/pr-open.svg) [[CI] Adjust tags to &#34;v2.*.*&#34; for NPM auto-releases](https://github.com/symfony/ux/pull/2685) on [symfony/ux](https://github.com/symfony/ux) (3 days ago)
-- ![](./assets/pr-merged.svg) [[CI] Fix version bump for npm packages](https://github.com/symfony/ux/pull/2679) on [symfony/ux](https://github.com/symfony/ux) (5 days ago)
+- ![](./assets/pr-merged.svg) [[CI][Puppeteer] Add timeout, use new headless mode, and disable sandbox](https://github.com/symfony/webpack-encore/pull/1369) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (2 days ago)
+- ![](./assets/pr-open.svg) [[CI] Adjust tags to &#34;v2.*.*&#34; for NPM auto-releases](https://github.com/symfony/ux/pull/2685) on [symfony/ux](https://github.com/symfony/ux) (4 days ago)
+- ![](./assets/pr-merged.svg) [[CI] Fix version bump for npm packages](https://github.com/symfony/ux/pull/2679) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
 - ![](./assets/pr-merged.svg) [[Team] Rework the team member modal, use native &lt;dialog&gt; instead](https://github.com/bakslashHQ/baksla.sh/pull/89) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (1 week ago)
 - ![](./assets/pr-merged.svg) [Add PullRequest template](https://github.com/symfony/webpack-encore-bundle/pull/242) on [symfony/webpack-encore-bundle](https://github.com/symfony/webpack-encore-bundle) (2 weeks ago)
 - ![](./assets/pr-closed.svg) [Testing Carson](https://github.com/symfony/webpack-encore-bundle/pull/241) on [symfony/webpack-encore-bundle](https://github.com/symfony/webpack-encore-bundle) (2 weeks ago)
@@ -13,8 +13,8 @@
 - ![](./assets/pr-merged.svg) [[KocalBiomeJsBundle] Pin explicit version](https://github.com/symfony/recipes-contrib/pull/1765) on [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [config: pin Biome.js version to 1.9.4](https://github.com/bakslashHQ/baksla.sh/pull/85) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [New UI](https://github.com/Kocal/hugo.alliau.me/pull/62) on [Kocal/hugo.alliau.me](https://github.com/Kocal/hugo.alliau.me) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [[Team] Fix Bluesky url pattern](https://github.com/bakslashHQ/baksla.sh/pull/84) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [Document and update CI for Corepack manual installation](https://github.com/symfony/ux/pull/2649) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
+- ![](./assets/pr-merged.svg) [[Team] Fix Bluesky url pattern](https://github.com/bakslashHQ/baksla.sh/pull/84) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (3 weeks ago)
+- ![](./assets/pr-merged.svg) [Document and update CI for Corepack manual installation](https://github.com/symfony/ux/pull/2649) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [Fix TwigComponents test when high-deps](https://github.com/symfony/ux/pull/2645) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[Map][Docs] Improve &#34;Interact with the map&#34; section](https://github.com/symfony/ux/pull/2638) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [Fix Symfony UX Icon](https://github.com/bakslashHQ/baksla.sh/pull/75) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (1 month ago)
