@@ -2,8 +2,8 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [[Docs] Add step to disable `package.json` synchronization while upgrading PHP package](https://github.com/symfony/ux/pull/2698) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
-- ![](./assets/pr-merged.svg) [Keep `process.env.NODE_ENV === &#34;development&#34;` in the built files, close #120](https://github.com/symfony/stimulus-bridge/pull/121) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (5 days ago)
+- ![](./assets/pr-open.svg) [[Docs] Add step to disable `package.json` synchronization while upgrading PHP package](https://github.com/symfony/ux/pull/2698) on [symfony/ux](https://github.com/symfony/ux) (3 days ago)
+- ![](./assets/pr-merged.svg) [Keep `process.env.NODE_ENV === &#34;development&#34;` in the built files, close #120](https://github.com/symfony/stimulus-bridge/pull/121) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (6 days ago)
 - ![](./assets/pr-merged.svg) [[Map] Downgrade PHP requirement from 8.3 to 8.1](https://github.com/symfony/ux/pull/2695) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [Add .editorconfig, enforce LF line-ending style](https://github.com/symfony/ux/pull/2691) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[CI][Puppeteer] Add timeout, use new headless mode, and disable sandbox](https://github.com/symfony/webpack-encore/pull/1369) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (2 weeks ago)
@@ -12,8 +12,8 @@
 - ![](./assets/pr-merged.svg) [[Team] Rework the team member modal, use native &lt;dialog&gt; instead](https://github.com/bakslashHQ/baksla.sh/pull/89) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [Add PullRequest template](https://github.com/symfony/webpack-encore-bundle/pull/242) on [symfony/webpack-encore-bundle](https://github.com/symfony/webpack-encore-bundle) (4 weeks ago)
 - ![](./assets/pr-closed.svg) [Testing Carson](https://github.com/symfony/webpack-encore-bundle/pull/241) on [symfony/webpack-encore-bundle](https://github.com/symfony/webpack-encore-bundle) (4 weeks ago)
-- ![](./assets/pr-closed.svg) [Drop Symfony PHPUnit bridge for PHPUnit on UX packages PHP &gt;= 8.3](https://github.com/symfony/ux/pull/2659) on [symfony/ux](https://github.com/symfony/ux) (4 weeks ago)
-- ![](./assets/pr-merged.svg) [[Map] Make renderer tests way easier to maintain, use snapshots](https://github.com/symfony/ux/pull/2658) on [symfony/ux](https://github.com/symfony/ux) (4 weeks ago)
+- ![](./assets/pr-closed.svg) [Drop Symfony PHPUnit bridge for PHPUnit on UX packages PHP &gt;= 8.3](https://github.com/symfony/ux/pull/2659) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
+- ![](./assets/pr-merged.svg) [[Map] Make renderer tests way easier to maintain, use snapshots](https://github.com/symfony/ux/pull/2658) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
 - ![](./assets/pr-merged.svg) [[KocalBiomeJsBundle] Pin explicit version](https://github.com/symfony/recipes-contrib/pull/1765) on [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) (1 month ago)
 - ![](./assets/pr-merged.svg) [config: pin Biome.js version to 1.9.4](https://github.com/bakslashHQ/baksla.sh/pull/85) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (1 month ago)
 - ![](./assets/pr-merged.svg) [New UI](https://github.com/Kocal/hugo.alliau.me/pull/62) on [Kocal/hugo.alliau.me](https://github.com/Kocal/hugo.alliau.me) (1 month ago)
