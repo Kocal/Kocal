@@ -2,16 +2,16 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [[Docs] Add step to disable `package.json` synchronization while upgrading PHP package](https://github.com/symfony/ux/pull/2698) on [symfony/ux](https://github.com/symfony/ux) (3 days ago)
-- ![](./assets/pr-merged.svg) [Keep `process.env.NODE_ENV === &#34;development&#34;` in the built files, close #120](https://github.com/symfony/stimulus-bridge/pull/121) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (6 days ago)
+- ![](./assets/pr-open.svg) [[Docs] Add step to disable `package.json` synchronization while upgrading PHP package](https://github.com/symfony/ux/pull/2698) on [symfony/ux](https://github.com/symfony/ux) (4 days ago)
+- ![](./assets/pr-merged.svg) [Keep `process.env.NODE_ENV === &#34;development&#34;` in the built files, close #120](https://github.com/symfony/stimulus-bridge/pull/121) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Map] Downgrade PHP requirement from 8.3 to 8.1](https://github.com/symfony/ux/pull/2695) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
-- ![](./assets/pr-merged.svg) [Add .editorconfig, enforce LF line-ending style](https://github.com/symfony/ux/pull/2691) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
+- ![](./assets/pr-merged.svg) [Add .editorconfig, enforce LF line-ending style](https://github.com/symfony/ux/pull/2691) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[CI][Puppeteer] Add timeout, use new headless mode, and disable sandbox](https://github.com/symfony/webpack-encore/pull/1369) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[CI] Adjust tags to &#34;v2.*.*&#34; for NPM auto-releases](https://github.com/symfony/ux/pull/2685) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[CI] Fix version bump for npm packages](https://github.com/symfony/ux/pull/2679) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[Team] Rework the team member modal, use native &lt;dialog&gt; instead](https://github.com/bakslashHQ/baksla.sh/pull/89) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (3 weeks ago)
-- ![](./assets/pr-merged.svg) [Add PullRequest template](https://github.com/symfony/webpack-encore-bundle/pull/242) on [symfony/webpack-encore-bundle](https://github.com/symfony/webpack-encore-bundle) (4 weeks ago)
-- ![](./assets/pr-closed.svg) [Testing Carson](https://github.com/symfony/webpack-encore-bundle/pull/241) on [symfony/webpack-encore-bundle](https://github.com/symfony/webpack-encore-bundle) (4 weeks ago)
+- ![](./assets/pr-merged.svg) [Add PullRequest template](https://github.com/symfony/webpack-encore-bundle/pull/242) on [symfony/webpack-encore-bundle](https://github.com/symfony/webpack-encore-bundle) (1 month ago)
+- ![](./assets/pr-closed.svg) [Testing Carson](https://github.com/symfony/webpack-encore-bundle/pull/241) on [symfony/webpack-encore-bundle](https://github.com/symfony/webpack-encore-bundle) (1 month ago)
 - ![](./assets/pr-closed.svg) [Drop Symfony PHPUnit bridge for PHPUnit on UX packages PHP &gt;= 8.3](https://github.com/symfony/ux/pull/2659) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
 - ![](./assets/pr-merged.svg) [[Map] Make renderer tests way easier to maintain, use snapshots](https://github.com/symfony/ux/pull/2658) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
 - ![](./assets/pr-merged.svg) [[KocalBiomeJsBundle] Pin explicit version](https://github.com/symfony/recipes-contrib/pull/1765) on [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) (1 month ago)
@@ -30,8 +30,8 @@
 
 #### 📜 My recent blog posts (https://hugo.alliau.me/blog)
 
-- [A Better Architecture for Your Symfony UX Twig Components](https://hugo.alliau.me/blog/posts/a-better-architecture-for-your-symfony-ux-twig-components) (8 months ago)
-- [Une meilleure architecture pour vos Twig Components de Symfony UX](https://hugo.alliau.me/blog/posts/une-meilleure-architecture-pour-vous-twig-components-de-symfony-ux) (8 months ago)
+- [A Better Architecture for Your Symfony UX Twig Components](https://hugo.alliau.me/blog/posts/a-better-architecture-for-your-symfony-ux-twig-components) (9 months ago)
+- [Une meilleure architecture pour vos Twig Components de Symfony UX](https://hugo.alliau.me/blog/posts/une-meilleure-architecture-pour-vous-twig-components-de-symfony-ux) (9 months ago)
 - [Empowering Self-Hosting: A Journey from PaaS to Coolify for Symfony Projects](https://hugo.alliau.me/blog/posts/empowering-self-hosting-a-journey-from-paas-to-coolify-for-symfony-projects) (11 months ago)
 - [Listen to Doctrine Events on Entities Using a PHP Attribute](https://hugo.alliau.me/blog/posts/2023-11-12-listen-to-doctrine-events-on-entities-using-a-php-attribute) (1 year ago)
 - [Profiling cURL HTTP requests and Symfony Commands with Blackfire, when using the Symfony CLI](https://hugo.alliau.me/blog/posts/2023-10-21-profiling-curl-http-requests-and-symfony-commands-with-blackfire-when-using-the-symfony-cli) (2 years ago)
