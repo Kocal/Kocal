@@ -2,7 +2,7 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [[Docs] Add step to disable `package.json` synchronization while upgrading PHP package](https://github.com/symfony/ux/pull/2698) on [symfony/ux](https://github.com/symfony/ux) (5 days ago)
+- ![](./assets/pr-open.svg) [[Docs] Add step to disable `package.json` synchronization while upgrading PHP package](https://github.com/symfony/ux/pull/2698) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
 - ![](./assets/pr-merged.svg) [Keep `process.env.NODE_ENV === &#34;development&#34;` in the built files, close #120](https://github.com/symfony/stimulus-bridge/pull/121) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Map] Downgrade PHP requirement from 8.3 to 8.1](https://github.com/symfony/ux/pull/2695) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [Add .editorconfig, enforce LF line-ending style](https://github.com/symfony/ux/pull/2691) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
@@ -32,7 +32,7 @@
 
 - [A Better Architecture for Your Symfony UX Twig Components](https://hugo.alliau.me/blog/posts/a-better-architecture-for-your-symfony-ux-twig-components) (9 months ago)
 - [Une meilleure architecture pour vos Twig Components de Symfony UX](https://hugo.alliau.me/blog/posts/une-meilleure-architecture-pour-vous-twig-components-de-symfony-ux) (9 months ago)
-- [Empowering Self-Hosting: A Journey from PaaS to Coolify for Symfony Projects](https://hugo.alliau.me/blog/posts/empowering-self-hosting-a-journey-from-paas-to-coolify-for-symfony-projects) (11 months ago)
+- [Empowering Self-Hosting: A Journey from PaaS to Coolify for Symfony Projects](https://hugo.alliau.me/blog/posts/empowering-self-hosting-a-journey-from-paas-to-coolify-for-symfony-projects) (1 year ago)
 - [Listen to Doctrine Events on Entities Using a PHP Attribute](https://hugo.alliau.me/blog/posts/2023-11-12-listen-to-doctrine-events-on-entities-using-a-php-attribute) (1 year ago)
 - [Profiling cURL HTTP requests and Symfony Commands with Blackfire, when using the Symfony CLI](https://hugo.alliau.me/blog/posts/2023-10-21-profiling-curl-http-requests-and-symfony-commands-with-blackfire-when-using-the-symfony-cli) (2 years ago)
 - [How to use PHP CS Fixer ruleset with Easy Coding Standard (ECS)](https://hugo.alliau.me/blog/posts/2023-07-19-how-to-use-php-cs-fixer-ruleset-with-easy-coding-standard) (2 years ago)
