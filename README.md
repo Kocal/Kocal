@@ -9,7 +9,7 @@
 - ![](./assets/pr-merged.svg) [[CI][Puppeteer] Add timeout, use new headless mode, and disable sandbox](https://github.com/symfony/webpack-encore/pull/1369) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[CI] Adjust tags to &#34;v2.*.*&#34; for NPM auto-releases](https://github.com/symfony/ux/pull/2685) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[CI] Fix version bump for npm packages](https://github.com/symfony/ux/pull/2679) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
-- ![](./assets/pr-merged.svg) [[Team] Rework the team member modal, use native &lt;dialog&gt; instead](https://github.com/bakslashHQ/baksla.sh/pull/89) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (4 weeks ago)
+- ![](./assets/pr-merged.svg) [[Team] Rework the team member modal, use native &lt;dialog&gt; instead](https://github.com/bakslashHQ/baksla.sh/pull/89) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (1 month ago)
 - ![](./assets/pr-merged.svg) [Add PullRequest template](https://github.com/symfony/webpack-encore-bundle/pull/242) on [symfony/webpack-encore-bundle](https://github.com/symfony/webpack-encore-bundle) (1 month ago)
 - ![](./assets/pr-closed.svg) [Testing Carson](https://github.com/symfony/webpack-encore-bundle/pull/241) on [symfony/webpack-encore-bundle](https://github.com/symfony/webpack-encore-bundle) (1 month ago)
 - ![](./assets/pr-closed.svg) [Drop Symfony PHPUnit bridge for PHPUnit on UX packages PHP &gt;= 8.3](https://github.com/symfony/ux/pull/2659) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
@@ -24,9 +24,9 @@
 - ![](./assets/pr-merged.svg) [Fix Symfony UX Icon](https://github.com/bakslashHQ/baksla.sh/pull/75) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (1 month ago)
 - ![](./assets/pr-open.svg) [Add support for webpack-cli ^6](https://github.com/symfony/webpack-encore/pull/1367) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 month ago)
 - ![](./assets/pr-merged.svg) [[Site] Fix favicon.svg and mention &#34;UX&#34;](https://github.com/symfony/ux/pull/2626) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
-- ![](./assets/pr-merged.svg) [Document about alternative JS assets installation with npm packages](https://github.com/symfony/ux/pull/2617) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
-- ![](./assets/pr-merged.svg) [[Map] Add missing README/LICENSE files for Map Bridges JS packages](https://github.com/symfony/ux/pull/2616) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
-- ![](./assets/pr-merged.svg) [[CI] Add workflow to automatically publish JS packages on npm](https://github.com/symfony/ux/pull/2615) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
+- ![](./assets/pr-merged.svg) [Document about alternative JS assets installation with npm packages](https://github.com/symfony/ux/pull/2617) on [symfony/ux](https://github.com/symfony/ux) (2 months ago)
+- ![](./assets/pr-merged.svg) [[Map] Add missing README/LICENSE files for Map Bridges JS packages](https://github.com/symfony/ux/pull/2616) on [symfony/ux](https://github.com/symfony/ux) (2 months ago)
+- ![](./assets/pr-merged.svg) [[CI] Add workflow to automatically publish JS packages on npm](https://github.com/symfony/ux/pull/2615) on [symfony/ux](https://github.com/symfony/ux) (2 months ago)
 
 #### 📜 My recent blog posts (https://hugo.alliau.me/blog)
 
