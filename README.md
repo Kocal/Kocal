@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-merged.svg) [[StimulusBundle] Make the JS package private](https://github.com/symfony/ux/pull/2709) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
 - ![](./assets/pr-open.svg) [[Docs] Add step to disable `package.json` synchronization while upgrading PHP package](https://github.com/symfony/ux/pull/2698) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [Keep `process.env.NODE_ENV === &#34;development&#34;` in the built files, close #120](https://github.com/symfony/stimulus-bridge/pull/121) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[Map] Downgrade PHP requirement from 8.3 to 8.1](https://github.com/symfony/ux/pull/2695) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
@@ -22,11 +23,10 @@
 - ![](./assets/pr-merged.svg) [Fix TwigComponents test when high-deps](https://github.com/symfony/ux/pull/2645) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
 - ![](./assets/pr-merged.svg) [[Map][Docs] Improve &#34;Interact with the map&#34; section](https://github.com/symfony/ux/pull/2638) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
 - ![](./assets/pr-merged.svg) [Fix Symfony UX Icon](https://github.com/bakslashHQ/baksla.sh/pull/75) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (1 month ago)
-- ![](./assets/pr-open.svg) [Add support for webpack-cli ^6](https://github.com/symfony/webpack-encore/pull/1367) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 month ago)
+- ![](./assets/pr-open.svg) [Add support for webpack-cli ^6](https://github.com/symfony/webpack-encore/pull/1367) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (2 months ago)
 - ![](./assets/pr-merged.svg) [[Site] Fix favicon.svg and mention &#34;UX&#34;](https://github.com/symfony/ux/pull/2626) on [symfony/ux](https://github.com/symfony/ux) (2 months ago)
 - ![](./assets/pr-merged.svg) [Document about alternative JS assets installation with npm packages](https://github.com/symfony/ux/pull/2617) on [symfony/ux](https://github.com/symfony/ux) (2 months ago)
 - ![](./assets/pr-merged.svg) [[Map] Add missing README/LICENSE files for Map Bridges JS packages](https://github.com/symfony/ux/pull/2616) on [symfony/ux](https://github.com/symfony/ux) (2 months ago)
-- ![](./assets/pr-merged.svg) [[CI] Add workflow to automatically publish JS packages on npm](https://github.com/symfony/ux/pull/2615) on [symfony/ux](https://github.com/symfony/ux) (2 months ago)
 
 #### 📜 My recent blog posts (https://hugo.alliau.me/blog)
 
