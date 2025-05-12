@@ -2,13 +2,17 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [[Toolkit] Add functional tests to render all Kit components usage codes (from their documentation), with a snapshot system](https://github.com/symfony/ux/pull/2720) on [symfony/ux](https://github.com/symfony/ux) (3 days ago)
-- ![](./assets/pr-merged.svg) [[FrameworkBundle] Ensure `Email` class exists before using it](https://github.com/symfony/symfony/pull/60373) on [symfony/symfony](https://github.com/symfony/symfony) (4 days ago)
-- ![](./assets/pr-merged.svg) [[Site][Toolkit] Add manual installation steps for Component installation (and some website tweaks) ](https://github.com/symfony/ux/pull/2716) on [symfony/ux](https://github.com/symfony/ux) (5 days ago)
-- ![](./assets/pr-merged.svg) [[StimulusBundle] Make the JS package private (for real)](https://github.com/symfony/ux/pull/2715) on [symfony/ux](https://github.com/symfony/ux) (5 days ago)
-- ![](./assets/pr-merged.svg) [[Toolkit] Remove redundant code in Shadcn kit components](https://github.com/symfony/ux/pull/2711) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
+- ![](./assets/pr-open.svg) [[Toolkit] Improve descriptions of Shadcn components](https://github.com/symfony/ux/pull/2728) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
+- ![](./assets/pr-open.svg) [[Toolkit] Add components metadata (for dependencies)](https://github.com/symfony/ux/pull/2726) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
+- ![](./assets/pr-merged.svg) [[Toolkit] Remove Kit &#34;authors&#34;](https://github.com/symfony/ux/pull/2725) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
+- ![](./assets/pr-merged.svg) [[Toolkit] Minor adjustements on Kit creation command (reword questions, fix doc format)](https://github.com/symfony/ux/pull/2724) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
+- ![](./assets/pr-merged.svg) [[Toolkit] Add functional tests to render all Kit components usage codes (from their documentation), with a snapshot system](https://github.com/symfony/ux/pull/2720) on [symfony/ux](https://github.com/symfony/ux) (4 days ago)
+- ![](./assets/pr-merged.svg) [[FrameworkBundle] Ensure `Email` class exists before using it](https://github.com/symfony/symfony/pull/60373) on [symfony/symfony](https://github.com/symfony/symfony) (5 days ago)
+- ![](./assets/pr-merged.svg) [[Site][Toolkit] Add manual installation steps for Component installation (and some website tweaks) ](https://github.com/symfony/ux/pull/2716) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
+- ![](./assets/pr-merged.svg) [[StimulusBundle] Make the JS package private (for real)](https://github.com/symfony/ux/pull/2715) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
+- ![](./assets/pr-merged.svg) [[Toolkit] Remove redundant code in Shadcn kit components](https://github.com/symfony/ux/pull/2711) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[StimulusBundle] Make the JS package private](https://github.com/symfony/ux/pull/2709) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
-- ![](./assets/pr-open.svg) [[Docs] Add step to disable `package.json` synchronization while upgrading PHP package](https://github.com/symfony/ux/pull/2698) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
+- ![](./assets/pr-merged.svg) [[Docs] Add step to disable `package.json` synchronization while upgrading PHP package](https://github.com/symfony/ux/pull/2698) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [Keep `process.env.NODE_ENV === &#34;development&#34;` in the built files, close #120](https://github.com/symfony/stimulus-bridge/pull/121) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[Map] Downgrade PHP requirement from 8.3 to 8.1](https://github.com/symfony/ux/pull/2695) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [Add .editorconfig, enforce LF line-ending style](https://github.com/symfony/ux/pull/2691) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
@@ -23,10 +27,6 @@
 - ![](./assets/pr-merged.svg) [[KocalBiomeJsBundle] Pin explicit version](https://github.com/symfony/recipes-contrib/pull/1765) on [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) (1 month ago)
 - ![](./assets/pr-merged.svg) [config: pin Biome.js version to 1.9.4](https://github.com/bakslashHQ/baksla.sh/pull/85) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (1 month ago)
 - ![](./assets/pr-merged.svg) [New UI](https://github.com/Kocal/hugo.alliau.me/pull/62) on [Kocal/hugo.alliau.me](https://github.com/Kocal/hugo.alliau.me) (1 month ago)
-- ![](./assets/pr-merged.svg) [[Team] Fix Bluesky url pattern](https://github.com/bakslashHQ/baksla.sh/pull/84) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (1 month ago)
-- ![](./assets/pr-merged.svg) [Document and update CI for Corepack manual installation](https://github.com/symfony/ux/pull/2649) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
-- ![](./assets/pr-merged.svg) [Fix TwigComponents test when high-deps](https://github.com/symfony/ux/pull/2645) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
-- ![](./assets/pr-merged.svg) [[Map][Docs] Improve &#34;Interact with the map&#34; section](https://github.com/symfony/ux/pull/2638) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
 
 #### 📜 My recent blog posts (https://hugo.alliau.me/blog)
 
