@@ -2,11 +2,11 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [[CI] Replace &#34;workspace:*&#34; dependencies before publishing on npm](https://github.com/symfony/ux/pull/2739) on [symfony/ux](https://github.com/symfony/ux) (3 days ago)
-- ![](./assets/pr-merged.svg) [[CI] Use wildcard to define SYMFONY_VERSION configs](https://github.com/Kocal/BiomeJsBundle/pull/27) on [Kocal/BiomeJsBundle](https://github.com/Kocal/BiomeJsBundle) (4 days ago)
-- ![](./assets/pr-closed.svg) [Trigger CI](https://github.com/Kocal/BiomeJsBundle/pull/26) on [Kocal/BiomeJsBundle](https://github.com/Kocal/BiomeJsBundle) (4 days ago)
-- ![](./assets/pr-merged.svg) [[Toolkit] Update snapshots &amp; fix tests, following #2728](https://github.com/symfony/ux/pull/2735) on [symfony/ux](https://github.com/symfony/ux) (5 days ago)
-- ![](./assets/pr-open.svg) [[CI] Rework tests php job, fix minimum-stability, add Symfony versions](https://github.com/symfony/ux/pull/2734) on [symfony/ux](https://github.com/symfony/ux) (5 days ago)
+- ![](./assets/pr-merged.svg) [[CI] Replace &#34;workspace:*&#34; dependencies before publishing on npm](https://github.com/symfony/ux/pull/2739) on [symfony/ux](https://github.com/symfony/ux) (4 days ago)
+- ![](./assets/pr-merged.svg) [[CI] Use wildcard to define SYMFONY_VERSION configs](https://github.com/Kocal/BiomeJsBundle/pull/27) on [Kocal/BiomeJsBundle](https://github.com/Kocal/BiomeJsBundle) (5 days ago)
+- ![](./assets/pr-closed.svg) [Trigger CI](https://github.com/Kocal/BiomeJsBundle/pull/26) on [Kocal/BiomeJsBundle](https://github.com/Kocal/BiomeJsBundle) (5 days ago)
+- ![](./assets/pr-merged.svg) [[Toolkit] Update snapshots &amp; fix tests, following #2728](https://github.com/symfony/ux/pull/2735) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
+- ![](./assets/pr-open.svg) [[CI] Rework tests php job, fix minimum-stability, add Symfony versions](https://github.com/symfony/ux/pull/2734) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
 - ![](./assets/pr-merged.svg) [[Toolkit] Improve descriptions of Shadcn components](https://github.com/symfony/ux/pull/2728) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-open.svg) [[Toolkit] Add components metadata (for dependencies)](https://github.com/symfony/ux/pull/2726) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Toolkit] Remove Kit &#34;authors&#34;](https://github.com/symfony/ux/pull/2725) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
@@ -15,9 +15,9 @@
 - ![](./assets/pr-merged.svg) [[FrameworkBundle] Ensure `Email` class exists before using it](https://github.com/symfony/symfony/pull/60373) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Site][Toolkit] Add manual installation steps for Component installation (and some website tweaks) ](https://github.com/symfony/ux/pull/2716) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[StimulusBundle] Make the JS package private (for real)](https://github.com/symfony/ux/pull/2715) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
-- ![](./assets/pr-merged.svg) [[Toolkit] Remove redundant code in Shadcn kit components](https://github.com/symfony/ux/pull/2711) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
+- ![](./assets/pr-merged.svg) [[Toolkit] Remove redundant code in Shadcn kit components](https://github.com/symfony/ux/pull/2711) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[StimulusBundle] Make the JS package private](https://github.com/symfony/ux/pull/2709) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [[Docs] Add step to disable `package.json` synchronization while upgrading PHP package](https://github.com/symfony/ux/pull/2698) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
+- ![](./assets/pr-merged.svg) [[Docs] Add step to disable `package.json` synchronization while upgrading PHP package](https://github.com/symfony/ux/pull/2698) on [symfony/ux](https://github.com/symfony/ux) (4 weeks ago)
 - ![](./assets/pr-merged.svg) [Keep `process.env.NODE_ENV === &#34;development&#34;` in the built files, close #120](https://github.com/symfony/stimulus-bridge/pull/121) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (1 month ago)
 - ![](./assets/pr-merged.svg) [[Map] Downgrade PHP requirement from 8.3 to 8.1](https://github.com/symfony/ux/pull/2695) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
 - ![](./assets/pr-merged.svg) [Add .editorconfig, enforce LF line-ending style](https://github.com/symfony/ux/pull/2691) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
