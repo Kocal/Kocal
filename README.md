@@ -2,15 +2,17 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [[CI] Configure Git username/email to github-actions[bot] when comitting version updates](https://github.com/symfony/ux/pull/2759) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
-- ![](./assets/pr-merged.svg) [[TwigComponent] Fix `ComponentAttributes` rendering when using `StimulusAttributes` as default attributes](https://github.com/symfony/ux/pull/2757) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
-- ![](./assets/pr-merged.svg) [[Map] Remove test for `render_map` deprecation](https://github.com/symfony/ux/pull/2755) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
-- ![](./assets/pr-merged.svg) [[Toolkit] Enforce symfony/ux-twig-component ^2.25.1](https://github.com/symfony/ux/pull/2753) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
+- ![](./assets/pr-closed.svg) [Trigger CI](https://github.com/symfony/ux/pull/2765) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
+- ![](./assets/pr-open.svg) [[CI] Re-organize workflows: split unit/functional/app tests, split code quality workflow, ...](https://github.com/symfony/ux/pull/2764) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
+- ![](./assets/pr-merged.svg) [[CI] Configure Git username/email to github-actions[bot] when comitting version updates](https://github.com/symfony/ux/pull/2759) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
+- ![](./assets/pr-merged.svg) [[TwigComponent] Fix `ComponentAttributes` rendering when using `StimulusAttributes` as default attributes](https://github.com/symfony/ux/pull/2757) on [symfony/ux](https://github.com/symfony/ux) (3 days ago)
+- ![](./assets/pr-merged.svg) [[Map] Remove test for `render_map` deprecation](https://github.com/symfony/ux/pull/2755) on [symfony/ux](https://github.com/symfony/ux) (3 days ago)
+- ![](./assets/pr-merged.svg) [[Toolkit] Enforce symfony/ux-twig-component ^2.25.1](https://github.com/symfony/ux/pull/2753) on [symfony/ux](https://github.com/symfony/ux) (3 days ago)
 - ![](./assets/pr-merged.svg) [[CI] Replace &#34;workspace:*&#34; dependencies before publishing on npm](https://github.com/symfony/ux/pull/2739) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[CI] Use wildcard to define SYMFONY_VERSION configs](https://github.com/Kocal/BiomeJsBundle/pull/27) on [Kocal/BiomeJsBundle](https://github.com/Kocal/BiomeJsBundle) (1 week ago)
 - ![](./assets/pr-closed.svg) [Trigger CI](https://github.com/Kocal/BiomeJsBundle/pull/26) on [Kocal/BiomeJsBundle](https://github.com/Kocal/BiomeJsBundle) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Toolkit] Update snapshots &amp; fix tests, following #2728](https://github.com/symfony/ux/pull/2735) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
-- ![](./assets/pr-open.svg) [[CI] Rework `tests-php` job matrix, better covers different PHP/SF versions, test all components in a single job](https://github.com/symfony/ux/pull/2734) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
+- ![](./assets/pr-merged.svg) [[CI] Rework `tests-php` job matrix, better covers different PHP/SF versions, test all components in a single job](https://github.com/symfony/ux/pull/2734) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Toolkit] Improve descriptions of Shadcn components](https://github.com/symfony/ux/pull/2728) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-open.svg) [[Toolkit] Add components metadata (for dependencies)](https://github.com/symfony/ux/pull/2726) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Toolkit] Remove Kit &#34;authors&#34;](https://github.com/symfony/ux/pull/2725) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
@@ -25,8 +27,6 @@
 - ![](./assets/pr-merged.svg) [Keep `process.env.NODE_ENV === &#34;development&#34;` in the built files, close #120](https://github.com/symfony/stimulus-bridge/pull/121) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (1 month ago)
 - ![](./assets/pr-merged.svg) [[Map] Downgrade PHP requirement from 8.3 to 8.1](https://github.com/symfony/ux/pull/2695) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
 - ![](./assets/pr-merged.svg) [Add .editorconfig, enforce LF line-ending style](https://github.com/symfony/ux/pull/2691) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
-- ![](./assets/pr-merged.svg) [[CI][Puppeteer] Add timeout, use new headless mode, and disable sandbox](https://github.com/symfony/webpack-encore/pull/1369) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 month ago)
-- ![](./assets/pr-merged.svg) [[CI] Adjust tags to &#34;v2.*.*&#34; for NPM auto-releases](https://github.com/symfony/ux/pull/2685) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
 
 #### 📜 My recent blog posts (https://hugo.alliau.me/blog)
 
