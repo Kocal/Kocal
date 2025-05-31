@@ -2,8 +2,8 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [[CI] Replace ramsey/composer-install by `composer install` in app-tests workflow](https://github.com/symfony/ux/pull/2780) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
-- ![](./assets/pr-closed.svg) [Normalize packages](https://github.com/symfony/ux/pull/2777) on [symfony/ux](https://github.com/symfony/ux) (3 days ago)
+- ![](./assets/pr-merged.svg) [[CI] Replace ramsey/composer-install by `composer install` in app-tests workflow](https://github.com/symfony/ux/pull/2780) on [symfony/ux](https://github.com/symfony/ux) (3 days ago)
+- ![](./assets/pr-closed.svg) [Normalize packages](https://github.com/symfony/ux/pull/2777) on [symfony/ux](https://github.com/symfony/ux) (4 days ago)
 - ![](./assets/pr-merged.svg) [Homogenize PHP-CS-Fixer configuration with symfony/symfony, and run it](https://github.com/symfony/ux/pull/2768) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Turbo] Fix Turbo CI (PHPStan &amp; Functional tests)](https://github.com/symfony/ux/pull/2766) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-closed.svg) [Trigger CI](https://github.com/symfony/ux/pull/2765) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
@@ -18,7 +18,7 @@
 - ![](./assets/pr-merged.svg) [[Toolkit] Update snapshots &amp; fix tests, following #2728](https://github.com/symfony/ux/pull/2735) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[CI] Rework `tests-php` job matrix, better covers different PHP/SF versions, test all components in a single job](https://github.com/symfony/ux/pull/2734) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[Toolkit] Improve descriptions of Shadcn components](https://github.com/symfony/ux/pull/2728) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
-- ![](./assets/pr-open.svg) [[Toolkit] Add components metadata (for dependencies)](https://github.com/symfony/ux/pull/2726) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
+- ![](./assets/pr-merged.svg) [[Toolkit] Add components metadata (for dependencies)](https://github.com/symfony/ux/pull/2726) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[Toolkit] Remove Kit &#34;authors&#34;](https://github.com/symfony/ux/pull/2725) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[Toolkit] Minor adjustements on Kit creation command (reword questions, fix doc format)](https://github.com/symfony/ux/pull/2724) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[Toolkit] Add functional tests to render all Kit components usage codes (from their documentation), with a snapshot system](https://github.com/symfony/ux/pull/2720) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
@@ -26,7 +26,7 @@
 - ![](./assets/pr-merged.svg) [[Site][Toolkit] Add manual installation steps for Component installation (and some website tweaks) ](https://github.com/symfony/ux/pull/2716) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[StimulusBundle] Make the JS package private (for real)](https://github.com/symfony/ux/pull/2715) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[Toolkit] Remove redundant code in Shadcn kit components](https://github.com/symfony/ux/pull/2711) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
-- ![](./assets/pr-merged.svg) [[StimulusBundle] Make the JS package private](https://github.com/symfony/ux/pull/2709) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
+- ![](./assets/pr-merged.svg) [[StimulusBundle] Make the JS package private](https://github.com/symfony/ux/pull/2709) on [symfony/ux](https://github.com/symfony/ux) (4 weeks ago)
 
 #### 📜 My recent blog posts (https://hugo.alliau.me/blog)
 
