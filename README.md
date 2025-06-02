@@ -2,14 +2,14 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [[Toolkit] Remove `Kit::$uxIcon`, make icons internal to the website](https://github.com/symfony/ux/pull/2807) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
-- ![](./assets/pr-merged.svg) [Add myself to Toolkit code-owners](https://github.com/symfony/ux/pull/2804) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
-- ![](./assets/pr-merged.svg) [[CI] Re-add PHP-CS-Fixer](https://github.com/symfony/ux/pull/2803) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
-- ![](./assets/pr-merged.svg) [[Toolkit] Remove old `FileType` references](https://github.com/symfony/ux/pull/2802) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
-- ![](./assets/pr-closed.svg) [[Toolkit] Rename `Component` and `StimulusController` property `files` to `file`](https://github.com/symfony/ux/pull/2801) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
-- ![](./assets/pr-merged.svg) [[Toolkit] Remove `FileType`](https://github.com/symfony/ux/pull/2800) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
-- ![](./assets/pr-merged.svg) [[CI] Replace ramsey/composer-install by `composer install` in app-tests workflow](https://github.com/symfony/ux/pull/2780) on [symfony/ux](https://github.com/symfony/ux) (4 days ago)
-- ![](./assets/pr-closed.svg) [Normalize packages](https://github.com/symfony/ux/pull/2777) on [symfony/ux](https://github.com/symfony/ux) (5 days ago)
+- ![](./assets/pr-merged.svg) [[Toolkit] Remove `Kit::$uxIcon`, make icons internal to the website](https://github.com/symfony/ux/pull/2807) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
+- ![](./assets/pr-merged.svg) [Add myself to Toolkit code-owners](https://github.com/symfony/ux/pull/2804) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
+- ![](./assets/pr-merged.svg) [[CI] Re-add PHP-CS-Fixer](https://github.com/symfony/ux/pull/2803) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
+- ![](./assets/pr-merged.svg) [[Toolkit] Remove old `FileType` references](https://github.com/symfony/ux/pull/2802) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
+- ![](./assets/pr-closed.svg) [[Toolkit] Rename `Component` and `StimulusController` property `files` to `file`](https://github.com/symfony/ux/pull/2801) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
+- ![](./assets/pr-merged.svg) [[Toolkit] Remove `FileType`](https://github.com/symfony/ux/pull/2800) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
+- ![](./assets/pr-merged.svg) [[CI] Replace ramsey/composer-install by `composer install` in app-tests workflow](https://github.com/symfony/ux/pull/2780) on [symfony/ux](https://github.com/symfony/ux) (5 days ago)
+- ![](./assets/pr-closed.svg) [Normalize packages](https://github.com/symfony/ux/pull/2777) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
 - ![](./assets/pr-merged.svg) [Homogenize PHP-CS-Fixer configuration with symfony/symfony, and run it](https://github.com/symfony/ux/pull/2768) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Turbo] Fix Turbo CI (PHPStan &amp; Functional tests)](https://github.com/symfony/ux/pull/2766) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-closed.svg) [Trigger CI](https://github.com/symfony/ux/pull/2765) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
