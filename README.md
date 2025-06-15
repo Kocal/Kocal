@@ -2,8 +2,10 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [[Autocomplete] Ensure default plugins are nicely merged with user-defined plugins](https://github.com/symfony/ux/pull/2841) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
-- ![](./assets/pr-merged.svg) [Fix `link` script by adding Bridges support](https://github.com/symfony/ux/pull/2839) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
+- ![](./assets/pr-open.svg) [Improve caching speeds by using &#34;cache.system&#34;](https://github.com/tales-from-a-dev/twig-tailwind-extra/pull/18) on [tales-from-a-dev/twig-tailwind-extra](https://github.com/tales-from-a-dev/twig-tailwind-extra) (1 day ago)
+- ![](./assets/pr-open.svg) [Re-use the same TailwindMerger instance when no custom-configuration is passed](https://github.com/tales-from-a-dev/twig-tailwind-extra/pull/17) on [tales-from-a-dev/twig-tailwind-extra](https://github.com/tales-from-a-dev/twig-tailwind-extra) (1 day ago)
+- ![](./assets/pr-merged.svg) [[Autocomplete] Ensure default plugins are nicely merged with user-defined plugins](https://github.com/symfony/ux/pull/2841) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
+- ![](./assets/pr-merged.svg) [Fix `link` script by adding Bridges support](https://github.com/symfony/ux/pull/2839) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
 - ![](./assets/pr-merged.svg) [[LiveComponent] Fix conflict with `symfony/type-info`](https://github.com/symfony/ux/pull/2828) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[LazyImage][Swup][Typed] Fix changelog version](https://github.com/symfony/ux/pull/2823) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[LiveComponent] Optimize `LiveComponentStack::getCurrentLiveComponent()`](https://github.com/symfony/ux/pull/2821) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
@@ -25,8 +27,6 @@
 - ![](./assets/pr-merged.svg) [Homogenize PHP-CS-Fixer configuration with symfony/symfony, and run it](https://github.com/symfony/ux/pull/2768) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[Turbo] Fix Turbo CI (PHPStan &amp; Functional tests)](https://github.com/symfony/ux/pull/2766) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
 - ![](./assets/pr-closed.svg) [Trigger CI](https://github.com/symfony/ux/pull/2765) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
-- ![](./assets/pr-merged.svg) [[CI] Re-organize workflows: split unit/functional/app tests, split code quality workflow, ...](https://github.com/symfony/ux/pull/2764) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
-- ![](./assets/pr-merged.svg) [[CI] Configure Git username/email to github-actions[bot] when comitting version updates](https://github.com/symfony/ux/pull/2759) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
 
 #### 📜 My recent blog posts (https://hugo.alliau.me/blog)
 
