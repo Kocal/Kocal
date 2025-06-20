@@ -2,12 +2,17 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [Deprecate passing &#34;latest_stable&#34; or &#34;latest_nightly&#34; version](https://github.com/Kocal/BiomeJsBundle/pull/28) on [Kocal/BiomeJsBundle](https://github.com/Kocal/BiomeJsBundle) (2 days ago)
-- ![](./assets/pr-closed.svg) [Improve caching speeds by using &#34;cache.system&#34;](https://github.com/tales-from-a-dev/twig-tailwind-extra/pull/18) on [tales-from-a-dev/twig-tailwind-extra](https://github.com/tales-from-a-dev/twig-tailwind-extra) (5 days ago)
-- ![](./assets/pr-merged.svg) [Re-use the same TailwindMerger instance when no custom-configuration is passed](https://github.com/tales-from-a-dev/twig-tailwind-extra/pull/17) on [tales-from-a-dev/twig-tailwind-extra](https://github.com/tales-from-a-dev/twig-tailwind-extra) (5 days ago)
-- ![](./assets/pr-merged.svg) [[Autocomplete] Ensure default plugins are nicely merged with user-defined plugins](https://github.com/symfony/ux/pull/2841) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
-- ![](./assets/pr-merged.svg) [Fix `link` script by adding Bridges support](https://github.com/symfony/ux/pull/2839) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
-- ![](./assets/pr-merged.svg) [[LiveComponent] Fix conflict with `symfony/type-info`](https://github.com/symfony/ux/pull/2828) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
+- ![](./assets/pr-merged.svg) [Upgrade kocal/biome-js-bundle to ^2.0](https://github.com/bakslashHQ/baksla.sh/pull/96) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (1 day ago)
+- ![](./assets/pr-merged.svg) [Minor tweaks for 2.0](https://github.com/Kocal/BiomeJsBundle/pull/31) on [Kocal/BiomeJsBundle](https://github.com/Kocal/BiomeJsBundle) (1 day ago)
+- ![](./assets/pr-merged.svg) [Remove deprecated code 2.0](https://github.com/Kocal/BiomeJsBundle/pull/30) on [Kocal/BiomeJsBundle](https://github.com/Kocal/BiomeJsBundle) (1 day ago)
+- ![](./assets/pr-merged.svg) [[KocalBiomeJsBundle] Add recipe for 2.0](https://github.com/symfony/recipes-contrib/pull/1822) on [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) (1 day ago)
+- ![](./assets/pr-merged.svg) [Add `biomejs:download` command, deprecate `biomejs:check` and `biomejs:ci`](https://github.com/Kocal/BiomeJsBundle/pull/29) on [Kocal/BiomeJsBundle](https://github.com/Kocal/BiomeJsBundle) (1 day ago)
+- ![](./assets/pr-merged.svg) [Deprecate passing &#34;latest_stable&#34; or &#34;latest_nightly&#34; version](https://github.com/Kocal/BiomeJsBundle/pull/28) on [Kocal/BiomeJsBundle](https://github.com/Kocal/BiomeJsBundle) (3 days ago)
+- ![](./assets/pr-closed.svg) [Improve caching speeds by using &#34;cache.system&#34;](https://github.com/tales-from-a-dev/twig-tailwind-extra/pull/18) on [tales-from-a-dev/twig-tailwind-extra](https://github.com/tales-from-a-dev/twig-tailwind-extra) (6 days ago)
+- ![](./assets/pr-merged.svg) [Re-use the same TailwindMerger instance when no custom-configuration is passed](https://github.com/tales-from-a-dev/twig-tailwind-extra/pull/17) on [tales-from-a-dev/twig-tailwind-extra](https://github.com/tales-from-a-dev/twig-tailwind-extra) (6 days ago)
+- ![](./assets/pr-merged.svg) [[Autocomplete] Ensure default plugins are nicely merged with user-defined plugins](https://github.com/symfony/ux/pull/2841) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
+- ![](./assets/pr-merged.svg) [Fix `link` script by adding Bridges support](https://github.com/symfony/ux/pull/2839) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
+- ![](./assets/pr-merged.svg) [[LiveComponent] Fix conflict with `symfony/type-info`](https://github.com/symfony/ux/pull/2828) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[LazyImage][Swup][Typed] Fix changelog version](https://github.com/symfony/ux/pull/2823) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[LiveComponent] Optimize `LiveComponentStack::getCurrentLiveComponent()`](https://github.com/symfony/ux/pull/2821) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-open.svg) [Improve `Config::getMergedConfig()` perf by ~15%](https://github.com/gehrisandro/tailwind-merge-php/pull/19) on [gehrisandro/tailwind-merge-php](https://github.com/gehrisandro/tailwind-merge-php) (2 weeks ago)
@@ -22,11 +27,6 @@
 - ![](./assets/pr-merged.svg) [[CI] Re-add PHP-CS-Fixer](https://github.com/symfony/ux/pull/2803) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[Toolkit] Remove old `FileType` references](https://github.com/symfony/ux/pull/2802) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-closed.svg) [[Toolkit] Rename `Component` and `StimulusController` property `files` to `file`](https://github.com/symfony/ux/pull/2801) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [[Toolkit] Remove `FileType`](https://github.com/symfony/ux/pull/2800) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [[CI] Replace ramsey/composer-install by `composer install` in app-tests workflow](https://github.com/symfony/ux/pull/2780) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
-- ![](./assets/pr-closed.svg) [Normalize packages](https://github.com/symfony/ux/pull/2777) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
-- ![](./assets/pr-merged.svg) [Homogenize PHP-CS-Fixer configuration with symfony/symfony, and run it](https://github.com/symfony/ux/pull/2768) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
-- ![](./assets/pr-merged.svg) [[Turbo] Fix Turbo CI (PHPStan &amp; Functional tests)](https://github.com/symfony/ux/pull/2766) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
 
 #### 📜 My recent blog posts (https://hugo.alliau.me/blog)
 
