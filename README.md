@@ -2,6 +2,8 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-merged.svg) [[CI] Reduce number of PHPStan jobs](https://github.com/symfony/ux/pull/2852) on [symfony/ux](https://github.com/symfony/ux) (today)
+- ![](./assets/pr-merged.svg) [[Tests] Configure `doctrine.orm.enable_native_lazy_objects` to fix deprecation in PHP 8.4&#43;](https://github.com/symfony/ux/pull/2851) on [symfony/ux](https://github.com/symfony/ux) (today)
 - ![](./assets/pr-merged.svg) [Upgrade kocal/biome-js-bundle to ^2.0](https://github.com/bakslashHQ/baksla.sh/pull/96) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (2 days ago)
 - ![](./assets/pr-merged.svg) [Minor tweaks for 2.0](https://github.com/Kocal/BiomeJsBundle/pull/31) on [Kocal/BiomeJsBundle](https://github.com/Kocal/BiomeJsBundle) (2 days ago)
 - ![](./assets/pr-merged.svg) [Remove deprecated code 2.0](https://github.com/Kocal/BiomeJsBundle/pull/30) on [Kocal/BiomeJsBundle](https://github.com/Kocal/BiomeJsBundle) (2 days ago)
@@ -20,13 +22,6 @@
 - ![](./assets/pr-merged.svg) [[Swup] Deprecate the package](https://github.com/symfony/ux/pull/2814) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[LazyImage] Deprecate the package](https://github.com/symfony/ux/pull/2813) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-closed.svg) [[Contracts] Rename `printf()` to `vsprintf()` in Deprecation documentation](https://github.com/symfony/symfony/pull/60622) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
-- ![](./assets/pr-closed.svg) [[Contracts] Rename `printf()` to `vsprintf()` in Deprecation documentation](https://github.com/symfony/symfony/pull/60621) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [[Typed] Deprecate the package](https://github.com/symfony/ux/pull/2809) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [[Toolkit] Remove `Kit::$uxIcon`, make icons internal to the website](https://github.com/symfony/ux/pull/2807) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
-- ![](./assets/pr-merged.svg) [Add myself to Toolkit code-owners](https://github.com/symfony/ux/pull/2804) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
-- ![](./assets/pr-merged.svg) [[CI] Re-add PHP-CS-Fixer](https://github.com/symfony/ux/pull/2803) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
-- ![](./assets/pr-merged.svg) [[Toolkit] Remove old `FileType` references](https://github.com/symfony/ux/pull/2802) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
-- ![](./assets/pr-closed.svg) [[Toolkit] Rename `Component` and `StimulusController` property `files` to `file`](https://github.com/symfony/ux/pull/2801) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
 
 #### 📜 My recent blog posts (https://hugo.alliau.me/blog)
 
