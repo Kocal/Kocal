@@ -2,17 +2,17 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [[Toolkit] Fix comptability with Windows](https://github.com/symfony/ux/pull/2892) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
-- ![](./assets/pr-open.svg) [Deprecate the package](https://github.com/symfony/stimulus-testing/pull/10) on [symfony/stimulus-testing](https://github.com/symfony/stimulus-testing) (3 days ago)
-- ![](./assets/pr-open.svg) [[Windows] Add support for php.new (herd-lite)](https://github.com/symfony-cli/phpstore/pull/26) on [symfony-cli/phpstore](https://github.com/symfony-cli/phpstore) (3 days ago)
-- ![](./assets/pr-open.svg) [[Vue][React][Svelte] Fix components assets compilation on Windows server](https://github.com/symfony/ux/pull/2890) on [symfony/ux](https://github.com/symfony/ux) (4 days ago)
-- ![](./assets/pr-merged.svg) [[CI] (Re-)use ramsey/composer-install action when possible](https://github.com/symfony/ux/pull/2885) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
-- ![](./assets/pr-merged.svg) [[Docs] Correct typo in Swup README.md](https://github.com/symfony/ux/pull/2883) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
-- ![](./assets/pr-closed.svg) [[CI] Cache Composer dependencies](https://github.com/symfony/ux/pull/2882) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
-- ![](./assets/pr-merged.svg) [Remove useless `eslint-` comments](https://github.com/symfony/ux/pull/2880) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
-- ![](./assets/pr-merged.svg) [Remove `@symfony/stimulus-testing` dev dependencies](https://github.com/symfony/ux/pull/2879) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
-- ![](./assets/pr-merged.svg) [Remove Babel dependencies](https://github.com/symfony/ux/pull/2877) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
-- ![](./assets/pr-merged.svg) [Upgrade Rollup dependencies](https://github.com/symfony/ux/pull/2876) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
+- ![](./assets/pr-open.svg) [[Toolkit] Fix comptability with Windows](https://github.com/symfony/ux/pull/2892) on [symfony/ux](https://github.com/symfony/ux) (3 days ago)
+- ![](./assets/pr-merged.svg) [Deprecate the package](https://github.com/symfony/stimulus-testing/pull/10) on [symfony/stimulus-testing](https://github.com/symfony/stimulus-testing) (4 days ago)
+- ![](./assets/pr-open.svg) [[Windows] Add support for php.new (herd-lite)](https://github.com/symfony-cli/phpstore/pull/26) on [symfony-cli/phpstore](https://github.com/symfony-cli/phpstore) (4 days ago)
+- ![](./assets/pr-open.svg) [[Vue][React][Svelte] Fix components assets compilation on Windows server](https://github.com/symfony/ux/pull/2890) on [symfony/ux](https://github.com/symfony/ux) (5 days ago)
+- ![](./assets/pr-merged.svg) [[CI] (Re-)use ramsey/composer-install action when possible](https://github.com/symfony/ux/pull/2885) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
+- ![](./assets/pr-merged.svg) [[Docs] Correct typo in Swup README.md](https://github.com/symfony/ux/pull/2883) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
+- ![](./assets/pr-closed.svg) [[CI] Cache Composer dependencies](https://github.com/symfony/ux/pull/2882) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
+- ![](./assets/pr-merged.svg) [Remove useless `eslint-` comments](https://github.com/symfony/ux/pull/2880) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
+- ![](./assets/pr-merged.svg) [Remove `@symfony/stimulus-testing` dev dependencies](https://github.com/symfony/ux/pull/2879) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
+- ![](./assets/pr-merged.svg) [Remove Babel dependencies](https://github.com/symfony/ux/pull/2877) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
+- ![](./assets/pr-merged.svg) [Upgrade Rollup dependencies](https://github.com/symfony/ux/pull/2876) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Tests] Fix functional tests Turbo (Chrome 137 &amp; dev-tools)](https://github.com/symfony/ux/pull/2873) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Map][Docs] Rewrite documentation about extra data](https://github.com/symfony/ux/pull/2871) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Translator][Tests] Minor fixes in tests context](https://github.com/symfony/ux/pull/2870) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
@@ -21,7 +21,7 @@
 - ![](./assets/pr-merged.svg) [Run JS tests under multiple JS versions, define .nvmrc to 22.6](https://github.com/symfony/ux/pull/2865) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Map] Add `extra` data to `Map`](https://github.com/symfony/ux/pull/2863) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Map] Allows Map options customization in `ux:map:pre-connect` event (e.g.: `zoom`, `options`, `bridgeOptions`...)](https://github.com/symfony/ux/pull/2861) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
-- ![](./assets/pr-merged.svg) [[Map] Deprecate property `rawOptions` from `ux:map:*:before-create` events, in favor of `bridgeOptions`](https://github.com/symfony/ux/pull/2860) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
+- ![](./assets/pr-merged.svg) [[Map] Deprecate property `rawOptions` from `ux:map:*:before-create` events, in favor of `bridgeOptions`](https://github.com/symfony/ux/pull/2860) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 
 #### 📜 My recent blog posts (https://hugo.alliau.me/blog)
 
