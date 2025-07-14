@@ -2,8 +2,9 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [[CI] Cache Composer dependencies](https://github.com/symfony/ai/pull/95) on [symfony/ai](https://github.com/symfony/ai) (2 days ago)
-- ![](./assets/pr-merged.svg) [[Map] Add options `minZoom` and `maxZoom`](https://github.com/symfony/ux/pull/2896) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
+- ![](./assets/pr-open.svg) [[LiveComponent] Fix BC break when dealing with entities (implementing an interface) on `LiveProp`](https://github.com/symfony/ux/pull/2922) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
+- ![](./assets/pr-merged.svg) [[CI] Cache Composer dependencies](https://github.com/symfony/ai/pull/95) on [symfony/ai](https://github.com/symfony/ai) (3 days ago)
+- ![](./assets/pr-merged.svg) [[Map] Add options `minZoom` and `maxZoom`](https://github.com/symfony/ux/pull/2896) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Toolkit] Fix comptability with Windows](https://github.com/symfony/ux/pull/2892) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [Deprecate the package](https://github.com/symfony/stimulus-testing/pull/10) on [symfony/stimulus-testing](https://github.com/symfony/stimulus-testing) (1 week ago)
 - ![](./assets/pr-open.svg) [Add support for php.new (herd-lite)](https://github.com/symfony-cli/phpstore/pull/26) on [symfony-cli/phpstore](https://github.com/symfony-cli/phpstore) (1 week ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-merged.svg) [Migrate PHPUnit configs and homogenize them](https://github.com/symfony/ux/pull/2867) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Migrate `bin/*.js` to TypeScript, use `tsx`](https://github.com/symfony/ux/pull/2866) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Run JS tests under multiple JS versions, define .nvmrc to 22.6](https://github.com/symfony/ux/pull/2865) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [[Map] Add `extra` data to `Map`](https://github.com/symfony/ux/pull/2863) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 
 #### 📜 My recent blog posts (https://hugo.alliau.me/blog)
 
