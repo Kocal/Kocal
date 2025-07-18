@@ -2,10 +2,11 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [[Panther] Configure env `PANTHER_DEVTOOLS=0`](https://github.com/symfony/recipes/pull/1437) on [symfony/recipes](https://github.com/symfony/recipes) (1 day ago)
-- ![](./assets/pr-merged.svg) [Prevent infinite compilation loop in Symfony app](https://github.com/tailwindlabs/tailwindcss.com/pull/2306) on [tailwindlabs/tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com) (1 day ago)
-- ![](./assets/pr-merged.svg) [[LiveComponent] Fix BC break when using `PropertyTypeExtractorInterface::getType()` on a `#[LiveProp]` property `x` when getter `getX` exists](https://github.com/symfony/ux/pull/2922) on [symfony/ux](https://github.com/symfony/ux) (4 days ago)
-- ![](./assets/pr-merged.svg) [[CI] Cache Composer dependencies](https://github.com/symfony/ai/pull/95) on [symfony/ai](https://github.com/symfony/ai) (6 days ago)
+- ![](./assets/pr-merged.svg) [[Autocomplete] Upgrade Foundry to ^2.0](https://github.com/symfony/ux/pull/2928) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
+- ![](./assets/pr-open.svg) [[Panther] Configure env `PANTHER_DEVTOOLS=0`](https://github.com/symfony/recipes/pull/1437) on [symfony/recipes](https://github.com/symfony/recipes) (2 days ago)
+- ![](./assets/pr-merged.svg) [Prevent infinite compilation loop in Symfony app](https://github.com/tailwindlabs/tailwindcss.com/pull/2306) on [tailwindlabs/tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com) (2 days ago)
+- ![](./assets/pr-merged.svg) [[LiveComponent] Fix BC break when using `PropertyTypeExtractorInterface::getType()` on a `#[LiveProp]` property `x` when getter `getX` exists](https://github.com/symfony/ux/pull/2922) on [symfony/ux](https://github.com/symfony/ux) (5 days ago)
+- ![](./assets/pr-merged.svg) [[CI] Cache Composer dependencies](https://github.com/symfony/ai/pull/95) on [symfony/ai](https://github.com/symfony/ai) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Map] Add options `minZoom` and `maxZoom`](https://github.com/symfony/ux/pull/2896) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Toolkit] Fix comptability with Windows](https://github.com/symfony/ux/pull/2892) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Deprecate the package](https://github.com/symfony/stimulus-testing/pull/10) on [symfony/stimulus-testing](https://github.com/symfony/stimulus-testing) (2 weeks ago)
@@ -18,10 +19,9 @@
 - ![](./assets/pr-merged.svg) [Remove `@symfony/stimulus-testing` dev dependencies](https://github.com/symfony/ux/pull/2879) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Remove Babel dependencies](https://github.com/symfony/ux/pull/2877) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Upgrade Rollup dependencies](https://github.com/symfony/ux/pull/2876) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [[Tests] Fix functional tests Turbo (Chrome 137 &amp; dev-tools)](https://github.com/symfony/ux/pull/2873) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [[Map][Docs] Rewrite documentation about extra data](https://github.com/symfony/ux/pull/2871) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [[Translator][Tests] Minor fixes in tests context](https://github.com/symfony/ux/pull/2870) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [Migrate PHPUnit configs and homogenize them](https://github.com/symfony/ux/pull/2867) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
+- ![](./assets/pr-merged.svg) [[Tests] Fix functional tests Turbo (Chrome 137 &amp; dev-tools)](https://github.com/symfony/ux/pull/2873) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
+- ![](./assets/pr-merged.svg) [[Map][Docs] Rewrite documentation about extra data](https://github.com/symfony/ux/pull/2871) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
+- ![](./assets/pr-merged.svg) [[Translator][Tests] Minor fixes in tests context](https://github.com/symfony/ux/pull/2870) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
 
 #### 📜 My recent blog posts (https://hugo.alliau.me/blog)
 
