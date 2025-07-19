@@ -2,10 +2,10 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [[Autocomplete] Upgrade Foundry to ^2.0](https://github.com/symfony/ux/pull/2928) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
-- ![](./assets/pr-open.svg) [[Panther] Configure env `PANTHER_DEVTOOLS=0`](https://github.com/symfony/recipes/pull/1437) on [symfony/recipes](https://github.com/symfony/recipes) (2 days ago)
-- ![](./assets/pr-merged.svg) [Prevent infinite compilation loop in Symfony app](https://github.com/tailwindlabs/tailwindcss.com/pull/2306) on [tailwindlabs/tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com) (2 days ago)
-- ![](./assets/pr-merged.svg) [[LiveComponent] Fix BC break when using `PropertyTypeExtractorInterface::getType()` on a `#[LiveProp]` property `x` when getter `getX` exists](https://github.com/symfony/ux/pull/2922) on [symfony/ux](https://github.com/symfony/ux) (5 days ago)
+- ![](./assets/pr-merged.svg) [[Autocomplete] Upgrade Foundry to ^2.0](https://github.com/symfony/ux/pull/2928) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
+- ![](./assets/pr-open.svg) [[Panther] Configure env `PANTHER_DEVTOOLS=0`](https://github.com/symfony/recipes/pull/1437) on [symfony/recipes](https://github.com/symfony/recipes) (3 days ago)
+- ![](./assets/pr-merged.svg) [Prevent infinite compilation loop in Symfony app](https://github.com/tailwindlabs/tailwindcss.com/pull/2306) on [tailwindlabs/tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com) (3 days ago)
+- ![](./assets/pr-merged.svg) [[LiveComponent] Fix BC break when using `PropertyTypeExtractorInterface::getType()` on a `#[LiveProp]` property `x` when getter `getX` exists](https://github.com/symfony/ux/pull/2922) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
 - ![](./assets/pr-merged.svg) [[CI] Cache Composer dependencies](https://github.com/symfony/ai/pull/95) on [symfony/ai](https://github.com/symfony/ai) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Map] Add options `minZoom` and `maxZoom`](https://github.com/symfony/ux/pull/2896) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Toolkit] Fix comptability with Windows](https://github.com/symfony/ux/pull/2892) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
