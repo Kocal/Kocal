@@ -2,15 +2,16 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [Re-add `webpack-manifest-plugin` dependency, which was previously embedded in #921](https://github.com/symfony/webpack-encore/pull/1382) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 day ago)
-- ![](./assets/pr-closed.svg) [Remove unecessary check on Webpack version 4](https://github.com/symfony/webpack-encore/pull/1381) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 day ago)
-- ![](./assets/pr-merged.svg) [Add support for style-loader ^4.0.0](https://github.com/symfony/webpack-encore/pull/1380) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 day ago)
-- ![](./assets/pr-merged.svg) [Add support for babel-loader ^10.0.0](https://github.com/symfony/webpack-encore/pull/1379) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (2 days ago)
-- ![](./assets/pr-merged.svg) [[CI] Fix tests in lowest and highest jobs](https://github.com/symfony/webpack-encore/pull/1378) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (3 days ago)
-- ![](./assets/pr-merged.svg) [Upgrade ESLint to ^9, migrate some plugins and configuration](https://github.com/symfony/webpack-encore/pull/1377) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (4 days ago)
-- ![](./assets/pr-merged.svg) [[CI] Upgrade deprecated os windows-2019 to windows-latest](https://github.com/symfony/webpack-encore/pull/1376) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (4 days ago)
-- ![](./assets/pr-merged.svg) [[CI] Add Fabbot as a GitHub Actions](https://github.com/symfony/ux/pull/2955) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
-- ![](./assets/pr-merged.svg) [[CI] Fix npm releases with pnpm](https://github.com/symfony/ux/pull/2954) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
+- ![](./assets/pr-open.svg) [[TogglePassword] Deprecate the package](https://github.com/symfony/ux/pull/2972) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
+- ![](./assets/pr-merged.svg) [Re-add `webpack-manifest-plugin` dependency, which was previously embedded in #921](https://github.com/symfony/webpack-encore/pull/1382) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (2 days ago)
+- ![](./assets/pr-closed.svg) [Remove unecessary check on Webpack version 4](https://github.com/symfony/webpack-encore/pull/1381) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (2 days ago)
+- ![](./assets/pr-merged.svg) [Add support for style-loader ^4.0.0](https://github.com/symfony/webpack-encore/pull/1380) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (2 days ago)
+- ![](./assets/pr-merged.svg) [Add support for babel-loader ^10.0.0](https://github.com/symfony/webpack-encore/pull/1379) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (3 days ago)
+- ![](./assets/pr-merged.svg) [[CI] Fix tests in lowest and highest jobs](https://github.com/symfony/webpack-encore/pull/1378) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (4 days ago)
+- ![](./assets/pr-merged.svg) [Upgrade ESLint to ^9, migrate some plugins and configuration](https://github.com/symfony/webpack-encore/pull/1377) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (5 days ago)
+- ![](./assets/pr-merged.svg) [[CI] Upgrade deprecated os windows-2019 to windows-latest](https://github.com/symfony/webpack-encore/pull/1376) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (5 days ago)
+- ![](./assets/pr-merged.svg) [[CI] Add Fabbot as a GitHub Actions](https://github.com/symfony/ux/pull/2955) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
+- ![](./assets/pr-merged.svg) [[CI] Fix npm releases with pnpm](https://github.com/symfony/ux/pull/2954) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[CI] Rework `app-tests` job to use `npm` as user&#39;s packages manager](https://github.com/symfony/ux/pull/2953) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [Fix package.json files to not use &#34;catalog&#34; feature from PNPM, as it breaks installation from `vendor/` PHP packages](https://github.com/symfony/ux/pull/2952) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[CI] Download only Chromium browser for Vitest/Playwright tests](https://github.com/symfony/ux/pull/2948) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-merged.svg) [Modernize and simplify our packages building tools, replace Rollup by tsup](https://github.com/symfony/ux/pull/2944) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Turbo] Correctly fix `framework.csrf_protection.check_header` configuration](https://github.com/symfony/recipes/pull/1440) on [symfony/recipes](https://github.com/symfony/recipes) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Turbo] Fix `check_header` configuration](https://github.com/symfony/recipes/pull/1439) on [symfony/recipes](https://github.com/symfony/recipes) (1 week ago)
-- ![](./assets/pr-merged.svg) [[LiveComponent] Some fixes on JS dependencies assets](https://github.com/symfony/ux/pull/2940) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 
 #### 📜 My recent blog posts (https://hugo.alliau.me/blog)
 
