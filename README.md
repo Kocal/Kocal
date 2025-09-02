@@ -2,9 +2,10 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [[Blog] Webpack Encore: Current State and Future](https://github.com/bakslashHQ/baksla.sh/pull/97) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (1 day ago)
-- ![](./assets/pr-merged.svg) [ Fix highest jobs with Doctrine ^3.0](https://github.com/symfony/ux/pull/3059) on [symfony/ux](https://github.com/symfony/ux) (3 days ago)
-- ![](./assets/pr-merged.svg) [[LiveComponent] Fix new URL generation when using `LiveProp` with custom `fieldName`](https://github.com/symfony/ux/pull/3058) on [symfony/ux](https://github.com/symfony/ux) (4 days ago)
+- ![](./assets/pr-open.svg) [ Configure .gitattributes to ignore Vitest and Playwright config files from export](https://github.com/symfony/ux/pull/3062) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
+- ![](./assets/pr-open.svg) [[Blog] Webpack Encore: Current State and Future](https://github.com/bakslashHQ/baksla.sh/pull/97) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (2 days ago)
+- ![](./assets/pr-merged.svg) [ Fix highest jobs with Doctrine ^3.0](https://github.com/symfony/ux/pull/3059) on [symfony/ux](https://github.com/symfony/ux) (4 days ago)
+- ![](./assets/pr-merged.svg) [[LiveComponent] Fix new URL generation when using `LiveProp` with custom `fieldName`](https://github.com/symfony/ux/pull/3058) on [symfony/ux](https://github.com/symfony/ux) (5 days ago)
 - ![](./assets/pr-merged.svg) [ Remove some indirect deprecations](https://github.com/symfony/ux/pull/3055) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Map] Remove deprecations from Map](https://github.com/symfony/ux/pull/3054) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[LiveComponent] Refactor and fix some edgecases on new URL generation with path &#43; query LiveProps](https://github.com/symfony/ux/pull/3053) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
@@ -19,9 +20,8 @@
 - ![](./assets/pr-merged.svg) [[Map] Correct and reword typos about polygons](https://github.com/symfony/ux/pull/3035) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Map][Leaflet] Fix InfoWindow auto-opening](https://github.com/symfony/ux/pull/3034) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-closed.svg) [[Map][Leaflet] Fix InfoWindow auto-opening](https://github.com/symfony/ux/pull/3033) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
-- ![](./assets/pr-merged.svg) [[React] Fix importmap to require `react-dom/client`](https://github.com/symfony/ux/pull/3030) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
-- ![](./assets/pr-merged.svg) [ Create E2E app for browsers tests](https://github.com/symfony/ux/pull/3014) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
-- ![](./assets/pr-merged.svg) [ Use Playwright for Browser testing](https://github.com/symfony/ux/pull/3013) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
+- ![](./assets/pr-merged.svg) [[React] Fix importmap to require `react-dom/client`](https://github.com/symfony/ux/pull/3030) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
+- ![](./assets/pr-merged.svg) [ Create E2E app for browsers tests](https://github.com/symfony/ux/pull/3014) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 
 #### 📜 My recent blog posts (https://hugo.alliau.me/blog)
 
