@@ -2,14 +2,14 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [Fix Tailwind `content` configuration with invalid path to `LeagueMarkdownConverter.php`](https://github.com/bakslashHQ/baksla.sh/pull/98) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (4 days ago)
-- ![](./assets/pr-merged.svg) [ Configure .gitattributes to ignore Vitest and Playwright config files from export](https://github.com/symfony/ux/pull/3062) on [symfony/ux](https://github.com/symfony/ux) (5 days ago)
-- ![](./assets/pr-open.svg) [[Blog] Webpack Encore: Current State and Future](https://github.com/bakslashHQ/baksla.sh/pull/97) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (6 days ago)
+- ![](./assets/pr-merged.svg) [Fix Tailwind `content` configuration with invalid path to `LeagueMarkdownConverter.php`](https://github.com/bakslashHQ/baksla.sh/pull/98) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (5 days ago)
+- ![](./assets/pr-merged.svg) [ Configure .gitattributes to ignore Vitest and Playwright config files from export](https://github.com/symfony/ux/pull/3062) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
+- ![](./assets/pr-open.svg) [[Blog] Webpack Encore: Current State and Future](https://github.com/bakslashHQ/baksla.sh/pull/97) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (1 week ago)
 - ![](./assets/pr-merged.svg) [ Fix highest jobs with Doctrine ^3.0](https://github.com/symfony/ux/pull/3059) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[LiveComponent] Fix new URL generation when using `LiveProp` with custom `fieldName`](https://github.com/symfony/ux/pull/3058) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [ Remove some indirect deprecations](https://github.com/symfony/ux/pull/3055) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Map] Remove deprecations from Map](https://github.com/symfony/ux/pull/3054) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
-- ![](./assets/pr-merged.svg) [[LiveComponent] Refactor and fix some edgecases on new URL generation with path &#43; query LiveProps](https://github.com/symfony/ux/pull/3053) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
+- ![](./assets/pr-merged.svg) [[LiveComponent] Refactor and fix some edgecases on new URL generation with path &#43; query LiveProps](https://github.com/symfony/ux/pull/3053) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[React][Svelte][Vue] Add E2E tests](https://github.com/symfony/ux/pull/3048) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [ Re-configure LF eof in git](https://github.com/symfony/ux/pull/3047) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [ Ensure PHP 8.5 compatibility](https://github.com/symfony/ux/pull/3045) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
