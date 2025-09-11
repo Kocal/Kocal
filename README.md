@@ -2,12 +2,13 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [[Toolkit] Add npm &amp; importmap package dependencies](https://github.com/symfony/ux/pull/3071) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
+- ![](./assets/pr-merged.svg) [[Toolkit][Shadcn] Add AlertDialog recipe](https://github.com/symfony/ux/pull/3073) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
+- ![](./assets/pr-merged.svg) [[Toolkit] Add npm &amp; importmap package dependencies](https://github.com/symfony/ux/pull/3071) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
 - ![](./assets/pr-merged.svg) [Fix Tailwind `content` configuration with invalid path to `LeagueMarkdownConverter.php`](https://github.com/bakslashHQ/baksla.sh/pull/98) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (1 week ago)
 - ![](./assets/pr-merged.svg) [ Configure .gitattributes to ignore Vitest and Playwright config files from export](https://github.com/symfony/ux/pull/3062) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Blog] Webpack Encore: Current State and Future](https://github.com/bakslashHQ/baksla.sh/pull/97) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (1 week ago)
 - ![](./assets/pr-merged.svg) [ Fix highest jobs with Doctrine ^3.0](https://github.com/symfony/ux/pull/3059) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
-- ![](./assets/pr-merged.svg) [[LiveComponent] Fix new URL generation when using `LiveProp` with custom `fieldName`](https://github.com/symfony/ux/pull/3058) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
+- ![](./assets/pr-merged.svg) [[LiveComponent] Fix new URL generation when using `LiveProp` with custom `fieldName`](https://github.com/symfony/ux/pull/3058) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [ Remove some indirect deprecations](https://github.com/symfony/ux/pull/3055) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[Map] Remove deprecations from Map](https://github.com/symfony/ux/pull/3054) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[LiveComponent] Refactor and fix some edgecases on new URL generation with path &#43; query LiveProps](https://github.com/symfony/ux/pull/3053) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
@@ -16,12 +17,11 @@
 - ![](./assets/pr-merged.svg) [ Ensure PHP 8.5 compatibility](https://github.com/symfony/ux/pull/3045) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [ Fix highest-deps job](https://github.com/symfony/ux/pull/3044) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [ Rename `test_apps` to `apps`](https://github.com/symfony/ux/pull/3041) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [[Map] Add E2E tests, close #3022](https://github.com/symfony/ux/pull/3038) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [Check `@deprecated` format in JavaScript and TypeScript files too](https://github.com/symfony-tools/fabbot/pull/3) on [symfony-tools/fabbot](https://github.com/symfony-tools/fabbot) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [[Map] Deprecate option `title` from `Polygon`, `Polyline`, `Rectangle` and `Circle` in favor of `infoWindow`](https://github.com/symfony/ux/pull/3036) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
+- ![](./assets/pr-merged.svg) [[Map] Add E2E tests, close #3022](https://github.com/symfony/ux/pull/3038) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
+- ![](./assets/pr-merged.svg) [Check `@deprecated` format in JavaScript and TypeScript files too](https://github.com/symfony-tools/fabbot/pull/3) on [symfony-tools/fabbot](https://github.com/symfony-tools/fabbot) (3 weeks ago)
+- ![](./assets/pr-merged.svg) [[Map] Deprecate option `title` from `Polygon`, `Polyline`, `Rectangle` and `Circle` in favor of `infoWindow`](https://github.com/symfony/ux/pull/3036) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[Map] Correct and reword typos about polygons](https://github.com/symfony/ux/pull/3035) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[Map][Leaflet] Fix InfoWindow auto-opening](https://github.com/symfony/ux/pull/3034) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
-- ![](./assets/pr-closed.svg) [[Map][Leaflet] Fix InfoWindow auto-opening](https://github.com/symfony/ux/pull/3033) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
 
 #### 📜 My recent blog posts (https://hugo.alliau.me/blog)
 
