@@ -2,12 +2,14 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [[App/E2E] Add examples listing on homepage, improve example page](https://github.com/symfony/ux/pull/3078) on [symfony/ux](https://github.com/symfony/ux) (3 days ago)
-- ![](./assets/pr-open.svg) [Improve documentation examples for `enum` and `enum_cases`](https://github.com/twigphp/Twig/pull/4690) on [twigphp/Twig](https://github.com/twigphp/Twig) (3 days ago)
-- ![](./assets/pr-merged.svg) [[Toolkit] Rework the &#34;dependencies&#34; Recipe JSON schema](https://github.com/symfony/ux/pull/3076) on [symfony/ux](https://github.com/symfony/ux) (4 days ago)
-- ![](./assets/pr-merged.svg) [[Toolkit][Shadcn] Add AlertDialog recipe](https://github.com/symfony/ux/pull/3073) on [symfony/ux](https://github.com/symfony/ux) (5 days ago)
-- ![](./assets/pr-merged.svg) [[Toolkit] Add npm &amp; importmap package dependencies](https://github.com/symfony/ux/pull/3071) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
-- ![](./assets/pr-merged.svg) [Fix Tailwind `content` configuration with invalid path to `LeagueMarkdownConverter.php`](https://github.com/bakslashHQ/baksla.sh/pull/98) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (1 week ago)
+- ![](./assets/pr-merged.svg) [[Site] Fix UX Translator demo on &#34;price&#34; parameter](https://github.com/symfony/ux/pull/3081) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
+- ![](./assets/pr-merged.svg) [[Translator] Add E2E tests](https://github.com/symfony/ux/pull/3080) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
+- ![](./assets/pr-merged.svg) [[App/E2E] Add examples listing on homepage, improve example page](https://github.com/symfony/ux/pull/3078) on [symfony/ux](https://github.com/symfony/ux) (4 days ago)
+- ![](./assets/pr-merged.svg) [Improve documentation examples for `enum` and `enum_cases`](https://github.com/twigphp/Twig/pull/4690) on [twigphp/Twig](https://github.com/twigphp/Twig) (4 days ago)
+- ![](./assets/pr-merged.svg) [[Toolkit] Rework the &#34;dependencies&#34; Recipe JSON schema](https://github.com/symfony/ux/pull/3076) on [symfony/ux](https://github.com/symfony/ux) (5 days ago)
+- ![](./assets/pr-merged.svg) [[Toolkit][Shadcn] Add AlertDialog recipe](https://github.com/symfony/ux/pull/3073) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
+- ![](./assets/pr-merged.svg) [[Toolkit] Add npm &amp; importmap package dependencies](https://github.com/symfony/ux/pull/3071) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
+- ![](./assets/pr-merged.svg) [Fix Tailwind `content` configuration with invalid path to `LeagueMarkdownConverter.php`](https://github.com/bakslashHQ/baksla.sh/pull/98) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [ Configure .gitattributes to ignore Vitest and Playwright config files from export](https://github.com/symfony/ux/pull/3062) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[Blog] Webpack Encore: Current State and Future](https://github.com/bakslashHQ/baksla.sh/pull/97) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [ Fix highest jobs with Doctrine ^3.0](https://github.com/symfony/ux/pull/3059) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
@@ -20,8 +22,6 @@
 - ![](./assets/pr-merged.svg) [ Ensure PHP 8.5 compatibility](https://github.com/symfony/ux/pull/3045) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [ Fix highest-deps job](https://github.com/symfony/ux/pull/3044) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [ Rename `test_apps` to `apps`](https://github.com/symfony/ux/pull/3041) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
-- ![](./assets/pr-merged.svg) [[Map] Add E2E tests, close #3022](https://github.com/symfony/ux/pull/3038) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
-- ![](./assets/pr-merged.svg) [Check `@deprecated` format in JavaScript and TypeScript files too](https://github.com/symfony-tools/fabbot/pull/3) on [symfony-tools/fabbot](https://github.com/symfony-tools/fabbot) (3 weeks ago)
 
 #### 📜 My recent blog posts (https://hugo.alliau.me/blog)
 
