@@ -2,11 +2,13 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [[Toolkit] Delay/hide the &#34;Community Kits&#34; feature, minor fixes](https://github.com/symfony/ux/pull/3097) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
-- ![](./assets/pr-merged.svg) [[Site] Fix port to 9044 and upgrade UX dependencies](https://github.com/symfony/ux/pull/3093) on [symfony/ux](https://github.com/symfony/ux) (4 days ago)
-- ![](./assets/pr-merged.svg) [ Refactor &#34;test_package.sh&#34; to its original purpose, add multiples checks for packages definition](https://github.com/symfony/ux/pull/3090) on [symfony/ux](https://github.com/symfony/ux) (5 days ago)
-- ![](./assets/pr-merged.svg) [Add support for &#34;Documentation&#34; label](https://github.com/symfony-tools/carsonbot/pull/276) on [symfony-tools/carsonbot](https://github.com/symfony-tools/carsonbot) (5 days ago)
-- ![](./assets/pr-merged.svg) [Fix deprecations with zenstruck/foundry:^2.7](https://github.com/symfony/ux/pull/3089) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
+- ![](./assets/pr-merged.svg) [ Remove explicit configuration `twig.exception_controller` from Kernel for testing](https://github.com/symfony/ux/pull/3106) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
+- ![](./assets/pr-merged.svg) [[TwigComponent] Remove dev-dependency on WebpackEncoreBundle](https://github.com/symfony/ux/pull/3105) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
+- ![](./assets/pr-merged.svg) [[Toolkit] Delay/hide the &#34;Community Kits&#34; feature, minor fixes](https://github.com/symfony/ux/pull/3097) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
+- ![](./assets/pr-merged.svg) [[Site] Fix port to 9044 and upgrade UX dependencies](https://github.com/symfony/ux/pull/3093) on [symfony/ux](https://github.com/symfony/ux) (5 days ago)
+- ![](./assets/pr-merged.svg) [ Refactor &#34;test_package.sh&#34; to its original purpose, add multiples checks for packages definition](https://github.com/symfony/ux/pull/3090) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
+- ![](./assets/pr-merged.svg) [Add support for &#34;Documentation&#34; label](https://github.com/symfony-tools/carsonbot/pull/276) on [symfony-tools/carsonbot](https://github.com/symfony-tools/carsonbot) (6 days ago)
+- ![](./assets/pr-merged.svg) [Fix deprecations with zenstruck/foundry:^2.7](https://github.com/symfony/ux/pull/3089) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [Fix link to UPGRADE-2.7.md file](https://github.com/zenstruck/foundry/pull/978) on [zenstruck/foundry](https://github.com/zenstruck/foundry) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Toolkit] Minor fixes](https://github.com/symfony/ux/pull/3085) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Site] Lock icons](https://github.com/symfony/ux/pull/3084) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
@@ -14,14 +16,12 @@
 - ![](./assets/pr-open.svg) [fix(ci): correct message from &#34;close-inactive&#34; job](https://github.com/strapi/strapi/pull/24391) on [strapi/strapi](https://github.com/strapi/strapi) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Site] Fix UX Translator demo on &#34;price&#34; parameter](https://github.com/symfony/ux/pull/3081) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Translator] Add E2E tests](https://github.com/symfony/ux/pull/3080) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
-- ![](./assets/pr-merged.svg) [[App/E2E] Add examples listing on homepage, improve example page](https://github.com/symfony/ux/pull/3078) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
-- ![](./assets/pr-merged.svg) [Improve documentation examples for `enum` and `enum_cases`](https://github.com/twigphp/Twig/pull/4690) on [twigphp/Twig](https://github.com/twigphp/Twig) (1 week ago)
+- ![](./assets/pr-merged.svg) [[App/E2E] Add examples listing on homepage, improve example page](https://github.com/symfony/ux/pull/3078) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
+- ![](./assets/pr-merged.svg) [Improve documentation examples for `enum` and `enum_cases`](https://github.com/twigphp/Twig/pull/4690) on [twigphp/Twig](https://github.com/twigphp/Twig) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[Toolkit] Rework the &#34;dependencies&#34; Recipe JSON schema](https://github.com/symfony/ux/pull/3076) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[Toolkit][Shadcn] Add AlertDialog recipe](https://github.com/symfony/ux/pull/3073) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[Toolkit] Add npm &amp; importmap package dependencies](https://github.com/symfony/ux/pull/3071) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Fix Tailwind `content` configuration with invalid path to `LeagueMarkdownConverter.php`](https://github.com/bakslashHQ/baksla.sh/pull/98) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (3 weeks ago)
-- ![](./assets/pr-merged.svg) [ Configure .gitattributes to ignore Vitest and Playwright config files from export](https://github.com/symfony/ux/pull/3062) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
-- ![](./assets/pr-merged.svg) [[Blog] Webpack Encore: Current State and Future](https://github.com/bakslashHQ/baksla.sh/pull/97) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (3 weeks ago)
 
 #### 📜 My recent blog posts (https://hugo.alliau.me/blog)
 
