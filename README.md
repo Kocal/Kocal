@@ -2,10 +2,13 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [ Remove explicit configuration `twig.exception_controller` from Kernel for testing](https://github.com/symfony/ux/pull/3106) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
-- ![](./assets/pr-merged.svg) [[TwigComponent] Remove dev-dependency on WebpackEncoreBundle](https://github.com/symfony/ux/pull/3105) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
-- ![](./assets/pr-merged.svg) [[Toolkit] Delay/hide the &#34;Community Kits&#34; feature, minor fixes](https://github.com/symfony/ux/pull/3097) on [symfony/ux](https://github.com/symfony/ux) (3 days ago)
-- ![](./assets/pr-merged.svg) [[Site] Fix port to 9044 and upgrade UX dependencies](https://github.com/symfony/ux/pull/3093) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
+- ![](./assets/pr-merged.svg) [[CI] Remove duplicated matrix entry for Symfony version in unit-tests.yaml](https://github.com/symfony/ux/pull/3108) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
+- ![](./assets/pr-open.svg) [Add .gitattributes to exclude files from releases](https://github.com/tempestphp/highlight/pull/181) on [tempestphp/highlight](https://github.com/tempestphp/highlight) (1 day ago)
+- ![](./assets/pr-merged.svg) [[Toolkit] Rework recipe name](https://github.com/symfony/ux/pull/3107) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
+- ![](./assets/pr-merged.svg) [ Remove explicit configuration `twig.exception_controller` from Kernel for testing](https://github.com/symfony/ux/pull/3106) on [symfony/ux](https://github.com/symfony/ux) (3 days ago)
+- ![](./assets/pr-merged.svg) [[TwigComponent] Remove dev-dependency on WebpackEncoreBundle](https://github.com/symfony/ux/pull/3105) on [symfony/ux](https://github.com/symfony/ux) (3 days ago)
+- ![](./assets/pr-merged.svg) [[Toolkit] Delay/hide the &#34;Community Kits&#34; feature, minor fixes](https://github.com/symfony/ux/pull/3097) on [symfony/ux](https://github.com/symfony/ux) (4 days ago)
+- ![](./assets/pr-merged.svg) [[Site] Fix port to 9044 and upgrade UX dependencies](https://github.com/symfony/ux/pull/3093) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [ Refactor &#34;test_package.sh&#34; to its original purpose, add multiples checks for packages definition](https://github.com/symfony/ux/pull/3090) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [Add support for &#34;Documentation&#34; label](https://github.com/symfony-tools/carsonbot/pull/276) on [symfony-tools/carsonbot](https://github.com/symfony-tools/carsonbot) (1 week ago)
 - ![](./assets/pr-merged.svg) [Fix deprecations with zenstruck/foundry:^2.7](https://github.com/symfony/ux/pull/3089) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
@@ -19,9 +22,6 @@
 - ![](./assets/pr-merged.svg) [[App/E2E] Add examples listing on homepage, improve example page](https://github.com/symfony/ux/pull/3078) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Improve documentation examples for `enum` and `enum_cases`](https://github.com/twigphp/Twig/pull/4690) on [twigphp/Twig](https://github.com/twigphp/Twig) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[Toolkit] Rework the &#34;dependencies&#34; Recipe JSON schema](https://github.com/symfony/ux/pull/3076) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [[Toolkit][Shadcn] Add AlertDialog recipe](https://github.com/symfony/ux/pull/3073) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [[Toolkit] Add npm &amp; importmap package dependencies](https://github.com/symfony/ux/pull/3071) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [Fix Tailwind `content` configuration with invalid path to `LeagueMarkdownConverter.php`](https://github.com/bakslashHQ/baksla.sh/pull/98) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (3 weeks ago)
 
 #### 📜 My recent blog posts (https://hugo.alliau.me/blog)
 
