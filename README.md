@@ -2,16 +2,16 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [[Map][Google] Upgrade @googlemaps/js-api-loader to ^2.0](https://github.com/symfony/ux/pull/3115) on [symfony/ux](https://github.com/symfony/ux) (3 days ago)
-- ![](./assets/pr-merged.svg) [[CI] Remove duplicated matrix entry for Symfony version in unit-tests.yaml](https://github.com/symfony/ux/pull/3108) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
-- ![](./assets/pr-merged.svg) [Add .gitattributes to exclude files from releases](https://github.com/tempestphp/highlight/pull/181) on [tempestphp/highlight](https://github.com/tempestphp/highlight) (6 days ago)
-- ![](./assets/pr-merged.svg) [[Toolkit] Rework recipe name](https://github.com/symfony/ux/pull/3107) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
+- ![](./assets/pr-open.svg) [[Map][Google] Upgrade @googlemaps/js-api-loader to ^2.0](https://github.com/symfony/ux/pull/3115) on [symfony/ux](https://github.com/symfony/ux) (4 days ago)
+- ![](./assets/pr-merged.svg) [[CI] Remove duplicated matrix entry for Symfony version in unit-tests.yaml](https://github.com/symfony/ux/pull/3108) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
+- ![](./assets/pr-merged.svg) [Add .gitattributes to exclude files from releases](https://github.com/tempestphp/highlight/pull/181) on [tempestphp/highlight](https://github.com/tempestphp/highlight) (1 week ago)
+- ![](./assets/pr-merged.svg) [[Toolkit] Rework recipe name](https://github.com/symfony/ux/pull/3107) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [ Remove explicit configuration `twig.exception_controller` from Kernel for testing](https://github.com/symfony/ux/pull/3106) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[TwigComponent] Remove dev-dependency on WebpackEncoreBundle](https://github.com/symfony/ux/pull/3105) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Toolkit] Delay/hide the &#34;Community Kits&#34; feature, minor fixes](https://github.com/symfony/ux/pull/3097) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Site] Fix port to 9044 and upgrade UX dependencies](https://github.com/symfony/ux/pull/3093) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
-- ![](./assets/pr-merged.svg) [ Refactor &#34;test_package.sh&#34; to its original purpose, add multiples checks for packages definition](https://github.com/symfony/ux/pull/3090) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
-- ![](./assets/pr-merged.svg) [Add support for &#34;Documentation&#34; label](https://github.com/symfony-tools/carsonbot/pull/276) on [symfony-tools/carsonbot](https://github.com/symfony-tools/carsonbot) (1 week ago)
+- ![](./assets/pr-merged.svg) [ Refactor &#34;test_package.sh&#34; to its original purpose, add multiples checks for packages definition](https://github.com/symfony/ux/pull/3090) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
+- ![](./assets/pr-merged.svg) [Add support for &#34;Documentation&#34; label](https://github.com/symfony-tools/carsonbot/pull/276) on [symfony-tools/carsonbot](https://github.com/symfony-tools/carsonbot) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Fix deprecations with zenstruck/foundry:^2.7](https://github.com/symfony/ux/pull/3089) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Fix link to UPGRADE-2.7.md file](https://github.com/zenstruck/foundry/pull/978) on [zenstruck/foundry](https://github.com/zenstruck/foundry) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[Toolkit] Minor fixes](https://github.com/symfony/ux/pull/3085) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
