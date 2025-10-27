@@ -2,7 +2,7 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [Minor fixes on prose (a, dark blockquote, dark headings)](https://github.com/Kocal/hugo.alliau.me/pull/78) on [Kocal/hugo.alliau.me](https://github.com/Kocal/hugo.alliau.me) (6 days ago)
+- ![](./assets/pr-merged.svg) [Minor fixes on prose (a, dark blockquote, dark headings)](https://github.com/Kocal/hugo.alliau.me/pull/78) on [Kocal/hugo.alliau.me](https://github.com/Kocal/hugo.alliau.me) (1 week ago)
 - ![](./assets/pr-merged.svg) [Rework UI, upgrade to Tailwind 4, more english, rework blog post, remove TOC, ...](https://github.com/Kocal/hugo.alliau.me/pull/77) on [Kocal/hugo.alliau.me](https://github.com/Kocal/hugo.alliau.me) (1 week ago)
 - ![](./assets/pr-merged.svg) [[NPM] Configure OIDC for trusted auto-publishing](https://github.com/symfony/ux/pull/3142) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-open.svg) [[WebpackEncoreBundle] Add recipe for old version 1.17 &amp; fix some other constraints](https://github.com/symfony/recipes/pull/1463) on [symfony/recipes](https://github.com/symfony/recipes) (1 week ago)
@@ -10,9 +10,9 @@
 - ![](./assets/pr-merged.svg) [[BiomeJsBundle][OxlintBundle] Ignore `tests/` (and align other ignore patterns)](https://github.com/symfony/recipes-contrib/pull/1872) on [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Toolkit][Shadcn] Add missing UX Icons dependencies](https://github.com/symfony/ux/pull/3129) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[Map][Google] Upgrade @googlemaps/js-api-loader to ^2.0](https://github.com/symfony/ux/pull/3115) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
-- ![](./assets/pr-merged.svg) [[CI] Remove duplicated matrix entry for Symfony version in unit-tests.yaml](https://github.com/symfony/ux/pull/3108) on [symfony/ux](https://github.com/symfony/ux) (4 weeks ago)
-- ![](./assets/pr-merged.svg) [Add .gitattributes to exclude files from releases](https://github.com/tempestphp/highlight/pull/181) on [tempestphp/highlight](https://github.com/tempestphp/highlight) (4 weeks ago)
-- ![](./assets/pr-merged.svg) [[Toolkit] Rework recipe name](https://github.com/symfony/ux/pull/3107) on [symfony/ux](https://github.com/symfony/ux) (4 weeks ago)
+- ![](./assets/pr-merged.svg) [[CI] Remove duplicated matrix entry for Symfony version in unit-tests.yaml](https://github.com/symfony/ux/pull/3108) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
+- ![](./assets/pr-merged.svg) [Add .gitattributes to exclude files from releases](https://github.com/tempestphp/highlight/pull/181) on [tempestphp/highlight](https://github.com/tempestphp/highlight) (1 month ago)
+- ![](./assets/pr-merged.svg) [[Toolkit] Rework recipe name](https://github.com/symfony/ux/pull/3107) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
 - ![](./assets/pr-merged.svg) [ Remove explicit configuration `twig.exception_controller` from Kernel for testing](https://github.com/symfony/ux/pull/3106) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
 - ![](./assets/pr-merged.svg) [[TwigComponent] Remove dev-dependency on WebpackEncoreBundle](https://github.com/symfony/ux/pull/3105) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
 - ![](./assets/pr-merged.svg) [[Toolkit] Delay/hide the &#34;Community Kits&#34; feature, minor fixes](https://github.com/symfony/ux/pull/3097) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
