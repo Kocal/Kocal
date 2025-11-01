@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [[Toolkit] Add support for documenting props/blocks API](https://github.com/symfony/ux/pull/3154) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
 - ![](./assets/pr-merged.svg) [Minor fixes on prose (a, dark blockquote, dark headings)](https://github.com/Kocal/hugo.alliau.me/pull/78) on [Kocal/hugo.alliau.me](https://github.com/Kocal/hugo.alliau.me) (1 week ago)
 - ![](./assets/pr-merged.svg) [Rework UI, upgrade to Tailwind 4, more english, rework blog post, remove TOC, ...](https://github.com/Kocal/hugo.alliau.me/pull/77) on [Kocal/hugo.alliau.me](https://github.com/Kocal/hugo.alliau.me) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[NPM] Configure OIDC for trusted auto-publishing](https://github.com/symfony/ux/pull/3142) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-merged.svg) [Add support for &#34;Documentation&#34; label](https://github.com/symfony-tools/carsonbot/pull/276) on [symfony-tools/carsonbot](https://github.com/symfony-tools/carsonbot) (1 month ago)
 - ![](./assets/pr-merged.svg) [Fix deprecations with zenstruck/foundry:^2.7](https://github.com/symfony/ux/pull/3089) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
 - ![](./assets/pr-merged.svg) [Fix link to UPGRADE-2.7.md file](https://github.com/zenstruck/foundry/pull/978) on [zenstruck/foundry](https://github.com/zenstruck/foundry) (1 month ago)
-- ![](./assets/pr-merged.svg) [[Toolkit] Minor fixes](https://github.com/symfony/ux/pull/3085) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
 
 #### 📜 My recent blog posts (https://hugo.alliau.me/blog)
 
