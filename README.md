@@ -2,7 +2,7 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [[Toolkit] Add support for documenting props/blocks API](https://github.com/symfony/ux/pull/3154) on [symfony/ux](https://github.com/symfony/ux) (3 days ago)
+- ![](./assets/pr-merged.svg) [[Toolkit] Add support for documenting props/blocks API](https://github.com/symfony/ux/pull/3154) on [symfony/ux](https://github.com/symfony/ux) (4 days ago)
 - ![](./assets/pr-merged.svg) [Minor fixes on prose (a, dark blockquote, dark headings)](https://github.com/Kocal/hugo.alliau.me/pull/78) on [Kocal/hugo.alliau.me](https://github.com/Kocal/hugo.alliau.me) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Rework UI, upgrade to Tailwind 4, more english, rework blog post, remove TOC, ...](https://github.com/Kocal/hugo.alliau.me/pull/77) on [Kocal/hugo.alliau.me](https://github.com/Kocal/hugo.alliau.me) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[NPM] Configure OIDC for trusted auto-publishing](https://github.com/symfony/ux/pull/3142) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
