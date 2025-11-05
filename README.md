@@ -2,7 +2,17 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [[Toolkit] Add support for documenting props/blocks API](https://github.com/symfony/ux/pull/3154) on [symfony/ux](https://github.com/symfony/ux) (4 days ago)
+- ![](./assets/pr-open.svg) [Add support for Symfony 8](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/9172) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (1 day ago)
+- ![](./assets/pr-open.svg) [Add support for Symfony 8](https://github.com/facile-it/facile-coding-standard/pull/84) on [facile-it/facile-coding-standard](https://github.com/facile-it/facile-coding-standard) (1 day ago)
+- ![](./assets/pr-closed.svg) [Add support for Symfony 8](https://github.com/facile-it/paraunit/pull/344) on [facile-it/paraunit](https://github.com/facile-it/paraunit) (1 day ago)
+- ![](./assets/pr-open.svg) [Add support for Symfony 8](https://github.com/phpbench/phpbench/pull/1125) on [phpbench/phpbench](https://github.com/phpbench/phpbench) (1 day ago)
+- ![](./assets/pr-open.svg) [Add support for Symfony 8](https://github.com/infection/infection/pull/2551) on [infection/infection](https://github.com/infection/infection) (1 day ago)
+- ![](./assets/pr-open.svg) [Add support for Symfony 8](https://github.com/PHP-CS-Fixer/cli-executor/pull/13) on [PHP-CS-Fixer/cli-executor](https://github.com/PHP-CS-Fixer/cli-executor) (1 day ago)
+- ![](./assets/pr-open.svg) [Add support for Symfony 8](https://github.com/php-coveralls/php-coveralls/pull/391) on [php-coveralls/php-coveralls](https://github.com/php-coveralls/php-coveralls) (1 day ago)
+- ![](./assets/pr-open.svg) [Add Symfony 8 support](https://github.com/Behat/Behat/pull/1687) on [Behat/Behat](https://github.com/Behat/Behat) (1 day ago)
+- ![](./assets/pr-open.svg) [Add Symfony 8 support](https://github.com/FriendsOfBehat/SymfonyExtension/pull/218) on [FriendsOfBehat/SymfonyExtension](https://github.com/FriendsOfBehat/SymfonyExtension) (1 day ago)
+- ![](./assets/pr-open.svg) [Add Symfony 8 support](https://github.com/Kocal/SymfonyMailerTesting/pull/44) on [Kocal/SymfonyMailerTesting](https://github.com/Kocal/SymfonyMailerTesting) (1 day ago)
+- ![](./assets/pr-merged.svg) [[Toolkit] Add support for documenting props/blocks API](https://github.com/symfony/ux/pull/3154) on [symfony/ux](https://github.com/symfony/ux) (5 days ago)
 - ![](./assets/pr-merged.svg) [Minor fixes on prose (a, dark blockquote, dark headings)](https://github.com/Kocal/hugo.alliau.me/pull/78) on [Kocal/hugo.alliau.me](https://github.com/Kocal/hugo.alliau.me) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Rework UI, upgrade to Tailwind 4, more english, rework blog post, remove TOC, ...](https://github.com/Kocal/hugo.alliau.me/pull/77) on [Kocal/hugo.alliau.me](https://github.com/Kocal/hugo.alliau.me) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[NPM] Configure OIDC for trusted auto-publishing](https://github.com/symfony/ux/pull/3142) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
@@ -12,16 +22,6 @@
 - ![](./assets/pr-merged.svg) [[Toolkit][Shadcn] Add missing UX Icons dependencies](https://github.com/symfony/ux/pull/3129) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[Map][Google] Upgrade @googlemaps/js-api-loader to ^2.0](https://github.com/symfony/ux/pull/3115) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
 - ![](./assets/pr-merged.svg) [[CI] Remove duplicated matrix entry for Symfony version in unit-tests.yaml](https://github.com/symfony/ux/pull/3108) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
-- ![](./assets/pr-merged.svg) [Add .gitattributes to exclude files from releases](https://github.com/tempestphp/highlight/pull/181) on [tempestphp/highlight](https://github.com/tempestphp/highlight) (1 month ago)
-- ![](./assets/pr-merged.svg) [[Toolkit] Rework recipe name](https://github.com/symfony/ux/pull/3107) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
-- ![](./assets/pr-merged.svg) [ Remove explicit configuration `twig.exception_controller` from Kernel for testing](https://github.com/symfony/ux/pull/3106) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
-- ![](./assets/pr-merged.svg) [[TwigComponent] Remove dev-dependency on WebpackEncoreBundle](https://github.com/symfony/ux/pull/3105) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
-- ![](./assets/pr-merged.svg) [[Toolkit] Delay/hide the &#34;Community Kits&#34; feature, minor fixes](https://github.com/symfony/ux/pull/3097) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
-- ![](./assets/pr-merged.svg) [[Site] Fix port to 9044 and upgrade UX dependencies](https://github.com/symfony/ux/pull/3093) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
-- ![](./assets/pr-merged.svg) [ Refactor &#34;test_package.sh&#34; to its original purpose, add multiples checks for packages definition](https://github.com/symfony/ux/pull/3090) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
-- ![](./assets/pr-merged.svg) [Add support for &#34;Documentation&#34; label](https://github.com/symfony-tools/carsonbot/pull/276) on [symfony-tools/carsonbot](https://github.com/symfony-tools/carsonbot) (1 month ago)
-- ![](./assets/pr-merged.svg) [Fix deprecations with zenstruck/foundry:^2.7](https://github.com/symfony/ux/pull/3089) on [symfony/ux](https://github.com/symfony/ux) (1 month ago)
-- ![](./assets/pr-merged.svg) [Fix link to UPGRADE-2.7.md file](https://github.com/zenstruck/foundry/pull/978) on [zenstruck/foundry](https://github.com/zenstruck/foundry) (1 month ago)
 
 #### 📜 My recent blog posts (https://hugo.alliau.me/blog)
 
