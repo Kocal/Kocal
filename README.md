@@ -2,11 +2,14 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [[Toolkit] Add CONTRIBUTING.md](https://github.com/symfony/ux/pull/3161) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
-- ![](./assets/pr-merged.svg) [Add support for Symfony 8](https://github.com/phpbench/container/pull/12) on [phpbench/container](https://github.com/phpbench/container) (5 days ago)
-- ![](./assets/pr-merged.svg) [Use php-cs-fixer/shim instead &#43; full Symfony 8 support](https://github.com/phpbench/phpbench/pull/1128) on [phpbench/phpbench](https://github.com/phpbench/phpbench) (6 days ago)
-- ![](./assets/pr-open.svg) [Add support for Symfony 8](https://github.com/zenstruck/console-test/pull/30) on [zenstruck/console-test](https://github.com/zenstruck/console-test) (6 days ago)
-- ![](./assets/pr-open.svg) [[CI] Tests over Symfony 7.4.0-beta1 and 8.0.0-beta1](https://github.com/symfony/ux/pull/3159) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
+- ![](./assets/pr-open.svg) [[Symfony CLI] Move &#34;different TLD&#34; block above](https://github.com/symfony/symfony-docs/pull/21572) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
+- ![](./assets/pr-open.svg) [Add support for `symfony-cli.yaml` configuration file (and its variants)](https://github.com/symfony-cli/symfony-cli/pull/669) on [symfony-cli/symfony-cli](https://github.com/symfony-cli/symfony-cli) (1 day ago)
+- ![](./assets/pr-open.svg) [Add `--open` flag to `server:start` command](https://github.com/symfony-cli/symfony-cli/pull/668) on [symfony-cli/symfony-cli](https://github.com/symfony-cli/symfony-cli) (1 day ago)
+- ![](./assets/pr-merged.svg) [[Toolkit] Add CONTRIBUTING.md](https://github.com/symfony/ux/pull/3161) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
+- ![](./assets/pr-merged.svg) [Add support for Symfony 8](https://github.com/phpbench/container/pull/12) on [phpbench/container](https://github.com/phpbench/container) (6 days ago)
+- ![](./assets/pr-merged.svg) [Use php-cs-fixer/shim instead &#43; full Symfony 8 support](https://github.com/phpbench/phpbench/pull/1128) on [phpbench/phpbench](https://github.com/phpbench/phpbench) (1 week ago)
+- ![](./assets/pr-open.svg) [Add support for Symfony 8](https://github.com/zenstruck/console-test/pull/30) on [zenstruck/console-test](https://github.com/zenstruck/console-test) (1 week ago)
+- ![](./assets/pr-open.svg) [[CI] Tests over Symfony 7.4.0-beta1 and 8.0.0-beta1](https://github.com/symfony/ux/pull/3159) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [chore: Declare support for Symfony 8](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/9172) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (1 week ago)
 - ![](./assets/pr-open.svg) [Add support for Symfony 8](https://github.com/facile-it/facile-coding-standard/pull/84) on [facile-it/facile-coding-standard](https://github.com/facile-it/facile-coding-standard) (1 week ago)
 - ![](./assets/pr-closed.svg) [Add support for Symfony 8](https://github.com/facile-it/paraunit/pull/344) on [facile-it/paraunit](https://github.com/facile-it/paraunit) (1 week ago)
@@ -19,9 +22,6 @@
 - ![](./assets/pr-merged.svg) [Add Symfony 8 support](https://github.com/Kocal/SymfonyMailerTesting/pull/44) on [Kocal/SymfonyMailerTesting](https://github.com/Kocal/SymfonyMailerTesting) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Toolkit] Add support for documenting props/blocks API](https://github.com/symfony/ux/pull/3154) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [Minor fixes on prose (a, dark blockquote, dark headings)](https://github.com/Kocal/hugo.alliau.me/pull/78) on [Kocal/hugo.alliau.me](https://github.com/Kocal/hugo.alliau.me) (3 weeks ago)
-- ![](./assets/pr-merged.svg) [Rework UI, upgrade to Tailwind 4, more english, rework blog post, remove TOC, ...](https://github.com/Kocal/hugo.alliau.me/pull/77) on [Kocal/hugo.alliau.me](https://github.com/Kocal/hugo.alliau.me) (3 weeks ago)
-- ![](./assets/pr-merged.svg) [[NPM] Configure OIDC for trusted auto-publishing](https://github.com/symfony/ux/pull/3142) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
-- ![](./assets/pr-merged.svg) [[WebpackEncoreBundle] Add recipe for old version 1.17 &amp; fix some other constraints](https://github.com/symfony/recipes/pull/1463) on [symfony/recipes](https://github.com/symfony/recipes) (3 weeks ago)
 
 #### 📜 My recent blog posts (https://hugo.alliau.me/blog)
 
