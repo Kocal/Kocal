@@ -2,11 +2,11 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [[FrameworkBundle][WebackEncoreBundle][SymfonyCastsSassBundle][SymfonyCastsTailwindBundle] Add support for `symfony-cli.yaml` file](https://github.com/symfony/recipes/pull/1474) on [symfony/recipes](https://github.com/symfony/recipes) (2 days ago)
-- ![](./assets/pr-merged.svg) [[Symfony CLI] Move &#34;different TLD&#34; block above](https://github.com/symfony/symfony-docs/pull/21572) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 days ago)
-- ![](./assets/pr-open.svg) [Add support for `symfony-cli.yaml` configuration file (and its variants)](https://github.com/symfony-cli/symfony-cli/pull/669) on [symfony-cli/symfony-cli](https://github.com/symfony-cli/symfony-cli) (3 days ago)
-- ![](./assets/pr-open.svg) [Add `--open` flag to `server:start` command](https://github.com/symfony-cli/symfony-cli/pull/668) on [symfony-cli/symfony-cli](https://github.com/symfony-cli/symfony-cli) (3 days ago)
-- ![](./assets/pr-merged.svg) [[Toolkit] Add CONTRIBUTING.md](https://github.com/symfony/ux/pull/3161) on [symfony/ux](https://github.com/symfony/ux) (4 days ago)
+- ![](./assets/pr-open.svg) [[FrameworkBundle][WebackEncoreBundle][SymfonyCastsSassBundle][SymfonyCastsTailwindBundle] Add support for `symfony-cli.yaml` file](https://github.com/symfony/recipes/pull/1474) on [symfony/recipes](https://github.com/symfony/recipes) (3 days ago)
+- ![](./assets/pr-merged.svg) [[Symfony CLI] Move &#34;different TLD&#34; block above](https://github.com/symfony/symfony-docs/pull/21572) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 days ago)
+- ![](./assets/pr-open.svg) [Add support for `symfony-cli.yaml` configuration file (and its variants)](https://github.com/symfony-cli/symfony-cli/pull/669) on [symfony-cli/symfony-cli](https://github.com/symfony-cli/symfony-cli) (4 days ago)
+- ![](./assets/pr-open.svg) [Add `--open` flag to `server:start` command](https://github.com/symfony-cli/symfony-cli/pull/668) on [symfony-cli/symfony-cli](https://github.com/symfony-cli/symfony-cli) (4 days ago)
+- ![](./assets/pr-merged.svg) [[Toolkit] Add CONTRIBUTING.md](https://github.com/symfony/ux/pull/3161) on [symfony/ux](https://github.com/symfony/ux) (5 days ago)
 - ![](./assets/pr-merged.svg) [Add support for Symfony 8](https://github.com/phpbench/container/pull/12) on [phpbench/container](https://github.com/phpbench/container) (1 week ago)
 - ![](./assets/pr-merged.svg) [Use php-cs-fixer/shim instead &#43; full Symfony 8 support](https://github.com/phpbench/phpbench/pull/1128) on [phpbench/phpbench](https://github.com/phpbench/phpbench) (1 week ago)
 - ![](./assets/pr-open.svg) [Add support for Symfony 8](https://github.com/zenstruck/console-test/pull/30) on [zenstruck/console-test](https://github.com/zenstruck/console-test) (1 week ago)
