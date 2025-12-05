@@ -2,13 +2,13 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [[UXTranslator] Add recipe for 2.32](https://github.com/symfony/recipes/pull/1498) on [symfony/recipes](https://github.com/symfony/recipes) (1 day ago)
-- ![](./assets/pr-open.svg) [[Translator] Refactor API to use string-based translation keys instead of generated constants](https://github.com/symfony/ux/pull/3208) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
-- ![](./assets/pr-merged.svg) [ Git-ignore config/reference.php](https://github.com/symfony/ux/pull/3205) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
-- ![](./assets/pr-merged.svg) [Symfony 8](https://github.com/bakslashHQ/baksla.sh/pull/99) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (3 days ago)
-- ![](./assets/pr-merged.svg) [Symfony 7.4](https://github.com/Kocal/hugo.alliau.me/pull/80) on [Kocal/hugo.alliau.me](https://github.com/Kocal/hugo.alliau.me) (3 days ago)
-- ![](./assets/pr-merged.svg) [[Icons] Fix `aliases` and `default_attributes` config types for `config/reference.php`](https://github.com/symfony/ux/pull/3200) on [symfony/ux](https://github.com/symfony/ux) (4 days ago)
-- ![](./assets/pr-merged.svg) [ Remove deprecated controller_resolver configuration and update Doctrine ORM settings](https://github.com/symfony/ux/pull/3199) on [symfony/ux](https://github.com/symfony/ux) (5 days ago)
+- ![](./assets/pr-open.svg) [[UXTranslator] Add recipe for 2.32](https://github.com/symfony/recipes/pull/1498) on [symfony/recipes](https://github.com/symfony/recipes) (2 days ago)
+- ![](./assets/pr-open.svg) [[Translator] Refactor API to use string-based translation keys instead of generated constants](https://github.com/symfony/ux/pull/3208) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
+- ![](./assets/pr-merged.svg) [ Git-ignore config/reference.php](https://github.com/symfony/ux/pull/3205) on [symfony/ux](https://github.com/symfony/ux) (3 days ago)
+- ![](./assets/pr-merged.svg) [Symfony 8](https://github.com/bakslashHQ/baksla.sh/pull/99) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (4 days ago)
+- ![](./assets/pr-merged.svg) [Symfony 7.4](https://github.com/Kocal/hugo.alliau.me/pull/80) on [Kocal/hugo.alliau.me](https://github.com/Kocal/hugo.alliau.me) (4 days ago)
+- ![](./assets/pr-merged.svg) [[Icons] Fix `aliases` and `default_attributes` config types for `config/reference.php`](https://github.com/symfony/ux/pull/3200) on [symfony/ux](https://github.com/symfony/ux) (5 days ago)
+- ![](./assets/pr-merged.svg) [ Remove deprecated controller_resolver configuration and update Doctrine ORM settings](https://github.com/symfony/ux/pull/3199) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
 - ![](./assets/pr-merged.svg) [ Tests on Symfony 8 stable](https://github.com/symfony/ux/pull/3192) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-closed.svg) [Tests on Symfony 8 stable](https://github.com/zenstruck/foundry/pull/1036) on [zenstruck/foundry](https://github.com/zenstruck/foundry) (1 week ago)
 - ![](./assets/pr-merged.svg) [Use Fabbot in the CI (for real 😇)](https://github.com/symfony/webpack-encore-bundle/pull/255) on [symfony/webpack-encore-bundle](https://github.com/symfony/webpack-encore-bundle) (1 week ago)
