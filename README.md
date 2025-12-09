@@ -2,13 +2,14 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [[Translator] Reword `dump_typescript` option description](https://github.com/symfony/ux/pull/3221) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
-- ![](./assets/pr-merged.svg) [[Translator] Early exit parameters extraction from Intl messages, if no `{` is found](https://github.com/symfony/ux/pull/3219) on [symfony/ux](https://github.com/symfony/ux) (3 days ago)
-- ![](./assets/pr-merged.svg) [[UXTranslator] Update recipe with `dump_typescript` config](https://github.com/symfony/recipes/pull/1499) on [symfony/recipes](https://github.com/symfony/recipes) (3 days ago)
-- ![](./assets/pr-merged.svg) [[Translator] Add option `ux_translator.dump_typescript` to enable/disable TypeScript types generation](https://github.com/symfony/ux/pull/3218) on [symfony/ux](https://github.com/symfony/ux) (3 days ago)
-- ![](./assets/pr-merged.svg) [[UXTranslator] Add recipe for 2.32](https://github.com/symfony/recipes/pull/1498) on [symfony/recipes](https://github.com/symfony/recipes) (5 days ago)
-- ![](./assets/pr-merged.svg) [[Translator] Refactor API to use string-based translation keys instead of generated constants](https://github.com/symfony/ux/pull/3208) on [symfony/ux](https://github.com/symfony/ux) (5 days ago)
-- ![](./assets/pr-merged.svg) [ Git-ignore config/reference.php](https://github.com/symfony/ux/pull/3205) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
+- ![](./assets/pr-merged.svg) [[Site] Hide Toolkit menu](https://github.com/symfony/ux/pull/3224) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
+- ![](./assets/pr-merged.svg) [[Translator] Reword `dump_typescript` option description](https://github.com/symfony/ux/pull/3221) on [symfony/ux](https://github.com/symfony/ux) (3 days ago)
+- ![](./assets/pr-merged.svg) [[Translator] Early exit parameters extraction from Intl messages, if no `{` is found](https://github.com/symfony/ux/pull/3219) on [symfony/ux](https://github.com/symfony/ux) (4 days ago)
+- ![](./assets/pr-merged.svg) [[UXTranslator] Update recipe with `dump_typescript` config](https://github.com/symfony/recipes/pull/1499) on [symfony/recipes](https://github.com/symfony/recipes) (4 days ago)
+- ![](./assets/pr-merged.svg) [[Translator] Add option `ux_translator.dump_typescript` to enable/disable TypeScript types generation](https://github.com/symfony/ux/pull/3218) on [symfony/ux](https://github.com/symfony/ux) (4 days ago)
+- ![](./assets/pr-merged.svg) [[UXTranslator] Add recipe for 2.32](https://github.com/symfony/recipes/pull/1498) on [symfony/recipes](https://github.com/symfony/recipes) (6 days ago)
+- ![](./assets/pr-merged.svg) [[Translator] Refactor API to use string-based translation keys instead of generated constants](https://github.com/symfony/ux/pull/3208) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
+- ![](./assets/pr-merged.svg) [ Git-ignore config/reference.php](https://github.com/symfony/ux/pull/3205) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [Symfony 8](https://github.com/bakslashHQ/baksla.sh/pull/99) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (1 week ago)
 - ![](./assets/pr-merged.svg) [Symfony 7.4](https://github.com/Kocal/hugo.alliau.me/pull/80) on [Kocal/hugo.alliau.me](https://github.com/Kocal/hugo.alliau.me) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Icons] Fix `aliases` and `default_attributes` config types for `config/reference.php`](https://github.com/symfony/ux/pull/3200) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
@@ -21,11 +22,10 @@
 - ![](./assets/pr-merged.svg) [Tests on Symfony 8 stable](https://github.com/Kocal/OxlintBundle/pull/4) on [Kocal/OxlintBundle](https://github.com/Kocal/OxlintBundle) (1 week ago)
 - ![](./assets/pr-merged.svg) [Tests on Symfony 8 stable](https://github.com/Kocal/BiomeJsBundle/pull/37) on [Kocal/BiomeJsBundle](https://github.com/Kocal/BiomeJsBundle) (1 week ago)
 - ![](./assets/pr-merged.svg) [ Fix 2.x -&gt; 3.x merge](https://github.com/symfony/ux/pull/3191) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
-- ![](./assets/pr-merged.svg) [[Notifier][Mercure] Add support for Mercure 0.7](https://github.com/symfony/symfony/pull/62524) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 
 #### 📜 My recent blog posts (https://hugo.alliau.me/blog)
 
-- [Using Value Objects as Doctrine Entity IDs: A Deep Dive](https://hugo.alliau.me/blog/posts/using-value-objects-as-doctrine-entity-ids-a-deep-dive) (1 week ago)
+- [Using Value Objects as Doctrine Entity IDs: A Deep Dive](https://hugo.alliau.me/blog/posts/using-value-objects-as-doctrine-entity-ids-a-deep-dive) (2 weeks ago)
 - [Coolify self-hosting and Caddy as a proxy](https://hugo.alliau.me/blog/posts/coolify-self-hosting-and-caddy-as-a-proxy) (4 months ago)
 - [A Better Architecture for Your Symfony UX Twig Components](https://hugo.alliau.me/blog/posts/a-better-architecture-for-your-symfony-ux-twig-components) (1 year ago)
 - [Une meilleure architecture pour vos Twig Components de Symfony UX](https://hugo.alliau.me/blog/posts/une-meilleure-architecture-pour-vous-twig-components-de-symfony-ux) (1 year ago)
