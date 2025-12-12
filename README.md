@@ -2,12 +2,14 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-closed.svg) [[Apps] Use Composer local repositories for UX packages](https://github.com/symfony/ux/pull/3225) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
-- ![](./assets/pr-merged.svg) [[Site] Hide Toolkit menu](https://github.com/symfony/ux/pull/3224) on [symfony/ux](https://github.com/symfony/ux) (3 days ago)
-- ![](./assets/pr-merged.svg) [[Translator] Reword `dump_typescript` option description](https://github.com/symfony/ux/pull/3221) on [symfony/ux](https://github.com/symfony/ux) (5 days ago)
-- ![](./assets/pr-merged.svg) [[Translator] Early exit parameters extraction from Intl messages, if no `{` is found](https://github.com/symfony/ux/pull/3219) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
-- ![](./assets/pr-merged.svg) [[UXTranslator] Update recipe with `dump_typescript` config](https://github.com/symfony/recipes/pull/1499) on [symfony/recipes](https://github.com/symfony/recipes) (6 days ago)
-- ![](./assets/pr-merged.svg) [[Translator] Add option `ux_translator.dump_typescript` to enable/disable TypeScript types generation](https://github.com/symfony/ux/pull/3218) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
+- ![](./assets/pr-open.svg) [ Add E2E tests for Autocomplete](https://github.com/symfony/ux/pull/3230) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
+- ![](./assets/pr-merged.svg) [[Site] Minor fixes before deployement](https://github.com/symfony/ux/pull/3229) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
+- ![](./assets/pr-closed.svg) [[Apps] Use Composer local repositories for UX packages](https://github.com/symfony/ux/pull/3225) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
+- ![](./assets/pr-merged.svg) [[Site] Hide Toolkit menu](https://github.com/symfony/ux/pull/3224) on [symfony/ux](https://github.com/symfony/ux) (4 days ago)
+- ![](./assets/pr-merged.svg) [[Translator] Reword `dump_typescript` option description](https://github.com/symfony/ux/pull/3221) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
+- ![](./assets/pr-merged.svg) [[Translator] Early exit parameters extraction from Intl messages, if no `{` is found](https://github.com/symfony/ux/pull/3219) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
+- ![](./assets/pr-merged.svg) [[UXTranslator] Update recipe with `dump_typescript` config](https://github.com/symfony/recipes/pull/1499) on [symfony/recipes](https://github.com/symfony/recipes) (1 week ago)
+- ![](./assets/pr-merged.svg) [[Translator] Add option `ux_translator.dump_typescript` to enable/disable TypeScript types generation](https://github.com/symfony/ux/pull/3218) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[UXTranslator] Add recipe for 2.32](https://github.com/symfony/recipes/pull/1498) on [symfony/recipes](https://github.com/symfony/recipes) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Translator] Refactor API to use string-based translation keys instead of generated constants](https://github.com/symfony/ux/pull/3208) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [ Git-ignore config/reference.php](https://github.com/symfony/ux/pull/3205) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
@@ -20,8 +22,6 @@
 - ![](./assets/pr-merged.svg) [Use Fabbot in the CI (for real 😇)](https://github.com/symfony/webpack-encore-bundle/pull/255) on [symfony/webpack-encore-bundle](https://github.com/symfony/webpack-encore-bundle) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Use Fabbot in the CI](https://github.com/symfony/webpack-encore-bundle/pull/254) on [symfony/webpack-encore-bundle](https://github.com/symfony/webpack-encore-bundle) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Tests on Symfony 8 stable](https://github.com/symfony/webpack-encore-bundle/pull/253) on [symfony/webpack-encore-bundle](https://github.com/symfony/webpack-encore-bundle) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [Tests on Symfony 8 stable](https://github.com/Kocal/OxlintBundle/pull/4) on [Kocal/OxlintBundle](https://github.com/Kocal/OxlintBundle) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [Tests on Symfony 8 stable](https://github.com/Kocal/BiomeJsBundle/pull/37) on [Kocal/BiomeJsBundle](https://github.com/Kocal/BiomeJsBundle) (2 weeks ago)
 
 #### 📜 My recent blog posts (https://hugo.alliau.me/blog)
 
