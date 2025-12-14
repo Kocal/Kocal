@@ -2,10 +2,10 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [ Add E2E tests for Autocomplete](https://github.com/symfony/ux/pull/3230) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
-- ![](./assets/pr-merged.svg) [[Site] Minor fixes before deployement](https://github.com/symfony/ux/pull/3229) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
-- ![](./assets/pr-closed.svg) [[Apps] Use Composer local repositories for UX packages](https://github.com/symfony/ux/pull/3225) on [symfony/ux](https://github.com/symfony/ux) (3 days ago)
-- ![](./assets/pr-merged.svg) [[Site] Hide Toolkit menu](https://github.com/symfony/ux/pull/3224) on [symfony/ux](https://github.com/symfony/ux) (5 days ago)
+- ![](./assets/pr-merged.svg) [ Add E2E tests for Autocomplete](https://github.com/symfony/ux/pull/3230) on [symfony/ux](https://github.com/symfony/ux) (3 days ago)
+- ![](./assets/pr-merged.svg) [[Site] Minor fixes before deployement](https://github.com/symfony/ux/pull/3229) on [symfony/ux](https://github.com/symfony/ux) (3 days ago)
+- ![](./assets/pr-closed.svg) [[Apps] Use Composer local repositories for UX packages](https://github.com/symfony/ux/pull/3225) on [symfony/ux](https://github.com/symfony/ux) (4 days ago)
+- ![](./assets/pr-merged.svg) [[Site] Hide Toolkit menu](https://github.com/symfony/ux/pull/3224) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
 - ![](./assets/pr-merged.svg) [[Translator] Reword `dump_typescript` option description](https://github.com/symfony/ux/pull/3221) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Translator] Early exit parameters extraction from Intl messages, if no `{` is found](https://github.com/symfony/ux/pull/3219) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[UXTranslator] Update recipe with `dump_typescript` config](https://github.com/symfony/recipes/pull/1499) on [symfony/recipes](https://github.com/symfony/recipes) (1 week ago)
@@ -15,7 +15,7 @@
 - ![](./assets/pr-merged.svg) [ Git-ignore config/reference.php](https://github.com/symfony/ux/pull/3205) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [Symfony 8](https://github.com/bakslashHQ/baksla.sh/pull/99) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (1 week ago)
 - ![](./assets/pr-merged.svg) [Symfony 7.4](https://github.com/Kocal/hugo.alliau.me/pull/80) on [Kocal/hugo.alliau.me](https://github.com/Kocal/hugo.alliau.me) (1 week ago)
-- ![](./assets/pr-merged.svg) [[Icons] Fix `aliases` and `default_attributes` config types for `config/reference.php`](https://github.com/symfony/ux/pull/3200) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
+- ![](./assets/pr-merged.svg) [[Icons] Fix `aliases` and `default_attributes` config types for `config/reference.php`](https://github.com/symfony/ux/pull/3200) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [ Remove deprecated controller_resolver configuration and update Doctrine ORM settings](https://github.com/symfony/ux/pull/3199) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [ Tests on Symfony 8 stable](https://github.com/symfony/ux/pull/3192) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-closed.svg) [Tests on Symfony 8 stable](https://github.com/zenstruck/foundry/pull/1036) on [zenstruck/foundry](https://github.com/zenstruck/foundry) (2 weeks ago)
