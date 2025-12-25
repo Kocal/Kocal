@@ -2,10 +2,10 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [[E2E]  Add quality tools: PHP-CS-Fixer and Twig-CS-Fixer](https://github.com/symfony/ux/pull/3249) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
-- ![](./assets/pr-open.svg) [[Translator] Add `keys_patterns` configuration option to filter dumped translations by key patterns](https://github.com/symfony/ux/pull/3248) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
-- ![](./assets/pr-open.svg) [Enhance enum.rst with dynamic case example](https://github.com/twigphp/Twig/pull/4726) on [twigphp/Twig](https://github.com/twigphp/Twig) (2 days ago)
-- ![](./assets/pr-merged.svg) [[Translator] Refactor `TranslationsDumper` options from `__constructor` and setters, to `dump` method](https://github.com/symfony/ux/pull/3244) on [symfony/ux](https://github.com/symfony/ux) (5 days ago)
+- ![](./assets/pr-open.svg) [[E2E]  Add quality tools: PHP-CS-Fixer and Twig-CS-Fixer](https://github.com/symfony/ux/pull/3249) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
+- ![](./assets/pr-open.svg) [[Translator] Add `keys_patterns` configuration option to filter dumped translations by key patterns](https://github.com/symfony/ux/pull/3248) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
+- ![](./assets/pr-open.svg) [Enhance enum.rst with dynamic case example](https://github.com/twigphp/Twig/pull/4726) on [twigphp/Twig](https://github.com/twigphp/Twig) (3 days ago)
+- ![](./assets/pr-merged.svg) [[Translator] Refactor `TranslationsDumper` options from `__constructor` and setters, to `dump` method](https://github.com/symfony/ux/pull/3244) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
 - ![](./assets/pr-merged.svg) [ Add E2E tests for CropperJS](https://github.com/symfony/ux/pull/3240) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [ Add E2E tests for Turbo](https://github.com/symfony/ux/pull/3239) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [ Add E2E tests for Chart.js](https://github.com/symfony/ux/pull/3237) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
@@ -15,8 +15,8 @@
 - ![](./assets/pr-merged.svg) [Add `LivePropModifierMethodRule` rule](https://github.com/Kocal/phpstan-symfony-ux/pull/18) on [Kocal/phpstan-symfony-ux](https://github.com/Kocal/phpstan-symfony-ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [Add `LivePropHydrationMethodsRule` rule](https://github.com/Kocal/phpstan-symfony-ux/pull/17) on [Kocal/phpstan-symfony-ux](https://github.com/Kocal/phpstan-symfony-ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [ Add E2E tests for LiveComponent](https://github.com/symfony/ux/pull/3235) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
-- ![](./assets/pr-merged.svg) [ Add E2E tests for Autocomplete](https://github.com/symfony/ux/pull/3230) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
-- ![](./assets/pr-merged.svg) [[Site] Minor fixes before deployement](https://github.com/symfony/ux/pull/3229) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
+- ![](./assets/pr-merged.svg) [ Add E2E tests for Autocomplete](https://github.com/symfony/ux/pull/3230) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
+- ![](./assets/pr-merged.svg) [[Site] Minor fixes before deployement](https://github.com/symfony/ux/pull/3229) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-closed.svg) [[Apps] Use Composer local repositories for UX packages](https://github.com/symfony/ux/pull/3225) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[Site] Hide Toolkit menu](https://github.com/symfony/ux/pull/3224) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[Translator] Reword `dump_typescript` option description](https://github.com/symfony/ux/pull/3221) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
@@ -25,7 +25,7 @@
 
 #### 📜 My recent blog posts (https://hugo.alliau.me/blog)
 
-- [Using Value Objects as Doctrine Entity IDs: A Deep Dive](https://hugo.alliau.me/blog/posts/using-value-objects-as-doctrine-entity-ids-a-deep-dive) (4 weeks ago)
+- [Using Value Objects as Doctrine Entity IDs: A Deep Dive](https://hugo.alliau.me/blog/posts/using-value-objects-as-doctrine-entity-ids-a-deep-dive) (1 month ago)
 - [Coolify self-hosting and Caddy as a proxy](https://hugo.alliau.me/blog/posts/coolify-self-hosting-and-caddy-as-a-proxy) (5 months ago)
 - [A Better Architecture for Your Symfony UX Twig Components](https://hugo.alliau.me/blog/posts/a-better-architecture-for-your-symfony-ux-twig-components) (1 year ago)
 - [Une meilleure architecture pour vos Twig Components de Symfony UX](https://hugo.alliau.me/blog/posts/une-meilleure-architecture-pour-vous-twig-components-de-symfony-ux) (1 year ago)
