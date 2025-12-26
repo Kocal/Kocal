@@ -2,10 +2,14 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [[E2E]  Add quality tools: PHP-CS-Fixer and Twig-CS-Fixer](https://github.com/symfony/ux/pull/3249) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
-- ![](./assets/pr-open.svg) [[Translator] Add `keys_patterns` configuration option to filter dumped translations by key patterns](https://github.com/symfony/ux/pull/3248) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
-- ![](./assets/pr-open.svg) [Enhance enum.rst with dynamic case example](https://github.com/twigphp/Twig/pull/4726) on [twigphp/Twig](https://github.com/twigphp/Twig) (3 days ago)
-- ![](./assets/pr-merged.svg) [[Translator] Refactor `TranslationsDumper` options from `__constructor` and setters, to `dump` method](https://github.com/symfony/ux/pull/3244) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
+- ![](./assets/pr-merged.svg) [[Pkg] Fix pnpm build command](https://github.com/symfony/ux/pull/3252) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
+- ![](./assets/pr-open.svg) [ Truly leverage PHP-CS-Fixer and Twig-CS-Fixer to Fabbot](https://github.com/symfony/ux/pull/3251) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
+- ![](./assets/pr-open.svg) [Add support for Twig-CS-Fixer](https://github.com/symfony-tools/fabbot/pull/12) on [symfony-tools/fabbot](https://github.com/symfony-tools/fabbot) (1 day ago)
+- ![](./assets/pr-merged.svg) [ Pin phpdocumentor/reflection-docblock to non dev version](https://github.com/symfony/ux/pull/3250) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
+- ![](./assets/pr-merged.svg) [[E2E] Add quality tools: PHP-CS-Fixer and Twig-CS-Fixer](https://github.com/symfony/ux/pull/3249) on [symfony/ux](https://github.com/symfony/ux) (3 days ago)
+- ![](./assets/pr-open.svg) [[Translator] Add `keys_patterns` configuration option to filter dumped translations by key patterns](https://github.com/symfony/ux/pull/3248) on [symfony/ux](https://github.com/symfony/ux) (3 days ago)
+- ![](./assets/pr-open.svg) [Enhance enum.rst with dynamic case example](https://github.com/twigphp/Twig/pull/4726) on [twigphp/Twig](https://github.com/twigphp/Twig) (4 days ago)
+- ![](./assets/pr-merged.svg) [[Translator] Refactor `TranslationsDumper` options from `__constructor` and setters, to `dump` method](https://github.com/symfony/ux/pull/3244) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [ Add E2E tests for CropperJS](https://github.com/symfony/ux/pull/3240) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [ Add E2E tests for Turbo](https://github.com/symfony/ux/pull/3239) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [ Add E2E tests for Chart.js](https://github.com/symfony/ux/pull/3237) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
@@ -18,10 +22,6 @@
 - ![](./assets/pr-merged.svg) [ Add E2E tests for Autocomplete](https://github.com/symfony/ux/pull/3230) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[Site] Minor fixes before deployement](https://github.com/symfony/ux/pull/3229) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-closed.svg) [[Apps] Use Composer local repositories for UX packages](https://github.com/symfony/ux/pull/3225) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [[Site] Hide Toolkit menu](https://github.com/symfony/ux/pull/3224) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [[Translator] Reword `dump_typescript` option description](https://github.com/symfony/ux/pull/3221) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [[Translator] Early exit parameters extraction from Intl messages, if no `{` is found](https://github.com/symfony/ux/pull/3219) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [[UXTranslator] Update recipe with `dump_typescript` config](https://github.com/symfony/recipes/pull/1499) on [symfony/recipes](https://github.com/symfony/recipes) (2 weeks ago)
 
 #### 📜 My recent blog posts (https://hugo.alliau.me/blog)
 
