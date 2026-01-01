@@ -2,15 +2,16 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [[Site] Rework Toolkit recipe rendering system, improve our Markdown converter](https://github.com/symfony/ux/pull/3256) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
-- ![](./assets/pr-merged.svg) [[Docs] Fix &#34;rendering&#34; page rendering](https://github.com/thephpleague/commonmark/pull/1106) on [thephpleague/commonmark](https://github.com/thephpleague/commonmark) (2 days ago)
-- ![](./assets/pr-merged.svg) [[Site] Un-hide Toolkit, partially reverts #3224](https://github.com/symfony/ux/pull/3255) on [symfony/ux](https://github.com/symfony/ux) (4 days ago)
-- ![](./assets/pr-merged.svg) [[Toolkit] Fix forgotten documentation links, follows #3097](https://github.com/symfony/ux/pull/3254) on [symfony/ux](https://github.com/symfony/ux) (5 days ago)
-- ![](./assets/pr-closed.svg) [[PhpUnit] Drop PHPUnit 9.5 in favor of ^10.5|^11.5](https://github.com/symfony/ux/pull/3253) on [symfony/ux](https://github.com/symfony/ux) (5 days ago)
-- ![](./assets/pr-merged.svg) [[Pkg] Fix pnpm build command](https://github.com/symfony/ux/pull/3252) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
-- ![](./assets/pr-merged.svg) [ Truly leverage PHP-CS-Fixer and Twig-CS-Fixer to Fabbot](https://github.com/symfony/ux/pull/3251) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
-- ![](./assets/pr-open.svg) [Add support for Twig-CS-Fixer](https://github.com/symfony-tools/fabbot/pull/12) on [symfony-tools/fabbot](https://github.com/symfony-tools/fabbot) (6 days ago)
-- ![](./assets/pr-merged.svg) [ Pin phpdocumentor/reflection-docblock to non dev version](https://github.com/symfony/ux/pull/3250) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
+- ![](./assets/pr-merged.svg) [[*CS-Fixer] Ensure &#34;apps/&#34; exists before adding it in Finder](https://github.com/symfony/ux/pull/3257) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
+- ![](./assets/pr-open.svg) [[Site] Rework Toolkit recipe rendering system, improve our Markdown converter](https://github.com/symfony/ux/pull/3256) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
+- ![](./assets/pr-merged.svg) [[Docs] Fix &#34;rendering&#34; page rendering](https://github.com/thephpleague/commonmark/pull/1106) on [thephpleague/commonmark](https://github.com/thephpleague/commonmark) (3 days ago)
+- ![](./assets/pr-merged.svg) [[Site] Un-hide Toolkit, partially reverts #3224](https://github.com/symfony/ux/pull/3255) on [symfony/ux](https://github.com/symfony/ux) (5 days ago)
+- ![](./assets/pr-merged.svg) [[Toolkit] Fix forgotten documentation links, follows #3097](https://github.com/symfony/ux/pull/3254) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
+- ![](./assets/pr-closed.svg) [[PhpUnit] Drop PHPUnit 9.5 in favor of ^10.5|^11.5](https://github.com/symfony/ux/pull/3253) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
+- ![](./assets/pr-merged.svg) [[Pkg] Fix pnpm build command](https://github.com/symfony/ux/pull/3252) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
+- ![](./assets/pr-merged.svg) [ Truly leverage PHP-CS-Fixer and Twig-CS-Fixer to Fabbot](https://github.com/symfony/ux/pull/3251) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
+- ![](./assets/pr-open.svg) [Add support for Twig-CS-Fixer](https://github.com/symfony-tools/fabbot/pull/12) on [symfony-tools/fabbot](https://github.com/symfony-tools/fabbot) (1 week ago)
+- ![](./assets/pr-merged.svg) [ Pin phpdocumentor/reflection-docblock to non dev version](https://github.com/symfony/ux/pull/3250) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[E2E] Add quality tools: PHP-CS-Fixer and Twig-CS-Fixer](https://github.com/symfony/ux/pull/3249) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Translator] Add `keys_patterns` configuration option to filter dumped translations by key patterns](https://github.com/symfony/ux/pull/3248) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-open.svg) [Enhance enum.rst with dynamic case example](https://github.com/twigphp/Twig/pull/4726) on [twigphp/Twig](https://github.com/twigphp/Twig) (1 week ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-merged.svg) [Rename some rules](https://github.com/Kocal/phpstan-symfony-ux/pull/21) on [Kocal/phpstan-symfony-ux](https://github.com/Kocal/phpstan-symfony-ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Homogenize codebase](https://github.com/Kocal/phpstan-symfony-ux/pull/20) on [Kocal/phpstan-symfony-ux](https://github.com/Kocal/phpstan-symfony-ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Tweak `MethodsShouldBePublicOrPrivateRule` to accept abstract protected methods](https://github.com/Kocal/phpstan-symfony-ux/pull/19) on [Kocal/phpstan-symfony-ux](https://github.com/Kocal/phpstan-symfony-ux) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [Add `LivePropModifierMethodRule` rule](https://github.com/Kocal/phpstan-symfony-ux/pull/18) on [Kocal/phpstan-symfony-ux](https://github.com/Kocal/phpstan-symfony-ux) (2 weeks ago)
 
 #### 📜 My recent blog posts (https://hugo.alliau.me/blog)
 
