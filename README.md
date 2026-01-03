@@ -2,12 +2,12 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [Improve markdown files](https://github.com/Kocal/phpstan-symfony-ux/pull/22) on [Kocal/phpstan-symfony-ux](https://github.com/Kocal/phpstan-symfony-ux) (1 day ago)
-- ![](./assets/pr-merged.svg) [[Toolkit][Shadcn] Update CSS file](https://github.com/symfony/ux/pull/3258) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
-- ![](./assets/pr-merged.svg) [[*CS-Fixer] Ensure &#34;apps/&#34; exists before adding it in Finder](https://github.com/symfony/ux/pull/3257) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
-- ![](./assets/pr-merged.svg) [[Site] Rework Toolkit recipe rendering system, improve our Markdown converter](https://github.com/symfony/ux/pull/3256) on [symfony/ux](https://github.com/symfony/ux) (3 days ago)
-- ![](./assets/pr-merged.svg) [[Docs] Fix &#34;rendering&#34; page rendering](https://github.com/thephpleague/commonmark/pull/1106) on [thephpleague/commonmark](https://github.com/thephpleague/commonmark) (4 days ago)
-- ![](./assets/pr-merged.svg) [[Site] Un-hide Toolkit, partially reverts #3224](https://github.com/symfony/ux/pull/3255) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
+- ![](./assets/pr-merged.svg) [Improve markdown files](https://github.com/Kocal/phpstan-symfony-ux/pull/22) on [Kocal/phpstan-symfony-ux](https://github.com/Kocal/phpstan-symfony-ux) (2 days ago)
+- ![](./assets/pr-merged.svg) [[Toolkit][Shadcn] Update CSS file](https://github.com/symfony/ux/pull/3258) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
+- ![](./assets/pr-merged.svg) [[*CS-Fixer] Ensure &#34;apps/&#34; exists before adding it in Finder](https://github.com/symfony/ux/pull/3257) on [symfony/ux](https://github.com/symfony/ux) (3 days ago)
+- ![](./assets/pr-merged.svg) [[Site] Rework Toolkit recipe rendering system, improve our Markdown converter](https://github.com/symfony/ux/pull/3256) on [symfony/ux](https://github.com/symfony/ux) (4 days ago)
+- ![](./assets/pr-merged.svg) [[Docs] Fix &#34;rendering&#34; page rendering](https://github.com/thephpleague/commonmark/pull/1106) on [thephpleague/commonmark](https://github.com/thephpleague/commonmark) (5 days ago)
+- ![](./assets/pr-merged.svg) [[Site] Un-hide Toolkit, partially reverts #3224](https://github.com/symfony/ux/pull/3255) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Toolkit] Fix forgotten documentation links, follows #3097](https://github.com/symfony/ux/pull/3254) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-closed.svg) [[PhpUnit] Drop PHPUnit 9.5 in favor of ^10.5|^11.5](https://github.com/symfony/ux/pull/3253) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Pkg] Fix pnpm build command](https://github.com/symfony/ux/pull/3252) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
