@@ -2,12 +2,12 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [ Fix npm releases due to `repository` issue](https://github.com/symfony/ux/pull/3304) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
-- ![](./assets/pr-open.svg) [Import and migrate Toolkit recipces here](https://github.com/symfony/ux.symfony.com/pull/3) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (1 day ago)
-- ![](./assets/pr-closed.svg) [Import and migrate Toolkit recipces here](https://github.com/Kocal/ux.symfony.com/pull/1) on [Kocal/ux.symfony.com](https://github.com/Kocal/ux.symfony.com) (1 day ago)
-- ![](./assets/pr-merged.svg) [[Toolkit][Shadcn] Fix text color in dark mode for AlertDialog/Dialog components](https://github.com/symfony/ux/pull/3300) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
-- ![](./assets/pr-open.svg) [[Toolkit] Rework recipes docs/examples](https://github.com/symfony/ux/pull/3299) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
-- ![](./assets/pr-merged.svg) [ Move the website to external repository](https://github.com/symfony/ux/pull/3294) on [symfony/ux](https://github.com/symfony/ux) (5 days ago)
+- ![](./assets/pr-merged.svg) [ Fix npm releases due to `repository` issue](https://github.com/symfony/ux/pull/3304) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
+- ![](./assets/pr-merged.svg) [Import and migrate Toolkit recipes here](https://github.com/symfony/ux.symfony.com/pull/3) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (2 days ago)
+- ![](./assets/pr-closed.svg) [Import and migrate Toolkit recipces here](https://github.com/Kocal/ux.symfony.com/pull/1) on [Kocal/ux.symfony.com](https://github.com/Kocal/ux.symfony.com) (2 days ago)
+- ![](./assets/pr-merged.svg) [[Toolkit][Shadcn] Fix text color in dark mode for AlertDialog/Dialog components](https://github.com/symfony/ux/pull/3300) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
+- ![](./assets/pr-merged.svg) [[Toolkit] Rework recipes docs/examples](https://github.com/symfony/ux/pull/3299) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
+- ![](./assets/pr-merged.svg) [ Move the website to external repository](https://github.com/symfony/ux/pull/3294) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
 - ![](./assets/pr-merged.svg) [ Update root JS dependencies](https://github.com/symfony/ux/pull/3290) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Site] Update to Symfony 8](https://github.com/symfony/ux/pull/3289) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Site] Update to PHP 8.5](https://github.com/symfony/ux/pull/3288) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
@@ -20,7 +20,7 @@
 - ![](./assets/pr-merged.svg) [[CI] Fix installation of PropertyInfo and TypeInfo for LiveComponent](https://github.com/symfony/ux/pull/3276) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-closed.svg) [feat(@rspack-cli): make @rspack/dev-server and webpack-bundle-analyzer peer dependencies](https://github.com/web-infra-dev/rspack/pull/12682) on [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Site] Set dark/light theme of Toolkit preview iframes, given current page theme](https://github.com/symfony/ux/pull/3270) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
-- ![](./assets/pr-merged.svg) [Run Twig-CS-Fixer if config file exists](https://github.com/symfony-tools/fabbot/pull/14) on [symfony-tools/fabbot](https://github.com/symfony-tools/fabbot) (1 week ago)
+- ![](./assets/pr-merged.svg) [Run Twig-CS-Fixer if config file exists](https://github.com/symfony-tools/fabbot/pull/14) on [symfony-tools/fabbot](https://github.com/symfony-tools/fabbot) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [ Update index.rst with MarkdownTextarea template info](https://github.com/symfony/ux/pull/3267) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 
 #### 📜 My recent blog posts (https://hugo.alliau.me/blog)
