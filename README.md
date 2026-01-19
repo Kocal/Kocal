@@ -2,12 +2,12 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [ Fix npm releases due to `repository` issue](https://github.com/symfony/ux/pull/3304) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
-- ![](./assets/pr-merged.svg) [Import and migrate Toolkit recipes here](https://github.com/symfony/ux.symfony.com/pull/3) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (2 days ago)
-- ![](./assets/pr-closed.svg) [Import and migrate Toolkit recipces here](https://github.com/Kocal/ux.symfony.com/pull/1) on [Kocal/ux.symfony.com](https://github.com/Kocal/ux.symfony.com) (2 days ago)
-- ![](./assets/pr-merged.svg) [[Toolkit][Shadcn] Fix text color in dark mode for AlertDialog/Dialog components](https://github.com/symfony/ux/pull/3300) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
-- ![](./assets/pr-merged.svg) [[Toolkit] Rework recipes docs/examples](https://github.com/symfony/ux/pull/3299) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
-- ![](./assets/pr-merged.svg) [ Move the website to external repository](https://github.com/symfony/ux/pull/3294) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
+- ![](./assets/pr-merged.svg) [ Fix npm releases due to `repository` issue](https://github.com/symfony/ux/pull/3304) on [symfony/ux](https://github.com/symfony/ux) (3 days ago)
+- ![](./assets/pr-merged.svg) [Import and migrate Toolkit recipes here](https://github.com/symfony/ux.symfony.com/pull/3) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (3 days ago)
+- ![](./assets/pr-closed.svg) [Import and migrate Toolkit recipces here](https://github.com/Kocal/ux.symfony.com/pull/1) on [Kocal/ux.symfony.com](https://github.com/Kocal/ux.symfony.com) (3 days ago)
+- ![](./assets/pr-merged.svg) [[Toolkit][Shadcn] Fix text color in dark mode for AlertDialog/Dialog components](https://github.com/symfony/ux/pull/3300) on [symfony/ux](https://github.com/symfony/ux) (3 days ago)
+- ![](./assets/pr-merged.svg) [[Toolkit] Rework recipes docs/examples](https://github.com/symfony/ux/pull/3299) on [symfony/ux](https://github.com/symfony/ux) (3 days ago)
+- ![](./assets/pr-merged.svg) [ Move the website to external repository](https://github.com/symfony/ux/pull/3294) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [ Update root JS dependencies](https://github.com/symfony/ux/pull/3290) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Site] Update to Symfony 8](https://github.com/symfony/ux/pull/3289) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Site] Update to PHP 8.5](https://github.com/symfony/ux/pull/3288) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
