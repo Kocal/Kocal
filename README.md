@@ -2,8 +2,10 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [[Toolkit][Shadcn] Fix `InputGroup` example](https://github.com/symfony/ux/pull/3315) on [symfony/ux](https://github.com/symfony/ux) (4 days ago)
-- ![](./assets/pr-merged.svg) [[React] Add support for React 19](https://github.com/symfony/ux/pull/3314) on [symfony/ux](https://github.com/symfony/ux) (4 days ago)
+- ![](./assets/pr-merged.svg) [[Toolkit][Shadcn] Add documentation for Accordion recipe](https://github.com/symfony/ux.symfony.com/pull/8) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (1 day ago)
+- ![](./assets/pr-merged.svg) [[Toolkit] Fix `Field` demo code](https://github.com/symfony/ux/pull/3320) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
+- ![](./assets/pr-merged.svg) [[Toolkit][Shadcn] Fix `InputGroup` example](https://github.com/symfony/ux/pull/3315) on [symfony/ux](https://github.com/symfony/ux) (5 days ago)
+- ![](./assets/pr-merged.svg) [[React] Add support for React 19](https://github.com/symfony/ux/pull/3314) on [symfony/ux](https://github.com/symfony/ux) (5 days ago)
 - ![](./assets/pr-merged.svg) [Add PHPStan](https://github.com/symfony/ux.symfony.com/pull/7) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (1 week ago)
 - ![](./assets/pr-merged.svg) [Replace `_em` by `getEntityManager()`, close #5](https://github.com/symfony/ux.symfony.com/pull/6) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (1 week ago)
 - ![](./assets/pr-merged.svg) [ Fix npm releases due to `repository` issue](https://github.com/symfony/ux/pull/3304) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
@@ -20,8 +22,6 @@
 - ![](./assets/pr-merged.svg) [Remove double wildcard on AssetMapper `excluded_patterns` configuration](https://github.com/symfony/demo/pull/1632) on [symfony/demo](https://github.com/symfony/demo) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[StimulusBundle] Change AssetMapper `excluded_patterns` from `**/controllers.json` to `*/controllers.json`](https://github.com/symfony/ux/pull/3285) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[CI] Fix compatibility issues with Symfony 8 and spatie/phpunit-snapshot-assertions](https://github.com/symfony/ux/pull/3280) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [[CI] Remove usage of framework.annotations.enabled](https://github.com/symfony/ux/pull/3279) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [[CI] Fix installation of PropertyInfo and TypeInfo for LiveComponent](https://github.com/symfony/ux/pull/3276) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 
 #### 📜 My recent blog posts (https://hugo.alliau.me/blog)
 
