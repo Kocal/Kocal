@@ -2,10 +2,10 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [[Toolkit][Shadcn] Add documentation for Accordion recipe](https://github.com/symfony/ux.symfony.com/pull/8) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (1 day ago)
-- ![](./assets/pr-merged.svg) [[Toolkit] Fix `Field` demo code](https://github.com/symfony/ux/pull/3320) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
-- ![](./assets/pr-merged.svg) [[Toolkit][Shadcn] Fix `InputGroup` example](https://github.com/symfony/ux/pull/3315) on [symfony/ux](https://github.com/symfony/ux) (5 days ago)
-- ![](./assets/pr-merged.svg) [[React] Add support for React 19](https://github.com/symfony/ux/pull/3314) on [symfony/ux](https://github.com/symfony/ux) (5 days ago)
+- ![](./assets/pr-merged.svg) [[Toolkit][Shadcn] Add documentation for Accordion recipe](https://github.com/symfony/ux.symfony.com/pull/8) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (2 days ago)
+- ![](./assets/pr-merged.svg) [[Toolkit] Fix `Field` demo code](https://github.com/symfony/ux/pull/3320) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
+- ![](./assets/pr-merged.svg) [[Toolkit][Shadcn] Fix `InputGroup` example](https://github.com/symfony/ux/pull/3315) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
+- ![](./assets/pr-merged.svg) [[React] Add support for React 19](https://github.com/symfony/ux/pull/3314) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
 - ![](./assets/pr-merged.svg) [Add PHPStan](https://github.com/symfony/ux.symfony.com/pull/7) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (1 week ago)
 - ![](./assets/pr-merged.svg) [Replace `_em` by `getEntityManager()`, close #5](https://github.com/symfony/ux.symfony.com/pull/6) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (1 week ago)
 - ![](./assets/pr-merged.svg) [ Fix npm releases due to `repository` issue](https://github.com/symfony/ux/pull/3304) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
