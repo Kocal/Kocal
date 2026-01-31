@@ -2,11 +2,11 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [[Toolkit][Shadcn] Add documentation for Toolkit recipe](https://github.com/symfony/ux.symfony.com/pull/9) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (1 day ago)
-- ![](./assets/pr-open.svg) [feat: Add option `case` to `phpdoc_line_span` fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/9391) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (1 day ago)
-- ![](./assets/pr-merged.svg) [[Toolkit][Shadcn] Add Tooltip component](https://github.com/symfony/ux/pull/3321) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
-- ![](./assets/pr-merged.svg) [[Toolkit][Shadcn] Add documentation for Accordion recipe](https://github.com/symfony/ux.symfony.com/pull/8) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (3 days ago)
-- ![](./assets/pr-merged.svg) [[Toolkit] Fix `Field` demo code](https://github.com/symfony/ux/pull/3320) on [symfony/ux](https://github.com/symfony/ux) (3 days ago)
+- ![](./assets/pr-merged.svg) [[Toolkit][Shadcn] Add documentation for Toolkit recipe](https://github.com/symfony/ux.symfony.com/pull/9) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (2 days ago)
+- ![](./assets/pr-open.svg) [feat: Add option `case` to `phpdoc_line_span` fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/9391) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (2 days ago)
+- ![](./assets/pr-merged.svg) [[Toolkit][Shadcn] Add Tooltip component](https://github.com/symfony/ux/pull/3321) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
+- ![](./assets/pr-merged.svg) [[Toolkit][Shadcn] Add documentation for Accordion recipe](https://github.com/symfony/ux.symfony.com/pull/8) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (4 days ago)
+- ![](./assets/pr-merged.svg) [[Toolkit] Fix `Field` demo code](https://github.com/symfony/ux/pull/3320) on [symfony/ux](https://github.com/symfony/ux) (4 days ago)
 - ![](./assets/pr-merged.svg) [[Toolkit][Shadcn] Fix `InputGroup` example](https://github.com/symfony/ux/pull/3315) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[React] Add support for React 19](https://github.com/symfony/ux/pull/3314) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [Add PHPStan](https://github.com/symfony/ux.symfony.com/pull/7) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (1 week ago)
@@ -17,11 +17,11 @@
 - ![](./assets/pr-merged.svg) [[Toolkit][Shadcn] Fix text color in dark mode for AlertDialog/Dialog components](https://github.com/symfony/ux/pull/3300) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[Toolkit] Rework recipes docs/examples](https://github.com/symfony/ux/pull/3299) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [ Move the website to external repository](https://github.com/symfony/ux/pull/3294) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [ Update root JS dependencies](https://github.com/symfony/ux/pull/3290) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [[Site] Update to Symfony 8](https://github.com/symfony/ux/pull/3289) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [[Site] Update to PHP 8.5](https://github.com/symfony/ux/pull/3288) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [Fix typo in `dbal.connections.default_dbname` configuration](https://github.com/doctrine/DoctrineBundle/pull/2194) on [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [[Site] Update to Symfony 7.4](https://github.com/symfony/ux/pull/3286) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
+- ![](./assets/pr-merged.svg) [ Update root JS dependencies](https://github.com/symfony/ux/pull/3290) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
+- ![](./assets/pr-merged.svg) [[Site] Update to Symfony 8](https://github.com/symfony/ux/pull/3289) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
+- ![](./assets/pr-merged.svg) [[Site] Update to PHP 8.5](https://github.com/symfony/ux/pull/3288) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
+- ![](./assets/pr-merged.svg) [Fix typo in `dbal.connections.default_dbname` configuration](https://github.com/doctrine/DoctrineBundle/pull/2194) on [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) (3 weeks ago)
+- ![](./assets/pr-merged.svg) [[Site] Update to Symfony 7.4](https://github.com/symfony/ux/pull/3286) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
 
 #### 📜 My recent blog posts (https://hugo.alliau.me/blog)
 
