@@ -2,12 +2,14 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [[Theme] Sync dark theme preference with local storage at first visit](https://github.com/symfony/ux.symfony.com/pull/17) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (1 day ago)
-- ![](./assets/pr-merged.svg) [[Attributes] Fix formatting of DeprecatedAlias reference](https://github.com/symfony/symfony-docs/pull/22005) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
-- ![](./assets/pr-closed.svg) [ Fix formatting of DeprecatedAlias reference](https://github.com/symfony/symfony-docs/pull/22002) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
-- ![](./assets/pr-merged.svg) [[Toolkit] Improve `@prop` and `@block` annotations description](https://github.com/symfony/ux/pull/3343) on [symfony/ux](https://github.com/symfony/ux) (4 days ago)
-- ![](./assets/pr-merged.svg) [Improve performances for multiple identical calls to `merge()`, by using `ArrayAdapter` cache](https://github.com/tales-from-a-dev/twig-tailwind-extra/pull/22) on [tales-from-a-dev/twig-tailwind-extra](https://github.com/tales-from-a-dev/twig-tailwind-extra) (4 days ago)
-- ![](./assets/pr-open.svg) [Add UX TwigComponent and UX Toolkit](https://github.com/symfony/webapp-pack/pull/21) on [symfony/webapp-pack](https://github.com/symfony/webapp-pack) (5 days ago)
+- ![](./assets/pr-merged.svg) [[Toolkit] Rewrite `@prop` documentation to normalize `Defaults to ...`](https://github.com/symfony/ux/pull/3345) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
+- ![](./assets/pr-merged.svg) [Add ForbiddenReadonlyRule to prevent readonly on components](https://github.com/Kocal/phpstan-symfony-ux/pull/24) on [Kocal/phpstan-symfony-ux](https://github.com/Kocal/phpstan-symfony-ux) (1 day ago)
+- ![](./assets/pr-merged.svg) [[Theme] Sync dark theme preference with local storage at first visit](https://github.com/symfony/ux.symfony.com/pull/17) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (2 days ago)
+- ![](./assets/pr-merged.svg) [[Attributes] Fix formatting of DeprecatedAlias reference](https://github.com/symfony/symfony-docs/pull/22005) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 days ago)
+- ![](./assets/pr-closed.svg) [ Fix formatting of DeprecatedAlias reference](https://github.com/symfony/symfony-docs/pull/22002) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 days ago)
+- ![](./assets/pr-merged.svg) [[Toolkit] Improve `@prop` and `@block` annotations description](https://github.com/symfony/ux/pull/3343) on [symfony/ux](https://github.com/symfony/ux) (5 days ago)
+- ![](./assets/pr-merged.svg) [Improve performances for multiple identical calls to `merge()`, by using `ArrayAdapter` cache](https://github.com/tales-from-a-dev/twig-tailwind-extra/pull/22) on [tales-from-a-dev/twig-tailwind-extra](https://github.com/tales-from-a-dev/twig-tailwind-extra) (5 days ago)
+- ![](./assets/pr-open.svg) [Add UX TwigComponent and UX Toolkit](https://github.com/symfony/webapp-pack/pull/21) on [symfony/webapp-pack](https://github.com/symfony/webapp-pack) (6 days ago)
 - ![](./assets/pr-merged.svg) [[TwigComponent] Minor performance improvement by caching `PropertyAccessor::isWritable()` calls](https://github.com/symfony/ux/pull/3341) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[TwigComponent] Minor performance improvements when using `{% props %}`](https://github.com/symfony/ux/pull/3340) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-open.svg) [Re-introduce `Pokemon` component](https://github.com/Kocal/Gotta-Catch-Em-All/pull/11) on [Kocal/Gotta-Catch-Em-All](https://github.com/Kocal/Gotta-Catch-Em-All) (1 week ago)
@@ -20,8 +22,6 @@
 - ![](./assets/pr-merged.svg) [Homepage](https://github.com/Kocal/Gotta-Catch-Em-All/pull/7) on [Kocal/Gotta-Catch-Em-All](https://github.com/Kocal/Gotta-Catch-Em-All) (1 week ago)
 - ![](./assets/pr-merged.svg) [Domain / Application / Infrastructure](https://github.com/Kocal/Gotta-Catch-Em-All/pull/6) on [Kocal/Gotta-Catch-Em-All](https://github.com/Kocal/Gotta-Catch-Em-All) (1 week ago)
 - ![](./assets/pr-merged.svg) [Add Pokemon list](https://github.com/Kocal/Gotta-Catch-Em-All/pull/5) on [Kocal/Gotta-Catch-Em-All](https://github.com/Kocal/Gotta-Catch-Em-All) (1 week ago)
-- ![](./assets/pr-merged.svg) [[LiveComponent] Add option `fetchCredentials`](https://github.com/symfony/ux/pull/3336) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
-- ![](./assets/pr-open.svg) [[MakefileConfigurator] Fix indentation of `help` target](https://github.com/symfony/flex/pull/1080) on [symfony/flex](https://github.com/symfony/flex) (1 week ago)
 
 #### 📜 My recent blog posts (https://hugo.alliau.me/blog)
 
