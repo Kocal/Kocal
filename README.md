@@ -2,11 +2,13 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [ Update JavaScript dependencies](https://github.com/symfony/ux/pull/3357) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
-- ![](./assets/pr-merged.svg) [ Fix CI](https://github.com/symfony/ux/pull/3355) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
-- ![](./assets/pr-open.svg) [Kocal](https://github.com/tempestphp/100-million-row-challenge/pull/81) on [tempestphp/100-million-row-challenge](https://github.com/tempestphp/100-million-row-challenge) (2 days ago)
-- ![](./assets/pr-merged.svg) [[Changelog] Add markdown version](https://github.com/symfony/ux.symfony.com/pull/24) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (4 days ago)
-- ![](./assets/pr-open.svg) [Add support for `docs` property for `BlockNode` and `TypesNode`](https://github.com/twigphp/Twig/pull/4770) on [twigphp/Twig](https://github.com/twigphp/Twig) (4 days ago)
+- ![](./assets/pr-merged.svg) [ Remove tsx dependency and rely on Node.js 22.18.0 native TypeScript runner](https://github.com/symfony/ux/pull/3360) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
+- ![](./assets/pr-merged.svg) [ Fix JS unit testing script](https://github.com/symfony/ux/pull/3359) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
+- ![](./assets/pr-merged.svg) [ Update JavaScript dependencies](https://github.com/symfony/ux/pull/3357) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
+- ![](./assets/pr-merged.svg) [ Fix CI](https://github.com/symfony/ux/pull/3355) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
+- ![](./assets/pr-open.svg) [Kocal](https://github.com/tempestphp/100-million-row-challenge/pull/81) on [tempestphp/100-million-row-challenge](https://github.com/tempestphp/100-million-row-challenge) (3 days ago)
+- ![](./assets/pr-merged.svg) [[Changelog] Add markdown version](https://github.com/symfony/ux.symfony.com/pull/24) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (5 days ago)
+- ![](./assets/pr-open.svg) [Add support for `docs` property for `BlockNode` and `TypesNode`](https://github.com/twigphp/Twig/pull/4770) on [twigphp/Twig](https://github.com/twigphp/Twig) (5 days ago)
 - ![](./assets/pr-merged.svg) [[Markdown] Add anchors on headings, close #11](https://github.com/symfony/ux.symfony.com/pull/20) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (1 week ago)
 - ![](./assets/pr-open.svg) [Add coloration for `@prop` and `@block` Twig comments from Symfony UX](https://github.com/Haehnchen/idea-php-symfony2-plugin/pull/2545) on [Haehnchen/idea-php-symfony2-plugin](https://github.com/Haehnchen/idea-php-symfony2-plugin) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Toolkit] Rewrite `@prop` documentation to normalize `Defaults to ...`](https://github.com/symfony/ux/pull/3345) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
@@ -20,13 +22,11 @@
 - ![](./assets/pr-merged.svg) [[TwigComponent] Minor performance improvement by caching `PropertyAccessor::isWritable()` calls](https://github.com/symfony/ux/pull/3341) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[TwigComponent] Minor performance improvements when using `{% props %}`](https://github.com/symfony/ux/pull/3340) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-open.svg) [Re-introduce `Pokemon` component](https://github.com/Kocal/Gotta-Catch-Em-All/pull/11) on [Kocal/Gotta-Catch-Em-All](https://github.com/Kocal/Gotta-Catch-Em-All) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [Update phpstan-symfony-ux to version 1.1.1](https://github.com/symfony/ux.symfony.com/pull/14) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [Fix performance issues due to aliases to deprecated rules](https://github.com/Kocal/phpstan-symfony-ux/pull/23) on [Kocal/phpstan-symfony-ux](https://github.com/Kocal/phpstan-symfony-ux) (2 weeks ago)
 
 #### 📜 My recent blog posts (https://hugo.alliau.me/blog)
 
-- [Symfony UX in 2025: A Year of Maturity and Innovation](https://hugo.alliau.me/blog/posts/symfony-ux-in-2025-a-year-of-maturity-and-innovation) (3 days ago)
-- [Synchronizing Time Across Multiple Symfony Applications in Tests](https://hugo.alliau.me/blog/posts/synchronizing-time-across-multiple-symfony-applications-in-tests) (3 weeks ago)
+- [Symfony UX in 2025: A Year of Maturity and Innovation](https://hugo.alliau.me/blog/posts/symfony-ux-in-2025-a-year-of-maturity-and-innovation) (4 days ago)
+- [Synchronizing Time Across Multiple Symfony Applications in Tests](https://hugo.alliau.me/blog/posts/synchronizing-time-across-multiple-symfony-applications-in-tests) (4 weeks ago)
 - [Using Value Objects as Doctrine Entity IDs: A Deep Dive](https://hugo.alliau.me/blog/posts/using-value-objects-as-doctrine-entity-ids-a-deep-dive) (3 months ago)
 - [Coolify self-hosting and Caddy as a proxy](https://hugo.alliau.me/blog/posts/coolify-self-hosting-and-caddy-as-a-proxy) (7 months ago)
 - [A Better Architecture for Your Symfony UX Twig Components](https://hugo.alliau.me/blog/posts/a-better-architecture-for-your-symfony-ux-twig-components) (2 years ago)
