@@ -2,7 +2,7 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [ Migrate from tsup (deprecated) to tsdown](https://github.com/symfony/ux/pull/3362) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
+- ![](./assets/pr-merged.svg) [ Migrate from tsup (deprecated) to tsdown](https://github.com/symfony/ux/pull/3362) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [ Remove tsx dependency and rely on Node.js 22.18.0 native TypeScript runner](https://github.com/symfony/ux/pull/3360) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [ Fix JS unit testing script](https://github.com/symfony/ux/pull/3359) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [ Update JavaScript dependencies](https://github.com/symfony/ux/pull/3357) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
