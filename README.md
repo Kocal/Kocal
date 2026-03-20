@@ -2,13 +2,13 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [[Native] Add package page](https://github.com/symfony/ux.symfony.com/pull/31) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (1 day ago)
-- ![](./assets/pr-open.svg) [Add .gitattributes](https://github.com/symfony/models-dev/pull/1) on [symfony/models-dev](https://github.com/symfony/models-dev) (2 days ago)
-- ![](./assets/pr-merged.svg) [[Toolkit][*Dialog] Add example for opened by default state](https://github.com/symfony/ux.symfony.com/pull/29) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (4 days ago)
-- ![](./assets/pr-merged.svg) [ Update Vitest to ^4.1.0](https://github.com/symfony/ux/pull/3382) on [symfony/ux](https://github.com/symfony/ux) (4 days ago)
-- ![](./assets/pr-open.svg) [[WebpackEncoreBundle] Add recipe for Webpack Encore 6.0](https://github.com/symfony/recipes/pull/1521) on [symfony/recipes](https://github.com/symfony/recipes) (5 days ago)
-- ![](./assets/pr-open.svg) [Migrate to ESM &amp; async API](https://github.com/symfony/webpack-encore/pull/1402) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (5 days ago)
-- ![](./assets/pr-merged.svg) [[WebpackEncore] Minor updates](https://github.com/symfony/symfony-docs/pull/22153) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (6 days ago)
+- ![](./assets/pr-merged.svg) [[Native] Add package page](https://github.com/symfony/ux.symfony.com/pull/31) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (2 days ago)
+- ![](./assets/pr-open.svg) [Add .gitattributes](https://github.com/symfony/models-dev/pull/1) on [symfony/models-dev](https://github.com/symfony/models-dev) (3 days ago)
+- ![](./assets/pr-merged.svg) [[Toolkit][*Dialog] Add example for opened by default state](https://github.com/symfony/ux.symfony.com/pull/29) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (5 days ago)
+- ![](./assets/pr-merged.svg) [ Update Vitest to ^4.1.0](https://github.com/symfony/ux/pull/3382) on [symfony/ux](https://github.com/symfony/ux) (5 days ago)
+- ![](./assets/pr-open.svg) [[WebpackEncoreBundle] Add recipe for Webpack Encore 6.0](https://github.com/symfony/recipes/pull/1521) on [symfony/recipes](https://github.com/symfony/recipes) (6 days ago)
+- ![](./assets/pr-open.svg) [Migrate to ESM &amp; async API](https://github.com/symfony/webpack-encore/pull/1402) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (6 days ago)
+- ![](./assets/pr-merged.svg) [[WebpackEncore] Minor updates](https://github.com/symfony/symfony-docs/pull/22153) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
 - ![](./assets/pr-merged.svg) [Follow-up #1400 (fix URLs generation)](https://github.com/symfony/webpack-encore/pull/1401) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 week ago)
 - ![](./assets/pr-merged.svg) [Remove deprecated `--https` flag and `devServerConfig.https` option](https://github.com/symfony/webpack-encore/pull/1400) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 week ago)
 - ![](./assets/pr-merged.svg) [Remove Vue 2 support leftovers](https://github.com/symfony/webpack-encore/pull/1399) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 week ago)
