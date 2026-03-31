@@ -2,12 +2,13 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [[Apps] Use local version of UX packages](https://github.com/symfony/ux/pull/3420) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
-- ![](./assets/pr-merged.svg) [Phase 4: Simple components](https://github.com/symfony/ux.symfony.com/pull/39) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (3 days ago)
-- ![](./assets/pr-open.svg) [Update hello.html](https://github.com/hotwired/stimulus-site/pull/68) on [hotwired/stimulus-site](https://github.com/hotwired/stimulus-site) (4 days ago)
-- ![](./assets/pr-merged.svg) [[Native] Introduce `assets/` to ease installation of `@hotwired/hotwire-native-bridge` JS dependency](https://github.com/symfony/ux/pull/3414) on [symfony/ux](https://github.com/symfony/ux) (4 days ago)
-- ![](./assets/pr-merged.svg) [Phase 3: Custom utilities migration](https://github.com/symfony/ux.symfony.com/pull/38) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (5 days ago)
-- ![](./assets/pr-merged.svg) [Phase 2: Base styles and layouts migration](https://github.com/symfony/ux.symfony.com/pull/37) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (6 days ago)
+- ![](./assets/pr-open.svg) [Phase 5: Components with light `--bs-*` CSS variable dependency](https://github.com/symfony/ux.symfony.com/pull/44) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (1 day ago)
+- ![](./assets/pr-merged.svg) [[Apps] Tweak workflows &amp; composer.json](https://github.com/symfony/ux/pull/3420) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
+- ![](./assets/pr-merged.svg) [Phase 4: Simple components](https://github.com/symfony/ux.symfony.com/pull/39) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (4 days ago)
+- ![](./assets/pr-open.svg) [Update hello.html](https://github.com/hotwired/stimulus-site/pull/68) on [hotwired/stimulus-site](https://github.com/hotwired/stimulus-site) (5 days ago)
+- ![](./assets/pr-merged.svg) [[Native] Introduce `assets/` to ease installation of `@hotwired/hotwire-native-bridge` JS dependency](https://github.com/symfony/ux/pull/3414) on [symfony/ux](https://github.com/symfony/ux) (5 days ago)
+- ![](./assets/pr-merged.svg) [Phase 3: Custom utilities migration](https://github.com/symfony/ux.symfony.com/pull/38) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (6 days ago)
+- ![](./assets/pr-merged.svg) [Phase 2: Base styles and layouts migration](https://github.com/symfony/ux.symfony.com/pull/37) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (1 week ago)
 - ![](./assets/pr-merged.svg) [Phase 1: Dark mode migration (`data-bs-theme` → `class=&#34;dark&#34;`)](https://github.com/symfony/ux.symfony.com/pull/36) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (1 week ago)
 - ![](./assets/pr-merged.svg) [Install TailwindCSS, setup configuration file and infrastructure](https://github.com/symfony/ux.symfony.com/pull/35) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Toolkit][Shadcn] Add examples for combined `*Dialog` and `Tooltip` triggers](https://github.com/symfony/ux.symfony.com/pull/33) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (1 week ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-merged.svg) [[Autocomplete][Chartjs][Cropperjs][Dropzone][LazyImage][LiveComponent][Map][Notify][React][StimulusBundle][Svelte][Swup][TogglePassword][Turbo][Typed][Vue][Translator] Update package.json to `2.33.0`](https://github.com/symfony/ux/pull/3401) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[CI] Update permissions to allow pushing changes to the repository during NPM release](https://github.com/symfony/ux/pull/3400) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[E2E] Test over Symfony 8.0](https://github.com/symfony/ux/pull/3399) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
-- ![](./assets/pr-merged.svg) [ Post-merge fixes for 3.x](https://github.com/symfony/ux/pull/3398) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 
 #### 📜 My recent blog posts (https://hugo.alliau.me/blog)
 
