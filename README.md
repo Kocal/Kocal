@@ -2,15 +2,16 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [[Toolkit][Tests] Skip snapshot-testing Usage.html.twig files](https://github.com/symfony/ux/pull/3472) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
-- ![](./assets/pr-merged.svg) [[CI] Fix Turbo&#39;s PHPStan job on lowest](https://github.com/symfony/ux/pull/3471) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
-- ![](./assets/pr-merged.svg) [[PHP-CS-Fixer] Sync and adapt configuration from symfony/symfony](https://github.com/symfony/ux/pull/3470) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
-- ![](./assets/pr-merged.svg) [Re-add Typed integration on homepage](https://github.com/symfony/ux.symfony.com/pull/53) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (2 days ago)
-- ![](./assets/pr-open.svg) [Use ESM exports in copy-files-loader for better webpack optimizations](https://github.com/symfony/webpack-encore/pull/1410) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (3 days ago)
-- ![](./assets/pr-merged.svg) [Increase constraint version of `symfony/ux-twig-component` to ^3.0](https://github.com/EasyCorp/EasyAdminBundle/pull/7539) on [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) (3 days ago)
-- ![](./assets/pr-open.svg) [ Add AI skills, remove AGENTS.md](https://github.com/symfony/ux/pull/3457) on [symfony/ux](https://github.com/symfony/ux) (5 days ago)
-- ![](./assets/pr-merged.svg) [Update Makefile to dynamically display Docker container ports for localhost](https://github.com/bakslashHQ/baksla.sh/pull/111) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (5 days ago)
-- ![](./assets/pr-merged.svg) [Update Symfony UX packages to 3.x](https://github.com/symfony/ux.symfony.com/pull/50) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (6 days ago)
+- ![](./assets/pr-merged.svg) [[CI] Enhance testing matrix with additional browser configurations](https://github.com/symfony/ux/pull/3474) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
+- ![](./assets/pr-merged.svg) [[Toolkit][Tests] Skip snapshot-testing Usage.html.twig files](https://github.com/symfony/ux/pull/3472) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
+- ![](./assets/pr-merged.svg) [[CI] Fix Turbo&#39;s PHPStan job on lowest](https://github.com/symfony/ux/pull/3471) on [symfony/ux](https://github.com/symfony/ux) (3 days ago)
+- ![](./assets/pr-merged.svg) [[PHP-CS-Fixer] Sync and adapt configuration from symfony/symfony](https://github.com/symfony/ux/pull/3470) on [symfony/ux](https://github.com/symfony/ux) (3 days ago)
+- ![](./assets/pr-merged.svg) [Re-add Typed integration on homepage](https://github.com/symfony/ux.symfony.com/pull/53) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (3 days ago)
+- ![](./assets/pr-open.svg) [Use ESM exports in copy-files-loader for better webpack optimizations](https://github.com/symfony/webpack-encore/pull/1410) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (4 days ago)
+- ![](./assets/pr-merged.svg) [Increase constraint version of `symfony/ux-twig-component` to ^3.0](https://github.com/EasyCorp/EasyAdminBundle/pull/7539) on [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) (4 days ago)
+- ![](./assets/pr-open.svg) [ Add AI skills, remove AGENTS.md](https://github.com/symfony/ux/pull/3457) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
+- ![](./assets/pr-merged.svg) [Update Makefile to dynamically display Docker container ports for localhost](https://github.com/bakslashHQ/baksla.sh/pull/111) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (6 days ago)
+- ![](./assets/pr-merged.svg) [Update Symfony UX packages to 3.x](https://github.com/symfony/ux.symfony.com/pull/50) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Native] Adapt .symfony.bundle.yaml for 3.x](https://github.com/symfony/ux/pull/3454) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [ Update minimum required Symfony version to 7.4](https://github.com/symfony/ux/pull/3453) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[LiveComponent] Remove compatibility layer with Symfony PropertyInfo &lt;7.1](https://github.com/symfony/ux/pull/3452) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-merged.svg) [Move to UX 3.x](https://github.com/symfony/ux.symfony.com/pull/49) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Svelte] Deprecate the package](https://github.com/symfony/ux.symfony.com/pull/48) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Svelte] Deprecate the package](https://github.com/symfony/ux/pull/3444) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
-- ![](./assets/pr-open.svg) [Add Doctrine safe migrations](https://github.com/Kocal/hugo.alliau.me/pull/85) on [Kocal/hugo.alliau.me](https://github.com/Kocal/hugo.alliau.me) (1 week ago)
 
 #### 📜 My recent blog posts (https://hugo.alliau.me/blog)
 
