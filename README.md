@@ -2,12 +2,12 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [ Migrate Turbo functional tests to E2E tests](https://github.com/symfony/ux/pull/3499) on [symfony/ux](https://github.com/symfony/ux) (3 days ago)
-- ![](./assets/pr-merged.svg) [[AGENTS.md] Run caveman:compress](https://github.com/symfony/ux/pull/3497) on [symfony/ux](https://github.com/symfony/ux) (4 days ago)
-- ![](./assets/pr-merged.svg) [Add command to generate agent skills in platform configuration](https://github.com/symfony/ux.symfony.com/pull/80) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (5 days ago)
-- ![](./assets/pr-merged.svg) [Add Content-Signal directive to robots.txt and update tests](https://github.com/symfony/ux.symfony.com/pull/79) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (5 days ago)
-- ![](./assets/pr-merged.svg) [[LLMS] Add Link header for LLM description in homepage response](https://github.com/symfony/ux.symfony.com/pull/78) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (5 days ago)
-- ![](./assets/pr-merged.svg) [[LLMS] Add command to generate LLM files and implement Markdown content negotiation](https://github.com/symfony/ux.symfony.com/pull/77) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (6 days ago)
+- ![](./assets/pr-open.svg) [ Migrate Turbo functional tests to E2E tests](https://github.com/symfony/ux/pull/3499) on [symfony/ux](https://github.com/symfony/ux) (4 days ago)
+- ![](./assets/pr-merged.svg) [[AGENTS.md] Run caveman:compress](https://github.com/symfony/ux/pull/3497) on [symfony/ux](https://github.com/symfony/ux) (5 days ago)
+- ![](./assets/pr-merged.svg) [Add command to generate agent skills in platform configuration](https://github.com/symfony/ux.symfony.com/pull/80) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (6 days ago)
+- ![](./assets/pr-merged.svg) [Add Content-Signal directive to robots.txt and update tests](https://github.com/symfony/ux.symfony.com/pull/79) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (6 days ago)
+- ![](./assets/pr-merged.svg) [[LLMS] Add Link header for LLM description in homepage response](https://github.com/symfony/ux.symfony.com/pull/78) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (6 days ago)
+- ![](./assets/pr-merged.svg) [[LLMS] Add command to generate LLM files and implement Markdown content negotiation](https://github.com/symfony/ux.symfony.com/pull/77) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (1 week ago)
 - ![](./assets/pr-merged.svg) [Update PHPUnit to v13](https://github.com/symfony/ux.symfony.com/pull/57) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (1 week ago)
 - ![](./assets/pr-merged.svg) [Add Smoke Tests](https://github.com/symfony/ux.symfony.com/pull/56) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (1 week ago)
 - ![](./assets/pr-merged.svg) [Fix 500 issue on /documentation (removed packages)](https://github.com/symfony/ux.symfony.com/pull/55) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (1 week ago)
