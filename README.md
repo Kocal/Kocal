@@ -2,8 +2,8 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [[Toolkit] Add skill for Toolkit recipe development/review](https://github.com/symfony/ux/pull/3506) on [symfony/ux](https://github.com/symfony/ux) (3 days ago)
-- ![](./assets/pr-merged.svg) [[E2E] Remove &#34;.&#34; prefix to Playwright report and output folders](https://github.com/symfony/ux/pull/3503) on [symfony/ux](https://github.com/symfony/ux) (3 days ago)
+- ![](./assets/pr-open.svg) [[Toolkit] Add skill for Toolkit recipe development/review](https://github.com/symfony/ux/pull/3506) on [symfony/ux](https://github.com/symfony/ux) (4 days ago)
+- ![](./assets/pr-merged.svg) [[E2E] Remove &#34;.&#34; prefix to Playwright report and output folders](https://github.com/symfony/ux/pull/3503) on [symfony/ux](https://github.com/symfony/ux) (4 days ago)
 - ![](./assets/pr-merged.svg) [[Turbo] Migrate Turbo functional tests to E2E tests](https://github.com/symfony/ux/pull/3499) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[AGENTS.md] Run caveman:compress](https://github.com/symfony/ux/pull/3497) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [Add command to generate agent skills in platform configuration](https://github.com/symfony/ux.symfony.com/pull/80) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (1 week ago)
@@ -13,7 +13,7 @@
 - ![](./assets/pr-merged.svg) [Update PHPUnit to v13](https://github.com/symfony/ux.symfony.com/pull/57) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (1 week ago)
 - ![](./assets/pr-merged.svg) [Add Smoke Tests](https://github.com/symfony/ux.symfony.com/pull/56) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (1 week ago)
 - ![](./assets/pr-merged.svg) [Fix 500 issue on /documentation (removed packages)](https://github.com/symfony/ux.symfony.com/pull/55) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (1 week ago)
-- ![](./assets/pr-merged.svg) [[CI] Enhance testing matrix with additional browser configurations](https://github.com/symfony/ux/pull/3474) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
+- ![](./assets/pr-merged.svg) [[CI] Enhance testing matrix with additional browser configurations](https://github.com/symfony/ux/pull/3474) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[Toolkit][Tests] Skip snapshot-testing Usage.html.twig files](https://github.com/symfony/ux/pull/3472) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[CI] Fix Turbo&#39;s PHPStan job on lowest](https://github.com/symfony/ux/pull/3471) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[PHP-CS-Fixer] Sync and adapt configuration from symfony/symfony](https://github.com/symfony/ux/pull/3470) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
