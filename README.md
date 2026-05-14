@@ -2,9 +2,13 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [[CI] Enhance security checks in workflow configurations](https://github.com/symfony/ux/pull/3536) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
-- ![](./assets/pr-merged.svg) [[TailwindCSS] Migrate PackageBox/PackageListItem, spacings, gaps, grids, minor fixes on multiple pages](https://github.com/symfony/ux.symfony.com/pull/87) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (1 day ago)
-- ![](./assets/pr-merged.svg) [[Toolkit] Display alert info for `version-added` on recipes](https://github.com/symfony/ux.symfony.com/pull/85) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (2 days ago)
+- ![](./assets/pr-merged.svg) [Exclude PULL_REQUEST_TEMPLATE.md from Oxfmt configuration](https://github.com/symfony/webpack-encore/pull/1416) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 day ago)
+- ![](./assets/pr-open.svg) [[CI] Remove low/high-deps jobs, add Dependabot, rework chunk reference in tests, E2E test lowest bounds](https://github.com/symfony/webpack-encore/pull/1415) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 day ago)
+- ![](./assets/pr-open.svg) [Handle reviews from @stof about LLMs files &amp; Markdown content negotiation](https://github.com/symfony/ux.symfony.com/pull/91) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (1 day ago)
+- ![](./assets/pr-merged.svg) [Phase 5 (2/2): Migrate Tabs, SidebarNav, WysiwygTabs, ThemeSwitcher, ProductGrid, TerminalCommand and DemoContainer](https://github.com/symfony/ux.symfony.com/pull/90) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (1 day ago)
+- ![](./assets/pr-merged.svg) [[CI] Enhance security checks in workflow configurations](https://github.com/symfony/ux/pull/3536) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
+- ![](./assets/pr-merged.svg) [Phase 5 (1/2): Migrate PackageBox/PackageListItem, spacings, gaps, grids, minor fixes on multiple pages](https://github.com/symfony/ux.symfony.com/pull/87) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (2 days ago)
+- ![](./assets/pr-merged.svg) [[Toolkit] Display alert info for `version-added` on recipes](https://github.com/symfony/ux.symfony.com/pull/85) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (3 days ago)
 - ![](./assets/pr-merged.svg) [[Toolkit][Shadcn] Rework `toggle-group` recipe to use `provide()`/`inject()`](https://github.com/symfony/ux/pull/3528) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Toolkit][Shadcn] Rework `collapsible` recipe to use `provide()`/`inject()`](https://github.com/symfony/ux/pull/3527) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Toolkit][Shadcn] Rework `tooltip` recipe to use `provide()`/`inject()`](https://github.com/symfony/ux/pull/3526) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
@@ -18,10 +22,6 @@
 - ![](./assets/pr-merged.svg) [[Toolkit] Add skill for Toolkit recipe development/review](https://github.com/symfony/ux/pull/3506) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[E2E] Remove &#34;.&#34; prefix to Playwright report and output folders](https://github.com/symfony/ux/pull/3503) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[Turbo] Migrate Turbo functional tests to E2E tests](https://github.com/symfony/ux/pull/3499) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
-- ![](./assets/pr-merged.svg) [[AGENTS.md] Run caveman:compress](https://github.com/symfony/ux/pull/3497) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
-- ![](./assets/pr-merged.svg) [Add command to generate agent skills in platform configuration](https://github.com/symfony/ux.symfony.com/pull/80) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (3 weeks ago)
-- ![](./assets/pr-merged.svg) [Add Content-Signal directive to robots.txt and update tests](https://github.com/symfony/ux.symfony.com/pull/79) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (3 weeks ago)
-- ![](./assets/pr-merged.svg) [[LLMS] Add Link header for LLM description in homepage response](https://github.com/symfony/ux.symfony.com/pull/78) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (3 weeks ago)
 
 #### 📜 My recent blog posts (https://hugo.alliau.me/blog)
 
