@@ -2,13 +2,15 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [Exclude PULL_REQUEST_TEMPLATE.md from Oxfmt configuration](https://github.com/symfony/webpack-encore/pull/1416) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 day ago)
-- ![](./assets/pr-open.svg) [[CI] Remove low/high-deps jobs, add Dependabot, rework chunk reference in tests, E2E test lowest bounds](https://github.com/symfony/webpack-encore/pull/1415) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 day ago)
-- ![](./assets/pr-open.svg) [Handle reviews from @stof about LLMs files &amp; Markdown content negotiation](https://github.com/symfony/ux.symfony.com/pull/91) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (1 day ago)
-- ![](./assets/pr-merged.svg) [Phase 5 (2/2): Migrate Tabs, SidebarNav, WysiwygTabs, ThemeSwitcher, ProductGrid, TerminalCommand and DemoContainer](https://github.com/symfony/ux.symfony.com/pull/90) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (1 day ago)
-- ![](./assets/pr-merged.svg) [[CI] Enhance security checks in workflow configurations](https://github.com/symfony/ux/pull/3536) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
-- ![](./assets/pr-merged.svg) [Phase 5 (1/2): Migrate PackageBox/PackageListItem, spacings, gaps, grids, minor fixes on multiple pages](https://github.com/symfony/ux.symfony.com/pull/87) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (2 days ago)
-- ![](./assets/pr-merged.svg) [[Toolkit] Display alert info for `version-added` on recipes](https://github.com/symfony/ux.symfony.com/pull/85) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (3 days ago)
+- ![](./assets/pr-merged.svg) [[Toolkit] Enhance Markdown file generation for LLM support](https://github.com/symfony/ux.symfony.com/pull/95) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (1 day ago)
+- ![](./assets/pr-merged.svg) [Phase 6: Migrate complex components](https://github.com/symfony/ux.symfony.com/pull/94) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (1 day ago)
+- ![](./assets/pr-merged.svg) [Exclude PULL_REQUEST_TEMPLATE.md from Oxfmt configuration](https://github.com/symfony/webpack-encore/pull/1416) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (2 days ago)
+- ![](./assets/pr-open.svg) [[CI] Remove low/high-deps jobs, add Dependabot, rework chunk reference in tests, E2E test lowest bounds](https://github.com/symfony/webpack-encore/pull/1415) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (2 days ago)
+- ![](./assets/pr-merged.svg) [Handle reviews from @stof about LLMs files &amp; Markdown content negotiation](https://github.com/symfony/ux.symfony.com/pull/91) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (2 days ago)
+- ![](./assets/pr-merged.svg) [Phase 5 (2/2): Migrate Tabs, SidebarNav, WysiwygTabs, ThemeSwitcher, ProductGrid, TerminalCommand and DemoContainer](https://github.com/symfony/ux.symfony.com/pull/90) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (2 days ago)
+- ![](./assets/pr-merged.svg) [[CI] Enhance security checks in workflow configurations](https://github.com/symfony/ux/pull/3536) on [symfony/ux](https://github.com/symfony/ux) (3 days ago)
+- ![](./assets/pr-merged.svg) [Phase 5 (1/2): Migrate PackageBox/PackageListItem, spacings, gaps, grids, minor fixes on multiple pages](https://github.com/symfony/ux.symfony.com/pull/87) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (3 days ago)
+- ![](./assets/pr-merged.svg) [[Toolkit] Display alert info for `version-added` on recipes](https://github.com/symfony/ux.symfony.com/pull/85) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (4 days ago)
 - ![](./assets/pr-merged.svg) [[Toolkit][Shadcn] Rework `toggle-group` recipe to use `provide()`/`inject()`](https://github.com/symfony/ux/pull/3528) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Toolkit][Shadcn] Rework `collapsible` recipe to use `provide()`/`inject()`](https://github.com/symfony/ux/pull/3527) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Toolkit][Shadcn] Rework `tooltip` recipe to use `provide()`/`inject()`](https://github.com/symfony/ux/pull/3526) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
@@ -18,10 +20,8 @@
 - ![](./assets/pr-merged.svg) [[Toolkit][Shadcn] Rework `tabs` recipe to use `provide()`/`inject()`](https://github.com/symfony/ux/pull/3521) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[SKILL] Tweak Toolkit Kit skill for `provide()` and `inject()` Twig functions](https://github.com/symfony/ux/pull/3520) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [ Revert &#34;Stop publishing extra package minor versions with no changes&#34;](https://github.com/symfony/ux/pull/3519) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
-- ![](./assets/pr-merged.svg) [[TwigComponent] Add `provide()` and `inject()` Twig functions](https://github.com/symfony/ux/pull/3512) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
+- ![](./assets/pr-merged.svg) [[TwigComponent] Add `provide()` and `inject()` Twig functions](https://github.com/symfony/ux/pull/3512) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[Toolkit] Add skill for Toolkit recipe development/review](https://github.com/symfony/ux/pull/3506) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [[E2E] Remove &#34;.&#34; prefix to Playwright report and output folders](https://github.com/symfony/ux/pull/3503) on [symfony/ux](https://github.com/symfony/ux) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [[Turbo] Migrate Turbo functional tests to E2E tests](https://github.com/symfony/ux/pull/3499) on [symfony/ux](https://github.com/symfony/ux) (3 weeks ago)
 
 #### 📜 My recent blog posts (https://hugo.alliau.me/blog)
 
