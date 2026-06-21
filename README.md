@@ -2,12 +2,15 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [Add advisories for Symfony UX 2.36.1 and 3.2.0](https://github.com/FriendsOfPHP/security-advisories/pull/791) on [FriendsOfPHP/security-advisories](https://github.com/FriendsOfPHP/security-advisories) (1 day ago)
-- ![](./assets/pr-merged.svg) [Update UX dependencies to ^3.2](https://github.com/bakslashHQ/baksla.sh/pull/160) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (1 day ago)
-- ![](./assets/pr-merged.svg) [Keep quotes on negative integer hash keys](https://github.com/VincentLanglet/Twig-CS-Fixer/pull/452) on [VincentLanglet/Twig-CS-Fixer](https://github.com/VincentLanglet/Twig-CS-Fixer) (5 days ago)
-- ![](./assets/pr-merged.svg) [Phase 11: remove Bootstrap and Sass](https://github.com/symfony/ux.symfony.com/pull/150) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (6 days ago)
-- ![](./assets/pr-merged.svg) [Phase 10: remove the Bootstrap JavaScript dependency](https://github.com/symfony/ux.symfony.com/pull/149) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (6 days ago)
-- ![](./assets/pr-merged.svg) [[Toolkit][Shadcn] Fix position and phantom text-node in `tooltip` recipe](https://github.com/symfony/ux/pull/3682) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
+- ![](./assets/pr-merged.svg) [Add Zizmor](https://github.com/symfony/webpack-encore/pull/1475) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 day ago)
+- ![](./assets/pr-merged.svg) [Add weekly update schedule for GitHub Actions in dependabot configuration](https://github.com/symfony/webpack-encore/pull/1440) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 day ago)
+- ![](./assets/pr-open.svg) [Add support for Babel 8 (drop Babel 7)](https://github.com/symfony/webpack-encore/pull/1439) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 day ago)
+- ![](./assets/pr-merged.svg) [Add advisories for Symfony UX 2.36.1 and 3.2.0](https://github.com/FriendsOfPHP/security-advisories/pull/791) on [FriendsOfPHP/security-advisories](https://github.com/FriendsOfPHP/security-advisories) (2 days ago)
+- ![](./assets/pr-merged.svg) [Update UX dependencies to ^3.2](https://github.com/bakslashHQ/baksla.sh/pull/160) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (2 days ago)
+- ![](./assets/pr-merged.svg) [Keep quotes on negative integer hash keys](https://github.com/VincentLanglet/Twig-CS-Fixer/pull/452) on [VincentLanglet/Twig-CS-Fixer](https://github.com/VincentLanglet/Twig-CS-Fixer) (6 days ago)
+- ![](./assets/pr-merged.svg) [Phase 11: remove Bootstrap and Sass](https://github.com/symfony/ux.symfony.com/pull/150) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (1 week ago)
+- ![](./assets/pr-merged.svg) [Phase 10: remove the Bootstrap JavaScript dependency](https://github.com/symfony/ux.symfony.com/pull/149) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (1 week ago)
+- ![](./assets/pr-merged.svg) [[Toolkit][Shadcn] Fix position and phantom text-node in `tooltip` recipe](https://github.com/symfony/ux/pull/3682) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [Phase 9: migrate remaining templates to Tailwind](https://github.com/symfony/ux.symfony.com/pull/148) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (1 week ago)
 - ![](./assets/pr-merged.svg) [Phase 9: Button component &#43; migrate homepage, package pages &amp; code block](https://github.com/symfony/ux.symfony.com/pull/147) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (1 week ago)
 - ![](./assets/pr-merged.svg) [Phase 8: Migrate vendor overrides to Tailwind](https://github.com/symfony/ux.symfony.com/pull/146) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (1 week ago)
@@ -19,9 +22,6 @@
 - ![](./assets/pr-merged.svg) [[Toolkit][Flowbite4] Fix linting issues](https://github.com/symfony/ux/pull/3672) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Toolkit] Allow declaring kit-global dependencies in kit manifest](https://github.com/symfony/ux/pull/3671) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[CalendarLink] Add E2E tests](https://github.com/symfony/ux/pull/3670) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
-- ![](./assets/pr-merged.svg) [[Toolkit] Make pages usable in mobile](https://github.com/symfony/ux.symfony.com/pull/144) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (1 week ago)
-- ![](./assets/pr-merged.svg) [[Toolkit] Minor visual improvements on breadcrumb, sidebars, and &#34;View as markdown&#34;](https://github.com/symfony/ux.symfony.com/pull/143) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (1 week ago)
-- ![](./assets/pr-merged.svg) [Minor fixes on Blog&#39;s RSS feed (filename, quotes, ...)](https://github.com/bakslashHQ/baksla.sh/pull/158) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (1 week ago)
 
 #### 📜 My recent blog posts (https://hugo.alliau.me/blog)
 
