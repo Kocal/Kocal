@@ -2,12 +2,15 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [Add Zizmor](https://github.com/symfony/webpack-encore/pull/1475) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 day ago)
-- ![](./assets/pr-merged.svg) [Add weekly update schedule for GitHub Actions in dependabot configuration](https://github.com/symfony/webpack-encore/pull/1440) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 day ago)
-- ![](./assets/pr-open.svg) [Add support for Babel 8 (drop Babel 7)](https://github.com/symfony/webpack-encore/pull/1439) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 day ago)
-- ![](./assets/pr-merged.svg) [Add advisories for Symfony UX 2.36.1 and 3.2.0](https://github.com/FriendsOfPHP/security-advisories/pull/791) on [FriendsOfPHP/security-advisories](https://github.com/FriendsOfPHP/security-advisories) (2 days ago)
-- ![](./assets/pr-merged.svg) [Update UX dependencies to ^3.2](https://github.com/bakslashHQ/baksla.sh/pull/160) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (2 days ago)
-- ![](./assets/pr-merged.svg) [Keep quotes on negative integer hash keys](https://github.com/VincentLanglet/Twig-CS-Fixer/pull/452) on [VincentLanglet/Twig-CS-Fixer](https://github.com/VincentLanglet/Twig-CS-Fixer) (6 days ago)
+- ![](./assets/pr-open.svg) [[WebpackEncore] Updates for 7.0.0](https://github.com/symfony/symfony-docs/pull/22403) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
+- ![](./assets/pr-open.svg) [Update webpack-manifest-plugin to 6.0.1](https://github.com/symfony/webpack-encore/pull/1495) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 day ago)
+- ![](./assets/pr-merged.svg) [Tweak 7.0.0 changelog](https://github.com/symfony/webpack-encore/pull/1494) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 day ago)
+- ![](./assets/pr-merged.svg) [Add Zizmor](https://github.com/symfony/webpack-encore/pull/1475) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (2 days ago)
+- ![](./assets/pr-merged.svg) [Add weekly update schedule for GitHub Actions in dependabot configuration](https://github.com/symfony/webpack-encore/pull/1440) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (2 days ago)
+- ![](./assets/pr-merged.svg) [Add support for Babel 8 (drop Babel 7)](https://github.com/symfony/webpack-encore/pull/1439) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (2 days ago)
+- ![](./assets/pr-merged.svg) [Add advisories for Symfony UX 2.36.1 and 3.2.0](https://github.com/FriendsOfPHP/security-advisories/pull/791) on [FriendsOfPHP/security-advisories](https://github.com/FriendsOfPHP/security-advisories) (3 days ago)
+- ![](./assets/pr-merged.svg) [Update UX dependencies to ^3.2](https://github.com/bakslashHQ/baksla.sh/pull/160) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (3 days ago)
+- ![](./assets/pr-merged.svg) [Keep quotes on negative integer hash keys](https://github.com/VincentLanglet/Twig-CS-Fixer/pull/452) on [VincentLanglet/Twig-CS-Fixer](https://github.com/VincentLanglet/Twig-CS-Fixer) (1 week ago)
 - ![](./assets/pr-merged.svg) [Phase 11: remove Bootstrap and Sass](https://github.com/symfony/ux.symfony.com/pull/150) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (1 week ago)
 - ![](./assets/pr-merged.svg) [Phase 10: remove the Bootstrap JavaScript dependency](https://github.com/symfony/ux.symfony.com/pull/149) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Toolkit][Shadcn] Fix position and phantom text-node in `tooltip` recipe](https://github.com/symfony/ux/pull/3682) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
@@ -19,9 +22,6 @@
 - ![](./assets/pr-merged.svg) [ Revert &#34;[Encore] Pin vue to &lt;3.5.36 to workaround broken upstream publish&#34;](https://github.com/symfony/ux/pull/3675) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [ Update pnpm to ^11.5](https://github.com/symfony/ux/pull/3674) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Encore] Pin vue to &lt;3.5.36 to workaround broken upstream publish](https://github.com/symfony/ux/pull/3673) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
-- ![](./assets/pr-merged.svg) [[Toolkit][Flowbite4] Fix linting issues](https://github.com/symfony/ux/pull/3672) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
-- ![](./assets/pr-merged.svg) [[Toolkit] Allow declaring kit-global dependencies in kit manifest](https://github.com/symfony/ux/pull/3671) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
-- ![](./assets/pr-merged.svg) [[CalendarLink] Add E2E tests](https://github.com/symfony/ux/pull/3670) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 
 #### 📜 My recent blog posts (https://hugo.alliau.me/blog)
 
