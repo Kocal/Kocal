@@ -2,15 +2,16 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [[TypeScript] Migrate `lib/*`](https://github.com/symfony/webpack-encore/pull/1510) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 day ago)
-- ![](./assets/pr-merged.svg) [[TypeScript] Migrate `lib/webpack/*`](https://github.com/symfony/webpack-encore/pull/1509) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 day ago)
-- ![](./assets/pr-merged.svg) [[TypeScript] Migrate `lib/config/*`](https://github.com/symfony/webpack-encore/pull/1508) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 day ago)
-- ![](./assets/pr-merged.svg) [[TypeScript] Migrate `lib/plugins/*`](https://github.com/symfony/webpack-encore/pull/1507) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (6 days ago)
-- ![](./assets/pr-merged.svg) [[TypeScript] Migrate `lib/loaders/*`](https://github.com/symfony/webpack-encore/pull/1506) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (6 days ago)
-- ![](./assets/pr-merged.svg) [[Blog] How a Symfony UX Security Fix Actually Happens 🔒](https://github.com/bakslashHQ/baksla.sh/pull/163) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (6 days ago)
-- ![](./assets/pr-merged.svg) [[TypeScript] Migrate `lib/plugins/*`](https://github.com/symfony/webpack-encore/pull/1505) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (6 days ago)
-- ![](./assets/pr-merged.svg) [[TypeScript] Migrate `lib/utils/*`](https://github.com/symfony/webpack-encore/pull/1504) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (6 days ago)
-- ![](./assets/pr-open.svg) [Migrate project to TypeScript ✨](https://github.com/symfony/webpack-encore/pull/1503) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (6 days ago)
+- ![](./assets/pr-merged.svg) [[TypeScript] Migrate `index.js`](https://github.com/symfony/webpack-encore/pull/1511) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 day ago)
+- ![](./assets/pr-merged.svg) [[TypeScript] Migrate `lib/*`](https://github.com/symfony/webpack-encore/pull/1510) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (2 days ago)
+- ![](./assets/pr-merged.svg) [[TypeScript] Migrate `lib/webpack/*`](https://github.com/symfony/webpack-encore/pull/1509) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (2 days ago)
+- ![](./assets/pr-merged.svg) [[TypeScript] Migrate `lib/config/*`](https://github.com/symfony/webpack-encore/pull/1508) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (2 days ago)
+- ![](./assets/pr-merged.svg) [[TypeScript] Migrate `lib/plugins/*`](https://github.com/symfony/webpack-encore/pull/1507) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 week ago)
+- ![](./assets/pr-merged.svg) [[TypeScript] Migrate `lib/loaders/*`](https://github.com/symfony/webpack-encore/pull/1506) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 week ago)
+- ![](./assets/pr-merged.svg) [[Blog] How a Symfony UX Security Fix Actually Happens 🔒](https://github.com/bakslashHQ/baksla.sh/pull/163) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (1 week ago)
+- ![](./assets/pr-merged.svg) [[TypeScript] Migrate `lib/plugins/*`](https://github.com/symfony/webpack-encore/pull/1505) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 week ago)
+- ![](./assets/pr-merged.svg) [[TypeScript] Migrate `lib/utils/*`](https://github.com/symfony/webpack-encore/pull/1504) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 week ago)
+- ![](./assets/pr-open.svg) [Migrate project to TypeScript ✨](https://github.com/symfony/webpack-encore/pull/1503) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 week ago)
 - ![](./assets/pr-open.svg) [Scope the ~dev fallback to the version missing from stable](https://github.com/symfony-tools/recipes-checker/pull/21) on [symfony-tools/recipes-checker](https://github.com/symfony-tools/recipes-checker) (1 week ago)
 - ![](./assets/pr-merged.svg) [Don&#39;t let Composer advisory blocking break CI](https://github.com/symfony/webpack-encore-bundle/pull/261) on [symfony/webpack-encore-bundle](https://github.com/symfony/webpack-encore-bundle) (1 week ago)
 - ![](./assets/pr-merged.svg) [Add Zizmor, Dependabot, and upgrade&#43;pin actions](https://github.com/symfony/webpack-encore-bundle/pull/259) on [symfony/webpack-encore-bundle](https://github.com/symfony/webpack-encore-bundle) (1 week ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-merged.svg) [Relax the `peerDependencies` of the JS/CSS minifiers](https://github.com/symfony/webpack-encore/pull/1498) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 week ago)
 - ![](./assets/pr-merged.svg) [Update `@vue/babel-plugin-jsx` from ^1.0.0 to ^3.0.0](https://github.com/symfony/webpack-encore/pull/1497) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 week ago)
 - ![](./assets/pr-merged.svg) [[WebpackEncore][StimulusBundle] Add recipe for WebpackEncore 7.0](https://github.com/symfony/recipes/pull/1542) on [symfony/recipes](https://github.com/symfony/recipes) (1 week ago)
-- ![](./assets/pr-merged.svg) [[WebpackEncore] Updates for 7.0.0](https://github.com/symfony/symfony-docs/pull/22403) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
 
 #### 📜 My recent blog posts (https://hugo.alliau.me/blog)
 
