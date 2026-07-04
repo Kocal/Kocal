@@ -2,12 +2,14 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [Nix](https://github.com/Kocal/dotfiles/pull/1) on [Kocal/dotfiles](https://github.com/Kocal/dotfiles) (1 day ago)
-- ![](./assets/pr-open.svg) [[TypeScript] Use .js import specifiers and drop TS-extension tsconfig options](https://github.com/symfony/webpack-encore/pull/1512) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 day ago)
-- ![](./assets/pr-merged.svg) [[TypeScript] Migrate `index.js`](https://github.com/symfony/webpack-encore/pull/1511) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (2 days ago)
-- ![](./assets/pr-merged.svg) [[TypeScript] Migrate `lib/*`](https://github.com/symfony/webpack-encore/pull/1510) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (3 days ago)
-- ![](./assets/pr-merged.svg) [[TypeScript] Migrate `lib/webpack/*`](https://github.com/symfony/webpack-encore/pull/1509) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (3 days ago)
-- ![](./assets/pr-merged.svg) [[TypeScript] Migrate `lib/config/*`](https://github.com/symfony/webpack-encore/pull/1508) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (3 days ago)
+- ![](./assets/pr-merged.svg) [Do not hardcode `/nix/store` path](https://github.com/symfony-cli/phpstore/pull/40) on [symfony-cli/phpstore](https://github.com/symfony-cli/phpstore) (1 day ago)
+- ![](./assets/pr-merged.svg) [Add support for Nix](https://github.com/symfony-cli/phpstore/pull/39) on [symfony-cli/phpstore](https://github.com/symfony-cli/phpstore) (1 day ago)
+- ![](./assets/pr-merged.svg) [Nix](https://github.com/Kocal/dotfiles/pull/1) on [Kocal/dotfiles](https://github.com/Kocal/dotfiles) (2 days ago)
+- ![](./assets/pr-open.svg) [[TypeScript] Use .js import specifiers and drop TS-extension tsconfig options](https://github.com/symfony/webpack-encore/pull/1512) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (2 days ago)
+- ![](./assets/pr-merged.svg) [[TypeScript] Migrate `index.js`](https://github.com/symfony/webpack-encore/pull/1511) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (3 days ago)
+- ![](./assets/pr-merged.svg) [[TypeScript] Migrate `lib/*`](https://github.com/symfony/webpack-encore/pull/1510) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (4 days ago)
+- ![](./assets/pr-merged.svg) [[TypeScript] Migrate `lib/webpack/*`](https://github.com/symfony/webpack-encore/pull/1509) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (4 days ago)
+- ![](./assets/pr-merged.svg) [[TypeScript] Migrate `lib/config/*`](https://github.com/symfony/webpack-encore/pull/1508) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (4 days ago)
 - ![](./assets/pr-merged.svg) [[TypeScript] Migrate `lib/plugins/*`](https://github.com/symfony/webpack-encore/pull/1507) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 week ago)
 - ![](./assets/pr-merged.svg) [[TypeScript] Migrate `lib/loaders/*`](https://github.com/symfony/webpack-encore/pull/1506) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Blog] How a Symfony UX Security Fix Actually Happens 🔒](https://github.com/bakslashHQ/baksla.sh/pull/163) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (1 week ago)
@@ -20,8 +22,6 @@
 - ![](./assets/pr-merged.svg) [Prepare TypeScript migration](https://github.com/symfony/webpack-encore/pull/1502) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 week ago)
 - ![](./assets/pr-merged.svg) [Introduce `UPGRADE.md` file and reduce latest `CHANGELOG.md` entries](https://github.com/symfony/webpack-encore/pull/1501) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 week ago)
 - ![](./assets/pr-merged.svg) [Tweak CHANGELOG.md for StimulusBundle &amp; ESM](https://github.com/symfony/webpack-encore/pull/1500) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 week ago)
-- ![](./assets/pr-merged.svg) [Add support for sass-loader ^17.0.0](https://github.com/symfony/webpack-encore/pull/1499) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 week ago)
-- ![](./assets/pr-merged.svg) [Relax the `peerDependencies` of the JS/CSS minifiers](https://github.com/symfony/webpack-encore/pull/1498) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 week ago)
 
 #### 📜 My recent blog posts (https://hugo.alliau.me/blog)
 
