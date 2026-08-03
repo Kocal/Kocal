@@ -2,16 +2,18 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [Read code block filename via the Toolkit&#39;s CodeOptions](https://github.com/symfony/ux.symfony.com/pull/177) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (1 day ago)
-- ![](./assets/pr-merged.svg) [[Toolkit] Restore the filename above installation code blocks (`filename` code options)](https://github.com/symfony/ux/pull/3749) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
-- ![](./assets/pr-merged.svg) [[Toolkit] Fix some examples heights](https://github.com/symfony/ux/pull/3748) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
-- ![](./assets/pr-open.svg) [[UXIcons] Add recipe for 3.4 (`iconify.auto_lock`)](https://github.com/symfony/recipes/pull/1552) on [symfony/recipes](https://github.com/symfony/recipes) (3 days ago)
-- ![](./assets/pr-merged.svg) [[Icons] Add `auto_lock` to persist on-demand icons](https://github.com/symfony/ux/pull/3741) on [symfony/ux](https://github.com/symfony/ux) (4 days ago)
-- ![](./assets/pr-merged.svg) [Add modal for project details](https://github.com/Kocal/trackage/pull/2) on [Kocal/trackage](https://github.com/Kocal/trackage) (4 days ago)
-- ![](./assets/pr-merged.svg) [[Frontend] Update Symfony Reprise documentation link](https://github.com/symfony/symfony-docs/pull/22482) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (6 days ago)
-- ![](./assets/pr-merged.svg) [[Docs] Minor fixes for doc rendering on symfony.com](https://github.com/symfony/reprise/pull/59) on [symfony/reprise](https://github.com/symfony/reprise) (6 days ago)
-- ![](./assets/pr-merged.svg) [[Toolkit] Rework and normalize usage of `attributes.defaults()` in kits components](https://github.com/symfony/ux/pull/3736) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
-- ![](./assets/pr-merged.svg) [ Add sync-packages.php to normalize packages .gitattributes](https://github.com/symfony/ux/pull/3735) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
+- ![](./assets/pr-open.svg) [[Playground] Rebuild as a Reprise &#43; Symfony UX showcase](https://github.com/symfony/reprise/pull/68) on [symfony/reprise](https://github.com/symfony/reprise) (1 day ago)
+- ![](./assets/pr-merged.svg) [[Vite] Skip pruned CSS-only chunks in preload and dynamic](https://github.com/symfony/reprise/pull/67) on [symfony/reprise](https://github.com/symfony/reprise) (1 day ago)
+- ![](./assets/pr-merged.svg) [Read code block filename via the Toolkit&#39;s CodeOptions](https://github.com/symfony/ux.symfony.com/pull/177) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (2 days ago)
+- ![](./assets/pr-merged.svg) [[Toolkit] Restore the filename above installation code blocks (`filename` code options)](https://github.com/symfony/ux/pull/3749) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
+- ![](./assets/pr-merged.svg) [[Toolkit] Fix some examples heights](https://github.com/symfony/ux/pull/3748) on [symfony/ux](https://github.com/symfony/ux) (3 days ago)
+- ![](./assets/pr-open.svg) [[UXIcons] Add recipe for 3.4 (`iconify.auto_lock`)](https://github.com/symfony/recipes/pull/1552) on [symfony/recipes](https://github.com/symfony/recipes) (4 days ago)
+- ![](./assets/pr-merged.svg) [[Icons] Add `auto_lock` to persist on-demand icons](https://github.com/symfony/ux/pull/3741) on [symfony/ux](https://github.com/symfony/ux) (5 days ago)
+- ![](./assets/pr-merged.svg) [Add modal for project details](https://github.com/Kocal/trackage/pull/2) on [Kocal/trackage](https://github.com/Kocal/trackage) (5 days ago)
+- ![](./assets/pr-merged.svg) [[Frontend] Update Symfony Reprise documentation link](https://github.com/symfony/symfony-docs/pull/22482) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
+- ![](./assets/pr-merged.svg) [[Docs] Minor fixes for doc rendering on symfony.com](https://github.com/symfony/reprise/pull/59) on [symfony/reprise](https://github.com/symfony/reprise) (1 week ago)
+- ![](./assets/pr-merged.svg) [[Toolkit] Rework and normalize usage of `attributes.defaults()` in kits components](https://github.com/symfony/ux/pull/3736) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
+- ![](./assets/pr-merged.svg) [ Add sync-packages.php to normalize packages .gitattributes](https://github.com/symfony/ux/pull/3735) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Toolkit] Remove `height` preview option](https://github.com/symfony/ux/pull/3734) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Docs] Add a migration guide from Webpack Encore](https://github.com/symfony/reprise/pull/58) on [symfony/reprise](https://github.com/symfony/reprise) (1 week ago)
 - ![](./assets/pr-merged.svg) [[CI] Stop grouping npm dependency updates into a single PR](https://github.com/symfony/reprise/pull/52) on [symfony/reprise](https://github.com/symfony/reprise) (1 week ago)
@@ -20,8 +22,6 @@
 - ![](./assets/pr-merged.svg) [[Builds] Add support for multiple named builds](https://github.com/symfony/reprise/pull/51) on [symfony/reprise](https://github.com/symfony/reprise) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Twig] Add per-call attributes to the entry tag functions](https://github.com/symfony/reprise/pull/50) on [symfony/reprise](https://github.com/symfony/reprise) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Twig] Add reprise_entry_exists()](https://github.com/symfony/reprise/pull/49) on [symfony/reprise](https://github.com/symfony/reprise) (1 week ago)
-- ![](./assets/pr-merged.svg) [[Asset] Reset asset state when an exception is handled](https://github.com/symfony/reprise/pull/48) on [symfony/reprise](https://github.com/symfony/reprise) (1 week ago)
-- ![](./assets/pr-merged.svg) [Add support for `webpack-dev-server` ^6.0.0](https://github.com/symfony/webpack-encore/pull/1523) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 week ago)
 
 #### 📜 My recent blog posts (https://hugo.alliau.me/blog)
 
