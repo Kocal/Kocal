@@ -2,14 +2,14 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [[Preload] Preload module script entries as modulepreload](https://github.com/symfony/reprise/pull/72) on [symfony/reprise](https://github.com/symfony/reprise) (1 day ago)
-- ![](./assets/pr-merged.svg) [[Integrity] Fix missing `integrity` and `crossorigin` to preload `Link` headers](https://github.com/symfony/reprise/pull/70) on [symfony/reprise](https://github.com/symfony/reprise) (2 days ago)
-- ![](./assets/pr-merged.svg) [[Tests][CI] Add end-to-end playground tests with Vitest and Playwright](https://github.com/symfony/reprise/pull/69) on [symfony/reprise](https://github.com/symfony/reprise) (3 days ago)
-- ![](./assets/pr-merged.svg) [[Playground] Rebuild as a Reprise &#43; Symfony UX showcase](https://github.com/symfony/reprise/pull/68) on [symfony/reprise](https://github.com/symfony/reprise) (4 days ago)
-- ![](./assets/pr-merged.svg) [[Vite] Skip pruned CSS-only chunks in preload and dynamic](https://github.com/symfony/reprise/pull/67) on [symfony/reprise](https://github.com/symfony/reprise) (4 days ago)
-- ![](./assets/pr-merged.svg) [Read code block filename via the Toolkit&#39;s CodeOptions](https://github.com/symfony/ux.symfony.com/pull/177) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (5 days ago)
-- ![](./assets/pr-merged.svg) [[Toolkit] Restore the filename above installation code blocks (`filename` code options)](https://github.com/symfony/ux/pull/3749) on [symfony/ux](https://github.com/symfony/ux) (5 days ago)
-- ![](./assets/pr-merged.svg) [[Toolkit] Fix some examples heights](https://github.com/symfony/ux/pull/3748) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
+- ![](./assets/pr-merged.svg) [[Preload] Preload module script entries as modulepreload](https://github.com/symfony/reprise/pull/72) on [symfony/reprise](https://github.com/symfony/reprise) (2 days ago)
+- ![](./assets/pr-merged.svg) [[Integrity] Fix missing `integrity` and `crossorigin` to preload `Link` headers](https://github.com/symfony/reprise/pull/70) on [symfony/reprise](https://github.com/symfony/reprise) (3 days ago)
+- ![](./assets/pr-merged.svg) [[Tests][CI] Add end-to-end playground tests with Vitest and Playwright](https://github.com/symfony/reprise/pull/69) on [symfony/reprise](https://github.com/symfony/reprise) (4 days ago)
+- ![](./assets/pr-merged.svg) [[Playground] Rebuild as a Reprise &#43; Symfony UX showcase](https://github.com/symfony/reprise/pull/68) on [symfony/reprise](https://github.com/symfony/reprise) (5 days ago)
+- ![](./assets/pr-merged.svg) [[Vite] Skip pruned CSS-only chunks in preload and dynamic](https://github.com/symfony/reprise/pull/67) on [symfony/reprise](https://github.com/symfony/reprise) (5 days ago)
+- ![](./assets/pr-merged.svg) [Read code block filename via the Toolkit&#39;s CodeOptions](https://github.com/symfony/ux.symfony.com/pull/177) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (6 days ago)
+- ![](./assets/pr-merged.svg) [[Toolkit] Restore the filename above installation code blocks (`filename` code options)](https://github.com/symfony/ux/pull/3749) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
+- ![](./assets/pr-merged.svg) [[Toolkit] Fix some examples heights](https://github.com/symfony/ux/pull/3748) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-open.svg) [[UXIcons] Add recipe for 3.4 (`iconify.auto_lock`)](https://github.com/symfony/recipes/pull/1552) on [symfony/recipes](https://github.com/symfony/recipes) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Icons] Add `auto_lock` to persist on-demand icons](https://github.com/symfony/ux/pull/3741) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [Add modal for project details](https://github.com/Kocal/trackage/pull/2) on [Kocal/trackage](https://github.com/Kocal/trackage) (1 week ago)
