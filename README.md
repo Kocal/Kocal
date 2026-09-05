@@ -2,13 +2,13 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [[Toolkit] Refactor alert message for clarity and structure](https://github.com/symfony/ux.symfony.com/pull/183) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (2 days ago)
-- ![](./assets/pr-merged.svg) [[Stimulus] Detect the lazy marker anywhere in a controller file](https://github.com/symfony/reprise/pull/100) on [symfony/reprise](https://github.com/symfony/reprise) (3 days ago)
-- ![](./assets/pr-open.svg) [[TwigComponent] Treat a prop explicitly passed as `null` as defined](https://github.com/symfony/ux/pull/3827) on [symfony/ux](https://github.com/symfony/ux) (3 days ago)
-- ![](./assets/pr-merged.svg) [feat(recipes): nouveau bounded context Recipes](https://github.com/Kocal/hugo.alliau.me/pull/101) on [Kocal/hugo.alliau.me](https://github.com/Kocal/hugo.alliau.me) (3 days ago)
-- ![](./assets/pr-merged.svg) [[CalendarLink] Make `IcsBuilder` internal](https://github.com/symfony/ux/pull/3826) on [symfony/ux](https://github.com/symfony/ux) (4 days ago)
-- ![](./assets/pr-merged.svg) [feat: multilingual public site (English default, French under /fr)](https://github.com/Kocal/hugo.alliau.me/pull/100) on [Kocal/hugo.alliau.me](https://github.com/Kocal/hugo.alliau.me) (5 days ago)
-- ![](./assets/pr-open.svg) [[Reprise] Add recipe for 1.1.0](https://github.com/symfony/recipes/pull/1564) on [symfony/recipes](https://github.com/symfony/recipes) (1 week ago)
+- ![](./assets/pr-merged.svg) [[Toolkit] Refactor alert message for clarity and structure](https://github.com/symfony/ux.symfony.com/pull/183) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (3 days ago)
+- ![](./assets/pr-merged.svg) [[Stimulus] Detect the lazy marker anywhere in a controller file](https://github.com/symfony/reprise/pull/100) on [symfony/reprise](https://github.com/symfony/reprise) (4 days ago)
+- ![](./assets/pr-open.svg) [[TwigComponent] Treat a prop explicitly passed as `null` as defined](https://github.com/symfony/ux/pull/3827) on [symfony/ux](https://github.com/symfony/ux) (4 days ago)
+- ![](./assets/pr-merged.svg) [feat(recipes): nouveau bounded context Recipes](https://github.com/Kocal/hugo.alliau.me/pull/101) on [Kocal/hugo.alliau.me](https://github.com/Kocal/hugo.alliau.me) (4 days ago)
+- ![](./assets/pr-merged.svg) [[CalendarLink] Make `IcsBuilder` internal](https://github.com/symfony/ux/pull/3826) on [symfony/ux](https://github.com/symfony/ux) (5 days ago)
+- ![](./assets/pr-merged.svg) [feat: multilingual public site (English default, French under /fr)](https://github.com/Kocal/hugo.alliau.me/pull/100) on [Kocal/hugo.alliau.me](https://github.com/Kocal/hugo.alliau.me) (6 days ago)
+- ![](./assets/pr-merged.svg) [[Reprise] Add recipe for 1.1.0](https://github.com/symfony/recipes/pull/1564) on [symfony/recipes](https://github.com/symfony/recipes) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Docs] Add the backward compatibility promise and drop the experimental notice](https://github.com/symfony/reprise/pull/94) on [symfony/reprise](https://github.com/symfony/reprise) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Docs] Name every Encore API method in the migration guide](https://github.com/symfony/reprise/pull/93) on [symfony/reprise](https://github.com/symfony/reprise) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Assets] Bump jsdom to 30](https://github.com/symfony/reprise/pull/92) on [symfony/reprise](https://github.com/symfony/reprise) (1 week ago)
