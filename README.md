@@ -2,12 +2,18 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [[UXImage] Add recipe](https://github.com/symfony/recipes/pull/1571) on [symfony/recipes](https://github.com/symfony/recipes) (1 day ago)
-- ![](./assets/pr-open.svg) [[Image] Add the UX Image package and its Glide, Cloudflare and KeyCDN bridges](https://github.com/symfony/ux/pull/3838) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
-- ![](./assets/pr-merged.svg) [[Toolkit] Refactor alert message for clarity and structure](https://github.com/symfony/ux.symfony.com/pull/183) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (5 days ago)
-- ![](./assets/pr-merged.svg) [[Stimulus] Detect the lazy marker anywhere in a controller file](https://github.com/symfony/reprise/pull/100) on [symfony/reprise](https://github.com/symfony/reprise) (6 days ago)
-- ![](./assets/pr-merged.svg) [[TwigComponent] Treat a prop explicitly passed as `null` as defined](https://github.com/symfony/ux/pull/3827) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
-- ![](./assets/pr-merged.svg) [feat(recipes): nouveau bounded context Recipes](https://github.com/Kocal/hugo.alliau.me/pull/101) on [Kocal/hugo.alliau.me](https://github.com/Kocal/hugo.alliau.me) (6 days ago)
+- ![](./assets/pr-open.svg) [Replace AssetMapper, Tailwind bundle and Biome bundle with Reprise](https://github.com/bakslashHQ/baksla.sh/pull/176) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (1 day ago)
+- ![](./assets/pr-merged.svg) [[CI] Add void return type to PHPUnit test methods](https://github.com/symfony/ux/pull/3839) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
+- ![](./assets/pr-open.svg) [[Encore] Add a guide on using environment variables](https://github.com/symfony/symfony-docs/pull/22940) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
+- ![](./assets/pr-merged.svg) [Fix broken pnpm lockfile](https://github.com/symfony/webpack-encore/pull/1542) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 day ago)
+- ![](./assets/pr-merged.svg) [[Dependabot] Stop version updates on test apps](https://github.com/symfony/webpack-encore/pull/1540) on [symfony/webpack-encore](https://github.com/symfony/webpack-encore) (1 day ago)
+- ![](./assets/pr-merged.svg) [fix(recipes): permettre le réordonnancement des ingrédients à travers les frontières d&#39;étapes](https://github.com/Kocal/hugo.alliau.me/pull/102) on [Kocal/hugo.alliau.me](https://github.com/Kocal/hugo.alliau.me) (1 day ago)
+- ![](./assets/pr-open.svg) [[UXImage] Add recipe](https://github.com/symfony/recipes/pull/1571) on [symfony/recipes](https://github.com/symfony/recipes) (2 days ago)
+- ![](./assets/pr-open.svg) [[Image] Add the UX Image package and its Glide, Cloudflare and KeyCDN bridges](https://github.com/symfony/ux/pull/3838) on [symfony/ux](https://github.com/symfony/ux) (3 days ago)
+- ![](./assets/pr-merged.svg) [[Toolkit] Refactor alert message for clarity and structure](https://github.com/symfony/ux.symfony.com/pull/183) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (6 days ago)
+- ![](./assets/pr-merged.svg) [[Stimulus] Detect the lazy marker anywhere in a controller file](https://github.com/symfony/reprise/pull/100) on [symfony/reprise](https://github.com/symfony/reprise) (1 week ago)
+- ![](./assets/pr-merged.svg) [[TwigComponent] Treat a prop explicitly passed as `null` as defined](https://github.com/symfony/ux/pull/3827) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
+- ![](./assets/pr-merged.svg) [feat(recipes): nouveau bounded context Recipes](https://github.com/Kocal/hugo.alliau.me/pull/101) on [Kocal/hugo.alliau.me](https://github.com/Kocal/hugo.alliau.me) (1 week ago)
 - ![](./assets/pr-merged.svg) [[CalendarLink] Make `IcsBuilder` internal](https://github.com/symfony/ux/pull/3826) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [feat: multilingual public site (English default, French under /fr)](https://github.com/Kocal/hugo.alliau.me/pull/100) on [Kocal/hugo.alliau.me](https://github.com/Kocal/hugo.alliau.me) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Reprise] Add recipe for 1.1.0](https://github.com/symfony/recipes/pull/1564) on [symfony/recipes](https://github.com/symfony/recipes) (1 week ago)
@@ -16,12 +22,6 @@
 - ![](./assets/pr-merged.svg) [[Assets] Bump jsdom to 30](https://github.com/symfony/reprise/pull/92) on [symfony/reprise](https://github.com/symfony/reprise) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Assets] Bump TypeScript to 7](https://github.com/symfony/reprise/pull/91) on [symfony/reprise](https://github.com/symfony/reprise) (1 week ago)
 - ![](./assets/pr-open.svg) [[Icons][Map] Render attributes through twig/html-extra&#39;s html_attr() logic](https://github.com/symfony/ux/pull/3821) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
-- ![](./assets/pr-open.svg) [[TwigComponent] Render component attributes through twig/html-extra&#39;s `html_attr()`](https://github.com/symfony/ux/pull/3820) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
-- ![](./assets/pr-merged.svg) [Extract `htmlAttrValue()` from `html_attr` for standalone attribute rendering](https://github.com/twigphp/Twig/pull/4895) on [twigphp/Twig](https://github.com/twigphp/Twig) (1 week ago)
-- ![](./assets/pr-merged.svg) [[CalendarLink] Anchor timed events to their time zone with TZID and VTIMEZONE](https://github.com/symfony/ux/pull/3818) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
-- ![](./assets/pr-merged.svg) [[CalendarLink] Derive a stable ICS UID from the event content](https://github.com/symfony/ux/pull/3817) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
-- ![](./assets/pr-merged.svg) [[CalendarLink] Make `DTSTAMP` deterministic via the Clock component](https://github.com/symfony/ux/pull/3816) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
-- ![](./assets/pr-closed.svg) [[CalendarLink] Alias `IcsBuilder` so it can be autowired and decorated](https://github.com/symfony/ux/pull/3815) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 
 #### 📜 My recent blog posts (https://hugo.alliau.me/blog)
 
