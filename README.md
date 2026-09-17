@@ -2,8 +2,9 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [Upgrade tsdown to ^0.23](https://github.com/symfony/reprise/pull/120) on [symfony/reprise](https://github.com/symfony/reprise) (5 days ago)
-- ![](./assets/pr-merged.svg) [Upgrade Vitest to ^5.0](https://github.com/symfony/reprise/pull/119) on [symfony/reprise](https://github.com/symfony/reprise) (5 days ago)
+- ![](./assets/pr-open.svg) [[Toolkit][Shadcn] Fix the rich colors of Sonner recipe](https://github.com/symfony/ux/pull/3878) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
+- ![](./assets/pr-merged.svg) [Upgrade tsdown to ^0.23](https://github.com/symfony/reprise/pull/120) on [symfony/reprise](https://github.com/symfony/reprise) (6 days ago)
+- ![](./assets/pr-merged.svg) [Upgrade Vitest to ^5.0](https://github.com/symfony/reprise/pull/119) on [symfony/reprise](https://github.com/symfony/reprise) (6 days ago)
 - ![](./assets/pr-merged.svg) [[Toolkit] Restore the &#34;available since&#34; note on recipe install steps](https://github.com/symfony/ux/pull/3860) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[LiveComponent] Remove the orphan `Symfony PropertyInfo` link definition](https://github.com/symfony/ux/pull/3859) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-open.svg) [[Autocomplete] Add a max_options option to control how many options the dropdown displays](https://github.com/symfony/ux/pull/3858) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-merged.svg) [[StimulusBundle] Document loading different controllers per part of an app](https://github.com/symfony/ux/pull/3844) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Dropzone] Fix the drop zone appearing empty when the same file is dropped again](https://github.com/symfony/ux/pull/3843) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Toolkit][Flowbite] Rename the modal Stimulus controller to avoid a collision with Flowbite](https://github.com/symfony/ux/pull/3842) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
-- ![](./assets/pr-merged.svg) [[TwigComponent] Apply review remarks from #3692](https://github.com/symfony/ux/pull/3841) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 
 #### 📜 My recent blog posts (https://hugo.alliau.me/blog)
 
