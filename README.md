@@ -2,12 +2,17 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [[Toolkit][Shadcn] Fix the rich colors of Sonner recipe](https://github.com/symfony/ux/pull/3878) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
-- ![](./assets/pr-merged.svg) [Upgrade tsdown to ^0.23](https://github.com/symfony/reprise/pull/120) on [symfony/reprise](https://github.com/symfony/reprise) (6 days ago)
-- ![](./assets/pr-merged.svg) [Upgrade Vitest to ^5.0](https://github.com/symfony/reprise/pull/119) on [symfony/reprise](https://github.com/symfony/reprise) (6 days ago)
+- ![](./assets/pr-merged.svg) [[Toolkit] Serialize test snapshots with Dom\HTMLDocument](https://github.com/symfony/ux/pull/3886) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
+- ![](./assets/pr-open.svg) [Add embla-carousel &amp; embla-carousel-autoplay importmap dependencies](https://github.com/symfony/ux.symfony.com/pull/190) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (1 day ago)
+- ![](./assets/pr-merged.svg) [[Toolkit][Shadcn] Add carousel recipe](https://github.com/symfony/ux/pull/3884) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
+- ![](./assets/pr-merged.svg) [Fix duplicate `rel` in the `Link` HTTP header](https://github.com/symfony/webpack-encore-bundle/pull/269) on [symfony/webpack-encore-bundle](https://github.com/symfony/webpack-encore-bundle) (1 day ago)
+- ![](./assets/pr-merged.svg) [[Autocomplete][Chartjs][Cropperjs][Dropzone][LiveComponent][Map][Notify][React][StimulusBundle][Turbo][Vue] Update TypeScript&#39;s `target` to `es2022`](https://github.com/symfony/ux/pull/3882) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
+- ![](./assets/pr-merged.svg) [[Toolkit][Shadcn] Fix the rich colors of Sonner recipe](https://github.com/symfony/ux/pull/3878) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
+- ![](./assets/pr-merged.svg) [Upgrade tsdown to ^0.23](https://github.com/symfony/reprise/pull/120) on [symfony/reprise](https://github.com/symfony/reprise) (1 week ago)
+- ![](./assets/pr-merged.svg) [Upgrade Vitest to ^5.0](https://github.com/symfony/reprise/pull/119) on [symfony/reprise](https://github.com/symfony/reprise) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Toolkit] Restore the &#34;available since&#34; note on recipe install steps](https://github.com/symfony/ux/pull/3860) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[LiveComponent] Remove the orphan `Symfony PropertyInfo` link definition](https://github.com/symfony/ux/pull/3859) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
-- ![](./assets/pr-open.svg) [[Autocomplete] Add a max_options option to control how many options the dropdown displays](https://github.com/symfony/ux/pull/3858) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
+- ![](./assets/pr-merged.svg) [[Autocomplete] Add a max_options option to control how many options the dropdown displays](https://github.com/symfony/ux/pull/3858) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [Add a manual workflow to refresh the open source stats](https://github.com/bakslashHQ/baksla.sh/pull/179) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (1 week ago)
 - ![](./assets/pr-merged.svg) [Remove useless pnpm-workspace.yaml and fix deployment](https://github.com/bakslashHQ/baksla.sh/pull/178) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (1 week ago)
 - ![](./assets/pr-merged.svg) [Isolate the pnpm install from an outer workspace](https://github.com/playwright-php/playwright/pull/167) on [playwright-php/playwright](https://github.com/playwright-php/playwright) (1 week ago)
@@ -17,11 +22,6 @@
 - ![](./assets/pr-merged.svg) [[Icons] Move the Accessibility section under Rendering Icons](https://github.com/symfony/ux/pull/3848) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Turbo] Fix broadcasting an entity whose identifier is made of associations](https://github.com/symfony/ux/pull/3847) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Translator] Cover the parent locale fallback in the dumper tests](https://github.com/symfony/ux/pull/3846) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
-- ![](./assets/pr-merged.svg) [Ignore the generated config/schema.json, and check .gitattributes stay in sync](https://github.com/symfony/ux/pull/3845) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
-- ![](./assets/pr-merged.svg) [[Doc] Document the Stimulus application returned by startStimulusApp() and loadControllers()](https://github.com/symfony/reprise/pull/110) on [symfony/reprise](https://github.com/symfony/reprise) (1 week ago)
-- ![](./assets/pr-merged.svg) [[StimulusBundle] Document loading different controllers per part of an app](https://github.com/symfony/ux/pull/3844) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
-- ![](./assets/pr-merged.svg) [[Dropzone] Fix the drop zone appearing empty when the same file is dropped again](https://github.com/symfony/ux/pull/3843) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
-- ![](./assets/pr-merged.svg) [[Toolkit][Flowbite] Rename the modal Stimulus controller to avoid a collision with Flowbite](https://github.com/symfony/ux/pull/3842) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 
 #### 📜 My recent blog posts (https://hugo.alliau.me/blog)
 
