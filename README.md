@@ -2,14 +2,17 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [[Toolkit] Fix left sidebar not being sticky on kit pages](https://github.com/symfony/ux.symfony.com/pull/191) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (1 day ago)
-- ![](./assets/pr-merged.svg) [[Toolkit][Shadcn] Document accessibility, fix `&lt;dialog&gt;`-based recipies accessibility, and improve right-to-left layouts](https://github.com/symfony/ux/pull/3887) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
-- ![](./assets/pr-merged.svg) [[Toolkit] Serialize test snapshots with Dom\HTMLDocument](https://github.com/symfony/ux/pull/3886) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
-- ![](./assets/pr-merged.svg) [Add embla-carousel &amp; embla-carousel-autoplay importmap dependencies](https://github.com/symfony/ux.symfony.com/pull/190) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (2 days ago)
-- ![](./assets/pr-merged.svg) [[Toolkit][Shadcn] Add carousel recipe](https://github.com/symfony/ux/pull/3884) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
-- ![](./assets/pr-merged.svg) [Fix duplicate `rel` in the `Link` HTTP header](https://github.com/symfony/webpack-encore-bundle/pull/269) on [symfony/webpack-encore-bundle](https://github.com/symfony/webpack-encore-bundle) (2 days ago)
-- ![](./assets/pr-merged.svg) [[Autocomplete][Chartjs][Cropperjs][Dropzone][LiveComponent][Map][Notify][React][StimulusBundle][Turbo][Vue] Update TypeScript&#39;s `target` to `es2022`](https://github.com/symfony/ux/pull/3882) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
-- ![](./assets/pr-merged.svg) [[Toolkit][Shadcn] Fix the rich colors of Sonner recipe](https://github.com/symfony/ux/pull/3878) on [symfony/ux](https://github.com/symfony/ux) (3 days ago)
+- ![](./assets/pr-merged.svg) [[Map] Add missing support for Symfony 8.2&#39;s standalone AssetMapperBundle](https://github.com/symfony/ux/pull/3892) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
+- ![](./assets/pr-merged.svg) [[Pagination] Add missing support for Symfony 8.2&#39;s standalone AssetMapperBundle](https://github.com/symfony/ux/pull/3891) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
+- ![](./assets/pr-merged.svg) [[Toolkit][Shadcn] Drop the dead height option from recipe previews](https://github.com/symfony/ux/pull/3890) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
+- ![](./assets/pr-merged.svg) [[Toolkit] Fix left sidebar not being sticky on kit pages](https://github.com/symfony/ux.symfony.com/pull/191) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (2 days ago)
+- ![](./assets/pr-merged.svg) [[Toolkit][Shadcn] Document accessibility, fix `&lt;dialog&gt;`-based recipies accessibility, and improve right-to-left layouts](https://github.com/symfony/ux/pull/3887) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
+- ![](./assets/pr-merged.svg) [[Toolkit] Serialize test snapshots with Dom\HTMLDocument](https://github.com/symfony/ux/pull/3886) on [symfony/ux](https://github.com/symfony/ux) (3 days ago)
+- ![](./assets/pr-merged.svg) [Add embla-carousel &amp; embla-carousel-autoplay importmap dependencies](https://github.com/symfony/ux.symfony.com/pull/190) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (3 days ago)
+- ![](./assets/pr-merged.svg) [[Toolkit][Shadcn] Add carousel recipe](https://github.com/symfony/ux/pull/3884) on [symfony/ux](https://github.com/symfony/ux) (3 days ago)
+- ![](./assets/pr-merged.svg) [Fix duplicate `rel` in the `Link` HTTP header](https://github.com/symfony/webpack-encore-bundle/pull/269) on [symfony/webpack-encore-bundle](https://github.com/symfony/webpack-encore-bundle) (3 days ago)
+- ![](./assets/pr-merged.svg) [[Autocomplete][Chartjs][Cropperjs][Dropzone][LiveComponent][Map][Notify][React][StimulusBundle][Turbo][Vue] Update TypeScript&#39;s `target` to `es2022`](https://github.com/symfony/ux/pull/3882) on [symfony/ux](https://github.com/symfony/ux) (3 days ago)
+- ![](./assets/pr-merged.svg) [[Toolkit][Shadcn] Fix the rich colors of Sonner recipe](https://github.com/symfony/ux/pull/3878) on [symfony/ux](https://github.com/symfony/ux) (4 days ago)
 - ![](./assets/pr-merged.svg) [Upgrade tsdown to ^0.23](https://github.com/symfony/reprise/pull/120) on [symfony/reprise](https://github.com/symfony/reprise) (1 week ago)
 - ![](./assets/pr-merged.svg) [Upgrade Vitest to ^5.0](https://github.com/symfony/reprise/pull/119) on [symfony/reprise](https://github.com/symfony/reprise) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Toolkit] Restore the &#34;available since&#34; note on recipe install steps](https://github.com/symfony/ux/pull/3860) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
@@ -19,9 +22,6 @@
 - ![](./assets/pr-merged.svg) [Remove useless pnpm-workspace.yaml and fix deployment](https://github.com/bakslashHQ/baksla.sh/pull/178) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (1 week ago)
 - ![](./assets/pr-merged.svg) [Isolate the pnpm install from an outer workspace](https://github.com/playwright-php/playwright/pull/167) on [playwright-php/playwright](https://github.com/playwright-php/playwright) (1 week ago)
 - ![](./assets/pr-merged.svg) [Replace minify-bundle fork with official 1.3.0 release](https://github.com/bakslashHQ/baksla.sh/pull/177) on [bakslashHQ/baksla.sh](https://github.com/bakslashHQ/baksla.sh) (1 week ago)
-- ![](./assets/pr-merged.svg) [[StimulusBundle] Bound the test kernel cache directory and drop dead phpunit env vars](https://github.com/symfony/ux/pull/3850) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
-- ![](./assets/pr-merged.svg) [[StimulusBundle] Make StimulusHelper autowirable and document PHP usage](https://github.com/symfony/ux/pull/3849) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
-- ![](./assets/pr-merged.svg) [[Icons] Move the Accessibility section under Rendering Icons](https://github.com/symfony/ux/pull/3848) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 
 #### 📜 My recent blog posts (https://hugo.alliau.me/blog)
 
