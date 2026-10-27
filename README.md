@@ -2,13 +2,14 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [[Router][Translator] Don&#39;t fail console commands when the database is down](https://github.com/symfony/ux/pull/4141) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
-- ![](./assets/pr-open.svg) [[Toolkit] Warn about copy-files destinations that skip the installation placeholders](https://github.com/symfony/ux/pull/4140) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
-- ![](./assets/pr-merged.svg) [[CI] Pull the Toolkit browser server image in the background](https://github.com/symfony/ux/pull/4139) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
-- ![](./assets/pr-merged.svg) [Update UX dependencies](https://github.com/symfony/ux.symfony.com/pull/233) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (2 days ago)
-- ![](./assets/pr-merged.svg) [[Toolkit] Make the installation directories of recipes configurable](https://github.com/symfony/ux/pull/4135) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
-- ![](./assets/pr-merged.svg) [[Toolkit] Run the browser tests app in prod with compiled assets](https://github.com/symfony/ux/pull/4133) on [symfony/ux](https://github.com/symfony/ux) (3 days ago)
-- ![](./assets/pr-open.svg) [[TwigComponent] Rewrite the pre-lexer around a single scanner](https://github.com/symfony/ux/pull/4130) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
+- ![](./assets/pr-merged.svg) [[TogglePassword] Link to the Toolkit Password Visibility recipe](https://github.com/symfony/ux/pull/4147) on [symfony/ux](https://github.com/symfony/ux) (1 day ago)
+- ![](./assets/pr-open.svg) [[Router][Translator] Don&#39;t fail console commands when the database is down](https://github.com/symfony/ux/pull/4141) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
+- ![](./assets/pr-merged.svg) [[Toolkit] Warn about copy-files destinations that skip the installation placeholders](https://github.com/symfony/ux/pull/4140) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
+- ![](./assets/pr-merged.svg) [[CI] Pull the Toolkit browser server image in the background](https://github.com/symfony/ux/pull/4139) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
+- ![](./assets/pr-merged.svg) [Update UX dependencies](https://github.com/symfony/ux.symfony.com/pull/233) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (3 days ago)
+- ![](./assets/pr-merged.svg) [[Toolkit] Make the installation directories of recipes configurable](https://github.com/symfony/ux/pull/4135) on [symfony/ux](https://github.com/symfony/ux) (3 days ago)
+- ![](./assets/pr-merged.svg) [[Toolkit] Run the browser tests app in prod with compiled assets](https://github.com/symfony/ux/pull/4133) on [symfony/ux](https://github.com/symfony/ux) (4 days ago)
+- ![](./assets/pr-open.svg) [[TwigComponent] Rewrite the pre-lexer around a single scanner](https://github.com/symfony/ux/pull/4130) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Toolkit] Fix update_toolkit_tests.sh stopping before the screenshots of a block](https://github.com/symfony/ux/pull/4123) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Toolkit][Shadcn] Fix nested and side-by-side sidebars exposing landmarks with the same name](https://github.com/symfony/ux/pull/4122) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Toolkit][Shadcn] Add an as prop to Sidebar:GroupLabel and size nested icons in Sidebar:MenuButton](https://github.com/symfony/ux/pull/4121) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-open.svg) [[UXTranslator] Add recipe for 3.7](https://github.com/symfony/recipes/pull/1602) on [symfony/recipes](https://github.com/symfony/recipes) (1 week ago)
 - ![](./assets/pr-merged.svg) [Generate the packages `.gitignore`, and ignore the `.vitest/` report directory](https://github.com/symfony/ux/pull/4115) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [Update the live components results with the amended #4107, #4046 and …](https://github.com/Kocal/sf-ux-perfs-twig-components/pull/2) on [Kocal/sf-ux-perfs-twig-components](https://github.com/Kocal/sf-ux-perfs-twig-components) (1 week ago)
-- ![](./assets/pr-merged.svg) [Fix the controllers.json loader with webpack 5.112](https://github.com/symfony/stimulus-bridge/pull/123) on [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) (1 week ago)
 
 #### 📜 My recent blog posts (https://hugo.alliau.me/blog)
 
@@ -32,7 +32,7 @@
 - [A Better Architecture for Your Symfony UX Twig Components](https://hugo.alliau.me/blog/posts/a-better-architecture-for-your-symfony-ux-twig-components) (2 years ago)
 - [Une meilleure architecture pour vos Twig Components de Symfony UX](https://hugo.alliau.me/blog/posts/une-meilleure-architecture-pour-vous-twig-components-de-symfony-ux) (2 years ago)
 - [Empowering Self-Hosting: A Journey from PaaS to Coolify for Symfony Projects](https://hugo.alliau.me/blog/posts/empowering-self-hosting-a-journey-from-paas-to-coolify-for-symfony-projects) (2 years ago)
-- [Listen to Doctrine Events on Entities Using a PHP Attribute](https://hugo.alliau.me/blog/posts/2023-11-12-listen-to-doctrine-events-on-entities-using-a-php-attribute) (2 years ago)
+- [Listen to Doctrine Events on Entities Using a PHP Attribute](https://hugo.alliau.me/blog/posts/2023-11-12-listen-to-doctrine-events-on-entities-using-a-php-attribute) (3 years ago)
 
 #### 📫 How to reach me
 
