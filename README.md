@@ -2,17 +2,18 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [[CI] Run the tests of the bridges once their package is done](https://github.com/symfony/ux/pull/4157) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
-- ![](./assets/pr-merged.svg) [[Pkg] Move the tooling devDependencies of the packages to the root package.json](https://github.com/symfony/ux/pull/4156) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
-- ![](./assets/pr-merged.svg) [[CI] Run only the tests of the packages a pull request affects](https://github.com/symfony/ux/pull/4155) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
-- ![](./assets/pr-merged.svg) [[LiveComponent] Migrate the unit tests to user-event 14](https://github.com/symfony/ux/pull/4154) on [symfony/ux](https://github.com/symfony/ux) (2 days ago)
-- ![](./assets/pr-merged.svg) [[TogglePassword] Link to the Toolkit Password Visibility recipe](https://github.com/symfony/ux/pull/4147) on [symfony/ux](https://github.com/symfony/ux) (3 days ago)
-- ![](./assets/pr-open.svg) [[Router][Translator] Don&#39;t load the routes and translations when the container is built](https://github.com/symfony/ux/pull/4141) on [symfony/ux](https://github.com/symfony/ux) (4 days ago)
-- ![](./assets/pr-merged.svg) [[Toolkit] Warn about copy-files destinations that skip the installation placeholders](https://github.com/symfony/ux/pull/4140) on [symfony/ux](https://github.com/symfony/ux) (4 days ago)
-- ![](./assets/pr-merged.svg) [[CI] Pull the Toolkit browser server image in the background](https://github.com/symfony/ux/pull/4139) on [symfony/ux](https://github.com/symfony/ux) (4 days ago)
-- ![](./assets/pr-merged.svg) [Update UX dependencies](https://github.com/symfony/ux.symfony.com/pull/233) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (5 days ago)
-- ![](./assets/pr-merged.svg) [[Toolkit] Make the installation directories of recipes configurable](https://github.com/symfony/ux/pull/4135) on [symfony/ux](https://github.com/symfony/ux) (5 days ago)
-- ![](./assets/pr-merged.svg) [[Toolkit] Run the browser tests app in prod with compiled assets](https://github.com/symfony/ux/pull/4133) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
+- ![](./assets/pr-open.svg) [Add a generate:create-project-matrix command](https://github.com/symfony-tools/recipes-checker/pull/28) on [symfony-tools/recipes-checker](https://github.com/symfony-tools/recipes-checker) (1 day ago)
+- ![](./assets/pr-merged.svg) [[CI] Run the tests of the bridges once their package is done](https://github.com/symfony/ux/pull/4157) on [symfony/ux](https://github.com/symfony/ux) (3 days ago)
+- ![](./assets/pr-merged.svg) [[Pkg] Move the tooling devDependencies of the packages to the root package.json](https://github.com/symfony/ux/pull/4156) on [symfony/ux](https://github.com/symfony/ux) (3 days ago)
+- ![](./assets/pr-merged.svg) [[CI] Run only the tests of the packages a pull request affects](https://github.com/symfony/ux/pull/4155) on [symfony/ux](https://github.com/symfony/ux) (3 days ago)
+- ![](./assets/pr-merged.svg) [[LiveComponent] Migrate the unit tests to user-event 14](https://github.com/symfony/ux/pull/4154) on [symfony/ux](https://github.com/symfony/ux) (3 days ago)
+- ![](./assets/pr-merged.svg) [[TogglePassword] Link to the Toolkit Password Visibility recipe](https://github.com/symfony/ux/pull/4147) on [symfony/ux](https://github.com/symfony/ux) (4 days ago)
+- ![](./assets/pr-merged.svg) [[Router][Translator] Don&#39;t load the routes and translations when the container is built](https://github.com/symfony/ux/pull/4141) on [symfony/ux](https://github.com/symfony/ux) (5 days ago)
+- ![](./assets/pr-merged.svg) [[Toolkit] Warn about copy-files destinations that skip the installation placeholders](https://github.com/symfony/ux/pull/4140) on [symfony/ux](https://github.com/symfony/ux) (5 days ago)
+- ![](./assets/pr-merged.svg) [[CI] Pull the Toolkit browser server image in the background](https://github.com/symfony/ux/pull/4139) on [symfony/ux](https://github.com/symfony/ux) (5 days ago)
+- ![](./assets/pr-merged.svg) [Update UX dependencies](https://github.com/symfony/ux.symfony.com/pull/233) on [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) (6 days ago)
+- ![](./assets/pr-merged.svg) [[Toolkit] Make the installation directories of recipes configurable](https://github.com/symfony/ux/pull/4135) on [symfony/ux](https://github.com/symfony/ux) (6 days ago)
+- ![](./assets/pr-merged.svg) [[Toolkit] Run the browser tests app in prod with compiled assets](https://github.com/symfony/ux/pull/4133) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-open.svg) [[TwigComponent] Rewrite the pre-lexer around a single scanner](https://github.com/symfony/ux/pull/4130) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Toolkit] Fix update_toolkit_tests.sh stopping before the screenshots of a block](https://github.com/symfony/ux/pull/4123) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Toolkit][Shadcn] Fix nested and side-by-side sidebars exposing landmarks with the same name](https://github.com/symfony/ux/pull/4122) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-merged.svg) [[Toolkit][Shadcn] Fix dropdown-menu ignoring align on the left and right sides](https://github.com/symfony/ux/pull/4119) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Toolkit][Shadcn] Add the missing login, signup and sidebar blocks](https://github.com/symfony/ux/pull/4118) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Toolkit][Shadcn] Make the rich color toasts of Sonner opaque in dark mode](https://github.com/symfony/ux/pull/4117) on [symfony/ux](https://github.com/symfony/ux) (1 week ago)
-- ![](./assets/pr-merged.svg) [docs: add a README with screenshots and a GitHub Actions CI](https://github.com/Kocal/mangatheque/pull/2) on [Kocal/mangatheque](https://github.com/Kocal/mangatheque) (1 week ago)
 
 #### 📜 My recent blog posts (https://hugo.alliau.me/blog)
 
